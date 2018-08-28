@@ -1,30 +1,63 @@
 <meta charset="utf-8">
 <h2> 
-  Ṭuroyo National Corpus Search, version 0.2 
+  Ṭuroyo National Corpus Search, version 0.3 
 </h2>
+
+
 
 <p> 
   <br>
-  <font color='blue' style="font-size:20pt">
-    Type the search pattern, then click Search or press Enter: <br><br> 
-    &nbsp; &nbsp; 
+  <font color='blue' style="font-size:16pt">
+    Type the search pattern, then click Search or press Enter: <br>
+           
   </font>
-  <input type="search" id="myInput" style="font-size:20pt" value=""/>
+</p> 
+ 
+ &nbsp;
+   
+  <button onclick="keyb('\\S')" style="font-size:16pt;height:40px;width:40px">\S</button>
+  <button onclick="keyb('ʕ')" style="font-size:16pt;height:40px;width:40px">ʕ</button>
+  <button onclick="keyb('ʔ')" style="font-size:16pt;height:40px;width:40px">ʔ</button>
+  <button onclick="keyb('ḏ')" style="font-size:16pt;height:40px;width:40px">ḏ</button>
+  <button onclick="keyb('ḏ̣')" style="font-size:16pt;height:40px;width:40px">ḏ̣</button>
+  <button onclick="keyb('ə')" style="font-size:16pt;height:40px;width:40px">ə</button>
+  <button onclick="keyb('ġ')" style="font-size:16pt;height:40px;width:40px">ġ</button>
+  <button onclick="keyb('ḥ')" style="font-size:16pt;height:40px;width:40px">ḥ</button>
+  <button onclick="keyb('ḫ')" style="font-size:16pt;height:40px;width:40px">ḫ</button>
+  <button onclick="keyb('ṣ')" style="font-size:16pt;height:40px;width:40px">ṣ</button>
+  <button onclick="keyb('š')" style="font-size:16pt;height:40px;width:40px">š</button>
+  <button onclick="keyb('ṭ')" style="font-size:16pt;height:40px;width:40px">ṭ</button>
+  <button onclick="keyb('ṯ')" style="font-size:16pt;height:40px;width:40px">ṯ</button>
+  
+  <br><br> &nbsp; &nbsp;    
+  
+  <input type="search" id="myInput" style="font-size:20pt;height:35pt" value=""/>
   <button id="myBtn" 
      style="font-size:20pt" 
      onclick="search()">
        Search
   </button>
-</p> 
+
+   <br>
+ 
+  
 <p> &nbsp; </p>
 
 <p id="output"><p>
 
-<script>
+   
+  
 
+
+<script>
+const keyboard = true;
 const blue = ["<font color='blue'>","</font>"];
 const purple = ["<font color='purple'>","</font>"];
 const redbold = ["<b><font color='red'>","</font></b>"];
+
+if (!keyboard){
+  document.getElementById("keyboard").innerHTML = "";
+}
 
 let corpus = corpInit();
 let files = [];
@@ -36,7 +69,6 @@ for (let i = 1; i < corpfiles.length; i++) {
    files.push({title, lines});
 }
 
-// INPUT START
 let input = document.getElementById("myInput");
 input.focus();
 input.addEventListener("keyup", 
@@ -47,11 +79,14 @@ input.addEventListener("keyup",
     }
   }
 );
-// INPUT FINISH
 
 function search(){
   let reg = input.value;
+  if (reg.length == 0){
+    document.getElementById("output").innerHTML = '';
+  }
   main(reg);
+  
 }
 
 function main(reg){
@@ -72,6 +107,18 @@ function main(reg){
   document.getElementById("output").innerHTML = 
     output.join("<br>");
 }
+
+function keyb(a){
+  idx = input.selectionStart;
+  idy = input.selectionEnd;
+  let x = input.value;
+  input.value = 
+    x.slice(0, idx) + a + x.slice(idy, x.length); 
+  input.focus();
+  input.selectionStart = idx + a.length;
+  input.selectionEnd = idx + a.length;
+}
+
 
 function corpInit() {
   let corp = ` 
