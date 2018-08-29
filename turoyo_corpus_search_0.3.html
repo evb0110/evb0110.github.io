@@ -15,6 +15,40 @@
  
  &nbsp;
    
+<button onclick="keyb('a')" style="font-size:10pt;height:27px;width:22px">a</button>
+  <button onclick="keyb('b')" style="font-size:10pt;height:27px;width:22px">b</button>
+  <button onclick="keyb('c')" style="font-size:10pt;height:27px;width:22px">c</button>
+  <button onclick="keyb('d')" style="font-size:10pt;height:27px;width:22px">d</button>
+  <button onclick="keyb('e')" style="font-size:10pt;height:27px;width:22px">e</button>
+  <button onclick="keyb('f')" style="font-size:10pt;height:27px;width:22px">f</button>
+  <button onclick="keyb('g')" style="font-size:10pt;height:27px;width:22px">g</button>
+  <button onclick="keyb('h')" style="font-size:10pt;height:27px;width:22px">h</button>
+  <button onclick="keyb('i')" style="font-size:10pt;height:27px;width:22px">i</button>
+  <button onclick="keyb('j')" style="font-size:10pt;height:27px;width:22px">j</button>
+  <button onclick="keyb('k')" style="font-size:10pt;height:27px;width:22px">k</button>
+  <button onclick="keyb('l')" style="font-size:10pt;height:27px;width:22px">l</button>
+  <button onclick="keyb('m')" style="font-size:10pt;height:27px;width:22px">m</button>
+  <button onclick="keyb('n')" style="font-size:10pt;height:27px;width:22px">n</button>
+  <button onclick="keyb('o')" style="font-size:10pt;height:27px;width:22px">o</button>
+  <button onclick="keyb('p')" style="font-size:10pt;height:27px;width:22px">p</button>
+  <button onclick="keyb('q')" style="font-size:10pt;height:27px;width:22px">q</button>
+  <button onclick="keyb('r')" style="font-size:10pt;height:27px;width:22px">r</button>
+  <button onclick="keyb('s')" style="font-size:10pt;height:27px;width:22px">s</button>
+  <button onclick="keyb('t')" style="font-size:10pt;height:27px;width:22px">t</button>
+  <button onclick="keyb('u')" style="font-size:10pt;height:27px;width:22px">u</button>
+  <button onclick="keyb('v')" style="font-size:10pt;height:27px;width:22px">v</button>
+  <button onclick="keyb('w')" style="font-size:10pt;height:27px;width:22px">w</button>
+  <button onclick="keyb('x')" style="font-size:10pt;height:27px;width:22px">x</button>
+  <button onclick="keyb('y')" style="font-size:10pt;height:27px;width:22px">y</button>
+  <button onclick="keyb('z')" style="font-size:10pt;height:27px;width:22px">z</button>
+  <button onclick="keyb('del')" style="font-size:10pt;height:27px;width:40px">Del</button>
+  <button onclick="keyb('⌫')" style="font-size:10pt;height:27px;width:35px">⌫</button>
+ 
+  <div style="line-height:40%;">
+    <br>
+  </div>&nbsp;
+  
+
   <button onclick="keyb('\\S')" style="font-size:16pt;height:40px;width:40px">\S</button>
   <button onclick="keyb('ʕ')" style="font-size:16pt;height:40px;width:40px">ʕ</button>
   <button onclick="keyb('ʔ')" style="font-size:16pt;height:40px;width:40px">ʔ</button>
@@ -89,7 +123,7 @@ function search(){
     document.getElementById("output").innerHTML = '';
   }
   main(reg);
-  
+  input.focus();
 }
 
 function main(reg){
@@ -115,6 +149,18 @@ function keyb(a){
   idx = input.selectionStart;
   idy = input.selectionEnd;
   let x = input.value;
+  if (a == "⌫"){
+    if ((idx > 0) && (idx == idy)) {
+      idx--;
+    }
+    a = "";
+  }
+  if (a == "del"){
+    if ((idx < x.length) && (idx == idy)) {
+      idy++;
+    }
+    a = "";
+  }
   input.value = 
     x.slice(0, idx) + a + x.slice(idy, x.length); 
   input.focus();
