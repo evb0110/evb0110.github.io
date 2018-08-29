@@ -84,7 +84,12 @@
   <button onclick="keyb('ṭ')" style="font-size:16pt;height:40px;width:40px">ṭ</button>
   <button onclick="keyb('ṯ')" style="font-size:16pt;height:40px;width:40px">ṯ</button>
   <button onclick="keyb('ž')" style="font-size:16pt;height:40px;width:40px">ž</button>
-  <br><br> &nbsp; &nbsp;    
+  <br><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+
+<b>Case-insensitive:</b> <input type="checkbox" id="insens"  onclick="caseInsensitive()">
+  <br> &nbsp; &nbsp;
+  
+  
   
   <input 
      type="search" 
@@ -139,6 +144,9 @@ if (!keyboard){
   document.getElementById("keyboard").innerHTML = '';
 }
 
+let insens = ""; 
+
+
 let dictLinesAll = dictInit();
 let dict = "ritter";
 
@@ -169,7 +177,7 @@ function main(reg){
   let dictLines = dictLinesAll[dict];
   let output = [];
 
-  reg = new RegExp( reg, 'g');
+  reg = new RegExp( reg, 'g'+insens );
 
   for (let i=0; i<dictLines.length; i++) {
     if (reg.test(dictLines[i])) { 
@@ -217,6 +225,15 @@ function keyb(a){
   input.selectionStart = idx + a.length;
   input.selectionEnd = idx + a.length;
 }
+
+function caseInsensitive(){
+  insens = "";
+  let checkBox = document.getElementById("insens");
+  if (checkBox.checked){ insens = "i" }
+  search();
+}
+
+
 
 function dictInit() {
   let dictR = ` 

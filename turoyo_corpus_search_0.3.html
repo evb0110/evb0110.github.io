@@ -88,8 +88,11 @@
   <button onclick="keyb('ṯ')" style="font-size:16pt;height:40px;width:40px">ṯ</button>
   <button onclick="keyb('ž')" style="font-size:16pt;height:40px;width:40px">ž</button>
   
-  <br><br> &nbsp; &nbsp;    
+  <br><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    
   
+<b>Case-insensitive:</b> <input type="checkbox" id="insens"  onclick="caseInsensitive()" checked>
+  <br> &nbsp; &nbsp;    
+
   <input type="search" id="myInput" style="font-size:20pt;height:35pt" value=""/>
   <button id="myBtn" 
     style="font-size:20pt;height:35pt" 
@@ -122,6 +125,8 @@ const redbold = ["<b><font color='red'>","</font></b>"];
 if (!keyboard){
   document.getElementById("keyboard").innerHTML = "";
 }
+
+let insens = "i"; 
 
 let corpus = corpInit();
 let files = [];
@@ -156,7 +161,7 @@ function search(){
 function main(reg){
   let output = [];
 
-  let myReg = new RegExp( reg, 'gi' );
+  let myReg = new RegExp( reg, 'g'+insens );
 
   for (let file of files) {
     for (let line of file.lines) {
@@ -196,6 +201,13 @@ function keyb(a){
   input.focus();
   input.selectionStart = idx + a.length;
   input.selectionEnd = idx + a.length;
+}
+
+function caseInsensitive(){
+  insens = "";
+  let checkBox = document.getElementById("insens");
+  if (checkBox.checked){ insens = "i" }
+  search();
 }
 
 
