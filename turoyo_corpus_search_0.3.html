@@ -151,12 +151,12 @@ input.addEventListener("keyup",
 
 function search(){
   let reg = input.value;
+  input.focus();
   if (reg.length == 0){
     document.getElementById("output").innerHTML = '';
     return;
   }
   main(reg);
-  input.focus();
 }
 
 function main(reg){
