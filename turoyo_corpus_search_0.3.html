@@ -153,6 +153,7 @@ function search(){
   let reg = input.value;
   if (reg.length == 0){
     document.getElementById("output").innerHTML = '';
+    return;
   }
   main(reg);
   input.focus();
