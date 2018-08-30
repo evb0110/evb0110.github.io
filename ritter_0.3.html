@@ -132,6 +132,8 @@
 
 <script>
 const keyboard = true;
+const outputMax = 1000;
+
 const blue = ["<font color='blue'>","</font>"];
 const redbold = ["<b><font color='red'>","</font></b>"];
 const dictName = {
@@ -176,11 +178,20 @@ function search() {
 function main(reg){
   let dictLines = dictLinesAll[dict];
   let output = [];
+  let outputCounter = 0;
 
   reg = new RegExp( reg, 'g'+insens );
 
   for (let i=0; i<dictLines.length; i++) {
     if (reg.test(dictLines[i])) { 
+      outputCounter++;
+      if (outputCounter > outputMax) {
+        output = [];
+        message = "Output too large" + 
+          ", please change the search pattern";
+        output.push(redbold.join(message));
+        break;
+      }
       output.push( dictLines[i]
 	   .replace(reg, redbold.join("$&"))
 	);
