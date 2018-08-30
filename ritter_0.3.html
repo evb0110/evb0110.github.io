@@ -191,7 +191,8 @@ function main(reg){
         output = [];
         message = "Output too large" + 
           ", please change the search pattern";
-        output.push(redbold.join(message));
+        output.push(numColor.join(message));
+        outputCounter = 0;
         break;
       }
       output.push( dictLines[i]
@@ -202,10 +203,12 @@ function main(reg){
   }
   
   
-  let numMessage = 
-     `Number of lines in output: ${outputCounter}`; 
-  numMessage = numColor.join(numMessage);
-  output.unshift(numMessage + "<br>");
+  if (outputCounter > 0) {
+    let numMessage = 
+       `Number of lines in output: ${outputCounter}`; 
+    numMessage = numColor.join(numMessage);
+    output.unshift(numMessage + "<br>");
+  }
 
 
   document.getElementById("output").innerHTML = 

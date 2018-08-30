@@ -118,7 +118,7 @@
 
 <script>
 const keyboard = true;
-const outputMax = 3000;
+const outputMax = 1500;
 
 const blue = ["<font color='blue'>","</font>"];
 const purple = ["<font color='purple'>","</font>"];
@@ -167,7 +167,8 @@ function main(reg){
   let outputCounter = 0;
 
   let myReg = new RegExp( reg, 'g'+insens );
-
+   
+ outer:
   for (let file of files) {
     for (let line of file.lines) {
       if (myReg.test(line)) { 
@@ -177,7 +178,8 @@ function main(reg){
         message = "Output too large" + 
           ", please change the search pattern";
         output.push(redbold.join(message));
-        break;
+        outputCounter = 0;
+        break outer;
       }
 	output.push(purple.join(file.title));
 	output.push(line.replace(myReg, redbold.join("$&")));
@@ -186,10 +188,12 @@ function main(reg){
     }
   }
 
-  let numMessage = 
-     `Number of lines in output: ${outputCounter}`; 
-  numMessage = numColor.join(numMessage);
-  output.unshift(numMessage + "<br>");
+  if (outputCounter > 0) {
+    let numMessage = 
+       `Number of lines in output: ${outputCounter}`; 
+    numMessage = numColor.join(numMessage);
+    output.unshift(numMessage + "<br>");
+  }
 
 
   document.getElementById("output").innerHTML = 
