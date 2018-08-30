@@ -136,6 +136,8 @@ const outputMax = 1000;
 
 const blue = ["<font color='blue'>","</font>"];
 const redbold = ["<b><font color='red'>","</font></b>"];
+const numColor = ["<b><font color='#b30000'>","</font></b>"];
+
 const dictName = {
   ritter: "Ritter-Betzold Ṭuroyo Wörterbuch",
   jastrow: "Jastrow — Ṭuroyo Lehrbuch — Glossar",
@@ -198,6 +200,13 @@ function main(reg){
       output.push("");
     }
   }
+  
+  
+  let numMessage = 
+     `Number of lines in output: ${outputCounter}`; 
+  numMessage = numColor.join(numMessage);
+  output.unshift(numMessage + "<br>");
+
 
   document.getElementById("output").innerHTML = 
     output.join("<br>");

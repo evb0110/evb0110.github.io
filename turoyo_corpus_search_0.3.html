@@ -123,6 +123,7 @@ const outputMax = 3000;
 const blue = ["<font color='blue'>","</font>"];
 const purple = ["<font color='purple'>","</font>"];
 const redbold = ["<b><font color='red'>","</font></b>"];
+const numColor = ["<b><font color='#b30000'>","</font></b>"];
 
 if (!keyboard){
   document.getElementById("keyboard").innerHTML = "";
@@ -184,6 +185,12 @@ function main(reg){
       }
     }
   }
+
+  let numMessage = 
+     `Number of lines in output: ${outputCounter}`; 
+  numMessage = numColor.join(numMessage);
+  output.unshift(numMessage + "<br>");
+
 
   document.getElementById("output").innerHTML = 
     output.join("<br>");
