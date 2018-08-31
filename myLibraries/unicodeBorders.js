@@ -1,4 +1,4 @@
-const border = "(^|(?<=\\p{L})(?=[^\\p{L}])|(?<=[^\\p{L}])(?=\\p{L})|$)";
+const border = "(^|(?<=[\\p{L}\\p{M}])(?=[^\\p{L}\\p{M}])|(?<=[^\\p{L}\\p{M}])(?=[\\p{L}\\p{M}])|$)";
 const letter = "\\p{L}\\p{M}*";
 
 function toUnicode( str ){
