@@ -17,7 +17,7 @@
 </head>
 
 
-<meta charset="utf-8">
+<meta charset="UTF-8">
 <h2 id="dictName" class="header"> 
   Ritter-Betzold Ṭuroyo Wörterbuch
 </h2>
@@ -186,7 +186,7 @@ function main(reg){
   let output = [];
   let outputCounter = 0;
 
-  reg = new RegExp( reg, 'g'+insens );
+  reg = new RegExp( reg, 'gu'+insens );
 
   for (let i=0; i<dictLines.length; i++) {
     if (reg.test(dictLines[i])) { 
