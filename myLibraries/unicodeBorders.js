@@ -1,5 +1,5 @@
 const border = "(^|(?<=\\p{L})(?=[^\\p{L}])|(?<=[^\\p{L}])(?=\\p{L})|$)";
-const letter = "\\p{L}";
+const letter = "\\p{L}\\p{M}*";
 
 function toUnicode( str ){
   str = str.replace( /\\w/g, letter);
