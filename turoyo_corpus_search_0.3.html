@@ -73,7 +73,8 @@
   <button onclick="keyb('*')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">*</button>
   <button onclick="keyb('+')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">+</button>
   <button onclick="keyb('?')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">?</button>
-  <button onclick="keyb('\\S')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\S</button>
+  <button onclick="keyb('\\b')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\b</button>
+  <button onclick="keyb('\\w')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\w</button>
   &nbsp;
   <button onclick="keyb('ʕ')" style="font-size:16pt;height:40px;width:40px">ʕ</button>
   <button onclick="keyb('ʔ')" style="font-size:16pt;height:40px;width:40px">ʔ</button>
@@ -116,6 +117,8 @@
 
    
   
+<script src="myLibraries/unicodeBorders.js">
+</script>
 
 
 <script>
@@ -168,7 +171,8 @@ function main(reg){
   let output = [];
   let outputCounter = 0;
 
-  let myReg = new RegExp( reg, 'g'+insens );
+  reg = toUnicode( reg );
+  let myReg = RegExp( reg, 'gu'+insens );
    
  outer:
   for (let file of files) {

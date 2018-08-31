@@ -71,7 +71,8 @@
   <button onclick="keyb('*')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">*</button>
   <button onclick="keyb('+')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">+</button>
   <button onclick="keyb('?')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">?</button>
-  <button onclick="keyb('\\S')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\S</button>
+  <button onclick="keyb('\\b')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\b</button>
+  <button onclick="keyb('\\w')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\w</button>
   &nbsp;
   <button onclick="keyb('ʕ')" style="font-size:16pt;height:40px;width:40px">ʕ</button>
   <button onclick="keyb('ʔ')" style="font-size:16pt;height:40px;width:40px">ʔ</button>
@@ -134,6 +135,9 @@
 <p id="output"><p>
 
 
+<script src="myLibraries/unicodeBorders.js">
+</script>
+
 <script>
 const keyboard = true;
 const outputMax = 1000;
@@ -186,7 +190,8 @@ function main(reg){
   let output = [];
   let outputCounter = 0;
 
-  reg = new RegExp( reg, 'gu'+insens );
+  reg = toUnicode( reg );
+  reg = RegExp( reg, 'gu'+insens );
 
   for (let i=0; i<dictLines.length; i++) {
     if (reg.test(dictLines[i])) { 
