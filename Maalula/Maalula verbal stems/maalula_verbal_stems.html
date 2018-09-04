@@ -1,0 +1,343 @@
+<head>
+
+<title>input</title>
+
+<style>
+.header {
+    background-color: lightgray;
+    border: none;
+    color: black;
+    padding: 17px 25px;
+    text-align: center;
+    font-size: 36px;
+    width: 1000px;
+}
+</style>
+
+</head>
+
+
+<meta charset="UTF-8">
+
+  &nbsp;
+  &nbsp;
+  <input 
+     type="search" 
+     id="myInput" 
+     style="font-size:20pt;height:35pt"
+     value=""
+  />
+  <button 
+     id="myBtn" 
+     style="font-size:20pt;height:35pt" 
+     onclick="search()"
+  >
+       Search
+  </button>
+
+
+<br><br>  
+<form id="stem">
+<table onchange="chooseStem()" style="font-weight: bold;padding-left: 7%" width="400">
+  <tr> 
+     <td>
+        I
+     </td> 
+     <td>
+  <input type="radio" name="I" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="I" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="I" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        II
+     </td> 
+     <td>
+  <input type="radio" name="II" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="II" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="II" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        III
+     </td> 
+     <td>
+  <input type="radio" name="III" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="III" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="III" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        IV
+     </td> 
+     <td>
+  <input type="radio" name="IV" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="IV" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="IV" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        I(2)
+     </td> 
+     <td>
+  <input type="radio" name="I(2)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="I(2)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="I(2)" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        II(2)
+     </td> 
+     <td>
+  <input type="radio" name="II(2)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="II(2)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="II(2)" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        III(2)
+     </td> 
+     <td>
+  <input type="radio" name="III(2)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="III(2)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="III(2)" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        IV(2)
+     </td> 
+     <td>
+  <input type="radio" name="IV(2)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="IV(2)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="IV(2)" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        I(7)
+     </td> 
+     <td>
+  <input type="radio" name="I(7)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="I(7)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="I(7)" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        I(8)
+     </td> 
+     <td>
+  <input type="radio" name="I(8)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="I(8)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="I(8)" value="no">no
+     </td> 
+  </tr>
+
+  <tr> 
+     <td>
+        I(10)
+     </td> 
+     <td>
+  <input type="radio" name="I(10)" value="any" checked>any
+     </td> 
+     <td>
+  <input type="radio" name="I(10)" value="yes">yes
+     </td> 
+     <td>
+  <input type="radio" name="I(10)" value="no">no
+     </td> 
+  </tr>
+
+</table>
+</form>
+
+
+<button 
+   id="defaults" 
+   style="font-size:10pt;height:22pt" 
+   onclick="stemsDefaults()"
+>
+     Defaults
+</button>
+
+
+
+
+<p id="output"><p>
+
+
+<script src="perf.js"></script>
+<script>
+const blue = ["<font color='blue'>","</font>"];
+const bluebold = ["<b><font color='blue'>","</font></b>"];
+const bold = ["<b>","</b>"];
+const redbold = ["<b><font color='red'>","</font></b>"];
+const numColor = ["<b><font color='#b30000'>","</font></b>"];
+const stems = [
+    "I", 
+    "II", 
+    "III", 
+    "IV", 
+    "I(2)", 
+    "II(2)", 
+    "III(2)", 
+    "IV(2)", 
+    "I(7)", 
+    "I(8)", 
+    "I(10)",
+  ];
+
+let perf = [];
+perf = perfInit();
+
+let insens = ""; 
+
+
+let input = document.getElementById("myInput");
+input.focus();
+input.addEventListener("keyup", 
+  function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) {
+        document.getElementById("myBtn").click();
+    }
+  }
+);
+
+let stem = document.getElementById("stem");
+function chooseStem(){};
+  
+function stemsDefaults(){
+  for (let stemmy of stems){
+    stem.elements[stemmy].value = "any";
+  }
+}
+
+function search() {
+  let regYes = [];
+  let regNo = [];
+  for (let stemmy of stems){
+    stemReady = "^" + stemmy.replace( /\(/, "\\(" ).replace( /\)/, "\\)" ) + " ";
+    switch (stem.elements[stemmy].value){ 
+      case "any": 
+        break;
+      case "yes":
+        regYes.push( stemReady );
+        break;
+      case "no":
+        regNo.push( stemReady );
+        break
+    }
+  }
+  if (input.value){
+    regYes.unshift(input.value);
+  }
+  input.focus();
+  if ((regYes.length == 0) && (regNo.length == 0)){
+    document.getElementById("output").innerHTML = '';
+    return;
+  }
+  main(regYes, regNo);
+}
+
+function main(regYes, regNo){
+  regYes = regYes.map(s => RegExp(s, "gmu"));
+  regNo = regNo.map(s => RegExp(s, "gmu"));
+  let data = perf;
+  let output = [];
+  output = greppyArray( data, regYes, regNo ); 
+  let numberOfLines = output.length;
+  let message = numberOfLines + " verbal roots found";
+  message = numColor.join(numColor.join(message));
+  output.unshift(message);
+  output = output.map(s => s.replace(/^.*\n/mu, bold.join("$&"))); 
+  output = output.map(s => s.replace(/\n/gmu, "<br>")); 
+  document.getElementById("output").innerHTML = output.join("<br><br><br>");
+}
+
+function greppyArray( arr, regYes, regNo ){
+  let output = [];
+  for (let el of arr){
+    let flag = true;
+    for (let reg of regYes){
+      let testy = (el.search(reg) > -1);
+      if (!testy){
+        flag = false;
+        break;
+      }
+    }
+    for (let reg of regNo){
+      let testy = (el.search(reg) > -1);
+      if (testy){
+        flag = false;
+        break;
+      }
+    }
+    if (flag) {
+      for (reg of regYes){
+        el = el.replace(reg, redbold.join("$&"));
+      }
+      output.push(el);
+    }
+
+  }
+  return output;
+}
+
+</script>
