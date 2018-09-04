@@ -966,7 +966,7 @@ I(7) vom Hagel verwüstet werden
 
 brk2
 arab.
-niederknien
+I niederknien
 
 
 brḳ3
