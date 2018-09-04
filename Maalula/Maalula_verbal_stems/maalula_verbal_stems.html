@@ -1,6 +1,6 @@
 <head>
 
-<title>input</title>
+<title>Maalula Verbs</title>
 
 <style>
 .header {
@@ -18,28 +18,42 @@
 
 
 <meta charset="UTF-8">
+<h2 id="dictName" class="header"> 
+  Maalula Verbs: Roots and Stems
+</h2>
 
-  &nbsp;
-  &nbsp;
-  <input 
-     type="search" 
-     id="myInput" 
-     style="font-size:20pt;height:35pt"
-     value=""
-  />
-  <button 
-     id="myBtn" 
-     style="font-size:20pt;height:35pt" 
-     onclick="search()"
-  >
-       Search
-  </button>
+
+&nbsp;
+&nbsp;
+<input 
+   type="search" 
+   id="myInput" 
+   style="font-size:20pt;height:35pt"
+   value=""
+/>
+<button 
+   id="myBtn" 
+   style="font-size:20pt;height:35pt" 
+   onclick="search()"
+>
+     Search
+</button>
+
+&nbsp;&nbsp;&nbsp;
+<button 
+   id="defaults" 
+   style="font-size:20pt;height:35pt" 
+   onclick="clearAll()"
+>
+     Clear All
+</button>
+
 
 
 <br><br>  
 <form id="stem">
-<table onchange="chooseStem()" style="font-weight: bold;padding-left: 7%" width="400">
-  <tr> 
+<table style="font-weight:bold; font-size:18pt; float:center" width="800" border="2" rules="rows">
+  <tr bgcolor="#e0ebeb"> 
      <td>
         I
      </td> 
@@ -69,7 +83,7 @@
      </td> 
   </tr>
 
-  <tr> 
+  <tr bgcolor="#e0ebeb"> 
      <td>
         III
      </td> 
@@ -99,7 +113,7 @@
      </td> 
   </tr>
 
-  <tr> 
+  <tr bgcolor="#e0ebeb"> 
      <td>
         I(2)
      </td> 
@@ -129,7 +143,7 @@
      </td> 
   </tr>
 
-  <tr> 
+  <tr bgcolor="#e0ebeb"> 
      <td>
         III(2)
      </td> 
@@ -159,7 +173,7 @@
      </td> 
   </tr>
 
-  <tr> 
+  <tr bgcolor="#e0ebeb"> 
      <td>
         I(7)
      </td> 
@@ -189,7 +203,7 @@
      </td> 
   </tr>
 
-  <tr> 
+  <tr bgcolor="#e0ebeb"> 
      <td>
         I(10)
      </td> 
@@ -208,18 +222,10 @@
 </form>
 
 
-<button 
-   id="defaults" 
-   style="font-size:10pt;height:22pt" 
-   onclick="stemsDefaults()"
->
-     Defaults
-</button>
 
 
 
-
-<p id="output"><p>
+<p id="output" style="font-size:18pt; padding-left:2%"><p>
 
 
 <script src="perf.js"></script>
@@ -261,12 +267,14 @@ input.addEventListener("keyup",
 );
 
 let stem = document.getElementById("stem");
-function chooseStem(){};
   
-function stemsDefaults(){
+function clearAll(){
   for (let stemmy of stems){
     stem.elements[stemmy].value = "any";
   }
+  input.value = "";
+  document.getElementById("output").innerHTML = "";
+  
 }
 
 function search() {
