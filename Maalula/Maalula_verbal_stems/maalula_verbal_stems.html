@@ -51,7 +51,7 @@
 
 
 <br><br>  
-<form id="stem">
+<form id="stem" onchange="input.focus()">
 <table style="font-weight:bold; font-size:18pt; float:center" width="800" border="2" rules="rows">
   <tr bgcolor="#e0ebeb"> 
      <td>
@@ -269,11 +269,12 @@ input.addEventListener("keyup",
 let stem = document.getElementById("stem");
   
 function clearAll(){
+  input.focus();
   for (let stemmy of stems){
     stem.elements[stemmy].value = "any";
   }
-  input.value = "";
   document.getElementById("output").innerHTML = "";
+  input.value = "";
   
 }
 
