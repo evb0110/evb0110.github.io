@@ -107,7 +107,7 @@ IV kommen lassen
 ʔwy
 arab.
 III Unterkunft (жильё) geben 
-VI Unterkunft finden
+IV(2) ? Unterkunft finden
 
 
 ʔxl +
@@ -157,6 +157,7 @@ I(8) halten für
 ʕbs
 arab.
 I finster blicken
+
 
 ʕbt
 arab.
@@ -264,7 +265,7 @@ II kauen (жевать)
 
 
 ʕlḳ +
-arab. / aram?
+arab. / aram. ?
 II hängen
 IV aneinander geraten
 II(2) (sich) an etwas hängen
@@ -315,7 +316,7 @@ III(2) streiten
 
 
 ʕmḏ 
-aram
+aram.
 II taufen
 IV taufen lassen
 II(2) getauft werden
@@ -540,7 +541,7 @@ IV eingeklemmt sein
 
 ʕṣy2
 arab.
-nicht einverstanden sein
+IV nicht einverstanden sein
 I(10) etwas verweigern
 
 
@@ -608,7 +609,7 @@ II ersetzen
 ʕwḳ
 arab.
 II sich aufhalten lassen
-II(2) aurgehalten werden
+II(2) aufgehalten werden
 I(10) zurückholen
 
 
@@ -812,8 +813,7 @@ I pudern
 
 bḏr
 arab.
-I ausstreuen
-aussäen
+I ausstreuen, aussäen
 
 
 bḏ̣ʕ
@@ -1577,7 +1577,7 @@ IV (die Ernte) pachten
 
 ḏ̣nn
 arab.
-verdächtigen
+II verdächtigen
 
 
 ḏ̣rʕ
@@ -1694,7 +1694,7 @@ I(2) besser leben
 
 fḏ̣ḥ
 arab.
-schänden
+I schänden
 
 
 fḏ̣l
@@ -1758,7 +1758,7 @@ I(7) verarmen
 
 fḳs1
 arab.
-trans. aufstellen (Falle)
+I trans. aufstellen (Falle)
 
 
 fḳs2
@@ -1821,12 +1821,12 @@ I schwanken
 
 flṯ
 arab.?
-sich auflösen
+II sich auflösen
 
 
 flṭ
 aram.?
-lösen ?
+I lösen ?
 
 
 fly
@@ -1836,7 +1836,7 @@ II entlausen
 
 flǧ
 arab.
-platzen
+I platzen
 
 
 fny1
@@ -1896,7 +1896,7 @@ I reiben
 
 frḳ +
 aram. / arab.
-auseinandergehen
+I auseinandergehen
 II teilen
 III scheiden
 IV sich teilen
@@ -2023,7 +2023,7 @@ I(7) sich öffnen
 
 fṭm
 arab.
-entwöhnt sein
+I entwöhnt sein
 II entwöhnen (Säuglinge und Jungtiere von der Muttermilch)
 IV entwöhnt sein
 
@@ -2076,8 +2076,7 @@ I sich spalten
 fxr1
 arab.
 III aufquellen
-I(8)
-stolz sein
+I(8) stolz sein
 
 
 fxy
@@ -2255,7 +2254,7 @@ II(10) sich wundern
 
 ġrf1
 aram.
-schaufeln
+I schaufeln
 
 
 ġrḥ
@@ -2294,8 +2293,7 @@ I(7) gemahlen werden
 
 ġry
 arab.
-II
-leimen
+II leimen
 
 
 ġrz
@@ -2305,7 +2303,7 @@ II im Boden versinken / steckenbleiben
 
 ġšš
 arab.
-betrügen
+I betrügen
 I(7) sich täuschen lassen
 
 
@@ -2534,7 +2532,7 @@ I(2) ankündigen, drohen
 
 hts
 arab.
-nachdenken
+I nachdenken
 
 
 htt
@@ -2844,6 +2842,303 @@ II(2) sich (in warmem Wasser) baden
 I(7) verflucht sein
 
 
+ḥmr3
+arab.
+II die Lippen rot fären
+
+
+ḥmṣ
+arab.
+II erhitzen
+II(2) geröstet werden
+
+
+ḥmt
+arab.
+II danken
+IV preisen, danken
+
+
+ḥmy1 +
+aram.
+I sehen
+IV sehen lassen
+I(7) gesehen werden
+
+
+ḥmy3
+aram. / arab.
+IV erhitzen
+I(8) warm / heiß werden
+
+
+ḥmy4
+arab.
+I schützen
+III verteidigen
+IV schützen
+I(8) sich schützen
+
+
+ḥnk
+arab.
+II Wangen bestreichen
+
+
+ḥnḳ
+aram.
+I intr. ersticken
+I tr. ersticken
+II(2) erstickt werden
+I(7) erstickt werden
+
+
+ḥnn1
+aram. / arab.
+IV Sehnsucht haben
+II(2) sich kümmern
+
+
+ḥnn2
+arab.
+II mit Henna färben
+
+
+ḥnṭ
+aram.
+II einbalsamieren
+
+
+ḥny1
+aram. / arab.
+IV krümmen
+I(8) sich bücken
+
+
+ḥny2
+arab.
+II mit Henna färben
+II(2) gefärbt werden
+
+
+ḥnz
+arab. ?
+II reiten
+
+
+ḥrb / ḥrp
+aram. / arab.
+I tr. zerstören
+I intr. zerstört sein
+II zerstören
+III Krieg führen
+II(2) zornig sein
+III(2) sich bekriegen
+I(7) zerstört werden
+
+
+ḥrč
+arab.
+II umrühen
+II(2) sich bewegen
+
+
+ḥrf1
+aram. ?
+IV antworten
+IV(2) beantwortet werden
+
+
+ḥrfṣ
+arab. ?
+I zappeln, strampeln
+
+
+ḥrk
+arab.
+II bewegen
+II(2) sich bewegen
+
+
+ḥrkš
+arab.
+I flirten
+I(2) sich an (ein Mädchen) heranmachen
+
+
+ḥrm
+arab.
+II ausschließen
+IV in den Weihezustand eintreten
+II(2) untersagt sein, verboten sein
+I(7) verboten werden
+I(8) respektieren
+
+
+ḥrn
+arab.
+IV störrisch sein
+
+
+ḥrr
+arab.
+I warm werden, heiß werden
+I(7) sich sorgen
+
+
+ḥrs
+arab.
+I Wache halten
+II bewachen
+
+
+ḥrš
+arab.
+II aufhetzen
+
+
+ḥry1
+aram.
+I scheißen
+
+
+ḥry2
+arab.
+II durchsuchen
+
+
+ḥrž
+arab.
+II verharren
+IV schwer machen
+
+
+ḥsl +
+aram.
+I vorbei sein, zu ende sein
+II beenden
+
+
+ḥsn
+arab.
+II besser werden
+
+
+ḥsr1
+aram.
+I fehlen, stocken
+I(7) sich stauen
+
+
+ḥss
+arab.
+I schleifen, reiben
+IV fühlen
+
+
+ḥšb / ḥšp +
+aram.
+I rechnen
+III Abrechnung machen
+III(2) miteinander abrechnen
+I(7) berechnet werden
+
+
+ḥšm1
+aram.
+IV zu Abend essen
+I(7) zu Abend gegessen werden
+
+
+ḥšm2
+arab.
+I(8) Partei ergreifen für jdn.
+
+
+ḥšr1
+arab.
+I sich interessieren
+
+
+ḥšš
+arab.
+II Grünfutter schneiden
+
+
+ḥšw / ḥšy
+arab.
+IV füllen
+II hineingeben
+
+
+ḥṣḏ
+aram.
+I ernten
+I(7) geernet werden
+
+
+ḥṣl
+arab.
+I speichern
+II eintreiben
+I(10) bekommen
+
+
+ḥṣr
+arab.
+I einschließen
+III belagern
+III(2) eingeschlossen werden
+I(7) eingeschlossen werden
+
+
+ḥts
+arab.
+III(2) sich unterhalten
+
+
+ḥtt2
+arab.
+II schmieden
+III nebeneinanderliegen (Felder)
+
+
+ḥty1
+aram.
+I sich freuen
+
+
+ḥty2
+aram.
+I schließen, zuhalten (Türe)
+I(7) geschlossen werden
+
+
+ḥty3
+arab.
+II auftreffen, aufschlagen
+
+
+ḥty4
+arab.
+IV beschlagen lassen
+
+
+ḥṭb
+arab.
+II Holz hacken
+
+
+ḥṭṭ2
+arab.
+II ablegen, abnehmen
+II(2) sich herabgesetzt fühlen
+
+
+ḥṭy
+aram.
+II sündigen
+IV sündigen
 `;
 
 let output = perf.split("\n\n\n");
