@@ -3139,7 +3139,538 @@ II(2) sich herabgesetzt fühlen
 aram.
 II sündigen
 IV sündigen
-`;
+
+
+ḥwl2 +
+arab.
+II (vom Weg) abbiegen
+III versuchen
+
+
+ḥwm
+arab.
+I schwärmen (Fliegen)
+
+
+ḥwr1
+aram.
+I weiß werden
+II weißen
+
+
+ḥwš
+arab.
+II pflücken
+II(2) eingesammelt werden
+
+
+ḥwṣ2
+arab. / aram.
+I herumspringen
+
+
+ḥwṭ
+arab.
+II einzäunen
+IV umschließen
+
+
+ḥwy1
+aram.
+IV durch die Taufe in den christlichen Glauben aufnehmen
+
+
+ḥwy3
+arab.
+I enhalten, haben
+IV zusammengesetzt sein aus, bestehen aus
+
+
+ḥwy4
+arab.
+IV halten
+
+
+ḥwz
+arab.
+I ausweichen
+IV darauf bestehen
+
+
+ḥwž
+arab.
+I(8) brauchen
+
+
+ḥyk
+arab.
+II weben
+
+
+ḥyl2
+arab.
+III(2) sich abmühen
+I(8) betrügen
+
+
+ḥyr
+arab.
+II(2) staunen
+I(8) verwirrt sein
+
+
+ḥyt
+arab.
+II entfernen
+II(2) sich entfernen
+
+
+ḥyṭ
+aram.
+II nähen
+II(2) genäht werden
+
+
+ḥyy1
+aram.
+I leben
+II lange leben lassen
+IV am Leben erhalten
+
+
+ḥzb
+arab.
+II(2) sich zusammentun
+
+
+ḥzḳ
+aram.
+I (zusammen)drücken
+I(7) festgezurrt werden
+
+
+ḥzm
+arab.
+I festbinden
+II festbinden
+I(7) gebunden werden
+
+
+ḥzn
+arab.
+IV leid tun
+I(8) trauern
+
+
+ḥzr2
+arab.
+I erraten
+II (Rätzel) lösen (lassen)
+
+
+ḥzz
+arab.
+II genau beobachten
+IV eine Kerbe machen
+
+
+ḥǧb
+arab.
+II einhüllen
+
+
+ḥžm
+arab.
+I(8) sich zurückziehen
+
+
+ḥžz / ḥǧz
+arab.
+I absperren
+
+
+ḥžž / ḥǧǧ
+arab.
+I die Pilgerfahrt machen
+IV Pilgerfahrt machen
+
+
+ḥẓy
+arab.
+IV bekommen
+
+
+kʕm
+arab.
+I nehmen
+II ergreifen
+
+
+kbkb1
+arab.
+I zu Klößchen formen
+I(2) zu Klößchen geformt werden
+
+
+kbkb2
+arab.
+I hochklappen
+
+
+kbr
+arab.
+II “Allāhu akbar” rufen
+
+
+kbs / kps
+arab.
+I drücken
+II zwingen
+
+
+kćć
+arab.
+I schütten
+
+
+kčf
+arab.
+II festbinden
+
+
+kčm
+arab.
+I geheimhalten
+
+
+kḏḏ
+arab. ?
+I leiden, sich quälen ?
+
+
+kff
+arab.
+I einsäumen (Teppich)
+
+
+kfkf
+arab.
+I die Ärmel hochkrempeln
+
+
+kfl
+arab.
+IV bürgen
+
+
+kfn
+arab.
+II in ein Leichentuch einwickeln
+
+
+kfy
+arab.
+II beenden
+I(8) genügen
+
+
+kḥš
+arab.
+I hinauswerfen
+I(7) abhauen
+
+
+klf
+arab.
+II kosten
+
+
+klkš
+?
+I einsammeln
+
+
+kll
+aram. / arab.
+II heiraten (in der Kirche
+II(2) in der Kirche verheiratet werden
+
+
+klm
+arab.
+II(2) sprechen
+
+
+kmkr
+?
+I im Schneidersitz sitzen
+
+
+Kml
+arab.
+II beenden
+II(2) vervollständigt werden
+I(8) beendet sein
+
+
+kmr1
+aram. / arab.
+I zudecken
+II zudecken
+
+
+kmš
+arab.
+I nehmen
+
+
+kmt
+arab. ?
+I bewahren
+
+
+kmy
+aram. ?
+IV (Tiere) großziehen
+
+
+kny
+aram.
+IV abrichten
+
+
+kpćl
+arab. ?
+I Klößchen oder Kugeln formen
+
+
+krʕ
+arab.
+I schlürfen
+
+
+krbs
+türk. ?
+I den Schafen beim Scheren jeweils Vorder- und Hinterfuß zusammenbinden
+
+
+krh
+arab.
+IV nicht mögen
+
+
+krm
+arab.
+II achten
+IV achten
+
+
+krr2
+arab.
+II wiederholen
+II(2) keimfrei werden
+
+
+krš
+arab. / aram. ?
+I treiben
+
+
+kry1
+arab.
+II wagen
+
+
+kry2
+arab.
+I(10) mieten
+
+
+krz1
+aram. < iran.
+II predigen
+IV predigen
+
+
+ksb
+arab.
+IV an sich nehmen
+
+
+ksḥ
+aram. / arab.
+I beschneiden (Weinberg)
+
+
+kšf
+arab.
+I entdecken
+II zurückschlagen
+IV nachsehen
+I(7) entdeckt werden
+I(8) (Versteck) aufdecken
+
+
+kšš
+aram.
+II (Fliegen) verscheuchen
+
+
+kts
+arab.
+II stapeln
+
+
+ktt
+arab.
+I sich anstrengen
+
+
+kṯr
+arab.
+I zahlreich sein / werden
+II vermehren
+III zunehmen
+IV viele sein / werden
+I(10) sich bedanken
+
+
+kwn
+arab.
+II erschaffen
+II(2) bestehen aus
+
+
+kwš
+arab. / aram.
+II sich drängen (um)
+
+
+kyf
+arab.
+II sich vergnügen
+
+
+ḳʕḳʕ
+aram. ?
+I kochen (intr.)
+
+
+kʕy +
+?
+I sitzen
+II tr. setzen
+IV setzen (tr.)
+
+
+ḳbʕ / ḳpʕ
+arab. ?
+I herausstechen
+II eine Decke überstülpen
+
+
+ḳbḏ̣
+arab.
+I packen, nehmen
+II übergeben
+IV entgegennehmen
+
+
+ḳbl +
+aram. / arab.
+I reagieren
+II in Richtung Qubla (Mekka) drehen
+III jdn. treffen
+IV sich zuwenden
+III(2) sich treffen
+I(7) ertragen werden
+I(10) willkommen heißen
+
+
+ḳbr1
+aram.
+I begraben
+II begraben lassen
+I(7) begraben werden
+
+
+ḳḏḥ
+aram.
+I anzünden
+
+
+
+ḳḏ̣y
+arab.
+II Zeit verbringen
+IV Zeit verbringen
+
+
+ḳfʕ
+arab.
+I entfernen
+
+
+ḳfl
+arab. / aram.
+II zudecken
+
+
+ḳfṣ1
+arab.
+II klatschen
+
+
+ḳfy
+arab.
+II entgehen
+
+
+ḳhr
+arab.
+I sich ärgern
+II böse sein auf jd.
+I(7) zornig werden
+
+
+ḳḥḥ
+arab.
+husten
+
+
+ḳḥm
+arab.
+I zügig voranschreiten
+
+
+ḳḥṣ
+arab.
+I springen
+
+
+ḳlʕ1 +
+I herausreißen
+II fortjagen
+II(2) hinausgeworfen werden
+I(7) herausgerissen werden
+
+
+ḳlb2
+arab.
+I umwenden
+I intr. stürzen
+II umstülpen
+
+
+ḳlf
+aram.
+schälen
+
+
+ḳll
+aram.
+II veringern
+IV weniger sein / werden`;
 
 let output = perf.split("\n\n\n");
 output = output.map(s => s.replace(/^\s*\n(?=\S)/gmu, ""));
