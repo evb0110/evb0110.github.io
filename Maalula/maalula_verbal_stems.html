@@ -8,9 +8,35 @@
     border: none;
     color: black;
     padding: 17px 25px;
+    display: block;
     text-align: center;
     font-size: 36px;
-    width: 1000px;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.element {
+    background-color: white;
+    border: none;
+    padding: 1px 15px;
+    display: block;
+    text-align: center;
+    font-size: 36px;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.center {
+    background-color: white;
+    border: none;
+    padding: 2px 25px;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+
 }
 </style>
 
@@ -22,9 +48,16 @@
   NWA Verb: Roots and Stems (in progress)
 </h2>
 
+<span class="center">
+<button 
+   id="defaults" 
+   style="font-size:20pt;height:35pt" 
+   onclick="clearAll()"
+>
+     Clear All
+</button>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;
-&nbsp;
 <input 
    type="search" 
    id="myInput" 
@@ -38,21 +71,27 @@
 >
      Search
 </button>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
-<button 
-   id="defaults" 
-   style="font-size:20pt;height:35pt" 
-   onclick="clearAll()"
->
-     Clear All
-</button>
+</span>
 
 
 
 <br><br>  
 <form id="stem" onchange="input.focus()">
-<table cellpadding="2%" style="font-weight:bold; font-size:18pt; float:center" width="800" border="2" rules="rows">
+<table 
+   cellpadding="2%" 
+   style="
+      margin-left: auto;
+      margin-right: auto;
+      font-weight:bold; 
+      font-size:18pt; 
+      float:center" 
+   width="800" 
+   border="2" 
+   rules="rows"
+>
   <tr bgcolor="#e0ebeb"> 
      <td align="left">
         I
@@ -224,7 +263,13 @@
 
 
 
-<p id="output" style="font-size:18pt; padding-left:2%"><p>
+<p 
+   id="output" 
+   style="
+          font-size:18pt; 
+          padding-left:25%;"
+>
+</p>
 
 
 <script src="verb.js"></script>
