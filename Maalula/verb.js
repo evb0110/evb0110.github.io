@@ -3670,7 +3670,805 @@ schälen
 ḳll
 aram.
 II veringern
-IV weniger sein / werden`;
+IV weniger sein / werden
+
+
+ḳls2
+arab.
+IV spotten
+
+
+ḳly
+aram. / arab.
+II braten
+II(2) gebraten werden
+
+
+ḳlž
+arab.
+I lahmen, hinken
+
+
+ḳmr
+arab.
+II rösten
+II(2) knusprig werden
+
+
+ḳmṭ
+aram.
+I nehmen
+II ausliefren
+
+
+ḳmz
+arab.
+I springen
+
+
+ḳnʕ
+arab.
+IV überreden
+I(8) sich überreden lassen
+
+
+ḳnṣ
+arab.
+II die Ohren aufstellen wahrnehmen (Geräusch)
+
+
+ḳny1
+aram.
+IV Tiere halten / aufziehen
+
+
+ḳpn
+arab.
+II wiegen
+
+
+ḳpy
+aram. / arab.
+II überkuppeln
+
+
+ḳrʕ2
+arab. ?
+II männliche von weiblichen Tieren trennen
+
+
+ḳrʕ3
+arab.
+I kahlköpfig
+
+
+ḳrb
+aram. / arab.
+II sich nähern, nahekommen
+IV sich nähern nahekommen
+II(2) sich nähern
+
+
+ḳrḏ̣
+arab.
+I(7) aussterben
+
+
+ḳrf
+arab.
+I herausreißen
+
+
+ḳrfṣ
+arab.
+I kauern
+
+
+ḳrḥ
+arab.
+I(8) vorschlagen
+
+
+ḳrḳʕ
+arab.
+I lärmen, dröhen
+
+
+ḳrḳṭ
+arab.
+I mit den Fingern zerreiben
+
+
+ḳrm1
+arab. / aram. ?
+den Hals umdrehen
+
+
+ḳrnṣ
+aram. ?
+I (Ohren) aufstellen / spitzen
+
+
+ḳrr
+arab.
+II bestätigen
+IV gestehen
+I(10) sich niederlassen
+
+
+ḳrṣ1
+aram. / arab.
+II kleine Laibe, Kugeln od. Klößchen formen
+
+
+ḳrṣ2
+aram.
+II kalt werden lassen
+IV abkühlen
+
+
+ḳrṣ3
+arab.
+I tr. zwicken
+
+
+ḳrṭ1
+aram.
+I stechen (Insekt), beißen (Schlange)
+IV zu Mittag essen (etymol.?)
+I(7) gestochen werden
+
+
+ḳry
+aram. / arab.
+I lesen
+II das Lesen beibringen
+I(7) geschrieben werden
+
+
+ḳsm
+arab.
+I teilen
+II aufteilen
+IV schwören
+I(7) (auf)geteilt werden
+
+
+ḳsy ?
+IV ? zuschneiden lassen 
+
+
+ḳšḳš
+aram.
+I kleine Stücke Brennholz einsammeln
+
+
+ḳšmr
+?
+I hochkrempeln (Ärmen, Hosenbeine)
+
+
+ḳšr
+arab.
+II schälen
+
+
+ḳšš
+aram. / arab.
+I abschöpfen (Schaum, Butter)
+
+
+ḳšṭ
+arab.
+I abschaben
+II abrutschen
+
+
+ḳṣʕ1
+aram.
+I flüchten
+
+
+ḳṣb
+arab.
+II zerlegen
+
+
+ḳṣr1
+aram.
+I intr. abnehmen
+II fehlen lassen
+
+
+ḳṣṣ
+aram. / arab.
+I abschneiden
+IV zuschneiden lassen
+I(7) geteilt werden
+
+
+ḳṣt
+arab.
+I aufsuchen
+I(7) beabsichtigt sein
+
+
+ḳtm +
+aram. / arab.
+II sich nähern
+II(2) sich nähern
+
+
+ḳtr1 +
+aram.
+I binden
+II streiten
+I(7) gebunden werden
+
+
+ḳtr2 +
+arab.
+II bestimmen
+IV können
+
+
+ḳtš
+aram.
+segnen, weihen
+II(2) geheiligt werden
+
+
+ḳtt1
+aram.
+I auseinanderteilen
+
+
+ḳtt3
+arab. ?
+I schreien
+
+
+ḳṭʕ1 +
+aram. / arab.
+I tr. schneiden
+I intr. reißen (Seil)
+II abschneiden
+II geschnitten werden
+I(7) abgeschnitten werden
+
+
+ḳṭb
+arab.
+nähen
+II flicken
+
+
+ḳṭf
+aram.
+I pflücken
+II pflücken
+I(7) gepflückt werden
+
+
+ḳṭl +
+aram.
+I töten
+II töten
+I(7) getötet werden
+
+
+ḳṭr1
+aram. ?
+II streiten
+III schimpfen
+
+
+ḳṭš
+?
+I abschneiden
+I abgeschnitten sein
+II abschneiden
+I(7) abgeschnitten werden
+
+
+ḳwć
+arab.
+II(2) ? sich ernähren
+
+
+ḳwḳ
+arab.
+I gackern
+
+
+ḳwl2
+arab.
+II beauftragen
+
+
+ḳwm +
+aram. / arab.
+I aufstehen
+II strecken
+III Widerstand leisten
+IV wegnehmen
+I(7) entfernt werden
+
+
+ḳwr3
+arab.
+aushöhlen
+
+
+ḳws / ḳwṣ
+arab.
+II schießen
+II(2) beschossen werden
+
+
+ḳwy
+arab.
+I stark sein / werden
+II verstärken
+IV stärker werden
+
+
+ḳyḏ2
+arab.
+II notieren
+
+
+ḳyl
+arab.
+II Mittagsschlaf halten
+
+
+ḳys2
+arab.
+IV messen
+
+
+lʕḳ
+arab.
+I kauen
+IV beschichten
+
+
+lbḏ
+aram.
+II festtreten
+
+
+lbk
+arab.
+II(2) in Unordnung geraten
+
+
+lbḳ1
+arab.
+I sich anpassen
+IV zukommen
+
+
+lblb
+arab.
+I (mit dem Schwanz) wedeln
+
+
+lblč
+?
+I(2) sich kümmern
+
+
+lbs
+arab.
+II ankleiden
+
+
+lbṭ
+arab.
+I schlagen
+
+
+lby
+arab.
+II folgen
+
+
+lčč
+arab.
+I eintauchen
+
+
+lčḥ
+aram.
+II lekken
+
+
+
+lḏʕ
+?
+I stechen (Skorpion)
+
+
+lḏwʕ
+arab.
+I verbrennen (tr.)
+
+
+lfč / lfć
+arab.
+I(8) sich umwenden
+
+
+lff
+arab.
+I wickeln
+
+
+lfy
+?
+II j-n aufnehmen
+IV heimkehren
+
+
+lġy
+arab.
+III hochheben
+IV abschaffen
+
+
+lhb
+arab.
+I(8) sich entzünden
+
+
+lhm
+arab.
+IV eingeben
+
+
+lhw / lhy
+arab.
+I sich vergnügen
+IV lenken von
+I(8) sich unterhalten
+
+
+lḥḳ +
+arab.
+I folgen
+II verfolgen
+III verfolgen
+I(10) packen
+
+
+lḥm2
+?
+I (intr.) heilen
+
+
+lḥms
+arab. ?
+I streicheln
+
+
+lḥš1
+?
+I werfen
+I(7) weggeworfen werden
+
+
+lḥws
+arab. ?
+I ausschlecken
+
+
+lḥwš
+aram. ?
+I flüstern
+I(2) zugeflüstert werden
+
+
+lḥwš2
+?
+I wegwerfen
+
+
+lḥy
+aram.
+beschimpfen
+
+
+lky
+arab. ?
+II(2) sich wehren
+
+
+lḳb
+arab.
+II mit Spitznamen rufen / nennen
+
+
+lḳḥ +
+arab.
+I stürzen
+II werfen
+I(2) geworfen werden
+
+
+lḳ2
+?
+I hineintauchen
+
+
+lḳm1
+arab.
+I packen, beißen
+
+
+lḳm2
+arab.
+II mit Spitznamen nennen
+
+
+lḳn
+arab.
+II (musl.) dem Toten das Glaubensbekenntnis ins Ohr flüstern
+
+
+lḳš1
+aram.
+II verzögern
+II(2) sich verspäten
+
+
+lḳṭ +
+aram.
+I packen, nehmen
+II pflücken
+I(7) (Stamm arab.) ausgesucht werden
+
+
+lḳws
+?
+I (weg)schnippen (kleine Steinchen oder Papierkügelchen)
+
+
+lḳy
+arab.
+IV werfen
+III(2) treffen
+I(8) begegnen
+I(10) ergreifen
+
+
+lḳz
+arab.
+I einen leichten Hieb / Stups geben
+
+
+lmʕ
+arab.
+IV glänzen
+
+
+lmḏ̣
+arab.
+II sich die Lippen lecken
+
+
+lmḥ
+arab.
+I erblicken
+
+
+lmlm
+arab.
+I sammeln
+
+
+lmm2 +
+arab.
+I sammeln
+I(7) aufgesammelt werden
+gesammelt werden
+
+
+lms
+arab.
+I berühren
+
+
+lpp
+aram.
+I sich zu Herzen nehmen
+
+
+lpt
+arab.
+II kleben
+
+
+lss
+arab.
+I schmecken
+
+
+lṣlṣ
+arab.
+I spähen
+
+
+lṭʕ
+arab.
+I Mistfladen formen
+
+
+lṭf
+arab.
+IV gütig sein
+
+
+lṭḥ
+arab.
+I drücken
+
+
+lṭm
+arab.
+I schlagen
+
+
+lṭš
+aram.
+I stoßen
+II beschimpfen
+I(7) getötet werden
+
+
+lṭx
+arab. / aram.
+I besudeln
+
+
+lṭy
+aram.
+I sich hinlegen
+II anrempeln
+IV sich verbergen
+
+
+lwʕ
+arab.
+II quälen
+
+
+lwḥ2
+arab.
+I schwingen
+II den Teigfladen auf dem Kissen ausbreiten
+
+
+lwlḥ
+arab.
+I hin- und herflattern lassen
+
+
+lwm1
+aram.
+II passen
+
+
+lwm2
+arab.
+I tadeln
+
+
+lwš
+aram.
+I kneten
+
+
+lwṯ
+arab.
+II schmutzig werden
+
+
+lwy
+arab.
+I(8) zur Seite biegen
+
+
+lyf
+arab.
+II mit Wasser abreiben
+
+
+lyḥ
+arab.
+I schütteln
+
+
+lyḳ
+arab.
+I würdig sein
+
+
+lzḳ
+arab.
+I kleben (tr.)
+II kleben (tr.) leimen
+II kleben (intr.)
+IV intr. kleben
+
+
+lzm
+arab.
+I notwendig sein
+IV notwendig sein
+I(8) genötigt sein
+
+
+lzz1
+arab.
+I sich klein machen
+
+
+lžy
+arab.
+II(2) Zuflucht finden
+III(2) Zuflucht finden
+I(2) Zuflucht nehmen
+
+
+mʕč
+arab.
+I massieren
+I(7) geknetet werden
+
+
+mʕk
+arab.
+I zerreiben
+
+
+mʕs
+aram.
+I zerschlagen
+I(7) zerquetscht werden
+
+
+mćn1
+?
+IV belästigt werden
+
+
+mčr1
+arab.
+III betrügen
+
+
+mḏḏ
+arab.
+I ausbreiten
+
+
+mḏ̣mḏ̣
+arab.
+I spülen, auswaschen
+
+
+mḏ̣y
+arab.
+I (Zeit) verbringen
+II (Zeit) Verbringen
+I(8) (Zeit) vergehen / verübergehen
+
+
+mhl
+arab.
+IV verzögern`;
 
 let output = perf.split("\n\n\n");
 output = output.map(s => s.replace(/^\s*\n(?=\S)/gmu, ""));
