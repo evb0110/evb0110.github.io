@@ -85,6 +85,8 @@ html {
 <br><br>  
 <form id="stem" onchange="input.focus()">
 <table 
+   onchange="changeTable()"
+   id="table"
    cellpadding="2%" 
    style="
       margin-left: auto;
@@ -97,7 +99,7 @@ html {
    rules="rows"
 >
   <tr bgcolor="#e0ebeb"> 
-     <td align="left">
+     <td id="I" align="left">
         I
      </td> 
      <td align="left">
@@ -112,7 +114,7 @@ html {
   </tr>
 
   <tr> 
-     <td align="left">
+     <td id="II" align="left">
         II
      </td> 
      <td align="left">
@@ -127,7 +129,7 @@ html {
   </tr>
 
   <tr bgcolor="#e0ebeb"> 
-     <td align="left">
+     <td id="III" align="left">
         III
      </td> 
      <td align="left">
@@ -142,7 +144,7 @@ html {
   </tr>
 
   <tr> 
-     <td align="left">
+     <td id="IV" align="left">
         IV
      </td> 
      <td align="left">
@@ -157,7 +159,7 @@ html {
   </tr>
 
   <tr bgcolor="#e0ebeb"> 
-     <td align="left">
+     <td id="I(2)" align="left">
         I(2)
      </td> 
      <td align="left">
@@ -172,7 +174,7 @@ html {
   </tr>
 
   <tr> 
-     <td align="left">
+     <td id="II(2)" align="left">
         II(2)
      </td> 
      <td align="left">
@@ -187,7 +189,7 @@ html {
   </tr>
 
   <tr bgcolor="#e0ebeb"> 
-     <td align="left">
+     <td id="III(2)" align="left">
         III(2)
      </td> 
      <td align="left">
@@ -202,7 +204,7 @@ html {
   </tr>
 
   <tr> 
-     <td align="left">
+     <td id="IV(2)" align="left">
         IV(2)
      </td> 
      <td align="left">
@@ -217,7 +219,7 @@ html {
   </tr>
 
   <tr bgcolor="#e0ebeb"> 
-     <td align="left">
+     <td id="I(7)" align="left">
         I(7)
      </td> 
      <td align="left">
@@ -232,7 +234,7 @@ html {
   </tr>
 
   <tr> 
-     <td align="left">
+     <td id="I(8)" align="left">
         I(8)
      </td> 
      <td align="left">
@@ -247,7 +249,7 @@ html {
   </tr>
 
   <tr bgcolor="#e0ebeb"> 
-     <td align="left">
+     <td id="I(10)" align="left">
         I(10)
      </td> 
      <td align="left">
@@ -271,7 +273,8 @@ html {
    id="output" 
    style="
           font-size:18pt; 
-          padding-left:25%;"
+          padding-left:10%;
+          padding-right:10%;"
 >
 </p>
 
@@ -315,11 +318,31 @@ input.addEventListener("keyup",
 );
 
 let stem = document.getElementById("stem");
+
+
+function changeTable(){
+  input.focus();
+  for (let stemmy of stems){
+    switch (stem.elements[stemmy].value){ 
+      case "yes":
+    document.getElementById(stemmy).style.backgroundColor = "#00ff00";  
+        break;
+      case "no":
+    document.getElementById(stemmy).style.backgroundColor = "#ff3333";  
+        break
+      case "any":
+    document.getElementById(stemmy).style.backgroundColor = "";  
+        break
+    }
+
+  }
+}
   
 function clearAll(){
   input.focus();
   for (let stemmy of stems){
     stem.elements[stemmy].value = "any";
+    document.getElementById(stemmy).style.backgroundColor = "";  
   }
   document.getElementById("output").innerHTML = "";
   input.value = "";
