@@ -66,9 +66,9 @@ html {
 
 <form class="center" id="direction" onchange="chooseDirection()">
      <b>  
-  <input type="radio" name="dir" value="toSyriac" checked>
+  <input type="radio" name="dir" value="toSyriac">
       To Syriac &nbsp;&nbsp;
-  <input type="radio" name="dir" value="fromSyriac">
+  <input type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
      </b>
   <br>
@@ -194,8 +194,8 @@ let translit = "ʔbgdhwzḥṭyklmnsʕpṣqršt";
 let grafika  = "ܐܒܓܕܗܘܙܚܜܝܟܠܡܢܣܥܦܨܩܪܫܬ";
 
 
-let idFrom = 0;
-let idTo = 100;
+let idFrom = 100;
+let idTo = 0;
 
 fillWithLetters(translit, idFrom);
 fillWithLetters(grafika, idTo);
