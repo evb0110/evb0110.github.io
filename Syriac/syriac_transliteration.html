@@ -195,17 +195,16 @@ let translit = "ʔbgdhwzḥṭyklmnsʕpṣqršt";
 let grafika  = "ܐܒܓܕܗܘܙܚܜܝܟܠܡܢܣܥܦܨܩܪܫܬ";
 
 
-let idFrom = 100;
-let idTo = 0;
+let idFrom = 0;
+let idTo = 100;
 
-fillWithLetters(translit, idFrom);
-fillWithLetters(grafika, idTo);
+fillWithLetters(grafika, idFrom);
+fillWithLetters(translit, idTo);
 
 let arrFrom = [];
 let arrTo = [];
 
 function chooseDirection() {
-  [idFrom, idTo] = [idTo, idFrom];
   for (let i = 0; i < alphabetLength; i++) {
     arrFrom[i] = document.getElementById(i+idFrom).value;
     arrTo[i] = document.getElementById(i+idTo).value;
@@ -213,14 +212,13 @@ function chooseDirection() {
     document.getElementById(i+idFrom).value = arrFrom[i];
     document.getElementById(i+idTo).value = arrTo[i];
   }
-  return [idFrom, idTo];
 }
 
 function convert() {
   var input = document.getElementById("myInput");
   for (let i = 0; i < alphabetLength; i++) {
-    arrFrom[i] = document.getElementById(i+0).value;
-    arrTo[i] = document.getElementById(i+100).value;
+    arrFrom[i] = document.getElementById(i+idFrom).value;
+    arrTo[i] = document.getElementById(i+idTo).value;
   }
   let result = multipleReplace (input.value, arrFrom, arrTo);
     document.getElementById("myOutput").value = 
