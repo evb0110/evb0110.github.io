@@ -1,6 +1,4 @@
-function perfInit(){
-  let perf = ` 
-ʔfy1 
+﻿ʔfy1 
 I īf(i) / yīf(i) ‘backen’
 perf: sg.m. īf(i) u. fayy(i)
 zabniččil lōḏ faṭṭarīṯa ti fayyiyōla emmlə šhōde — ich kaufte die Teigtasche (вареник, пирожок с начинкой), die Emmlə Šhōde gebacken hatte
@@ -3457,11 +3455,5 @@ perf. 2sg.m. mit suff. 1pl.: čizlīmlaḥ b-anna ḏīna — du unterdrückst u
 I ẓannar / yẓannar (порода?) ‘sich gürten (gird onesf)’
 perf. 3sg.m.: ẓanner
 perf. 3sg.f.: M zannīra
-`;
 
-let output = perf.split("\n\n\n");
-output = output.map(s => s.replace(/^\s*\n(?=\S)/gmu, ""));
-//document.getElementById("output").innerHTML = output.join("\n===\n").replace(/\n/gmu, "<br>");
-return output;
 
-}

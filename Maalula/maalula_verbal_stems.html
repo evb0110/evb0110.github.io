@@ -401,11 +401,12 @@ function search() {
 }
 
 function main(regSearch, regYes, regNo){
-  flagSearch = "g" + flagMultiline + "u";
-  regSearch = RegExp(regSearch, flagSearch);
   regYes = regYes.map(s => RegExp(s, "gmu"));
-  regYes.unshift(regSearch);
-  regNo = regNo.map(s => RegExp(s, "gmu"));
+  if (regSearch){
+    flagSearch = "g" + flagMultiline + "u";
+    regSearch = RegExp(regSearch, flagSearch);
+    regYes.unshift(regSearch);
+  }
   let data = perf;
   let output = [];
   output = greppyArray( data, regYes, regNo ); 
