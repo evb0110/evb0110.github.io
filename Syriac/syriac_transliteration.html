@@ -98,9 +98,9 @@ html {
   
 <textarea 
    id="myInput" 
-   rows="6" 
+   rows="10" 
    cols="45"
-   style="font-size:20pt;
+   style="font-size:14pt;
 	  width:49.5%;
 	  max-width:49.5%;
 	  max-height:30%;
@@ -111,9 +111,9 @@ html {
 
 <textarea 
    id="myOutput" 
-   rows="6" 
+   rows="10" 
    cols="45"
-   style="font-size:20pt;
+   style="font-size:14pt;
 	  width:49.5%;
 	  max-width:49.5%;
 	  max-height:30%;
@@ -245,7 +245,7 @@ function multipleReplace( str, fromArray, toArray ) {
     console.log("Arrays of different length in multipleReplace");
     return;
   }
-  let otherReg = "[^" + fromArray.join("") + "\\s" + "\\n" + "]";
+  let otherReg = "[^" + fromArray.join("") + "\\s" + "\\n" + "\\d" + "\\.:" + "]";
   otherReg = RegExp(otherReg, "gmu");
   str = str.replace( otherReg, "" );
   for (let i=0; i<fromArray.length; i++) {
