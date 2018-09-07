@@ -4472,7 +4472,6 @@ IV verzögern`;
 
 let output = perf.split("\n\n\n");
 output = output.map(s => s.replace(/^\s*\n(?=\S)/gmu, ""));
-//document.getElementById("output").innerHTML = output.join("\n===\n").replace(/\n/gmu, "<br>");
 return output;
 
 }
