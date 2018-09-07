@@ -66,10 +66,10 @@ html {
 
 <form class="center" id="direction" onchange="chooseDirection()">
      <b>  
-  <input type="radio" name="dir" value="toSyriac">
-      To Syriac &nbsp;&nbsp;
   <input type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
+  <input type="radio" name="dir" value="toSyriac">
+      To Syriac &nbsp;&nbsp;
      </b>
   <br>
 </form> 
@@ -120,7 +120,7 @@ html {
 	  resize:none" 
    value = ""
 ></textarea>
-<p><b>Please edit the table of substitutions if needed:</b></p>
+<p><b>Please edit the table of substitutions if needed. <br> It is safe to use lowercase and uppercase English letters (e.g. T for ṭ or a for ʔ), but not special symbols (e.g. $ for š).</b></p>
 
 <textarea id="0"  rows="2" cols="2" maxlength="2" style="font-size:14pt;resize:none"></textarea>
 <textarea id="1"  rows="2" cols="2" maxlength="2" style="font-size:14pt;resize:none"></textarea>
@@ -245,7 +245,10 @@ function multipleReplace( str, fromArray, toArray ) {
     console.log("Arrays of different length in multipleReplace");
     return;
   }
-  let otherReg = "[^" + fromArray.join("") + "\\s" + "\\n" + "\\d" + "\\.:" + "]";
+  let otherReg = "[^" + 
+                 fromArray.join("") + 
+                 "\\s\\n\\d\\.:<>\\{\\}\\(\\)#" + 
+                 "]";
   otherReg = RegExp(otherReg, "gmu");
   str = str.replace( otherReg, "" );
   for (let i=0; i<fromArray.length; i++) {
