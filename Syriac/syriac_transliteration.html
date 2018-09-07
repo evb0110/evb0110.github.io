@@ -57,22 +57,23 @@ html {
 </style>
 
 </head>
-
+<body bgcolor="#e6ffe6">
 
 <meta charset="UTF-8">
 <h2 id="dictName" class="header"> 
   Syriac Transliteration
 </h2>
 
-<form class="center" id="direction" onchange="chooseDirection()">
+
+
+<span style="background-color:#e6ffe6" class="center" id="direction" onchange="chooseDirection()">
      <b>  
   <input type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
   <input type="radio" name="dir" value="toSyriac">
       To Syriac &nbsp;&nbsp;
      </b>
-  <br>
-</form> 
+</span> 
   
 <button 
    id="myBtn" 
@@ -120,7 +121,7 @@ html {
 	  resize:none" 
    value = ""
 ></textarea>
-<p><b>Please edit the table of substitutions if needed. <br> It is safe to use lowercase and uppercase English letters (e.g. T for ṭ or a for ʔ), but not special symbols (e.g. $ for š).</b></p>
+<p><b>Please edit the table of substitutions if needed. <br> It is safe to use lowercase and uppercase English letters (e.g. T for ṭ or a for ʔ), but <u>not</u> special symbols (e.g. $ for š).</b></p>
 
 <textarea id="0"  rows="2" cols="2" maxlength="2" style="font-size:14pt;resize:none"></textarea>
 <textarea id="1"  rows="2" cols="2" maxlength="2" style="font-size:14pt;resize:none"></textarea>
@@ -260,3 +261,4 @@ function multipleReplace( str, fromArray, toArray ) {
 
 
 </script>
+</body>
