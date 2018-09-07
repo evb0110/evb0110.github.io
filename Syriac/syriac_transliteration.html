@@ -127,6 +127,7 @@ html {
    rows="8" 
    cols="45"
    style="font-size:14pt;
+          text-align:right;
 	  width:49.5%;
 	  max-width:49.5%;
 	  max-height:30%;
@@ -140,6 +141,7 @@ html {
    rows="8" 
    cols="45"
    style="font-size:14pt;
+          text-align:left;
 	  width:49.5%;
 	  max-width:49.5%;
 	  max-height:30%;
@@ -244,6 +246,25 @@ function chooseDirection() {
     document.getElementById(i+idFrom).value = arrFrom[i];
     document.getElementById(i+idTo).value = arrTo[i];
   }
+    [
+      document.getElementById("myInput").style.textAlign,
+      document.getElementById("myOutput").style.textAlign,
+    ]
+    =
+    [
+      document.getElementById("myOutput").style.textAlign,
+      document.getElementById("myInput").style.textAlign,
+    ];
+    [
+      document.getElementById("myInput").value,
+      document.getElementById("myOutput").value,
+    ]
+    =
+    [
+      document.getElementById("myOutput").value,
+      document.getElementById("myInput").value,
+    ];
+
 }
 
 function convert() {
@@ -292,7 +313,6 @@ function multipleReplace( str, fromArray, toArray ) {
 function clearAll() {
   document.getElementById("myInput").value = "";
   document.getElementById("myOutput").value = "";
-
 }
 
 function defaults() {
@@ -302,6 +322,7 @@ function defaults() {
   }
   document.getElementById("fromSyr").checked = true;
 }
+
 
 </script>
 </body>
