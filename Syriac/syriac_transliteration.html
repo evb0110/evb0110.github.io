@@ -68,7 +68,7 @@ html {
 
 <span style="background-color:#e6ffe6" class="center" id="direction" onchange="chooseDirection()">
      <b>  
-  <input type="radio" name="dir" value="fromSyriac" checked>
+  <input id="fromSyr" type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
   <input type="radio" name="dir" value="toSyriac">
       To Syriac &nbsp;&nbsp;
@@ -82,6 +82,31 @@ html {
 >
      Convert
 </button>
+<button 
+   id="copy" 
+   style="font-size:20pt;
+    position: absolute;
+    left: 10%;
+    height:35pt;
+    float:right;"
+   onclick="clearAll()"
+>
+     Clear All
+</button>
+<button 
+   id="copy" 
+   style="font-size:20pt;
+    position: absolute;
+    left: 20%;
+    height:35pt;
+    float:right;"
+   onclick="defaults()"
+>
+     Defaults
+</button>
+
+
+
 <button 
    id="copy" 
    style="font-size:20pt;
@@ -192,7 +217,7 @@ html {
 
 const alphabetLength = 22;
 let translit = "ʔbgdhwzḥṭyklmnsʕpṣqršt";
-let grafika  = "ܐܒܓܕܗܘܙܚܜܝܟܠܡܢܣܥܦܨܩܪܫܬ";
+let grafika  = "ܐܒܓܕܗܘܙܚܛܝܟܠܡܢܣܥܦܨܩܪܫܬ";
 
 
 let idFrom = 0;
@@ -203,6 +228,13 @@ fillWithLetters(translit, idTo);
 
 let arrFrom = [];
 let arrTo = [];
+let arrFrom0 = [];
+let arrTo0 = [];
+for (let i = 0; i < alphabetLength; i++) {
+  arrFrom0[i] = document.getElementById(i+idFrom).value;
+  arrTo0[i] = document.getElementById(i+idTo).value;
+}
+
 
 function chooseDirection() {
   for (let i = 0; i < alphabetLength; i++) {
@@ -257,6 +289,19 @@ function multipleReplace( str, fromArray, toArray ) {
   return str;
 }
 
+function clearAll() {
+  document.getElementById("myInput").value = "";
+  document.getElementById("myOutput").value = "";
+
+}
+
+function defaults() {
+  for (let i = 0; i < alphabetLength; i++) {
+    document.getElementById(i+idFrom).value = arrFrom0[i];
+    document.getElementById(i+idTo).value = arrTo0[i];
+  }
+  document.getElementById("fromSyr").checked = true;
+}
 
 </script>
 </body>
