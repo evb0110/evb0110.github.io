@@ -53,6 +53,16 @@ html {
 </h2>
 
 <span class="center">
+  <b>Multiline:</b> 
+  <input 
+     type="checkbox" 
+     id="multiline"  
+     onclick="multiline()"
+     checked
+   />
+</span>
+
+<span class="center">
 <button 
    id="defaults" 
    style="font-size:20pt;height:35pt" 
@@ -303,7 +313,7 @@ const stems = [
 let perf = [];
 perf = perfInit();
 
-let insens = ""; 
+let flagMultiline = "m"; 
 
 
 let input = document.getElementById("myInput");
@@ -334,6 +344,7 @@ function changeTable(){
     document.getElementById(stemmy).style.backgroundColor = "";  
         break
     }
+
   }
 }
   
@@ -344,10 +355,21 @@ function clearAll(){
     document.getElementById(stemmy).style.backgroundColor = "";  
   }
   document.getElementById("output").innerHTML = "";
+  document.getElementById("multiline").checked = true;
   input.value = "";
+  
 }
 
+function multiline(){
+  input.focus();
+  flagMultiline = "m";
+  let checkBox = document.getElementById("multiline");
+  if (!(checkBox.checked)){ flagMultiline = "" }
+}
+
+
 function search() {
+  let regSearch;
   let regYes = [];
   let regNo = [];
   for (let stemmy of stems){
@@ -364,18 +386,25 @@ function search() {
     }
   }
   if (input.value){
-    regYes.unshift(input.value);
+    regSearch = input.value;
   }
   input.focus();
-  if ((regYes.length == 0) && (regNo.length == 0)){
+  if ( 
+       (regYes.length == 0) &&  
+       (regNo.length == 0) &&
+       (!(regSearch))
+     ){
     document.getElementById("output").innerHTML = '';
     return;
   }
-  main(regYes, regNo);
+  main(regSearch, regYes, regNo);
 }
 
-function main(regYes, regNo){
+function main(regSearch, regYes, regNo){
+  flagSearch = "g" + flagMultiline + "u";
+  regSearch = RegExp(regSearch, flagSearch);
   regYes = regYes.map(s => RegExp(s, "gmu"));
+  regYes.unshift(regSearch);
   regNo = regNo.map(s => RegExp(s, "gmu"));
   let data = perf;
   let output = [];
@@ -413,6 +442,7 @@ function greppyArray( arr, regYes, regNo ){
       }
       output.push(el);
     }
+
   }
   return output;
 }
