@@ -362,12 +362,12 @@ function multipleReplace( str, fromArray, toArray ) {
                  fromArray.join("") + 
                  "\\s\\n\\d\\.:<>\\{\\}\\(\\)#" + 
                  "]";
-  otherReg = RegExp(otherReg, "gu");
+  otherReg = RegExp(otherReg, "g");
   str = str.replace( otherReg, "" );
   for (let i=0; i<fromArray.length; i++) {
-    let from = fromArray[i].replace( /\s/gu, "");
-    let to = toArray[i].replace( /\s/gu, "");
-    let reg = RegExp( from, "gu" );
+    let from = fromArray[i].replace( /\s/g, "");
+    let to = toArray[i].replace( /\s/g, "");
+    let reg = RegExp( from, "g" );
     str = str.replace( reg, to )
   }
   return str;
