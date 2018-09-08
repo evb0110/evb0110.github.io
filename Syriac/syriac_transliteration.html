@@ -54,12 +54,45 @@ html {
     margin-right:auto;
 
 }
+
+.button {
+    background-color: #00b300;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.1), 0 3px 3px 0 rgba(0,0,0,0.1);
+    background-color: #00b300;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 2px #666;
+  transform: translateY(2px);
+}
+
 </style>
 
 </head>
 <body bgcolor="#e6ffe6">
 
 <meta charset="UTF-8">
+
 <h2 id="dictName" class="header"> 
   Syriac Transliteration
 </h2>
@@ -71,23 +104,24 @@ html {
   <input id="fromSyr" type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
   <input type="radio" name="dir" value="toSyriac">
-      To Syriac &nbsp;&nbsp;
+      To Syriac 
      </b>
 </span> 
   
 <button 
    id="myBtn" 
-   style="font-size:15pt;height:27pt" 
+   class="button"
+   style="background-color:#e67300"
    onclick="convert()"
 >
      Convert
 </button>
 <button 
    id="copy" 
-   style="font-size:15pt;
+   class="button"
+   style="
     position: absolute;
     left: 13%;
-    height:27pt;
     float:right;"
    onclick="clearAll()"
 >
@@ -95,10 +129,10 @@ html {
 </button>
 <button 
    id="copy" 
-   style="font-size:15pt;
+   class="button"
+   style="
     position: absolute;
     left: 26%;
-    height:27pt;
     float:right;"
    onclick="defaults()"
 >
@@ -109,10 +143,10 @@ html {
 
 <button 
    id="copy" 
-   style="font-size:15pt;
+   class="button"
+   style="
     position: absolute;
     right: 17.5%;
-    height:27pt;
     float:right;"
    onclick="copyToClipboard()"
 >
@@ -132,7 +166,7 @@ html {
 	  max-width:49.5%;
 	  max-height:30%;
 	  resize:none"
-   placeholder='Type or paste the text, choose the direction for conversion and press the button "Convert"'
+   placeholder='Change the conversion direction if needed, type or paste the text and press the button "Convert"'
    value = ""
 ></textarea>
 
@@ -149,7 +183,7 @@ html {
 	  resize:none" 
    value = ""
 ></textarea>
-<p><b>You can edit the table of substitutions if needed. <br> It is safe to use lowercase and uppercase English letters (e.g. T for ṭ or a for ʔ), but <u>not</u> special symbols (e.g. ( for ʕ or $ for š).</b></p>
+<p><b>You can edit the table of substitutions. <br> It is safe to use lowercase and uppercase English letters (e.g. T for ṭ or a for ʔ), but <u>not</u> special symbols (e.g. ( for ʕ or $ for š).</b></p>
 
 <textarea id="0"  rows="2" cols="2" maxlength="2" style="font-size:14pt;resize:none"></textarea>
 <textarea id="1"  rows="2" cols="2" maxlength="2" style="font-size:14pt;resize:none"></textarea>
@@ -233,11 +267,14 @@ let arrFrom = [];
 let arrTo = [];
 let arrFrom0 = [];
 let arrTo0 = [];
+
 for (let i = 0; i < alphabetLength; i++) {
   arrFrom0[i] = document.getElementById(i+idFrom).value;
   arrTo0[i] = document.getElementById(i+idTo).value;
 }
 
+let input = document.getElementById("myInput");
+input.focus();
 
 function chooseDirection() {
   for (let i = 0; i < alphabetLength; i++) {
@@ -256,27 +293,16 @@ function chooseDirection() {
       document.getElementById("myOutput").style.textAlign,
       document.getElementById("myInput").style.textAlign,
     ];
-    [
-      document.getElementById("myInput").value,
-      document.getElementById("myOutput").value,
-    ]
-    =
-    [
-      document.getElementById("myOutput").value,
-      document.getElementById("myInput").value,
-    ];
-
+   clearAll();
 }
 
 function convert() {
-  var input = document.getElementById("myInput");
   for (let i = 0; i < alphabetLength; i++) {
     arrFrom[i] = document.getElementById(i+idFrom).value;
     arrTo[i] = document.getElementById(i+idTo).value;
   }
   let result = multipleReplace (input.value, arrFrom, arrTo);
-    document.getElementById("myOutput").value = 
-     result;
+  document.getElementById("myOutput").value = result;
 }
 
 function copyToClipboard() {
@@ -302,11 +328,13 @@ function multipleReplace( str, fromArray, toArray ) {
                  fromArray.join("") + 
                  "\\s\\n\\d\\.:<>\\{\\}\\(\\)#" + 
                  "]";
-  otherReg = RegExp(otherReg, "gmu");
+  otherReg = RegExp(otherReg, "gu");
   str = str.replace( otherReg, "" );
   for (let i=0; i<fromArray.length; i++) {
-    let reg = RegExp( fromArray[i], "gmu" );
-    str = str.replace( reg, toArray[i] )
+    let from = fromArray[i].replace( /\s/gu, "");
+    let to = toArray[i].replace( /\s/gu, "");
+    let reg = RegExp( from, "gu" );
+    str = str.replace( reg, to )
   }
   return str;
 }
@@ -323,7 +351,6 @@ function defaults() {
   }
   document.getElementById("fromSyr").checked = true;
 }
-
 
 </script>
 </body>
