@@ -339,6 +339,12 @@ function convert() {
   }
   let result = multipleReplace (input.value, arrFrom, arrTo);
   document.getElementById("myOutput").value = result;
+
+  input.focus();
+  let textarea = document.getElementById("myInput");
+  textarea.scrollTop = 0;
+  input.setSelectionRange(0,0);
+
 }
 
 function copyToClipboard() {
@@ -393,6 +399,7 @@ function defaults() {
   = ["right", "left"];
 
 }
+
 
 </script>
 </body>
