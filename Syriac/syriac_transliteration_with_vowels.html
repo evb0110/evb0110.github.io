@@ -218,11 +218,11 @@ label
 
 
 <span style="background-color:#e6ffe6" class="center"  id="direction"> 
-  <span onchange="chooseDirection()">
+  <span id="chooseDir" onchange="chooseDirection()">
      <b style="font-size:20px">  
   <input class="form-radio" id="fromSyr" type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
-  <input class="form-radio" type="radio" name="dir" value="toSyriac">
+  <input class="form-radio" id="toSyr" type="radio" name="dir" value="toSyriac">
       To Syriac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span>
   
@@ -421,6 +421,7 @@ let input = document.getElementById("myInput");
 input.focus();
 
 function chooseDirection() {
+  vowelsControl();
   for (let i = 0; i < alphabetLength; i++) {
     arrFrom[i] = document.getElementById(i+idFrom).value;
     arrTo[i] = document.getElementById(i+idTo).value;
@@ -512,6 +513,7 @@ function vowelsSetFlag() {
   if (document.getElementById("vowels").checked == true){
     vowelsFlag = true;
   }
+  vowelsControl();
 }
 
 function vowelsReplace(result, vowels) {
@@ -555,7 +557,6 @@ function vowelsInit() {
     0x0739:"ē", //  rbasa karya
     0x073A:"i", //  hbasa above
     0x073B:"i", //  hbasa below
-    0x073B:"i", //  hbasa below
     0x073C:"i", //  hbasa esasa dotted
     0x073D:"u", //  esasa above
     0x073E:"u", //  esasa below
@@ -566,6 +567,11 @@ function vowelsInit() {
 
 }
 
+function vowelsControl() {
+  if (document.getElementById("toSyr").checked) {
+   document.getElementById("vowels").checked = false; 
+  }
+}
 
 </script>
 </body>
