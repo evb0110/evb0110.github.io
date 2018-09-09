@@ -123,6 +123,50 @@ html {
     font-weight: 900;
     transform: translateY(2px);
 }
+.form-radio
+{
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     display: inline-block;
+     position: relative;
+     background-color: #d9d9d9;
+     color: #666;
+     top: 10px;
+     height: 30px;
+     width: 30px;
+     border: 0;
+     border-radius: 50px;
+     cursor: pointer;     
+     margin-right: 7px;
+     outline: none;
+}
+.form-radio:checked::before
+{
+     position: absolute;
+     font: 19px/1 'Open Sans', sans-serif;
+     font-weight: 700;
+     left: 9px;
+     top: 5px;
+     content: '\02143';
+     transform: rotate(40deg);
+}
+.form-radio:hover
+{
+     background-color: #e6e6e6;
+}
+.form-radio:checked
+{
+     background-color: #00b300;
+     color: white;
+}
+label
+{
+     font: 300 16px/1.7 'Open Sans', sans-serif;
+     color: #666;
+     cursor: pointer;
+} 
+
 </style>
 
 </head>
@@ -137,13 +181,14 @@ html {
 
 
 <span style="background-color:#e6ffe6" class="center" id="direction" onchange="chooseDirection()">
-     <b>  
-  <input id="fromSyr" type="radio" name="dir" value="fromSyriac" checked>
+     <b style="font-size:20px">  
+  <input class="form-radio" id="fromSyr" type="radio" name="dir" value="fromSyriac" checked>
       From Syriac &nbsp;&nbsp;
-  <input type="radio" name="dir" value="toSyriac">
+  <input class="form-radio" type="radio" name="dir" value="toSyriac">
       To Syriac 
      </b>
 </span> 
+<br>
   
 <button 
    id="myBtn" 
