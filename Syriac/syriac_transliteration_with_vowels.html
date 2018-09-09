@@ -1,0 +1,571 @@
+<head>
+
+<title>Syriac Translit</title>
+
+<meta property="og:image" content="https://evb0110.github.io/Syriac/trans.jpg" />
+
+<style>
+html {
+  overflow-y: scroll;
+}
+.header {
+    background-color: lightgray;
+    border: none;
+    color: black;
+    padding: 17px 0px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    font-size: 36px;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.element {
+    background-color: white;
+    border: none;
+    padding: 1px 0px;
+    display: block;
+    text-align: center;
+    font-size: 36px;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.keyboard {
+    background-color: white;
+    border: none;
+    padding: 5px 0px;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.center {
+    background-color: white;
+    border: none;
+    padding: 2px 0px;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.button {
+    background-color: #00b300;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 550;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.1), 0 3px 3px 0 rgba(0,0,0,0.1);
+    background-color: #00b300;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    font-weight: 900;
+    transform: translateY(2px);
+}
+.button1 {
+    background-color: #cc6600;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 550;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1:hover {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.1), 0 3px 3px 0 rgba(0,0,0,0.1);
+    background-color: #cc6600;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1:active {
+    background-color: #994d00;
+    box-shadow: 0 2px #666;
+    font-weight: 900;
+    transform: translateY(2px);
+}
+.form-radio
+{
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     display: inline-block;
+     position: relative;
+     background-color: #d9d9d9;
+     color: #666;
+     top: 10px;
+     height: 30px;
+     width: 30px;
+     border: 0;
+     border-radius: 50px;
+     cursor: pointer;     
+     margin-right: 7px;
+     outline: none;
+}
+.form-radio:checked::before
+{
+     position: absolute;
+     font: 19px/1 'Open Sans', sans-serif;
+     font-weight: 700;
+     left: 9px;
+     top: 5px;
+     content: '\02143';
+     transform: rotate(40deg);
+}
+.form-radio:hover
+{
+     background-color: #e6e6e6;
+}
+.form-radio:checked
+{
+     background-color: #00b300;
+     color: white;
+}
+.form-checkbox
+{
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     display: inline-block;
+     position: relative;
+     background-color: #d9d9d9;
+     color: #666;
+     top: 10px;
+     height: 28px;
+     width: 28px;
+     border: 0;
+     border-radius: 4px;
+     cursor: pointer;     
+     margin-right: 7px;
+     outline: none;
+}
+.form-checkbox:checked::before
+{
+     position: absolute;
+     font: 19px/1 'Open Sans', sans-serif;
+     font-weight: 700;
+     left: 7px;
+     top: 5px;
+     content: '\02143';
+     transform: rotate(40deg);
+}
+.form-checkbox:hover
+{
+     background-color: #e6e6e6;
+}
+.form-checkbox:checked
+{
+     background-color: #00b300;
+     color: white;
+}
+label
+{
+     font: 300 16px/1.7 'Open Sans', sans-serif;
+     color: #666;
+     cursor: pointer;
+} 
+
+</style>
+
+</head>
+<body bgcolor="#e6ffe6">
+
+<meta charset="UTF-8">
+
+<h2 id="dictName" class="header"> 
+  Syriac Transliteration
+</h2>
+
+
+
+<span style="background-color:#e6ffe6" class="center"  id="direction"> 
+  <span onchange="chooseDirection()">
+     <b style="font-size:20px">  
+  <input class="form-radio" id="fromSyr" type="radio" name="dir" value="fromSyriac" checked>
+      From Syriac &nbsp;&nbsp;
+  <input class="form-radio" type="radio" name="dir" value="toSyriac">
+      To Syriac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>
+  
+  <span onchange="vowelsSetFlag()">
+  <input 
+       class="form-checkbox"
+       type="checkbox" 
+       id="vowels"  
+  /> Preserve vowels
+     </b>
+  </span>
+</span> 
+
+
+<br>
+<br>
+  
+<button 
+   id="myBtn" 
+   class="button1"
+   onclick="convert()"
+>
+     Convert
+</button>
+<button 
+   id="copy" 
+   class="button"
+   style="
+    position: absolute;
+    left: 13%;
+    float:right;"
+   onclick="clearAll()"
+>
+     Clear All
+</button>
+<button 
+   id="copy" 
+   class="button"
+   style="
+    position: absolute;
+    left: 26%;
+    float:right;"
+   onclick="defaults()"
+>
+     Defaults
+</button>
+
+
+
+<button 
+   id="copy" 
+   class="button"
+   style="
+    position: absolute;
+    right: 17.5%;
+    float:right;"
+   onclick="copyToClipboard()"
+>
+     Copy to clipboard 
+</button>
+
+<br>
+
+  
+<textarea 
+   id="myInput" 
+   rows="8" 
+   cols="45"
+   style="font-size:14pt;
+          text-align:right;
+	  width:49.5%;
+	  max-width:49.5%;
+	  max-height:30%;
+	  resize:none"
+   placeholder='Change the conversion direction if needed, type or paste the text and press "Convert"'
+   value = ""
+></textarea>
+
+<textarea 
+   id="myOutput" 
+   rows="8" 
+   cols="45"
+   style="font-size:14pt;
+          float:right;
+          text-align:left;
+	  width:49.5%;
+	  max-width:49.5%;
+	  max-height:30%;
+	  resize:none" 
+   value = ""
+></textarea>
+<p><b>You can edit the table of substitutions. <br> It is safe to use lowercase and uppercase English letters (e.g. T for ṭ or a for ʔ), but <u>not</u> special symbols (e.g. ( for ʕ or $ for š).</b></p>
+
+<textarea id="0"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="1"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="2"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="3"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="4"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="5"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="6"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="7"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="8"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="9"  rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="10" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="11" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="12" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="13" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="14" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="15" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="16" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="17" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="18" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="19" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="20" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="21" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="22" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="23" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="24" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="25" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="26" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+
+<br>
+
+<textarea id="100" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="101" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="102" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="103" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="104" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="105" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="106" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="107" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="108" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="109" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="110" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="111" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="112" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="113" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="114" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="115" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="116" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="117" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="118" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="119" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="120" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="121" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="122" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="123" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="124" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="125" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+<textarea id="126" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
+
+
+  
+<p 
+   id="output" 
+   style="
+      font-size:15pt; 
+      padding-left:0%;
+      padding-right:0%;
+      text-align: left;
+      width: 98%;
+      margin-left:auto;
+      margin-right:auto;"
+>
+</p>
+
+
+
+<script>
+
+const alphabetLength = 27;
+let vowelsFlag = false;
+let vowels = vowelsInit();
+
+let translit = "ʔbgGdhYwzḥṭyklmnsSʕpPṣqrRšt";
+let grafika  = "ܐܒܓܔܕܗܞܘܙܚܛܝܟܠܡܢܣܤܥܦܧܨܩܪܖܫܬ";
+
+
+let idFrom = 0;
+let idTo = 100;
+
+fillWithLetters(grafika, idFrom);
+fillWithLetters(translit, idTo);
+
+let arrFrom = [];
+let arrTo = [];
+let arrFrom0 = [];
+let arrTo0 = [];
+
+for (let i = 0; i < alphabetLength; i++) {
+  arrFrom0[i] = document.getElementById(i+idFrom).value;
+  arrTo0[i] = document.getElementById(i+idTo).value;
+}
+
+let input = document.getElementById("myInput");
+input.focus();
+
+function chooseDirection() {
+  for (let i = 0; i < alphabetLength; i++) {
+    arrFrom[i] = document.getElementById(i+idFrom).value;
+    arrTo[i] = document.getElementById(i+idTo).value;
+    [arrFrom[i],arrTo[i]] = [arrTo[i],arrFrom[i]];
+    document.getElementById(i+idFrom).value = arrFrom[i];
+    document.getElementById(i+idTo).value = arrTo[i];
+  }
+    [
+      document.getElementById("myInput").style.textAlign,
+      document.getElementById("myOutput").style.textAlign,
+    ]
+    =
+    [
+      document.getElementById("myOutput").style.textAlign,
+      document.getElementById("myInput").style.textAlign,
+    ];
+   clearAll();
+}
+
+function convert() {
+  for (let i = 0; i < alphabetLength; i++) {
+    arrFrom[i] = document.getElementById(i+idFrom).value;
+    arrTo[i] = document.getElementById(i+idTo).value;
+  }
+  let result = input.value;
+  result = clean(result);
+  result = multipleReplace (result, arrFrom, arrTo);
+  if (vowelsFlag) { 
+    result = vowelsReplace(result, vowels) 
+  }
+  document.getElementById("myOutput").value = result;
+
+  input.focus();
+  let textarea = document.getElementById("myInput");
+  textarea.scrollTop = 0;
+  input.setSelectionRange(0,0);
+
+}
+
+function copyToClipboard() {
+  let textarea = document.getElementById("myOutput");
+  textarea.select();
+  document.execCommand("copy");
+}
+
+function fillWithLetters(letters, idx) {
+  let letter = letters.split("");
+  for (let i=0; i<letter.length; i++) {
+    document.getElementById(i+idx).value = 
+             letter[i];
+  }
+}
+
+function multipleReplace( str, fromArray, toArray ) {
+  if (fromArray.length != toArray.length) {
+    console.log("Arrays of different length in multipleReplace");
+    return;
+  }
+  for (let i=0; i<fromArray.length; i++) {
+    let from = fromArray[i].replace( /\s/g, "");
+    let to = toArray[i].replace( /\s/g, "");
+    let reg = RegExp( from, "g" );
+    str = str.replace( reg, to )
+  }
+  return str;
+}
+
+function clearAll() {
+  document.getElementById("myInput").value = "";
+  document.getElementById("myOutput").value = "";
+}
+
+function defaults() {
+  for (let i = 0; i < alphabetLength; i++) {
+    document.getElementById(i+idFrom).value = arrFrom0[i];
+    document.getElementById(i+idTo).value = arrTo0[i];
+  }
+  document.getElementById("fromSyr").checked = true;
+  [
+    document.getElementById("myInput").style.textAlign,
+    document.getElementById("myOutput").style.textAlign,
+  ]
+  = ["right", "left"];
+
+}
+
+function vowelsSetFlag() {
+  vowelsFlag = false;
+  if (document.getElementById("vowels").checked == true){
+    vowelsFlag = true;
+  }
+}
+
+function vowelsReplace(result, vowels) {
+  let arrFrom = Object.keys(vowels); 
+  arrFrom = arrFrom.map(s => String.fromCharCode(s));
+  let arrTo = Object.values(vowels);
+
+  result = multipleReplace (result, arrFrom, arrTo);
+  return result;
+
+}
+
+function clean(str) {
+  let myVowels = "";
+  if (vowelsFlag) {
+    myVowels = Object.keys(vowels).map(s => String.fromCharCode(s)).join("");
+  }
+  let otherReg = "[^" + 
+                 arrFrom.join("") +
+                 myVowels +
+                 "\\s\\n\\d\\.:<>\\{\\}\\(\\)#" + 
+                 "]";
+  otherReg = RegExp(otherReg, "g");
+  str = str.replace( otherReg, "" );
+  return str;
+
+
+}
+
+function vowelsInit() {
+  let vowels = {
+    0x0730:"a", //  pthaha above
+    0x0731:"a", //  pthaha below
+    0x0732:"a", //  pthaha dotted
+    0x0733:"ā", //  zqapha above
+    0x0734:"ā", //  zqapha below
+    0x0735:"ā", //  zqapha dotted
+    0x0736:"e", //  rbasa above
+    0x0737:"e", //  rbasa below
+    0x0738:"e", //  zlama horizontal
+    0x0739:"ē", //  rbasa karya
+    0x073A:"i", //  hbasa above
+    0x073B:"i", //  hbasa below
+    0x073B:"i", //  hbasa below
+    0x073C:"i", //  hbasa esasa dotted
+    0x073D:"u", //  esasa above
+    0x073E:"u", //  esasa below
+    0x073F:"o", //  rwaha
+		   };
+
+  return vowels;
+
+}
+
+
+</script>
+</body>
