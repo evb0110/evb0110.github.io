@@ -66,7 +66,7 @@ html {
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
-    font-weight: 550;
+    font-weight: 600;
     margin: 4px 2px;
     cursor: pointer;
 }
@@ -99,7 +99,7 @@ html {
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
-    font-weight: 550;
+    font-weight: 600;
     margin: 4px 2px;
     cursor: pointer;
 }
@@ -393,12 +393,9 @@ function convert() {
   let result = multipleReplace (input.value, arrFrom, arrTo);
   document.getElementById("myOutput").value = result;
 
-  input.focus();
-  let textarea = document.getElementById("myInput");
-  textarea.scrollTop = 0;
-  input.setSelectionRange(0,0);
-
+  inputToTop();
 }
+
 
 function copyToClipboard() {
   let textarea = document.getElementById("myOutput");
@@ -437,6 +434,7 @@ function multipleReplace( str, fromArray, toArray ) {
 function clearAll() {
   document.getElementById("myInput").value = "";
   document.getElementById("myOutput").value = "";
+  input.focus();
 }
 
 function defaults() {
@@ -450,8 +448,15 @@ function defaults() {
     document.getElementById("myOutput").style.textAlign,
   ]
   = ["right", "left"];
-
+  clearAll();
 }
+
+function inputToTop() {
+  input.focus();
+  input.scrollTop = 0;
+  input.setSelectionRange(0,0);
+}  
+
 
 
 </script>
