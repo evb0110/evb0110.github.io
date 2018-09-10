@@ -402,6 +402,7 @@ function search() {
 
 function main(regSearch, regYes, regNo){
   regYes = regYes.map(s => RegExp(s, "gmu"));
+  regNo = regNo.map(s => RegExp(s, "gmu"));
   if (regSearch){
     flagSearch = "g" + flagMultiline + "u";
     regSearch = RegExp(regSearch, flagSearch);

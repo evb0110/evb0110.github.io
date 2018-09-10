@@ -330,10 +330,10 @@ input.addEventListener("keyup",
 let stem = document.getElementById("stem");
 
 
-function changeTable(){
+function changeTable() {
   input.focus();
-  for (let stemmy of stems){
-    switch (stem.elements[stemmy].value){ 
+  for (let stemmy of stems) {
+    switch (stem.elements[stemmy].value) { 
       case "yes":
     document.getElementById(stemmy).style.backgroundColor = "#00ff00";  
         break;
@@ -348,9 +348,9 @@ function changeTable(){
   }
 }
   
-function clearAll(){
+function clearAll() {
   input.focus();
-  for (let stemmy of stems){
+  for (let stemmy of stems) {
     stem.elements[stemmy].value = "any";
     document.getElementById(stemmy).style.backgroundColor = "";  
   }
@@ -360,11 +360,11 @@ function clearAll(){
   
 }
 
-function multiline(){
+function multiline() {
   input.focus();
   flagMultiline = "m";
   let checkBox = document.getElementById("multiline");
-  if (!(checkBox.checked)){ flagMultiline = "" }
+  if (!(checkBox.checked)) { flagMultiline = "" }
 }
 
 
@@ -372,9 +372,9 @@ function search() {
   let regSearch;
   let regYes = [];
   let regNo = [];
-  for (let stemmy of stems){
+  for (let stemmy of stems) {
     stemReady = "^" + stemmy.replace( /\(/, "\\(" ).replace( /\)/, "\\)" ) + " ";
-    switch (stem.elements[stemmy].value){ 
+    switch (stem.elements[stemmy].value) { 
       case "any": 
         break;
       case "yes":
@@ -385,7 +385,7 @@ function search() {
         break
     }
   }
-  if (input.value){
+  if (input.value) {
     regSearch = input.value;
   }
   input.focus();
@@ -393,16 +393,17 @@ function search() {
        (regYes.length == 0) &&  
        (regNo.length == 0) &&
        (!(regSearch))
-     ){
+     ) {
     document.getElementById("output").innerHTML = '';
     return;
   }
   main(regSearch, regYes, regNo);
 }
 
-function main(regSearch, regYes, regNo){
+function main(regSearch, regYes, regNo) {
   regYes = regYes.map(s => RegExp(s, "gmu"));
-  if (regSearch){
+  regNo = regNo.map(s => RegExp(s, "gmu"));
+  if (regSearch) {
     flagSearch = "g" + flagMultiline + "u";
     regSearch = RegExp(regSearch, flagSearch);
     regYes.unshift(regSearch);
@@ -419,31 +420,30 @@ function main(regSearch, regYes, regNo){
   document.getElementById("output").innerHTML = output.join("<br><br><br>");
 }
 
-function greppyArray( arr, regYes, regNo ){
+function greppyArray( arr, regYes, regNo ) {
   let output = [];
-  for (let el of arr){
+  for (let el of arr) {
     let flag = true;
-    for (let reg of regYes){
+    for (let reg of regYes) {
       let testy = (el.search(reg) > -1);
-      if (!testy){
+      if (!testy) {
         flag = false;
         break;
       }
     }
-    for (let reg of regNo){
+    for (let reg of regNo) {
       let testy = (el.search(reg) > -1);
-      if (testy){
+      if (testy) {
         flag = false;
         break;
       }
     }
     if (flag) {
-      for (reg of regYes){
+      for (reg of regYes) {
         el = el.replace(reg, redbold.join("$&"));
       }
       output.push(el);
     }
-
   }
   return output;
 }
