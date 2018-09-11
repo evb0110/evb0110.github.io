@@ -3635,7 +3635,7 @@ I(7) zornig werden
 
 ḳḥḥ
 arab.
-husten
+I husten
 
 
 ḳḥm
@@ -3664,7 +3664,7 @@ II umstülpen
 
 ḳlf
 aram.
-schälen
+II schälen
 
 
 ḳll
@@ -3781,7 +3781,7 @@ I mit den Fingern zerreiben
 
 ḳrm1
 arab. / aram. ?
-den Hals umdrehen
+I den Hals umdrehen
 
 
 ḳrnṣ
@@ -3997,7 +3997,7 @@ I(7) entfernt werden
 
 ḳwr3
 arab.
-aushöhlen
+II aushöhlen
 
 
 ḳws / ḳwṣ
@@ -4177,7 +4177,7 @@ I wegwerfen
 
 lḥy
 aram.
-beschimpfen
+II beschimpfen
 
 
 lky
@@ -4494,12 +4494,12 @@ I(7) geschlagen werden
 
 mlḥ
 aram.
-salzen
+II salzen
 
 
 mlk2
 arab.
-besitzen
+IV besitzen
 
 
 mls1
@@ -4547,7 +4547,7 @@ II pflegen (Wunden, Kranke)
 
 mrġ
 arab.
-beschmieren
+I beschmieren
 
 
 mrḥ
@@ -4735,7 +4735,7 @@ II unterscheiden
 
 mzḥ
 arab.
-scherzen
+I scherzen
 
 
 mzṭ
@@ -6559,7 +6559,7 @@ I hin- und herziehen
 
 šḥṯ
 ?
-ergreifen
+I ergreifen
 
 
 šḥṭ
@@ -6771,7 +6771,7 @@ I aufschlitzen
 
 šrr2
 aram. ?
-heraustropfen
+I heraustropfen
 
 
 šrṭ
@@ -7051,7 +7051,2266 @@ III sich mit jmdm. versöhnen
 IV jdn versöhnen
 I(8) sich miteinander versöhnen
 II(2) repariert werden
-III(2) sich mit jemandem versöhnen`;
+III(2) sich mit jemandem versöhnen
+
+
+ṣlṭ
+arab.
+II sich beugen
+
+
+ṣlx
+arab.
+I abhäuten
+
+
+ṣly1
+aram.
+II beten
+II(2) gebeten werden
+
+
+ṣly2
+arab.
+I (tr.) braten, rösten
+IV beschießen
+
+
+ṣmč
+arab.
+I schweigen
+II zum Schweigen bringen
+
+
+ṣmt
+arab.
+I ausstellen
+II aufheben
+I(7) präsentiert werden
+
+
+ṣmṯ
+arab.
+I schweigen
+
+
+ṣmṭ
+arab.
+II einen Ausschlag and den Genitalen haben
+
+
+ṣnʕ
+arab.
+I herstellen
+II herstellen
+
+
+ṣnpʕ
+arab.
+I sich in einer Reihe aufstellen
+
+
+ṣrʕ
+arab.
+III ringen
+III(2) miteinander ringen
+
+
+ṣrf1
+aram. ?
+IV brünstig sein
+
+
+ṣrf2
+arab.
+II verdauen
+
+
+ṣrr
+aram. / arab.
+I zubinden
+
+
+ṣrx
+arab.
+I schreien
+
+
+ṣty1
+aram.
+II rosten
+
+
+ṣty2
+arab.
+IV überlisten
+
+
+ṣṭḥ
+arab.
+I zum Trocknen ausbreiten
+II sich hinlegen
+
+
+ṣṭl
+arab.
+I(7) verrückt werden
+
+
+ṣwl
+aram. / arab.
+II (Weizen) im Sieb oder im Wasser reinigen / waschen
+II(2) gesäubert werden
+
+
+ṣwm
+aram.
+I fasten
+
+
+ṣwr1
+aram. / arab.
+II abbilden, photographieren
+II(2) sich denken
+
+
+ṣwt1 / ṣwṭ
+arab.
+II rufen
+II(2) berühmt werden
+
+
+ṣwy1
+arab.
+IV heulen (Tier)
+
+
+ṣwžr
+?
+I warten ((??Existiert dieses Wort?))
+
+
+ṣxr2
+arab.
+IV verspotten
+
+
+ṣxr3
+arab.
+I rieseln lassen
+
+
+ṣyb
+arab.
+II zielen
+IV wiederfahren
+III(2) getroffen werden
+I(7) getroffen werden
+
+
+ṣyf
+arab.
+II den Sommer verbringen
+
+
+ṣyġ
+arab.
+II Schmuch machen lassen
+
+
+ṣyḥ
+arab.
+IV schreien
+
+
+tʕs
+arab.
+I treten
+
+
+tʕtʕ
+arab. ?
+I verdauen
+
+
+tʕṯr
+arab.
+I straucheln (Pferd)
+
+
+tʕws
+?
+I mit den Füßen stampfen
+
+
+tʕy
+arab.
+I einladen
+IV rufen
+I(7) eingeladen sein / werden
+
+
+tbb
+arab.
+I kriechen, kauern
+
+
+tbč
+arab.
+I den Reigen tanzen
+
+
+tbk
+arab,
+I den Reigen tanzen
+
+
+tbr
+arab.
+II organisieren
+
+
+tbš1
+arab.
+I (Tür) schließen
+
+
+tčč
+arab.
+I die Flinte mit Pulver stopfen
+
+
+tfʕ
+arab.
+I zahlen
+III verteidigen
+
+
+tfn1
+arab.
+I mit Erde bedecken
+
+
+tfr
+arab.
+I hinaustreiben
+II beseitigen
+II(2) verstoßen werden
+
+
+tfš
+arab.
+I stoßen
+II wergstoßen
+
+
+thy
+arab.
+IV überlisten
+
+
+tḥbl
+arab.
+I sich überschlagen
+
+
+tḥkl
+aram. / arab. ?
+I intr. (hinunter)rollen
+
+
+tḥl
+?
+I passen
+
+
+tḥrž
+arab.
+I (hinunter)rollen
+
+
+tḥš
+arab.
+I hineinstecken
+
+
+tḥy
+arab.
+I mästen
+
+
+tkk
+arab.
+I die Flinte mit Pulver stopfen
+
+
+tḳḳ +
+aram. / arab.
+I klopfen
+I(7) geklopft werden
+
+
+tḳr
+aram.
+I stoßen
+I(7) entriegelt werden
+
+
+tlč
+arab.
+I einreiben
+
+
+tlfn
+türk. < frz.
+I telephonieren
+
+
+tlḳ
+arab.
+(intr.) auslaufen
+
+
+tll2
+arab.
+I führen
+II verwöhnen
+IV führen
+II(2) verwöhnt sein
+I(7) (hin)geführt werden
+
+
+tmm
+arab.
+II vollenden
+
+
+tmr
+arab.
+II zerstören
+II(2) vernichtet werden
+
+
+tnč1
+türk. ?
+II Tabakrauch inhalieren
+
+
+tntl
+?
+I schwingen
+
+
+tps1
+arab.
+II Traubenhonig herstellen / kochen
+
+
+tpš1
+aram.
+II wimmeln (Insekten)
+
+
+trb
+arab.
+II üben lassen
+
+
+trk1
+arab.
+zurücklassen
+
+
+trk2
+arab.
+IV erkennen
+
+
+trkl
+türk. / aram. ?
+I (intr.) (hinunter)rollen
+
+
+trpl
+arab.
+I verschmelzen
+
+
+trs1
+arab.
+I lernen
+II unterrichten
+
+
+trt / ṭrt
+arab.
+III weglaufen
+
+
+trtb
+?
+I galoppieren
+
+
+trwš
+arab.
+I(2) sich als Derwisch verkleiden
+
+
+try
+arab.
+I plötzlich...
+II (Tiere) abrichten
+III gut behandeln
+IV plötzlich...
+IV ?
+
+
+trz1
+arab.
+I nähen
+
+
+trž / trǧ
+arab.
+I sich ausbreiten
+
+
+tss
+arab.
+I beimischen
+
+
+tšr / ṭšr +
+arab.
+II lassen
+II(2) stehengelassen werden (Milch zum Abkühlen)
+
+
+twḥ
+arab.
+II schleudern
+
+
+twm
+arab.
+I dauern
+
+
+twr +
+aram. / arab.
+I die Runde machen
+II umgergehen
+IV drehen
+I(7) herumgehen
+
+
+tws
+arab.
+I hingehen
+II treten
+
+
+twtn
+?
+I (intr.) drücken
+
+
+twtx
+arab.
+I(2) taumeln
+
+
+twx
+arab.
+I schwanken
+II schwindelig machen
+
+
+twy1
+arab.
+III Geburtshilfe leisten
+
+
+twy2
+arab.
+III medizinisch behandeln
+
+
+txl +
+arab.
+I hineingehen
+II hineinbringen
+II(2) einschreiten
+
+
+txn
+arab.
+II rauchen
+
+
+tyn
+arab.
+I verurteilen
+II Geld verleihen
+IV verurteilen
+I(7) gerichtet werden
+
+
+tǧn
+arab.
+I eine dunkle Farbe bekommen
+
+
+ṯbč
+arab.
+IV stabil sein
+
+
+ṯḳl
+aram.
+I tr. (etwas) wiegen
+
+
+ṯḳn +
+aram.
+I sein, werden
+I(7) ?
+
+
+ṯmn
+arab.
+II abschätzen
+
+
+ṯny1
+aram.
+IV wiederholen
+
+
+ṯwr3
+arab.
+I aufkommen
+
+
+ṯwy
+arab.
+II begraben
+
+
+ṯyb
+aram.
+IV erbrechen
+
+
+ṭʕm
+aram. / aram.
+IV füttern
+
+
+ṭʕn +
+aram.
+I tragen
+II tragen lassen
+I(7) getragen werden
+
+
+ṭʕž
+arab.
+I (Teig) auswalzen
+I(7) ausgewalzt werden (Teig)
+
+
+ṭbʕ
+arab.
+I drucken
+II abrichten
+I(7) gedruckt werden
+
+
+ṭbb1
+arab.
+I stürzen
+
+
+ṭbb2
+arab.
+II medizinisch behandeln
+
+
+ṭbḳ2
+arab.
+I schließen
+II zusammensetzen (Gewehr)
+II übereinanderstapeln
+
+
+ṭbl1
+aram. / arab.
+II trommeln
+
+
+ṭbl3
+arab.
+II umrühren
+
+
+tbš1
+arab.
+II tappen
+
+
+ṭbṭb
+arab.
+I auf die Schulter klopfen
+
+
+tfl1
+aram. / arab.
+I begraben
+
+
+ṭfr2
+arab.
+davonschießen
+II fliegen lassen
+
+
+ṭfš
+arab.
+I fliehen
+II in die Flucht schlagen
+
+
+ṭfy
+aram.
+I intr. ausgehen (Feuer, Motor)
+II löschen (Feuer, Licht)
+IV (intr.) erlöschen
+
+
+ṭġy
+arab.
+IV verführen
+I(7) verführt werden ?
+
+
+ṭhr
+arab.
+II reinigen
+
+
+ṭḥn
+aram.
+I mahlen
+I(7) gemahlen werden
+
+
+ṭḳḳ
+arab.
+I platzen
+
+
+ṭḳṭḳ
+arab.
+I knistern
+
+
+ṭlb +
+arab.
+I verlangen
+II(2) verlsngt werden
+I(7) (an)gefordert werden
+
+
+ṭlḳ
+arab.
+II (die Ehefrau) verstoßen
+IV zielen, feuern
+
+
+ṭll
+arab.
+IV erscheinen
+
+
+ṭmʕ
+arab.
+III Verlangen verspüren
+IV von der Gier gepackt werden
+
+
+ṭmm
+arab.
+I bedekken, zudecken
+
+
+ṭmn
+arab.
+II beruhigen
+II(2) sich Gewißheit verschaffen
+
+
+ṭmr
+ara.
+I verstecken
+I(7) versteckt werden
+
+
+ṭmṣ
+arab.
+II die Augen schließen
+
+
+ṭnn
+arab.
+IV intr. klingeln
+
+
+ṭrf1
+aram.
+I schlagen (Sahne, Traubenhonig)
+
+
+ṭrḥ
+arab.
+I vorlegen
+IV eine Fehlgeburt haben
+I(7) gefesselt sein
+
+
+ṭrḳ
+arab.
+I schlagen
+
+
+ṭrmx
+?
+brummen
+
+
+ṭrr2
+arab.
+I(8) zwingen
+
+
+ṭrš1
+aram.
+I säen
+
+
+ṭrt
+arab. / aram.
+I hinauswerfen
+III angreifen
+I(7) hinausgeworfen werden
+
+
+ṭry
+arab.
+II einweichen
+
+
+ṭrz
+arab.
+II sticken
+
+
+ṭšš ?
+?
+I Naǧla nochmals fragen ?
+
+
+ṭwʕ
+arab.
+II sich unterwerfen
+
+
+ṭwf1
+aram.
+IV fluten
+
+
+ṭwf2
+arab.
+I umhergehen
+IV umhergehen
+
+
+ṭwḥ
+arab.
+I flattern
+II umhergehen
+IV springen
+
+
+ṭwḳ
+arab.
+II einschließen
+
+
+ṭwl1
+arab.
+I lang sein / werden
+II verlängern
+III(2) sich in die Länge ziehen
+
+
+ṭwr2
+I fliegen
+II fliegen lassen
+
+
+ṭwr3
+arab.
+II(2) sich entwickeln
+
+
+twš
+arab.
+IV vorübergehend taub machen
+
+
+ṭwṭḥ
+I hin und her schwingen
+
+
+ṭwṭr
+?
+I (an einem Seil) hinunterlassen
+
+
+ṭwy
+arab.
+IV biegen
+
+
+ṭxx / txx
+?
+I sich bücken
+
+
+ṭyb
+arab.
+II heilen
+
+
+ṭyn
+aram.
+II mit Lehm überziehen
+II(2) gestrichen werden
+
+
+ṭžž
+?
+I klatschen
+
+
+wʕḏ̣
+arab.
+IV christl. predigen
+
+
+wʕt2
+arab.
+IV sein Wort geben
+III(2) einen Termin vereinbaren
+
+
+wʕy
+arab.
+II sich erinnern
+IV reifer werden (Kind)
+II(2) sich in acht nehmen
+
+
+wʕẓ
+arab.
+IV predigen
+
+
+wčʕ
+arab.
+IV weh tun, schmerzen
+
+
+wčl
+arab.
+II vertrauen ?
+II(2) vertrauen
+I(7) betraut werden
+
+
+wčr
+arab.
+II Zuflucht finden
+
+
+wčt
+arab.
+II sich vergewissern
+
+
+wḏn
+arab.
+II zum Gebet (in die Moschee) rufen
+
+
+wḏ̣f
+arab.
+II(2) angestellt werden
+
+
+wḏ̣ḥ
+arab.
+II(2) klar sein
+
+
+wḏ̣y1
+arab.
+II die muslim. religiösen Waschungen verrichten
+II(2) die muslim. religiösen Waschungen durchführen
+
+
+wfḳ
+arab.
+II versöhnen
+III zustimmen
+I(8) zustimmen
+
+
+wfr
+arab.
+II sparen
+
+
+wfy
+arab.
+IV bezahlen
+II(2) sterben
+I(10) loskommen
+
+
+wġy
+aram.
+IV treiben
+IV(2) getrieben werden
+I(7) getrieben werden
+
+
+whb
+arab.
+IV schenken
+
+
+wḥš
+arab.
+II(2) wild werden
+I(10) verwildern
+
+
+wḥt
+arab.
+II die Einheit Gottes bezeugen
+II(2) vereinheitlich werden
+
+
+wḥy
+arab.
+IV offenbaren
+II(2) inspiriert werden
+
+
+wkʕ1
+arab.
+IV weh tun, schmerzen
+
+
+wkl
+aram. ?
+IV ? (gibt es dieses Wort?)
+
+
+wkl
+arab.
+II beauftragen
+I(8) sich verlassen
+
+
+wkt
+arab.
+II zusichern
+
+
+wḳʕ
+arab.
+II unterschreiben lassen
+
+
+wḳf +
+arab.
+II hinstellen
+IV stehen
+
+
+wḳt
+arab.
+II (jmdn. mit Worten) drängen
+IV heizen
+
+
+wlʕ
+arab.
+II entzünden
+II(2) zugetan sein
+
+
+wlf
+arab.
+II in Bereitschaft setzen
+
+
+wlš
+?
+II beauftragen
+
+
+wlt
+arab.
+II Geburtshilfe leisten
+
+
+wlwl
+arab.
+I jammern
+
+
+wly1
+arab.
+II dahingehen (Zeit)
+
+
+wmy
+arab.
+IV zeigen
+
+
+wns
+arab.
+II jdn. zum Freund machen
+
+
+wpl
+aram.
+IV (mit einem Transportmittel) bringen
+
+
+wrʕ
+aram.
+II sich zerstreuen
+
+
+wrḳ1
+aram.
+IV grün werden
+
+
+wrḳ2
+arab.
+II Blätter (des Weinstocks) abpflücken
+
+
+wrt2
+arab.
+II liefern
+IV gelangen
+I(10) importieren
+
+
+wsʕ
+arab.
+II verbreitern
+
+
+wst
+?
+III(2) ?
+
+
+wsws
+arab.
+I aufgeregt sein
+
+
+wsx
+arab.
+II verschmutzen
+
+
+wšl
+arab.
+IV jmdn. ausnutzen
+
+
+wšwš
+arab.
+I flüstern
+I(2) flüstern
+
+
+wṣf
+arab.
+IV schildern
+
+
+wṣl
+arab.
+I(8) verbunden sein
+
+
+wṣṭ / wsṭ
+arab.
+II(2) vermitteln
+
+
+wṣy
+arab.
+I beauftragen
+
+
+wtʕ
+arab.
+II verabschieden
+IV (zur Weide) abliefern
+
+
+wṯḳ
+arab.
+I ? verlassen
+IV ? verlassen
+
+
+wṭn
+arab.
+I(10) sich niederlassen
+
+
+wṭy
+arab.
+II sich bücken
+III sich bücken
+
+
+wxḏ
+arab.
+II tadeln
+
+
+wxr
+arab.
+II zurückgehen
+
+
+wzʕ
+arab.
+II aufteilen
+II(2) verteilt werden
+
+
+wžʕ
+arab.
+II Schmerzen leiden
+I(8) Schmerzen haben
+
+
+wžb
+arab.
+II willkommen heißen
+
+
+wžh
+arab.
+II wenden
+III gegenübertreten
+II(2) sich wenden
+
+
+wžt
+arab.
+I ?
+I(7) gefunden werden
+
+
+wẓf
+arab.
+II jmdn. anstellen
+
+
+xbr
+arab.
+II informieren
+IV (Bescheid) wissen
+I(8) auf die Probe stellen
+I(10) herausfinden
+
+
+xbš
+aram. / arab. ?
+I ficken
+
+
+xbṣ
+arab. / aram. ?
+I mit den Füßen treten
+II jdn. treten
+
+
+xbṯ1
+arab.
+IV demütig sein
+
+
+xčm
+arab.
+I (mit Öl) ein Kreuz auf die Stirn machen
+IV den ganzen Koran rezitieren
+I(10) (beim Zuschlagen) treffen
+
+
+xdr
+arab.
+II betäuben
+
+
+xḏr
+aram. / arab. ?
+II steif werden
+
+
+xḏ̣ʕ
+arab.
+I ? untertan sein
+
+
+xḏ̣ḏ̣
+arab.
+I (Milch zu Buttermilch) schütteln
+
+
+xḏ̣r
+arab.
+I grünen
+
+
+xff2
+arab.
+II erleichtern
+IV nachlassen
+
+
+xfḳ
+arab.
+I umrühren
+
+
+xfn
+aram.
+I hungrig sein / werden
+IV hungern lassen
+
+
+xfr
+aram.
+I fluchen
+
+
+xfy1
+arab.
+I enthalten
+IV ausreichen
+
+
+xfy2
+arab.
+IV verheimlichen
+II(2) sich verkleiden
+I(8) verschwinden
+
+
+xḥl
+aram.
+I die Augenlider mit Antimon (schwarz) färben
+II die Augenlider mit Antimon (schwarz) färben
+
+
+xlʕ
+arab.
+I rütteln
+
+
+xlbṣ
+arab.
+I(2) verfilzen
+
+
+xlf
+arab.
+II (Nachkommen, Erben) hinterlassen
+III zuwiderhandeln
+II(2) (Erbe, Nachkommen) hinterlassen
+I(8) streiten
+
+
+xlḳ
+arab.
+I schaffen
+I geboren werden
+
+
+xlḳn
+arab.
+I(2) zornig sein
+
+
+xlmn1
+aram.
+I Läuse haben
+
+
+xlṣ
+arab.
+II befreien
+IV befreit werden
+II(2) erlöst werden
+
+
+xlṭ
+arab.
+I mischen
+II mischen
+
+
+xly2
+arab.
+II(2) sich zurückziehen
+I(8) sich leeren
+
+
+xmn1
+aram.
+II Kümmel geben
+
+
+xmn2
+arab.
+II meinen
+
+
+xmr
+arab.
+II aufgehen (Teig)
+IV Wein trinken
+II(2) sich verbergen
+I(8) aufgehen (Teig)
+
+
+xms
+arab.
+II fünffach machen
+
+
+xnč
+arab.
+I sich verstecken
+II ? sie wurde zu einer Frau
+
+
+xnfs
+aram./
+I lang werden (Federn der Vögel)
+
+
+xnš
+aram.
+I kehren
+
+
+xrʕ
+arab.
+I(8) neugemacht werden
+I(10) erfinden
+
+
+xrbṭ
+arab.
+I in Unordnung bringen
+
+
+xrfn
+arab.
+I verrückt werden
+I(2) dummes Zeug reden
+
+
+xrḥ
+aram.
+II brennen
+II(2) verbrannt werden
+
+
+xrm3
+arab.
+II durchbohren
+
+
+xrr
+arab.
+I plätschern
+
+
+xrṭ
+arab.
+I übertreiben
+
+
+xrž1
+arab.
+IV (Geld) ausgeben
+II(2) sich ausbilden lassen
+
+
+xsr / xṣr
+arab.
+IV einen Verlust erleiden
+II(2) Schaden erleiden
+
+
+xss2
+arab.
+II dezimieren
+
+
+xsy +
+aram.
+II zudecken
+II(2) angezogen werden
+
+
+xšn2
+arab.
+II grob machen
+
+
+xšxš
+arab.
+I knarzen (Baum)
+
+
+xṣṣ
+arab.
+I angehen
+II speziell sein
+IV nahe verwandt sein
+
+
+xṣy
+arab.
+II kastrieren
+IV kastrieren
+
+
+xtʕ
+arab.
+I täuschen
+I(7) sich täuschen lassen
+
+
+xtm
+arab.
+IV dienen
+I(10) verwenden
+
+
+xṯb +
+aram.
+I schreiben
+II schreiben lassen
+I(7) geschrieben werden
+
+
+xṭb +
+arab.
+I um die hand anhalten
+II jmdn. verloben
+
+
+xṭf
+arab.
+I rauben
+I(8) entrückt werden
+
+
+xṭr
+arab.
+I in den Sinn kommen
+IV gefährlich werden
+
+
+xṭṭ
+arab.
+II einen Plan zeichnen
+
+
+xṭy
+arab.
+IV sündigen
+
+
+xwn
+arab.
+I betrügen
+II jdn. des Betrugs / Verrats bezichtigen
+
+
+xwš1
+aram.
+IV anstecken
+
+
+xwš2
+arab.
+II(2) Angst bekommen
+
+
+xwṯ2
+?
+I verrückt werden
+
+
+xwy
+aram.
+IV brennen
+IV(2) gebrannt werden
+I(7) gebrannt werden
+
+
+xwy2
+arab.
+III sich verschwistern
+III(2) sich verbrüdern
+
+
+xyb
+arab.
+II scheitern lassen
+IV das Ziel verfehlen
+
+
+xyl1
+aram.
+IV messen
+
+
+xyl2
+arab.
+III(2) sich täuschen lassen
+
+
+xym
+arab.
+II Zelt aufschlagen
+
+
+xyr1
+arab.
+II aussuchen
+I(8) auswählen
+
+
+xzn
+arab.
+II aufbewahren
+
+
+xay
+arab.
+IV abwenden
+
+
+yḏʕ +
+aram.
+I wissen
+IV wissen lassen
+
+
+yḥḏ
+aram.
+I aufnehmen
+
+
+ykm
+aram.
+I schwarz werden
+
+
+yḳr
+aram.
+I schwer werden
+
+
+ylḏ
+aram.
+I Eier legen
+
+
+ylf
+aram.
+I lernen
+IV lehren
+
+
+ylt
+aram.
+(Eier) legen
+
+
+ymy
+aram.
+I schwören
+IV schwören lassen
+
+
+ynḳ
+aram.
+I saugen
+IV säugen
+
+
+yrb
+aram.
+I groß werden
+IV vergrößen
+IV(2) vergrößert werden
+
+
+yrṯ
+aram.
+I erben
+II vererben
+IV vererben
+
+
+yrx
+aram.
+I lang werden
+IV verlängern
+IV(2) verlängert werden
+
+
+ysr
+arab.
+II ermöglichen
+II(2) starten (Flugzeug)
+
+
+yšṭ +
+aram.
+IV bringen, holen
+
+
+yšy
+aram.
+IV bringen
+
+
+yṯm
+aram.
+II zur Waise machen
+II(2) Weise sein / werden
+
+
+yṭb
+aram.
+I gefallen
+IV gesund werden
+
+
+zʕčr
+arab. / aram.
+I Thymian geben (poet.)
+
+
+zʕḳ
+aram.
+I schreien
+
+
+zʕl
+arab.
+IV sich ärgern
+
+
+zʕr
+aram.
+I kleiner werden
+II verkleinern
+IV verkleinern
+
+
+zʕwḳ
+aram. ?
+I schreien
+
+
+zʕzʕ1
+aram.
+I zittern
+
+
+zʕž
+arab.
+IV stören
+
+
+zbn1 +
+aram.
+I kaufen
+II verkaufen
+I(7) gekauft werden
+II(2) verkauft werden
+
+
+zbr1
+arab. ?
+I beschneiden (Bäume)
+
+
+zčč
+arab.
+I fallen
+
+
+zfč
+arab.
+II asphaltieren
+
+
+zfr
+arab.
+II ?
+
+
+zġġ
+arab. ?
+I geblendet sein (vom licht) ?
+
+
+zhb
+arab. ?
+II ausstatten
+
+
+zhr
+arab.
+II blühen
+IV blühen
+
+
+zḥf
+arab.
+I kriechen
+
+
+zḥl1
+arab.
+I ausweichen
+
+
+zḥlḳ
+arab.
+I straucheln
+
+
+zḥṭ
+arab. ?
+I ausrutschen
+
+
+zkm
+arab.
+II einen Schnupfen haben / bekommen
+
+
+zkr1
+arab.
+IV erwähnen
+II(2) sich erinnern
+I(7) erwähnt werden
+
+
+zḳf
+arab.
+II (in die Hände) klatschen
+
+
+zḳr
+aram. ?
+I glotzen
+
+
+zḳzḳ
+?
+I spritzen
+
+
+zll
+aram.
+I abschöpfen
+
+
+zlṭ
+arab.
+II entkleiden
+
+
+zmm
+aram. / arab.
+I sich auffalten
+II Falten machen
+
+
+zmr
+aram.
+II (ein Musikinstrument) spielen / blasen
+
+
+zmṭ
+arab.
+I entwischen
+II ausrutschen
+
+
+zny
+aram.
+I huren
+IV huren
+
+
+zrʕ
+aram. / arab.
+I säen
+I(7) gesät werden
+
+
+zrb1
+aram.
+I einsperren
+II einsperren
+I(7) eingesperrt werden
+
+
+zrr
+arab.
+II zuknöpfen
+
+
+zwʕ
+aram.
+I sich fürchten
+II Angst machen
+I(7) erschüttern
+
+
+zwʕḳ
+?
+I schreien
+
+
+zwbʕ
+arab.
+I rauchen
+
+
+zwḏ
+aram.
+II jd-n mit Proviant versehen
+
+
+zwḥ
+aram.
+I weggehen
+II an einer Prozession teilnehmen
+
+
+zwḳ
+?
+IV probieren
+
+
+zwr1
+aram.
+II böse Blicke zuwerfen
+
+
+zwr2
+arab.
+I besuchen
+II besuchen lassen
+IV ? beherbergen
+
+
+zxm
+arab.
+II fester zuschlagen
+
+
+zxy / ẓxy
+aram.
+I siegen
+
+
+zyʕ
+arab.
+IV bekanntmachen
+
+
+zyč
+arab.
+II (Lampe) mit Öl füllen
+
+
+zyn
+arab.
+II verzieren
+
+
+zyr
+aram. ?
+II füllen
+
+
+zyt
+arab.
+I wichtiger sein
+II hinzufügen
+IV hinzugeben
+
+
+žʕl1
+arab.
+IV machen
+
+
+žʕlč
+arab. ?
+I (vor Wasser) triefen
+
+
+žʕr
+arab. ?
+I brüllen
+
+
+žʕy
+?
+IV etwas zur Seite legen
+
+
+žbḏ / ǧbḏ +
+arab.
+I ziehen
+I(7) eingezogen werden
+
+
+žbl / ǧbl
+arab.
+I kneten
+
+
+žbn / ǧbn
+arab.
+I Käse machen
+
+
+žbr / ǧbr
+arab.
+IV jd-n zwingen
+I(7) müssen
+
+
+žčč2
+arab.
+I reißen
+
+
+ǧff
+arab.
+I versiegen
+
+
+žfl / ǧfl
+arab.
+I erschrecken
+II j-n erschrecken
+IV erschrecken
+
+
+žhl / ǧhl
+arab.
+IV sich töricht verhalten
+
+
+žht / ǧht
+arab.
+III kämpfen
+
+
+žhz / ǧhz
+arab.
+II bereitmachen
+
+
+žkr / žḳr
+arab. ?
+I(7) eifersüchtig sein
+
+
+žḳm
+türk.
+I jdn. heimsuchen
+
+
+žḳžḳ
+?
+I aufkochen
+
+
+žlb
+arab.
+I(7) mit Gewinn genutzt werden
+
+
+žlḳ
+arab. ?
+I(7) (den Kindern) erlauben
+
+
+žls / ǧls
+arab.
+II sich aufrichten
+III begleiten
+IV aufspringen
+
+
+žlt
+arab.
+I (Kopf) abschlagen
+
+
+žly1
+arab.
+IV Geschirr spülen
+
+
+žmʕ / ǧmʕ +
+arab.
+I sammeln
+II sammeln
+IV sammeln
+I(7) gesammelt werden
+I(8) sich sammeln
+
+
+žmhr
+arab.
+I sich versammeln
+
+
+žml1 / ǧml
+arab.
+III höflich sein
+
+
+žmr / ǧmr
+arab.
+I glühen
+
+
+žmt / ǧmt
+arab.
+IV erstarren
+
+
+ǧmǧr
+?
+I anhäufen
+
+
+žnb
+arab.
+I(2) sich fernhalten
+
+
+žnn / ǧnn
+arab.
+II verrückt / wahnsinnig sein / werden
+IV verrückt / wahnsinnig sein / werden
+
+
+žny1
+arab.
+IV sammeln
+
+
+žnz / ǧnz
+arab.
+II Trauergottesdienst halten
+
+
+žnzr / ǧnzr
+arab.
+I anketten
+
+
+žrʕ
+arab.
+I Mut machen
+II(2) Mut fassen
+
+
+žrf
+arab.
+I wegspülen
+
+
+žrr / ǧrr
+arab.
+I ziehen
+
+
+žrs / ǧrs / žrṣ / ǧrṣ
+II bloßstellen
+
+
+žrt / ǧrt
+arab.
+I abschaben
+II erledigt sein
+
+
+žry / ǧry
+arab.
+I fließen
+II Junge gebären (Tiere)
+IV vorsichgehen
+
+
+žrz
+?
+I verhaften
+
+
+žržr1
+arab. ?
+I ziehen
+
+
+žss
+arab.
+I (den Puls) fühlen
+II(2) spionieren
+
+
+žtl / ǧtl
+I flechten
+
+
+žtt2 / ǧtt
+arab.
+II von neuem beginnen
+
+
+žwb / ǧwb
+arab.
+I umhergehen
+II antworten ?
+III antworten
+
+
+žwl / ǧwl
+arab.
+II(2) umhergehen
+
+
+žwr / ǧwr
+arab.
+I kratzen
+
+
+žwrʕ
+arab. ?
+I zu Ende sein
+
+
+žwz1 / ǧwz
+arab.
+III überschreiten?
+
+
+žxx
+arab.
+I prahlen
+
+
+žyš / ǧyš
+arab.
+I j-n ist unwohl
+II angreifen
+
+
+ẓbṭ
+türk. / arab. 
+IV nützen
+
+
+ẓhr
+arab.
+IV zeigen
+III(2) so tun als ob man mutig sei
+
+
+ẓḥṭ
+arab.
+I rutschen
+
+
+ẓlġṭ
+arab.
+I trällern
+
+ẓlm
+arab.
+I unterdrücken
+
+
+ẓmṭ
+arab.
+I mit heiler Haut davonkommen
+
+
+ẓnr / znr
+aram.
+I sich gürten
+
+
+ẓnṭr
+? griech.
+I j-n bleibt die Spucke weg, erstaunt sein.
+
+
+ẓpṭ
+arab.
+II krähen (Hahn)`;
 
 let output = perf.split("\n\n\n");
 output = output.map(s => s.replace(/^\s*\n(?=\S)/gmu, ""));
