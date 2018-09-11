@@ -90,9 +90,34 @@ html {
 
 </span>
 
+<br>
+
+<span 
+      style="
+       position: absolute;
+       left: 23%;
+       float:left;"
+>
+  <b>Number of stems</b> 
+  <input 
+     type="checkbox" 
+     id="ranges"  
+     onclick="makeRanges()"
+   />
+</span>
+<span id="rangesInput"
+      style="
+       position: absolute;
+       left: 34%;
+       float:right;"
+
+>
+</span>
 
 
-<br><br>  
+
+
+<br><br>
 <form id="stem" onchange="input.focus()">
 <table 
    onchange="changeTable()"
@@ -314,6 +339,10 @@ let perf = [];
 perf = perfInit();
 
 let flagMultiline = "m"; 
+let flagRanges;
+
+let stemsFrom;
+let stemsTo;
 
 
 let input = document.getElementById("myInput");
@@ -356,6 +385,7 @@ function clearAll() {
   }
   document.getElementById("output").innerHTML = "";
   document.getElementById("multiline").checked = true;
+  document.getElementById("ranges").click();
   input.value = "";
   
 }
@@ -369,6 +399,7 @@ function multiline() {
 
 
 function search() {
+  setRanges();
   let regSearch;
   let regYes = [];
   let regNo = [];
@@ -392,9 +423,11 @@ function search() {
   if ( 
        (regYes.length == 0) &&  
        (regNo.length == 0) &&
-       (!(regSearch))
+       (!(regSearch)) &&
+       (!(flagRanges))
      ) {
-    document.getElementById("output").innerHTML = '';
+    document.getElementById("output").innerHTML = 
+          numColor.join("Please provide meaningful search conditions");
     return;
   }
   main(regSearch, regYes, regNo);
@@ -411,6 +444,8 @@ function main(regSearch, regYes, regNo) {
   let data = perf;
   let output = [];
   output = greppyArray( data, regYes, regNo ); 
+  output = output.filter( s => matchesRange( s, /(^|>)I/gm, stemsFrom, stemsTo ) );
+
   let numberOfLines = output.length;
   let message = numberOfLines + " verbal roots found";
   message = numColor.join(numColor.join(message));
@@ -446,6 +481,50 @@ function greppyArray( arr, regYes, regNo ) {
     }
   }
   return output;
+}
+
+function matchesRange( str, reg, m, n ) {
+  let number = (str.match( reg ) || []).length;
+  return ( ( m <= number ) && ( number <=n ) );
+}
+
+function setRanges(){
+  stemsFrom = 0;
+  stemsTo = 11;
+  if (flagRanges) {
+    stemsFrom = document.getElementById("from").value;    
+    stemsTo = document.getElementById("to").value;    
+    stemsFrom = stemsFrom || 0;
+    stemsTo = stemsTo || 11;
+  } 
+  console.log(stemsFrom, stemsTo);
+}
+
+function makeRanges() {
+  flagRanges = document.getElementById("ranges").checked;
+  let rangesInput = document.getElementById("rangesInput");
+  let rangesHTML = `
+    <textarea 
+       id="from" 
+       placeholder="from"  
+       rows="1" 
+       cols="4" 
+       maxlength="2" 
+       style="font-size:16pt;resize:none"
+    ></textarea>
+    <textarea 
+       id="to" 
+       placeholder="to"  
+       rows="1" 
+       cols="4" 
+       maxlength="2" 
+       style="font-size:16pt;resize:none"
+    ></textarea>
+  `;
+  rangesInput.innerHTML = "";
+  if (flagRanges) {
+  rangesInput.innerHTML = rangesHTML;
+  }
 }
 
 </script>
