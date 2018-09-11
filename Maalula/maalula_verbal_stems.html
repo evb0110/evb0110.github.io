@@ -60,7 +60,16 @@ html {
      onclick="multiline()"
      checked
    />
+     &nbsp;&nbsp;&nbsp;
+  <b>Number of stems</b> 
+  <input 
+     type="checkbox" 
+     id="ranges"  
+     onclick="makeRanges()"
+   />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>
+
 
 <span class="center">
 <button 
@@ -89,27 +98,14 @@ html {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </span>
-
+ 
 <br>
 
-<span 
-      style="
-       position: absolute;
-       left: 23%;
-       float:left;"
->
-  <b>Number of stems</b> 
-  <input 
-     type="checkbox" 
-     id="ranges"  
-     onclick="makeRanges()"
-   />
-</span>
 <span id="rangesInput"
       style="
        position: absolute;
        left: 38%;
-       float:right;"
+       float:left;"
 
 >
 </span>
@@ -117,7 +113,7 @@ html {
 
 
 
-<br><br>
+<br><br><br>
 <form id="stem" onchange="input.focus()">
 <table 
    onchange="changeTable()"
@@ -385,7 +381,9 @@ function clearAll() {
   }
   document.getElementById("output").innerHTML = "";
   document.getElementById("multiline").checked = true;
-  document.getElementById("ranges").click();
+  if (document.getElementById("ranges").checked) {
+    document.getElementById("ranges").click();
+  }
   input.value = "";
   
 }
