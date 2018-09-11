@@ -7368,7 +7368,7 @@ I telephonieren
 
 tlḳ
 arab.
-(intr.) auslaufen
+I (intr.) auslaufen
 
 
 tll2
@@ -7418,7 +7418,7 @@ II üben lassen
 
 trk1
 arab.
-zurücklassen
+I zurücklassen
 
 
 trk2
@@ -7786,7 +7786,7 @@ I schlagen
 
 ṭrmx
 ?
-brummen
+I brummen
 
 
 ṭrr2
@@ -8671,7 +8671,7 @@ IV lehren
 
 ylt
 aram.
-(Eier) legen
+I (Eier) legen
 
 
 ymy
