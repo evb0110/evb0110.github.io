@@ -368,7 +368,7 @@ label
 <br>
 <span style="background-color:#e6ffe6" class="center" id="direction" onchange="ansi()">
      <b style="font-size:20px">  
-  <input class="form-radio" type="radio" name="trans" checked>
+  <input class="form-radio" id="unicode" type="radio" name="trans" checked>
       Unicode &nbsp;&nbsp;
   <input class="form-radio" id="ansi" type="radio" name="trans" >
       Simple English 
@@ -500,6 +500,7 @@ function defaults() {
     document.getElementById(i+idTo).value = arrTo0[i];
   }
   document.getElementById("fromSyr").checked = true;
+  document.getElementById("unicode").checked = true;
   [
     document.getElementById("myInput").style.textAlign,
     document.getElementById("myOutput").style.textAlign,
