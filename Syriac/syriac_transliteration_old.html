@@ -160,44 +160,6 @@ html {
      background-color: #00b300;
      color: white;
 }
-.form-checkbox
-{
-     -webkit-appearance: none;
-     -moz-appearance: none;
-     appearance: none;
-     display: inline-block;
-     position: relative;
-     background-color: #d9d9d9;
-     color: #666;
-     top: 10px;
-     height: 28px;
-     width: 28px;
-     border: 0;
-     border-radius: 4px;
-     cursor: pointer;     
-     margin-right: 7px;
-     outline: none;
-}
-.form-checkbox:checked::before
-{
-     position: absolute;
-     font: 19px/1 'Open Sans', sans-serif;
-     font-weight: 700;
-     left: 7px;
-     top: 5px;
-     content: '\02143';
-     transform: rotate(40deg);
-}
-.form-checkbox:hover
-{
-     background-color: #e6e6e6;
-}
-.form-checkbox:checked
-{
-     background-color: #00b300;
-     color: white;
-}
-
 label
 {
      font: 300 16px/1.7 'Open Sans', sans-serif;
@@ -334,17 +296,6 @@ label
 <textarea id="26" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
 <textarea id="27" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
 
-
-<span onchange="ansi()">
-   <b>
-<input 
-     class="form-checkbox"
-     type="checkbox" 
-     id="ansi"  
-/> Simple
-   </b>
-</span>
-
 <br>
 
 <textarea id="100" rows="2" cols="2" maxlength="1" style="font-size:14pt;resize:none"></textarea>
@@ -396,12 +347,10 @@ label
 
 const alphabetLength = 28;
 let translit = "ʔbggdhYwzḥṭyklmnssʕppṣqrršt:";
-let translit_ansi = "AbggdhYwzHTyklmnssCppSqrrWt:";
 let grafika  = "ܐܒܓܔܕܗܞܘܙܚܛܝܟܠܡܢܣܤܥܦܧܨܩܪܖܫܬ̈";
 
 let idFrom = 0;
 let idTo = 100;
-let flagTo = 100;
 
 fillWithLetters(grafika, idFrom);
 fillWithLetters(translit, idTo);
@@ -420,7 +369,6 @@ let input = document.getElementById("myInput");
 input.focus();
 
 function chooseDirection() {
-  flagTo = 100 - flagTo;
   for (let i = 0; i < alphabetLength; i++) {
     arrFrom[i] = document.getElementById(i+idFrom).value;
     arrTo[i] = document.getElementById(i+idTo).value;
@@ -512,14 +460,7 @@ function inputToTop() {
   input.setSelectionRange(0,0);
 }  
 
-function ansi() {
-  if (document.getElementById("ansi").checked) {
-    fillWithLetters(translit_ansi, flagTo);
-  } else {
-    fillWithLetters(translit, flagTo);
-  }
 
-}
 
 </script>
 </body>
