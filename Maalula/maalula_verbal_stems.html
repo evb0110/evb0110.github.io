@@ -418,11 +418,13 @@ function search() {
     regSearch = input.value;
   }
   input.focus();
+console.log(stemsTo, stemsFrom);
   if ( 
        (regYes.length == 0) &&  
        (regNo.length == 0) &&
        (!(regSearch)) &&
-       (!(flagRanges))
+       ((!(flagRanges)) ||
+        (flagRanges && ( stemsTo - stemsFrom >= 11 )))
      ) {
     document.getElementById("output").innerHTML = 
           numColor.join("Please provide meaningful search conditions");
@@ -495,7 +497,6 @@ function setRanges(){
     stemsFrom = stemsFrom || 0;
     stemsTo = stemsTo || 11;
   } 
-  console.log(stemsFrom, stemsTo);
 }
 
 function makeRanges() {
