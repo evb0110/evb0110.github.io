@@ -66,49 +66,53 @@ html {
      type="checkbox" 
      id="ranges"  
      onclick="makeRanges()"
+     checked
    />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>
 
 
 <span class="center">
-<button 
-   id="defaults" 
-   style="font-size:20pt;height:35pt" 
-   onclick="clearAll()"
->
-     Clear All
-</button>
+  <button 
+     id="defaults" 
+     style="font-size:20pt;height:35pt" 
+     onclick="clearAll()"
+  >
+       Clear All
+  </button>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<input 
-   type="search" 
-   id="myInput" 
-   style="font-size:20pt;height:35pt"
-   value=""
-/>
-<button 
-   id="myBtn" 
-   style="font-size:20pt;height:35pt" 
-   onclick="search()"
->
-     Search
-</button>
+  <input 
+     type="search" 
+     id="myInput" 
+     style="font-size:20pt;height:35pt"
+     value=""
+  />
+  <button 
+     id="myBtn" 
+     style="font-size:20pt;height:35pt" 
+     onclick="search()"
+  >
+       Search
+  </button>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span id="rangesInput"
+	style="
+	 position: absolute;
+	 float:center;"
+  >
+  </span>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </span>
  
-<br>
-
-<span id="rangesInput"
-      style="
-       position: absolute;
-       left: 38%;
-       float:left;"
-
->
-</span>
 
 
 
@@ -331,11 +335,13 @@ const stems = [
     "I(10)",
   ];
 
+let flagRanges;
+makeRanges();
+
 let perf = [];
 perf = perfInit();
 
 let flagMultiline = "m"; 
-let flagRanges;
 
 let stemsFrom;
 let stemsTo;
@@ -502,22 +508,20 @@ function makeRanges() {
   flagRanges = document.getElementById("ranges").checked;
   let rangesInput = document.getElementById("rangesInput");
   let rangesHTML = `
-    <textarea 
+    <input 
        id="from" 
        placeholder="from"  
-       rows="1" 
-       cols="4" 
+       size="2" 
        maxlength="2" 
-       style="font-size:16pt;resize:none"
-    ></textarea>
-    <textarea 
+       style="font-size:20pt;height:35pt" 
+    ></input>
+    <input 
        id="to" 
        placeholder="to"  
-       rows="1" 
-       cols="4" 
+       size="2" 
        maxlength="2" 
-       style="font-size:16pt;resize:none"
-    ></textarea>
+       style="font-size:20pt;height:35pt" 
+    ></input>
   `;
   rangesInput.innerHTML = "";
   if (flagRanges) {
