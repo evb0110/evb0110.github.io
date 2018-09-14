@@ -395,9 +395,8 @@ function clearAll() {
   }
   document.getElementById("output").innerHTML = "";
   document.getElementById("multiline").checked = true;
-  if (document.getElementById("ranges").checked) {
-    document.getElementById("ranges").click();
-  }
+  document.getElementById("from").value = "";    
+  document.getElementById("to").value = "";    
   input.value = "";
   
 }
@@ -517,6 +516,7 @@ function makeRanges() {
   let rangesInput = document.getElementById("rangesInput");
   let rangesHTML = `
     <input 
+       type="search" 
        id="from" 
        placeholder="from"  
        size="2" 
@@ -524,6 +524,7 @@ function makeRanges() {
        style="font-size:20pt;height:35pt" 
     ></input>
     <input 
+       type="search" 
        id="to" 
        placeholder="to"  
        size="2" 
