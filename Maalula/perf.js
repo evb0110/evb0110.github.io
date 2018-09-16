@@ -1273,12 +1273,6 @@ I ikraš / yikruš ‘treiben (выгонять, гнать), aufscheuchen (вс
 perf. 1sg.m.: nikrešəl ʕizzō ḳumm ‘ich trieb die Ziegen vor mir her’
 
 
-ktt 
-I ikkat / yukkut B ‘sich anstrengen’
-perf. 3sg.m.
-walla ikkat ʕal-ōṯ sūsća, ibram kuḥkulla. ʕáwwetna. ʕaḳənnaḥla kayyes w awəġnaḥla ḳummaynaḥ — Bei Gott, er strengte sich an auf diesem Pferd, ritt um sie herum und brachte sie zurück, wir banden sie gut fest und trieben sie vor uns her I 73:13
-
-
 kwk
 II kawwek / ykawwek ‘sich zusammengekauern, in der Hocke sitzen’
 perf. 3sg.f.: M kawwīka 
