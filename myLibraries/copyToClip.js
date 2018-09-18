@@ -1,6 +1,6 @@
 function copyToClip(str) {
   function listener(e) {
-    e.clipboardData.setData("text/html", str);
+    e.clipboardData.setData("text/html",  str);
     e.clipboardData.setData("text/plain", str);
     e.preventDefault();
   }

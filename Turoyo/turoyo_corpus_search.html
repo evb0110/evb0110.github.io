@@ -189,7 +189,7 @@ p {margin:0;padding:0}
 <p> <br> </p>
 
 
-<p 
+<span 
    id="output" 
    style="
       font-size:15pt; 
@@ -200,7 +200,7 @@ p {margin:0;padding:0}
     margin-left:auto;
     margin-right:auto;"
 >
-</p>
+</span>
 
 
    
@@ -293,8 +293,13 @@ function main(reg){
 
 
   document.getElementById("output").innerHTML = 
-    output.map(s=>{return "<p>" + s + "<\/p>"}).join("");
+    output.map(paragraph).join("");
 }
+
+function paragraph(s){
+  return "<p style='margin-bottom: 0in'>" + s + "<\/p>"
+}
+
 
 function keyb(a){
   idx = input.selectionStart;
