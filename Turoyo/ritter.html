@@ -146,6 +146,15 @@ html {
   
   
 <span class="center">
+  <button 
+     id="clipboard" 
+     style="font-size:14pt;height:46pt" 
+     onclick="copyToClip(document.getElementById('output').innerHTML)"
+  >
+       Copy output <br> to clipboard
+  </button>
+
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <input 
      type="search" 
@@ -202,6 +211,8 @@ html {
 
 
 <script src="../myLibraries/unicodeBorders.js">
+</script>
+<script src="../myLibraries/copyToClip.js">
 </script>
 
 <script>
