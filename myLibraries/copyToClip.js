@@ -9,3 +9,10 @@ function copyToClip(str) {
   document.removeEventListener("copy", listener);
 };
  
+/*
+
+https://stackoverflow.com/questions/23934656/javascript-copy-rich-text-contents-to-clipboard
+
+https://jsfiddle.net/jdhenckel/km7prgv4/3/
+
+*/
