@@ -184,7 +184,9 @@ p {margin:0;padding:0}
 </span>
 
 
-<p> &nbsp; </p>
+<p> <br> </p>
+<p> <br> </p>
+<p> <br> </p>
 
 
 <p 
@@ -290,7 +292,6 @@ function main(reg){
   }
 
 
-  output.unshift("<br>");
   document.getElementById("output").innerHTML = 
     output.map(s=>{return "<p>" + s + "<\/p>"}).join("");
 }
