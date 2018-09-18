@@ -6,6 +6,9 @@
 html {
   overflow-y: scroll;
 }
+
+p {margin:0;padding:0}
+
 .header {
     background-color: lightgray;
     border: none;
@@ -274,7 +277,7 @@ function main(reg){
       }
 	output.push(purple.join(file.title));
 	output.push(line.replace(myReg, redbold.join("$&")));
-	output.push("");
+	output.push("<br>");
       }
     }
   }
@@ -283,12 +286,13 @@ function main(reg){
     let numMessage = 
        `Number of lines in output: ${outputCounter}`; 
     numMessage = numColor.join(numMessage);
-    output.unshift(numMessage + "<br>");
+    output.unshift(numMessage, "<br>");
   }
 
 
+  output.unshift("<br>");
   document.getElementById("output").innerHTML = 
-    output.join("<br>");
+    output.map(s=>{return "<p>" + s + "<\/p>"}).join("");
 }
 
 function keyb(a){
