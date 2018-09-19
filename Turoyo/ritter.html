@@ -309,7 +309,9 @@ function main(reg){
 }
 
 function paragraph(s){
-  return "<p style='margin-bottom: 0in'>" + s + "<\/p>"
+  return "<p style='margin-bottom: 0in;line-height: 1'>\n" + 
+          s + 
+          "\n<\/p>"
 }
 
 function chooseDict(){
