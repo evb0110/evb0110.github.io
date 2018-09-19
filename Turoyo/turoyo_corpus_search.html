@@ -155,7 +155,7 @@ p {margin:0;padding:0}
   <button 
      id="clipboard" 
      style="font-size:14pt;height:30pt" 
-     onclick="copyToClip(document.getElementById('output').innerHTML)"
+     onclick="outputToClip()"
   >
        Copy output to clipboard
   </button>
@@ -333,6 +333,11 @@ function caseInsensitive(){
   let checkBox = document.getElementById("insens");
   if (checkBox.checked){ insens = "i" }
   search();
+}
+
+function outputToClip(){
+  htm = document.getElementById('output').innerHTML;
+  copyToClip(htm);
 }
 
 
