@@ -3556,7 +3556,7 @@ aram. ?
 I kochen (intr.)
 
 
-kʕy +
+ḳʕy +
 ?
 I sitzen
 II tr. setzen
