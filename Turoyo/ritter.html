@@ -116,6 +116,8 @@ p {margin:0;padding:0}
   <button onclick="keyb('?')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">?</button>
   <button onclick="keyb('\\b')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\b</button>
   <button onclick="keyb('\\w')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\w</button>
+  <button onclick="keyb('\\C')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\C</button>
+  <button onclick="keyb('\\V')" style="color:#cc0066;font-size:16pt;height:40px;width:40px">\V</button>
   &nbsp;
   <button onclick="keyb('ʕ')" style="font-size:16pt;height:40px;width:40px">ʕ</button>
   <button onclick="keyb('ʔ')" style="font-size:16pt;height:40px;width:40px">ʔ</button>
@@ -285,6 +287,8 @@ function main(reg) {
   let outputCounter = 0;
 
   reg = toUnicode( reg );
+  reg = vowelConsonant( reg );
+console.log(reg);
   reg = RegExp( reg, 'gu'+insens );
 
 
