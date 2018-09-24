@@ -168,7 +168,7 @@ p {margin:0;padding:0}
   <button 
      id="myBtn" 
      style="font-size:20pt;height:35pt" 
-     onclick="search()"
+     onclick="searchButton()"
   >
        Search
   </button>
@@ -191,6 +191,8 @@ p {margin:0;padding:0}
       Jastrow &nbsp;&nbsp;
   <input type="radio" name="dict" value="jan">
       Xëzne
+   <input type="radio" name="dict" value="all">
+      All
      </b>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -227,6 +229,7 @@ const keyboard = true;
 const outputMax = 1000;
 
 const blue = ["<font color='blue'>","</font>"];
+const greenbold = ["<b><font color='green'>","</font></b>"];
 const redbold = ["<b><font color='red'>","</font></b>"];
 const numColor = ["<b><font color='#b30000'>","</font></b>"];
 
@@ -257,6 +260,11 @@ input.addEventListener("keyup",
   }
 );
 
+function searchButton() {
+  document.getElementById("output").innerHTML = '';
+  search(); 
+}
+
 function search() {
   let reg = input.value;
   input.focus();
@@ -267,13 +275,18 @@ function search() {
   main(reg);
 }
 
-function main(reg){
+function main(reg) {
+  if (dict == "all") { 
+    allDict(); 
+    return; 
+  }
   let dictLines = dictLinesAll[dict];
   let output = [];
   let outputCounter = 0;
 
   reg = toUnicode( reg );
   reg = RegExp( reg, 'gu'+insens );
+
 
   for (let i=0; i<dictLines.length; i++) {
     if (reg.test(dictLines[i])) { 
@@ -299,10 +312,12 @@ function main(reg){
        `Number of lines in output: ${outputCounter}`; 
     numMessage = numColor.join(numMessage);
     output.unshift(numMessage, "<br>");
+    dictTitle = greenbold.join("\n\n====== " + dictName[dict] + " ======");
+    output.unshift(dictTitle, "<br>");
   }
 
 
-  document.getElementById("output").innerHTML = 
+  document.getElementById("output").innerHTML += 
     output.map(paragraph).join("\n\n");
 }
 
@@ -315,9 +330,23 @@ function paragraph(s){
 function chooseDict(){
   let dicts = document.getElementById("dict"); 
   dict = dicts.elements["dict"].value;
-  document.getElementById("dictName").innerHTML =
-        dictName[dict];
-  search();
+  if (dictName[dict]){
+    document.getElementById("output").innerHTML = ""; 
+    document.getElementById("dictName").innerHTML =
+	  dictName[dict];
+    search();
+    return;
+  }
+  allDict();
+}
+
+function allDict() {
+  document.getElementById("output").innerHTML = ""; 
+  for (let dicty of Object.keys(dictName)){
+    dict = dicty;
+    search();
+  }
+  dict = "all";
 }
 
 function keyb(a){
