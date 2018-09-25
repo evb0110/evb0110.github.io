@@ -1134,8 +1134,6 @@ perf. 3sg.m.: M hayyīrla — er hat es vorbereitet
 perf. 1pl.m.: M yīb nhayyirirr rayḥōna — wir müssen die Myrthe vorbereitet haben
 perf. 1pl.c. B ykūn nhiyyīrin — wir sollten bereitgestellt haben
 nwībin nhiyyirill ḥimmṣō — wir haben die Kichererbsen (нут) bereits vorbereitet
-qattil trans II-y
-
 
 
 hyž
@@ -1146,7 +1144,7 @@ perf. 3pl.m.: hayyīžin — (die Kamele) sind wild
 
 
 hzm 
-II hazzem / yhazzem ‘zur Flucht verhelfen, flüchten lassen, vertreiben’
+*II hazzem / yhazzem ‘zur Flucht verhelfen, flüchten lassen, vertreiben’
 Ǧ I(7) inəhzem / yinəhzem ‘fliehen, flüchten, ausbrechen, weglaufen’
 perf. 3sg.m.: wa hazzem — er war auf der Flucht
 1sg.m.: nhazzem — ich bin geflohen
@@ -2263,7 +2261,6 @@ perf. 3sg.f. mit suff. 3sg.m.: nićǧōli emmi — seine Mutter hat ihn zur Welt
 qtil trans
 II naččež / ynaččež ‘gebären’
 perf. 3sg.f.: naččīža 
-Werner why this perf II stem?
 
 
 
@@ -2291,7 +2288,8 @@ qtil intrans
 II naffeḏ / ynaffeḏ ‘bringen, hinbringen’
 (2) ankommen
 perf. 3sg.f.: naffīḏa 
-Werner
+
+
 
 
 
@@ -2300,9 +2298,9 @@ I infaḥ / yinfuḥ ‘atmen, hauchen’
 perf. 3sg.m.: nfīḥəl ḥōle ex ṭabla — er hat sich aufgeblasen раздулся wie ein Trommel барабан (d.h. er ist ein Angeber хвастун)
 I M Ǧ infeḥ / yinfaḥ ‘anschwellen, sich aufblähen’
 perf. 3sg.m.: naffeḥ
-Ǧ infaḥ ʕa ḳḏōlay — an meinem Hals schwoll es an
 both qtil intrans qattil intrans
-Werner
+
+
 
 
 nfḳ
@@ -2502,7 +2500,7 @@ qtil trans
 
 
 nšr 
-I inš?r / yinšur ‘sägen пилить, zersägen, absägen’
+I inšar / yinšur ‘sägen пилить, zersägen, absägen’
 perf. 3sg.m.: B nšīra
 perf. 1pl.c. mit suff. 3pl.c.: B ninširillun
 qtil intrans
@@ -2585,7 +2583,7 @@ qtil trans
 
 nyḥ
 *II nayyeḥ / ynayyeḥ ‘ausruhen lassen, bequem machen’
-IV (Neubildung zu einer Wurzel čnḥ) M ačneḥ / yačneḥ ‘in Ruhe lassen’
+*IV (Neubildung zu einer Wurzel čnḥ) M ačneḥ / yačneḥ ‘in Ruhe lassen’
 I(2) ičneḥ / yičneḥ (< Ettaf. ittnīḥ) ‘sich ausruhen, ausgeruht sein, entspannen (расслаблять(ся))’
 perf. 3sg.m.: M xull waḳčaḥ čanneḥ — unsere (heutige) Zeit ist sehr entspannt
 fekrun čanneḥ — sie machen sich keine Sorgen, sie sind beruhigt (w. ihr Denken ist entspannt)
@@ -2979,7 +2977,7 @@ perf. 3sg.m.: saxx
 
 syr2
 II sayyar / ysayyar ‘antreiben по(д)гонять, торопить, aufmuntern подбадривать’
-perf. sg.f. mit dopp. Objektssuff.: B sayirlalla nšīfa — sie ließ ihr Weizengrütze herausrieseln
+perf. sg.f. mit dopp. Objektssuff.: B sayyirlalla nšīfa — sie ließ ihr Weizengrütze herausrieseln
 
 
 
@@ -3774,7 +3772,7 @@ perf. 3sg.f.: M yīb ṭayyinōl ʕakkōra — wenn sie das Dach gestrichen hät
 
 wčr 
 II waččar / ywaččar ‘Zuflucht убежище finden’
-perf. 3sg.f.: wačīra
+perf. 3sg.f.: waččīra
 
 
 
@@ -4127,10 +4125,8 @@ yšṭ
 IV B ēšeṭ / yēšeṭ ‘bringen’
 perf. 3sg.f.: išīṭa
 hī išṭōl ḥōna zʕōra — sie hatte ihren kleinen Bruder mitgenommen
-qtil trans I-y
 (2) gebracht werden, mitgenommen werden
 perf. 1sg.m.: nīšeṭ m-bōs — ich wurde vom Bus mitgenommen
-qtil intrans I-y
 
 
 
