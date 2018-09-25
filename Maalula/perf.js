@@ -2642,6 +2642,13 @@ qtil trans
 
 
 
+rfḳ
+*III rōfeḳ / yrōfeḳ ‘befreundet sein’
+III(2) črōfaḳ / yičrōfaḳ ‘sich hinzugesellen, sich anschließen’
+perf. 3pl. m. črafīḳin
+B 3pl. c. ćrifīḳin — sie haben sich angeschlossen
+
+
 rhn
 I irhan / yirhan ‘verpfänden (отдавать в залог)’
 perf. 1sg.m.: M nirhīll_eppay (= nirhīnl_eppay) — ich habe meinen Vater verpfändet
