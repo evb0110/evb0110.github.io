@@ -3057,7 +3057,7 @@ qattil trans ? / qattil intrans ? III-y
 ščy
 *II šačay / yšāč ‘sich beklagen жаловаться’
 I(8) išəččay / yišəčay ‘jmdn. verklagen жаловаться’
-perf. 3sg.f.: šačīya iʕlay — sie hat mich verklagt
+perf. 3sg.f.: šaččīya iʕlay — sie hat mich verklagt
 Werner: что это за форма? нет удвоения? опечатка?
 
 
