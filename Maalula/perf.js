@@ -1129,7 +1129,7 @@ qattil 4-radical
 
 
 hyr 
-I hayyar / yhayyar ‘vorbereiten, bereit machen’
+II hayyar / yhayyar ‘vorbereiten, bereit machen’
 perf. 3sg.m.: M hayyīrla — er hat es vorbereitet
 perf. 1pl.m.: M yīb nhayyirirr rayḥōna — wir müssen die Myrthe vorbereitet haben
 perf. 1pl.c. B ykūn nhiyyīrin — wir sollten bereitgestellt haben
@@ -1248,14 +1248,13 @@ perf. 3 sg.m.: B ōćem ćḥimmeḳ ṯ-ṯēni yōma — er blieb verärgert b
 
 
 ḥml
-I ḥammel / yḥammel ‘aufnehmen (поднимать), aufladen (грузить), einpacken, tragen, transportieren, auf ein Tragtier setzen’
+II ḥammel / yḥammel ‘aufnehmen (поднимать), aufladen (грузить), einpacken, tragen, transportieren, auf ein Tragtier setzen’
 perf. 3sg.m.: M ḥammel arpʕa ḥamša ḳurəʕ — er hatte vier, fünf Säcke Gerste geladen
 B ḥimmel — er hatte gepackt
 Ǧ ḥammel — er hatte aufgeladen
 ḥammel baṭṭixō — er hatte Melonen geladen
 perf. 3sg.f.: M hōs saməkṯa ḥammīla p-xebra iḥəl — dieser Fisch ist mit einer schönen Nachricht beladen
 perf. 1pl.m. mit suff. 3sg.f.: M nḥammīlilla b-leppil bās mn-elġul — wir hatten sie mitten in den Bus hineingeladen
-qattil trans NB!
 
 
 
@@ -2182,9 +2181,9 @@ qattil intrans
 
 
 mwn1 
-I mawwen / ymawwen ‘Lebensmittel aufbewahren хранить’
+II mawwen / ymawwen ‘Lebensmittel aufbewahren хранить’
 perf. 1pl.m.: M nmawwīnin
-qattil trans II-w
+
 
 
 
@@ -3753,9 +3752,9 @@ perf. 3sg.m.: M žʕīra ṭayyer b-ōk kusōyṯa — das Heulen tönte in der 
 
 
 ṭwy
-I aṭway / yaṭw ‘biegen, hochkrempeln’
+IV aṭway / yaṭw ‘biegen, hochkrempeln’
 perf. 3sg.m. mit suff. 3sg.f.: M ṭawwīla
-qattil trans II-w III-y
+
 
 
 
