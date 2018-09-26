@@ -233,7 +233,7 @@ IV vernichten, besiegen
 ʕḳl
 arab.
 IV verstehen
-I(10) verhaften (арестовывать)
+I(8) verhaften (арестовывать)
 
 
 ʕḳm
