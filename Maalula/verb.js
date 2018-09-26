@@ -363,7 +363,7 @@ I (in der sinn) kommen
 
 ʕnt
 aram.
-I(2) auf etwas bestehen
+II(2) auf etwas bestehen
 
 
 ʕnṭz / ʕnṭẓ
@@ -748,7 +748,7 @@ IV lieb, teuer sein
 arab.
 IV gefallen
 II(2) sich wundern
-I(2) sich wundern
+I(8) sich wundern
 
 
 ʕžḳ
@@ -4194,7 +4194,7 @@ lḳḥ +
 arab.
 I stürzen
 II werfen
-I(2) geworfen werden
+II(2) geworfen werden
 
 
 lḳ2
@@ -4419,7 +4419,7 @@ lžy
 arab.
 II(2) Zuflucht finden
 III(2) Zuflucht finden
-I(2) Zuflucht nehmen
+I(8) Zuflucht nehmen
 
 
 mʕč
@@ -5182,7 +5182,7 @@ II aussuchen
 
 
 nḳy2
-I(2) begegnen
+I(8) begegnen
 
 
 nḳz
@@ -9148,7 +9148,7 @@ I anhäufen
 
 žnb
 arab.
-I(2) sich fernhalten
+II(2) sich fernhalten
 
 
 žnn / ǧnn
