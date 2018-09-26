@@ -753,7 +753,7 @@ I(2) sich wundern
 
 ʕžḳ
 arab.
-I(2) beschäftigt sein
+I(7) beschäftigt sein
 
 
 ʕžl1
