@@ -228,9 +228,10 @@ perf. 3pl.m.: M mōya ʕappīrin ʕa manžarča — Wasser ist in die Schreinere
 mett ʕappīrin, mett naffīḳin — einige sind eingetreten, andere hinausgegangen
 Ǧ ʕappīrin eʕla hīn — sie sind zu ihr (sg.) hineingegangen
 perf. 1pl.m. Ǧ anaḥ nʕappīrin — wir sind hineingegangen
+qattil intrans I strong
 II ʕappar / yʕappar ‘hineingehen lassen, eintreten lassen, hereinbringen
 perf. 3pl.m.: M ʕappirill lanna mīṯa — sie haben den Toten hineingelegt
-qattil intrans
+
 
 
 
@@ -472,7 +473,7 @@ I ibheč / yibhač ‘sich schämen’
 perf. 3sg.m.: M bahheč — er schämte sich
 bahheč bihčūṯlə xlammṯa — er schämt sich der Läuse sehr
 Ǧ xwō ti bahheč — wie einer, der sich schämt
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -528,7 +529,7 @@ perf. 3sg.m. mit suff. 3sg.m.: B ǧēmʕa wōb ḳayyam bisserli mett — der Mo
 perf. 3sg.f. M lōb baṣṣīra mett ḳalles — wenn ein bißchen fehlt
 maffyilla baṣṣīra ḳalles — man füllt sie ganz voll (w. läßt ein bißchen fehlen)
 Ǧ f. baṣṣīra mešḥa p-tifrāns tīh — in seinem Getriebe (коробка передач, трансмиссия) fehlt Öl
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -557,14 +558,14 @@ bxy
 I ibəx / yibəx ‘weinen, beweinen’
 perf. 3sg.m.: M B baxx, Ǧ baxxay
 perf. 1pl.m.: M nbaxxīyin
-qattil intrans
+qattil intrans III-y
 
 
 
 byč
 I abač / yībuč ‘die nacht verbringen (проводить), übernachten’
 perf. 1sg.m.: bil-lēlya ču nbayyeč hōxa — in der Nacht bleibe ich nicht hier
-qattil intrans 
+qattil intrans II-y
 
 
 
@@ -682,7 +683,7 @@ qattil intrans 4-radical
 ḏčl
 I ḏiččel / yḏiččel ‘lügen’ 
 perf. 3sg.f.: ḏiččīla 
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -736,7 +737,7 @@ perf. 3sg.m.: M sukker ḏayyeb — Zucker, der geschmolzen ist
 (2) sich verzehren (изводиться, терзаться)
 perf. 3sg.f.: m-riḥmūṯa čḏayyība — du verzehrst dich vor Liebe
 perf. 1sg.f.: nḏayyība 
-qattil intrans
+qattil intrans II-wy
 
 
 
@@ -782,14 +783,14 @@ perf. 2pl.m.: M mō čičḏ̣arrīrin anaḥ ntafʕille — was ihr an Schaden 
 ḏ̣wʕ / ḏ̣yʕ 
 I aḏ̣aʕ / yīḏ̣aʕ ‘verschwinden, verloren gehen, sich verlaufen’
 perf. 3sg.m.: Ǧ šanṭṯay ḏ̣ayyīʕa — meine Tasche ist verlorengegangen
-qattil intrans
+qattil intrans II-wy
 
 
 
 ḏ̣yf 
 I aḏ̣af / yīḏ̣uf ‘zu Gast sein’
 perf. 3sg.m.: ḳayyam ḏ̣iyyeflun — er blieb weiterhin bei ihnen zu Gast
-qattil intrans
+qattil intrans II-y
 
 
 
@@ -926,7 +927,7 @@ perf. 3sg.m.: M faṯṯīḥa
 fṭṣ
 I ifṭaṣ / yufṭuṣ ‘verenden околевать (Tier)’
 perf. 3sg.f.: B faṭṭīṣa 
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -1045,7 +1046,7 @@ hbṭ / hpṭ
 I ihbaḥ / yihbuṭ ‘einstürzen (обрушиваться), zusammenstürzen, einfallen’
 perf. 3sg.m.: Ǧ happeṭ hanna bīra — der Brunnen (колодец) war eingefallen
 perf. 3sg.f.: hbīṭa
-qtil intrans, qattil intrans
+qtil intrans, qattil intrans I strong
 
 
 
@@ -1110,7 +1111,7 @@ perf. 3sg.m.: M hawwar — er ist umgestürzt
 hwš1
 I ahaš / yīhuš ‘unruhig sein (Hund), bellen, anbellen’
 perf. 3sg.m.: hayyeš
-qattil intrans
+qattil intrans II-wy
 
 
 
@@ -1194,7 +1195,7 @@ perf. 3sg.m. mit suff. 3pl.m.: ma ḥaččān — was er zu ihnen gesagt hat
 I iḥəḏ, iḥḏi / yiḥəḏ ‘sich freuen’
 perf. 3sg.f.: Ǧ ḥaḏḏīya — sie hatte sich gefreut
 M šenna ḥaḏḏīya b-ʕēḏa — der Felsen (скала) freute sich am Fest
-qattil intrans
+qattil intrans III-y
 
 
 
@@ -1361,7 +1362,7 @@ perf. 1pl.c.: B niḥrīmin — wir waren im Zustand der Weihe (мы были в
 ḥry1
 I iḥər / yiḥər ‘scheißen (испражняться)’
 perf. 3sg.f.: Ǧ láġana w ḥarrīya — es ist allex fix und fertig (w. geschiessen)
-qattil intrans
+qattil intrans III-y
 
 
 
@@ -1373,7 +1374,7 @@ perf. 3sg.m.: M ḥassel klīla — die Trauung (бракосочетание) w
 ḥassel xōla — das Essen war zu Ende
 B ʕoḳbil ma ḥassel ṭhūra — nachdem die Beschneidung fertig war
 Ǧ xōla tuġray ḥassel — das Essen ist sofort fertig
-qattil intr
+qattil intrans I strong
 II ḥassel / yḥassel ‘beenden, fertigstellen, zu Ende sein mit etw., zum Ende kommen’
 perf. 3sg.f.: Ǧ ʕaynaḥla ḥassīla, mīṯa banawəb — wir fanden sie verendet, mausetot (безжизненный)
 perf. 1sg.m.: B nḥissel — ich war fertig
@@ -1410,7 +1411,7 @@ qtil trans
 I aḥšem / yaḥšem ‘zu Abend essen’ 
 perf. 3sg.m.: ḥaššem 
 perf. 3sg.f.: ḥaššīma
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -1625,7 +1626,7 @@ perf. 1pl.: Ǧ nḳaʕin naṭurōya — wir arbeiten als Flurwächter
 (4) meist als Hilfsverb: beginnen...
 perf. 3sg.m.: B ḳaʕʕ ṣarreḥ bə-ktīša — er war dabei, die Pferde zu hüten (пасти, стеречь)
 (5) warten
-qtil intrans, qattil intrans
+qtil intrans, qattil intrans irregular
 только перфект
 perf. 3pl.m.: waḳḳīfin w ḳaʕin — sie standen da und warteten 
 IV aḳəʕ / yaḳəʕ ‘setzen (tr.), absetzen, stellen’
@@ -1805,7 +1806,7 @@ perf. 3sg.m.: M káhraba ḳṭīʕa — der Strom (ток) ist ausgefallen
 Ǧ ḳṭīʕa xebra — der Nachricht ist unterbrochen, d.h. verlorengegangen / verschwunden
 (2) vorbeikommen, passieren
 perf. 3sg.m.: B ḳaṭṭeʕ
-qtil trans, qtil intrans, qattil intrans
+qtil trans, qtil intrans, qattil intrans I strong
 II ḳaṭṭaʕ / yḳaṭṭaʕ ‘abschneiden, zerreißen’
 perf. 3sg.m.: B ḳiṭṭeʕ
 (2) vorbeikommen, passieren
@@ -1847,7 +1848,7 @@ qtil intrans or qtil passive?
 II ḳayyel / yḳayyel ‘beauftragen поручать, behaupten утверждать’
 сразу перфект
 perf. 3sg.m. mit suff. 3sg.m.: ḳayyīlle
-perf. 3sg.f. mit suff. 3sg.m.: ḳayyīlōle
+perf. 3sg.f. mit suff. 3sg.m.: ḳayyilōle
 
 
 
@@ -1862,7 +1863,7 @@ perf. 3sg.f.: Ǧ ḳayyīma ōṯya ʕaḳrapṯa — da war ein Skorpion gekomm
 perf. 3sg.f.: Ǧ ʕaynaḥi nūra ḳayyīma bə-šmū — wir sahen das Feuer zum Himmel aufsteigen
 (8) mit ḳyōmča (jüngster Tag, Weltuntergang)
 perf. 3sg.f.: Ǧ ḳayyīma ḳyōmča — ein großer Tumult war entstanden
-qattil intrans
+qattil intrans II-wy
 IV ōḳem / yōḳem ‘wegnehmen’
 perf. 3sg.m.: M ḳayyīməl ʕaḳta — er hat die Halskette (ошейник; ожерелье) weggenommen
 (7) mit arnaḥ — drängen (настаивать), überreden, Meinung ändern
@@ -1926,7 +1927,7 @@ lhw / lhy
 I iləh / yiləh ‘sich vergnügen развлекаться, sich die Zeit vertreiben’
 perf. 3pl.m.: M lahhīyin ʕammōxlin — sie aßen vergnügt
 perf. 2sg.f.: bima člahhīya — womit hast du dir die Zeit vertrieben
-qattil intrans II-w / II-y
+qattil intrans III-wy
 
 
 
@@ -2101,10 +2102,10 @@ qtil trans
 
 
 mrḥ
-I marraḥ / ymarraḥ ‘scheißen’
+II marraḥ / ymarraḥ ‘scheißen’
 только перфект
 perf. 3sg.m.: M ṭefla marreḥ erraʕ menne — das Kind hat sich vollgeschissen / in die Hose gemacht
-qattil intrans
+
 
 
 
@@ -2115,7 +2116,7 @@ perf. 3sg.f.: M marrīḳa
 perf. 3pl.m.: M marrīḳin
 (2) erleben, vorkommen, passieren
 perf. 3sg.f.: M hōḏ ču marrīḳa aʕle — das war ihm noch nicht vorgekommen
-qattil intrans
+qattil intrans I strong
 II marreḳ / ymarreḳ ‘vorbeigehen lassen, passieren lassen’
 perf. 1sg.m. mit suff. 3sg.f.: M nmarrīḳla — ich schaffte sie hinüber (переправил)
 
@@ -2174,7 +2175,7 @@ perf. 3sg.f.: maṭṭīya
 perf. 1sg.f.: M nmaṭṭīya
 IV aməṭ / yaməṭ ‘bringen’, hinbringen’
 perf. 3sg.m.: maṭṭay — er ist angekommen
-qattil intrans
+qattil intrans III-y
 
 
 
@@ -2230,7 +2231,7 @@ nčḥ
 I iččaḥ / yiččaḥ ‘heiraten’
 perf. 2sg.m.: čnaččeḥ
 perf. 3pl.m.: naččīḥin — sie waren verheiratet
-qattil intrans?
+qattil intrans I strong ?
 
 
 
@@ -2298,7 +2299,7 @@ I infaḥ / yinfuḥ ‘atmen, hauchen’
 perf. 3sg.m.: nfīḥəl ḥōle ex ṭabla — er hat sich aufgeblasen раздулся wie ein Trommel барабан (d.h. er ist ein Angeber хвастун)
 I M Ǧ infeḥ / yinfaḥ ‘anschwellen, sich aufblähen’
 perf. 3sg.m.: naffeḥ
-both qtil intrans qattil intrans
+both qtil intrans qattil intrans I strong
 
 
 
@@ -2318,7 +2319,7 @@ perf. 3pl.m.: Ǧ ču naffīḳin maraynaḥ miʕlaynaḥ — unsere Angehörigen
 (12) (mit xolḳa) wütend / zornig / böse sein / werden, sich ärgern
 perf. 3sg.m.: yōmən naffeḳ xolḳaḥ — wenn wir zornig sind
 (19) perf. 3sg.m.: M naffeḳ? — Hast du verstanden (w. ist es angekommen?)
-qattil intrans
+qattil intrans I strong
 IV(2) ččaffaḳ / yiččaffaḳ ‘herausgebracht выносить, публиковать werden’
 perf. 3sg.m.: Ǧ ččaffeḳ 
 perf. 3sg.f.: ččafīḳa
@@ -2329,7 +2330,7 @@ perf. 3sg.f.: ččafīḳa
 nft
 I infat / yunfut ‘hinkommen, ankommen, erreichen’
 perf. 3pl.c.: naffītin
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -2392,9 +2393,10 @@ perf. 3pl.m.: naḥḥīčin
 (2) bei jd. absteigen, bei jd. übernachten, einen Besuch machen
 perf. 3sg.m.: B naḥḥeć ġappi ḏ̣ayfa — er war bei ihm als Gast abgestiegen
 perf. 3pl.c.: B naḥḥīćin ġappi — sie waren bei ihm abgestiegen
+qattil intrans I strong
 IV aḥḥeč / yaḥḥeč ‘herunterholen’
 perf. 3pl.m.: M aḥḥīčin
-qattil intrans
+
 
 
 
@@ -2423,7 +2425,7 @@ pl.c.indet.: B nakkībin PERFEKT ZU I?
 nkḥ
 I ikkaḥ / yikkaḥ ‘heiraten’, M heute nur noch in obszöner Rede: ficken, bumsen
 perf. 3sg.m.: nakkeḥ
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -2787,7 +2789,7 @@ perf. 3sg.m.: M irxeb
 B irxep; raxxep !
 (4) (im Haschischrausch) schweben находиться под воздействием марихуаны
 perf. 1sg.m.: Ǧ nirxeb ʕimmāy — ich schwebte mit ihnen (im Haschischrausch)
-qtil intrans?/qtil trans; qattil intrans?
+qtil intrans?/qtil trans; qattil intrans I strong
 IV arxeb / yarxeb ‘aufsteigen lassen’
 (2) (etwas) aufstellen
 perf. 3pl.m.: M arxibill žʕīlča — sie haben den Kessel aufgestellt
@@ -2808,7 +2810,7 @@ I isbeʕ / yisbaʕ ‘satt werden’
 perf. 3sg.m.: M sappeʕ ḏmōxa — er hat ausgesschlafen; er hat genug geschlafen
 sappeʕ mōya — mit Wasser gesättigt
 Ǧ sappeʕ
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -2850,7 +2852,7 @@ sḳṭ
 I isḳaṭ / yisḳaṭ ‘intr. stürzen, fallen’
 perf. 3sg.m.: lā ʕetla saḳḳeṭ iʕlay — kein Sack war auf mich gefallen
 perf. 3sg.f.: saḳḳīṭa
-qattil intrans
+qattil intrans I strong
 II saḳḳeṭ ‘werfen, hinunterwerfen’
 perf. 3sg.m. mit suff. 3sg.f.: saḳḳīṭla ʕal-anna ṯelča — er hat es in den Schnee geworfen
 mit suff. 1sg.: lab saḳḳīṭlay — wenn er mich zu Fall bringt
@@ -2861,7 +2863,7 @@ mit suff. 1sg.: lab saḳḳīṭlay — wenn er mich zu Fall bringt
 slč
 I isleč / yislač ‘sich davonmachen, wegschlüpfen, ausrutschen поскользнуться’
 perf. 3sg.: M salleč
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -2884,7 +2886,7 @@ perf. 1pl.m.: M nsallīḳin
 perf. 3sg.m.: Ǧ ḥašīša ... salleḳ — das Gras war gewachsen
 (5) (mit īḏa) können, (von der Hand) gehen
 perf. 3sg.m.: Ǧ ma salleḳ b-īḏa — was ihm von der Hand geht; was er kann
-qattil intrans
+qattil intrans I strong
 IV asseḳ / yasseḳ ‘hinaufbringen относить наверх, hinaufschaffen’
 perf. 3sg.f.: M assīḳa
 perf. 3pl.m. mit suff. 3sg.m.: M assiḳille ʕimmayhun — sie hatten ihn mit sich hinaufgenommen
@@ -3026,7 +3028,7 @@ I Ǧ I išbeč / yišbač ‘versetzt соединённый? angeordnet sein, f
 perf. 3sg.f.: šappeč ‘festhaltend, miteinander umschlungen
 f.sg.: īḏi b-īḏah šappīča — sie hielten sich an den Händen (w. seine Hand hielt ihre Hand fest)
 išbeč ‘versetzt’
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -3094,7 +3096,7 @@ qtil intrans
 I išḥen / yišḥan ‘warm werden’
 perf. 3sg.m.: M išḥen ḳūrəl lanna baġla — er hatte sich neben diesem Maultier aufgewärmt
 perf. 1sg.m.: Ǧ nšaḥḥen 
-both qtil intrans / qattil intrans
+both qtil intrans / qattil intrans I strong
 
 
 
@@ -3195,7 +3197,7 @@ qattil trans
 šmn
 I išmen / yišman ‘fett werden; dick werden’
 perf. 3sg.m.: šammen — er ist fett geworden
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -3204,7 +3206,7 @@ I išmaṭ / yišmuṭ ‘fliehen, flüchten’
 perf. 3sg.m.: M B šammeṭ
 perf. 3sg.f.: M šammīṭa
 perf. 2sg.m.: M čšammeṭ
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -3377,7 +3379,7 @@ perf. 1sg.f.: nṣilīḥa
 I iṣmeč / yiṣmuč ‘schweigen; ruhig sein’
 perf. 3sg.f.: ṣammīča 
 perf. 2sg.m.: ṭṣammeč (= čṣammeč)
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -3607,7 +3609,7 @@ perf. 3pl.m.: M ġuryōṯa ṯaḳḳīnin ʕal-anna mayla — die Löcher sind
 perf. 3sg.m. mit suff. 3sg.m.: M ču barnaš ṯaḳḳīlle mett — es war niemandem etwas geschehen
 (5) zusammengesetzt сложный составной sein, bestehen aus
 perf. 3sg.m.: ṯaḳḳen hū ṯlēṯ žizəʔ ḳurʔān — der Koran besteht aus 30 Teilen
-qattil intrans 
+qattil intrans I strong
 
 
 
@@ -3663,7 +3665,7 @@ qtil trans
 I iṭfar / yiṭfar ‘davonschießen, aufspringen’
 perf. 3sg.m.: ṭaffer
 perf. 3sg.f.: ṭaffīra
-qattil intrans
+qattil intrans I strong
 
 
 
@@ -3765,8 +3767,8 @@ perf. 3sg.m. mit suff. 3sg.f.: M ṭawwīla
 
 ṭxx / txx
 I M aṭax / yiṭṭux ‘sich bücken’ нагибаться
-taxx b-arʕa — er hatte sich zu Boden gebückt
-qattil intrans
+perf. taxx b-arʕa — er hatte sich zu Boden gebückt
+qattil intrans I strong
 
 
 
@@ -3849,7 +3851,7 @@ qattil trans III-y
 wṯḳ
 I IV ???
 perf. 3pl.m.: M waṯṯīḳin ʕemmil maʕ-baʕḏ̣innun — sie vertrauen aufeinander 
-qattil intrans? ?
+qattil intrans? ? I-wy
 
 
 
@@ -4164,7 +4166,7 @@ qtil intrans
 zḥṭ
 I Ǧ izḥaṭ / yizḥaṭ ‘ausrutschen поскользнуться’
 perf. 1sg.m.: nzaḥḥeṭ
-qattil intrans
+qattil intrans I strong
 
 
 
