@@ -6,6 +6,7 @@
 html {
   overflow-y: scroll;
 }
+p {margin:0;padding:1.5}
 .header {
     background-color: lightgray;
     border: none;
@@ -84,6 +85,15 @@ html {
 
 
 <span class="center">
+  <button 
+     id="clipboard" 
+     style="font-size:14pt;height:30pt" 
+     onclick="outputToClip()"
+  >
+       Copy output to clipboard
+  </button>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
   <button 
      id="defaults" 
      style="font-size:20pt;height:35pt" 
@@ -388,7 +398,12 @@ html {
 
 
 <script src="verb.js"></script>
+<script src="../myLibraries/copyToClip.js">
+</script>
+
 <script>
+
+
 const blue = ["<font color='blue'>","</font>"];
 const bluebold = ["<b><font color='blue'>","</font></b>"];
 const bold = ["<b>","</b>"];
@@ -527,9 +542,31 @@ function main(regSearch, regYes, regNo) {
   let message = numberOfLines + " verbal roots found";
   message = numColor.join(numColor.join(message));
   output.unshift(message);
-  output = output.map(s => s.replace(/^.*\n/mu, bold.join("$&"))); 
-  output = output.map(s => s.replace(/\n/gmu, "<br>")); 
-  document.getElementById("output").innerHTML = output.join("<br><br><br>");
+  output = output.map(s => s.replace(/(^.*)\n/mu, bold.join("$1\n"))); 
+  output = paragrify(output);
+//  output = output.map(s => s.replace(/\n/gmu, "<br>")); 
+  document.getElementById("output").innerHTML = output.join("\n");
+}
+
+function outputToClip() {
+  htm = document.getElementById('output').innerHTML;
+  copyToClip(htm);
+
+}
+
+function paragrify( output ) {
+  let result = [];
+  for (i=0; i<output.length; i++) {
+    let lines = output[i].split("\n");
+    for (let line of lines) {
+      newLine = "<p style='margin:0cm;margin-bottom:0pt;line-height: 1'>\n" + 
+          line + 
+          "\n<\/p>";
+      result.push(newLine); 
+    }
+    result.push("<p style='margin:0cm;margin-bottom:0pt;line-height: 1'><br><\/p>");
+  }
+  return result;
 }
 
 function greppyArray( arr, regYes, regNo ) {

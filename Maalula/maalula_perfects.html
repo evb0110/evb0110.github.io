@@ -6,6 +6,7 @@
 html {
   overflow-y: scroll;
 }
+p {margin:0;padding:1.5}
 .header {
     background-color: lightgray;
     border: none;
@@ -53,6 +54,10 @@ html {
 </h2>
 
 <span class="center">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Multiline:</b> 
   <input 
      type="checkbox" 
@@ -60,39 +65,76 @@ html {
      onclick="multiline()"
      checked
    />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Number of stems</b> 
+  <input 
+     type="checkbox" 
+     id="ranges"  
+     onclick="makeRanges()"
+     checked
+   />
 </span>
+
 
 <span class="center">
-<button 
-   id="defaults" 
-   style="font-size:20pt;height:35pt" 
-   onclick="clearAll()"
->
-     Clear All
-</button>
+  <button 
+     id="clipboard" 
+     style="font-size:14pt;height:30pt" 
+     onclick="outputToClip()"
+  >
+       Copy output to clipboard
+  </button>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+  <button 
+     id="defaults" 
+     style="font-size:20pt;height:35pt" 
+     onclick="clearAll()"
+  >
+       Clear All
+  </button>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<input 
-   type="search" 
-   id="myInput" 
-   style="font-size:20pt;height:35pt"
-   value=""
-/>
-<button 
-   id="myBtn" 
-   style="font-size:20pt;height:35pt" 
-   onclick="search()"
->
-     Search
-</button>
+  <input 
+     type="search" 
+     id="myInput" 
+     style="font-size:20pt;height:35pt"
+     value=""
+  />
+  <button 
+     id="myBtn" 
+     style="font-size:20pt;height:35pt" 
+     onclick="search()"
+  >
+       Search
+  </button>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span id="rangesInput"
+	style="
+	 position: absolute;
+	 float:center;"
+  >
+  </span>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </span>
+ 
 
 
 
-<br><br>  
+<br>
 <form id="stem" onchange="input.focus()">
 <table 
    onchange="changeTable()"
@@ -356,7 +398,12 @@ html {
 
 
 <script src="perf.js"></script>
+<script src="../myLibraries/copyToClip.js">
+</script>
+
 <script>
+
+
 const blue = ["<font color='blue'>","</font>"];
 const bluebold = ["<b><font color='blue'>","</font></b>"];
 const bold = ["<b>","</b>"];
@@ -376,10 +423,16 @@ const stems = [
     "I(10)",
   ];
 
+let flagRanges;
+makeRanges();
+
 let perf = [];
 perf = perfInit();
 
 let flagMultiline = "m"; 
+
+let stemsFrom;
+let stemsTo;
 
 
 let input = document.getElementById("myInput");
@@ -396,10 +449,10 @@ input.addEventListener("keyup",
 let stem = document.getElementById("stem");
 
 
-function changeTable(){
+function changeTable() {
   input.focus();
-  for (let stemmy of stems){
-    switch (stem.elements[stemmy].value){ 
+  for (let stemmy of stems) {
+    switch (stem.elements[stemmy].value) { 
       case "yes":
     document.getElementById(stemmy).style.backgroundColor = "#00ff00";  
         break;
@@ -414,33 +467,36 @@ function changeTable(){
   }
 }
   
-function clearAll(){
+function clearAll() {
   input.focus();
-  for (let stemmy of stems){
+  for (let stemmy of stems) {
     stem.elements[stemmy].value = "any";
     document.getElementById(stemmy).style.backgroundColor = "";  
   }
   document.getElementById("output").innerHTML = "";
   document.getElementById("multiline").checked = true;
+  document.getElementById("from").value = "";    
+  document.getElementById("to").value = "";    
   input.value = "";
   
 }
 
-function multiline(){
+function multiline() {
   input.focus();
   flagMultiline = "m";
   let checkBox = document.getElementById("multiline");
-  if (!(checkBox.checked)){ flagMultiline = "" }
+  if (!(checkBox.checked)) { flagMultiline = "" }
 }
 
 
 function search() {
+  setRanges();
   let regSearch;
   let regYes = [];
   let regNo = [];
-  for (let stemmy of stems){
+  for (let stemmy of stems) {
     stemReady = "^" + stemmy.replace( /\(/, "\\(" ).replace( /\)/, "\\)" ) + " ";
-    switch (stem.elements[stemmy].value){ 
+    switch (stem.elements[stemmy].value) { 
       case "any": 
         break;
       case "yes":
@@ -451,69 +507,137 @@ function search() {
         break
     }
   }
-  if (input.value){
+  if (input.value) {
     regSearch = input.value;
   }
   input.focus();
   if ( 
        (regYes.length == 0) &&  
        (regNo.length == 0) &&
-       (!(regSearch))
-     ){
-    document.getElementById("output").innerHTML = '';
+       (!(regSearch)) &&
+       ((!(flagRanges)) ||
+        (flagRanges && ( stemsTo - stemsFrom >= 11 )))
+     ) {
+    document.getElementById("output").innerHTML = 
+          numColor.join("Please provide meaningful search conditions");
     return;
   }
   main(regSearch, regYes, regNo);
 }
 
-function main(regSearch, regYes, regNo){
+function main(regSearch, regYes, regNo) {
   regYes = regYes.map(s => RegExp(s, "gmu"));
   regNo = regNo.map(s => RegExp(s, "gmu"));
-  if (regSearch){
+  if (regSearch) {
     flagSearch = "g" + flagMultiline + "u";
     regSearch = RegExp(regSearch, flagSearch);
     regYes.unshift(regSearch);
   }
-  regNo = regNo.map(s => RegExp(s, "gmu"));
   let data = perf;
   let output = [];
   output = greppyArray( data, regYes, regNo ); 
+  output = output.filter( s => matchesRange( s, /(^|>)I/gm, stemsFrom, stemsTo ) );
+
   let numberOfLines = output.length;
   let message = numberOfLines + " verbal roots found";
   message = numColor.join(numColor.join(message));
   output.unshift(message);
-  output = output.map(s => s.replace(/^.*\n/mu, bold.join("$&"))); 
-  output = output.map(s => s.replace(/\n/gmu, "<br>")); 
-  document.getElementById("output").innerHTML = output.join("<br><br><br>");
+  output = output.map(s => s.replace(/(^.*)\n/mu, bold.join("$1\n"))); 
+  output = paragrify(output);
+//  output = output.map(s => s.replace(/\n/gmu, "<br>")); 
+  document.getElementById("output").innerHTML = output.join("\n");
 }
 
-function greppyArray( arr, regYes, regNo ){
+function outputToClip() {
+  htm = document.getElementById('output').innerHTML;
+  copyToClip(htm);
+
+}
+
+function paragrify( output ) {
+  let result = [];
+  for (i=0; i<output.length; i++) {
+    let lines = output[i].split("\n");
+    for (let line of lines) {
+      newLine = "<p style='margin:0cm;margin-bottom:0pt;line-height: 1'>\n" + 
+          line + 
+          "\n<\/p>";
+      result.push(newLine); 
+    }
+    result.push("<p style='margin:0cm;margin-bottom:0pt;line-height: 1'><br><\/p>");
+  }
+  return result;
+}
+
+function greppyArray( arr, regYes, regNo ) {
   let output = [];
-  for (let el of arr){
+  for (let el of arr) {
     let flag = true;
-    for (let reg of regYes){
+    for (let reg of regYes) {
       let testy = (el.search(reg) > -1);
-      if (!testy){
+      if (!testy) {
         flag = false;
         break;
       }
     }
-    for (let reg of regNo){
+    for (let reg of regNo) {
       let testy = (el.search(reg) > -1);
-      if (testy){
+      if (testy) {
         flag = false;
         break;
       }
     }
     if (flag) {
-      for (reg of regYes){
+      for (reg of regYes) {
         el = el.replace(reg, redbold.join("$&"));
       }
       output.push(el);
     }
-
   }
   return output;
+}
+
+function matchesRange( str, reg, m, n ) {
+  let number = (str.match( reg ) || []).length;
+  return ( ( m <= number ) && ( number <=n ) );
+}
+
+function setRanges(){
+  stemsFrom = 0;
+  stemsTo = 11;
+  if (flagRanges) {
+    stemsFrom = document.getElementById("from").value;    
+    stemsTo = document.getElementById("to").value;    
+    stemsFrom = stemsFrom || 0;
+    stemsTo = stemsTo || 11;
+  } 
+}
+
+function makeRanges() {
+  flagRanges = document.getElementById("ranges").checked;
+  let rangesInput = document.getElementById("rangesInput");
+  let rangesHTML = `
+    <input 
+       type="search" 
+       id="from" 
+       placeholder="from"  
+       size="2" 
+       maxlength="2" 
+       style="font-size:20pt;height:35pt" 
+    ></input>
+    <input 
+       type="search" 
+       id="to" 
+       placeholder="to"  
+       size="2" 
+       maxlength="2" 
+       style="font-size:20pt;height:35pt" 
+    ></input>
+  `;
+  rangesInput.innerHTML = "";
+  if (flagRanges) {
+  rangesInput.innerHTML = rangesHTML;
+  }
 }
 
 </script>
