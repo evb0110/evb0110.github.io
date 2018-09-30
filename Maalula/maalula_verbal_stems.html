@@ -544,7 +544,6 @@ function main(regSearch, regYes, regNo) {
   output.unshift(message);
   output = output.map(s => s.replace(/(^.*)\n/mu, bold.join("$1\n"))); 
   output = paragrify(output);
-//  output = output.map(s => s.replace(/\n/gmu, "<br>")); 
   document.getElementById("output").innerHTML = output.join("\n");
 }
 
@@ -561,7 +560,7 @@ function paragrify( output ) {
     for (let line of lines) {
       newLine = "<p style='margin:0cm;margin-bottom:0pt;line-height: 1'>\n" + 
           line + 
-          "\n<\/p>";
+          "\n<\/p>\n";
       result.push(newLine); 
     }
     result.push("<p style='margin:0cm;margin-bottom:0pt;line-height: 1'><br><\/p>");
