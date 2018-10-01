@@ -3889,7 +3889,7 @@ I(7) geteilt werden
 
 ḳṣt
 arab.
-I aufsuchen
+IV aufsuchen
 I(7) beabsichtigt sein
 
 
@@ -5425,7 +5425,7 @@ nxy
 arab.
 II auffordern
 IV reizen
-I(10) sich angesprochen fühlen
+I(8) sich angesprochen fühlen
 
 
 nxz
@@ -9300,7 +9300,7 @@ I mit heiler Haut davonkommen
 
 ẓnr / znr
 aram.
-I sich gürten
+II sich gürten
 
 
 ẓnṭr

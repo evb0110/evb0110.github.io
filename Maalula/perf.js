@@ -386,14 +386,6 @@ qtil trans
 
 
 
-ʕṭl 
-*II ʕaṭṭel / yʕaṭṭel ‘jdn. ohne Arbeit lassen’
-IV aʕṭel / yaʕṭel ‘nicht arbeiten, nicht funktionieren, versagen (не справиться, давать сбой)’
-даётся только перфект
-perf. 3sg.f.: B aʕṭlaṯ makīna — das Auto versagte
-
-
-
 
 ʕwr
 II ʕawwar / yʕawwar ‘blind werden, erblinden (ослепнуть)’
@@ -1408,7 +1400,7 @@ qtil trans
 
 
 ḥšm1
-I aḥšem / yaḥšem ‘zu Abend essen’ 
+IV aḥšem / yaḥšem ‘zu Abend essen’ 
 perf. 3sg.m.: ḥaššem 
 perf. 3sg.f.: ḥaššīma
 qattil intrans I strong
@@ -1991,13 +1983,6 @@ I ilḳaz / yilḳuz ‘einen leichten Hieb удар / Stups geben
 perf. 3sg.m. ilḳez
 qtil trans
 
-
-
-lmm2
-*I alam / yillum ‘sammeln’
-I(7) inlam / yinlam ‘aufgesammelt werden’
-perf. 3pl.c.: inlam ḥaẓẓurō — die Äpfel wurden aufgesammelt
-ПОЧЕМУ ЭТО ПЕРФЕКТ? 
 
 
 
@@ -3081,7 +3066,7 @@ Werner: что это за форма? Почему не *šaġġīl
 
 
 šhr1
-I išher / yišhur ‘wach sein, den Abend / die nacht gesellig verbringen’
+I išher / yišhur ‘wach sein, den Abend / die Nacht gesellig verbringen’
 perf. 3sg.m.: M išher
 perf. 3sg.f.: šhīra 
 perf. 3pl.m.: šhīrin
@@ -4301,7 +4286,8 @@ perf. 2sg.f. mit suff. 3pl.m.: ʕaya čižliḳōlun xull lanna? — warum erlau
 
 
 žly1
-IV perf. 3sg.f.: žallīya
+IV Geschirr spüllen, abspüllen полоскать
+perf. 3sg.f.: žallīya
 
 
 
@@ -4314,7 +4300,7 @@ II žammeʕ, žammaʕ / yžammeʕ, yžammaʕ ‘sammeln, einsammeln’
 perf. 3pl.m.: M žammīʕin
 žammīʕill ḥalayn — sie haben sich versammelt
 perf. 1pl.c.: B nǧimmīʕin
-IV ažmaʕ / yažmaʕ 
+IV ažmaʕ / yažmaʕ ‘sammeln, versammeln’
 perf. 3pl.m.: M ažmiʕillaḥ ġappayhun — sie haben uns bei sich versammelt
 I(8) ižčmaʕ / yižčmaʕ ‘sich sammeln, sich versammeln’
 perf. 3sg.m.: M žammeʕ eḏma b-nīrča — es hat sich Blut im Zahnfleisch gesammelt
