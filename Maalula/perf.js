@@ -1138,7 +1138,7 @@ perf. 3pl.m.: hayyīžin — (die Kamele) sind wild
 
 hzm 
 *II hazzem / yhazzem ‘zur Flucht verhelfen, flüchten lassen, vertreiben’
-Ǧ I(7) inəhzem / yinəhzem ‘fliehen, flüchten, ausbrechen, weglaufen’
+I(7) Ǧ inəhzem / yinəhzem ‘fliehen, flüchten, ausbrechen, weglaufen’
 perf. 3sg.m.: wa hazzem — er war auf der Flucht
 1sg.m.: nhazzem — ich bin geflohen
 3pl.m.: hazzīmin sie waren geflüchtet
