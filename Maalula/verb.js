@@ -4952,7 +4952,7 @@ I atmen
 I(7) sich aufblähen
 
 
-nfḥ +
+nfḳ +
 aram.
 I herauskommen
 II absetzen
