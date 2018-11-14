@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>React - Component</title>
+    <script src="js/react.min.js"></script>
+    <script src="js/react-dom.min.js"></script>
+    <script src="js/browser.min.js"></script>
+</head>
+<body>
+
+    <div id="container"></div>
+
+    <script type="text/babel">
+        var BuckysComponent = React.createClass({
+            render: function() {
+                return (
+                  <div>
+                    <h2>{this.props.fruit}</h2>
+                    <p> {this.props.color}</p>
+                  </div>
+                );
+            }
+        });
+        ReactDOM.render(
+          <div>
+            <BuckysComponent fruit="apple" color="red" />
+            <BuckysComponent fruit="banana" color="yellow" />
+            <BuckysComponent fruit="cucumber" color="green" />
+          </div>,
+          document.getElementById('container'));
+    </script>
+
+</body>
+</html>
