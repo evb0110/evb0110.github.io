@@ -1,9 +1,8 @@
-function divAndColorify (str, regex = /^.*$/, classColor = 'redbold', tag = 'div') {
+export default function divAndColorify (str, regex = /^.*$/, classColor = 'redbold', tag = 'div') {
   const splitText = str.split(regex);
 
   if (splitText.length <= 1) {
     return;
-    // return makeDiv(str);
   }
   const matches = str.match(regex);
   const totalNode = document.createElement(tag);
@@ -25,13 +24,3 @@ function makeSpan(text, classColor) {
   return node;
 }
 
-function makeDiv(text, classColor) {
-  const node = document.createElement('div');
-  const textnode = document.createTextNode(text);
-  node.appendChild(textnode);
-  if (classColor) node.classList.add(classColor);
-  return node;
-}
-
-
-export { divAndColorify as colorify, makeSpan, makeDiv }
