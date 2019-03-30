@@ -1,4 +1,7 @@
 import colorify from './helpers.js';
+import produceText from './produceText.js';
+import data from './datafile.js';
+import { outer2 } from './app.js';
 
 export default function proceedCorpus(data, regex, container) {
   for (const vol of data) {
@@ -23,12 +26,14 @@ export default function proceedCorpus(data, regex, container) {
 }
 
 export function proceedLine({ volume, textName, textus, versio, regex }) {
-
   const volumeNode = createDivTextNode('volume', volume);
   const inlineSeparatorNode = createDivTextNode('inline-separator', ' | ');
   const textNameNode = createDivTextNode('text-name', textName);
 
   const cardHeader = createDivTextNode('card-header');
+  cardHeader.addEventListener('click', () =>
+    handleHeaderClick(volume, textName),
+  );
   appendChildren(cardHeader, [volumeNode, inlineSeparatorNode, textNameNode]);
 
   const textusNode = createDivTextNode('textus');
@@ -62,3 +67,8 @@ function appendChildren(element, childrenArray) {
   });
 }
 
+function handleHeaderClick(volume, textName) {
+  const volumeNumber = +volume[0];
+  const textNumber = +textName.slice(0, 3);
+  produceText(data, volumeNumber, textNumber, outer2);
+}
