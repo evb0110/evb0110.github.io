@@ -8,6 +8,13 @@ const outer1 = document.querySelector('.outer1');
 const searchButton = document.querySelector('#search');
 searchButton.addEventListener('click', handleSearch);
 
+const volumeNumberBox = document.querySelector('#volume_number');
+const textNumberBox = document.querySelector('#text_number');
+const outer2 = document.querySelector('.outer2');
+
+const showButton = document.querySelector('#show');
+showButton.addEventListener('click', handleShow);
+
 function handleSearch(event) {
   event.preventDefault();
   emptyElement(outer1);
@@ -21,23 +28,18 @@ function handleSearch(event) {
   proceedCorpus(data, searchRegex, outer1);
 }
 
-const volumeNumberBox = document.querySelector('#volume_number');
-const textNumberBox = document.querySelector('#text_number');
-const outer2 = document.querySelector('.outer2');
-
-const showButton = document.querySelector('#show');
-showButton.addEventListener('click', handleShow);
-
 function handleShow(event) {
   event.preventDefault();
   emptyElement(outer2);
-  outer1.scrollTop = 0;
+  outer2.scrollTop = 0;
 
   const volumeNumber = +volumeNumberBox.value;
   const textNumber = +textNumberBox.value;
 
-  if (Number.isNaN(volumeNumber)) outer2.innerHTML = 'volumeNumber should be a valid number';
-  if (Number.isNaN(textNumber)) outer2.innerHTML = 'textNumber should be a valid number';
+  if (Number.isNaN(volumeNumber))
+    outer2.innerHTML = 'volumeNumber should be a valid number';
+  if (Number.isNaN(textNumber))
+    outer2.innerHTML = 'textNumber should be a valid number';
 
   produceText(data, volumeNumber, textNumber, outer2);
 }
