@@ -50,9 +50,9 @@ outer1.onscroll = hideHeader;
 outer2.onscroll = hideHeader;
 const pagetitle = document.querySelector('.pagetitle');
 
-var prevScrollpos = outer1.scrollTop || outer2.scrollTop;
-function hideHeader(e) {
-  var currentScrollPos = e.target.scrollTop;
+let prevScrollpos;
+function hideHeader(event) {
+  const currentScrollPos = event.target.scrollTop;
   if (prevScrollpos > currentScrollPos) {
     pagetitle.classList.add('block');
     pagetitle.classList.remove('none');
