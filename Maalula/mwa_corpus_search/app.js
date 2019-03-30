@@ -58,7 +58,7 @@ function hideHeader(e) {
     pagetitle.classList.remove('none');
   } else {
     pagetitle.classList.add('none');
-    pagetitle.classList.remove('remove');
+    pagetitle.classList.remove('block');
   }
   prevScrollpos = currentScrollPos;
 }
