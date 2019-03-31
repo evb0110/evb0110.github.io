@@ -50,17 +50,14 @@ outer1.onscroll = hideHeader;
 outer2.onscroll = hideHeader;
 const pagetitle = document.querySelector('.pagetitle');
 
-let prevScrollpos;
 function hideHeader(event) {
-  const currentScrollPos = event.target.scrollTop;
-  if (prevScrollpos > currentScrollPos) {
-    pagetitle.classList.add('block');
-    pagetitle.classList.remove('none');
-  } else {
+  if (outer1.scrollTop || outer2.scrollTop) {
     pagetitle.classList.add('none');
     pagetitle.classList.remove('block');
+  } else {
+    pagetitle.classList.add('block');
+    pagetitle.classList.remove('none');
   }
-  prevScrollpos = currentScrollPos;
 }
 
 export { outer1, outer2, emptyElement, volumeNumberBox, textNumberBox };
