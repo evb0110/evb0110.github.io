@@ -62,8 +62,8 @@ function hideHeader() {
 }
 
 const copyButton = document.querySelector('.copy_button');
-copyButton.addEventListener('click', e => {
-  e.preventDefault();
+copyButton.addEventListener('click', event => {
+  event.preventDefault();
   copyToClipboard('.outer1');
 });
 
