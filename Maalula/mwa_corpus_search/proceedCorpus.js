@@ -35,14 +35,14 @@ export function proceedLine({ volume, textName, textus, versio, regex }) {
   const cardHeader = createDivTextNode('card-header');
   cardHeader.addEventListener(
     'click',
-    handleHeaderClick.bind(null, volume, textName),
+    handleHeaderClick.bind(null, volume, textName, regex),
   );
   cardHeader.title = 'Click me to show the context';
   appendChildren(cardHeader, [volumeNode, inlineSeparatorNode, textNameNode]);
 
   const textusNode = createDivTextNode('textus');
   let textusGrepped;
-  if (regex) {
+  if (regex.test(textus)) {
     textusGrepped = colorify(textus, regex);
   } else {
     textusGrepped = colorify(textus);
@@ -71,10 +71,10 @@ function appendChildren(element, childrenArray) {
   });
 }
 
-function handleHeaderClick(volume, textName) {
+function handleHeaderClick(volume, textName, regex) {
   const volumeNumber = +volume[0];
   const textNumber = +textName.slice(0, 3);
-  produceText(volumeNumber, textNumber);
+  produceText(volumeNumber, textNumber, regex);
   volumeNumberBox.value = volumeNumber;
   textNumberBox.value = textNumber;
 }

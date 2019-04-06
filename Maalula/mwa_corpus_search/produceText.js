@@ -2,7 +2,7 @@ import { proceedLine } from './proceedCorpus.js';
 import { emptyElement, outer2 } from './app.js';
 import data from './datafile.js';
 
-export default function produceText(volumeNumber, textNumber) {
+export default function produceText(volumeNumber, textNumber, regex) {
   const vol = data[volumeNumber - 1];
   const { volume } = vol;
   const { textName, contents } = vol.texts[textNumber - 1];
@@ -16,6 +16,7 @@ export default function produceText(volumeNumber, textNumber) {
       textName,
       textus,
       versio,
+      regex,
     }).cloneNode(true);
     // cloned to remove event listener from header
     
