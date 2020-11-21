@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{515:function(n,t,e){"use strict";e.r(t);var o={name:"MaalulaRootsAndStems"},l=e(39),component=Object(l.a)(o,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  Roots and Stems\n")])}),[],!1,null,"46720110",null);t.default=component.exports}}]);
