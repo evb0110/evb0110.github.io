@@ -14,22 +14,22 @@
 // origin: "https://evb0110.github.io"
 // pathname: "/newsite/maalula/corpus"
 
-const { pathname, href } = location;
-const longPathname = (pathname + href.split(pathname)[1]).replace(/\/[^\/]+/, '');
+        const { pathname, href } = location;
+        const longPathname = (pathname + href.split(pathname)[1]).replace(/\/[^\/]+/, '');
 
 
         const segment = 1
 
-        console.log(location)
 
         // sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
         sessionStorage.redirect = longPathname;
 
+        const replace = location.pathname.split('/').slice(0, 1 + segment).join('/');
+        console.log(location)
+
         // debugger
 
-        location.replace(
-            location.pathname.split('/').slice(0, 1 + segment).join('/')
-        )
+        location.replace(replace);
 
 
     </script>
