@@ -9,17 +9,27 @@
         // - https://stackoverflow.com/a/50259501
         // - https://stackoverflow.com/a/50247140
         // ========================================
+
+//         href: "https://evb0110.github.io/newsite/maalula/corpus?mode=search"
+// origin: "https://evb0110.github.io"
+// pathname: "/newsite/maalula/corpus"
+
+const { pathname, href } = location;
+const longPathname = pathname + href.split(pathname)[1];
+
+
         const segment = 1
 
         console.log(location)
 
-        sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
+        // sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
+        sessionStorage.redirect = longPathname;
 
-        debugger
+        // debugger
 
-        // location.replace(
-        //     location.pathname.split('/').slice(0, 1 + segment).join('/')
-        // )
+        location.replace(
+            location.pathname.split('/').slice(0, 1 + segment).join('/')
+        )
 
 
     </script>
