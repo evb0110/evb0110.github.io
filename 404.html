@@ -11,22 +11,15 @@
         // ========================================
         const segment = 1
 
-const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms))
+        console.log(location)
 
         sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
 
-      
-        (async function foo() {
-            console.log(location);
-            debugger
-            console.log(sessionStorage.redirect)
-            console.log(location.pathname);
-            console.log(location.pathname.split('/').slice(0, 1 + segment).join('/'))
-            await sleep(20000);
-            location.replace(
-                location.pathname.split('/').slice(0, 1 + segment).join('/')
-            )
-        })();
+        debugger
+
+        location.replace(
+            location.pathname.split('/').slice(0, 1 + segment).join('/')
+        )
 
 
     </script>
