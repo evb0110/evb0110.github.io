@@ -25,7 +25,7 @@ const longPathname = pathname + href.split(pathname)[1];
         // sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
         sessionStorage.redirect = longPathname;
 
-        // debugger
+        debugger
 
         location.replace(
             location.pathname.split('/').slice(0, 1 + segment).join('/')
