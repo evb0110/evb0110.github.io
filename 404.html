@@ -15,7 +15,7 @@
 // pathname: "/newsite/maalula/corpus"
 
 const { pathname, href } = location;
-const longPathname = pathname + href.split(pathname)[1];
+const longPathname = (pathname + href.split(pathname)[1]).replace(/\/[^\/]+/, '');
 
 
         const segment = 1
