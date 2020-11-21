@@ -4,46 +4,49 @@
     <meta charset="UTF-8">
     <title>Not Found</title>
     <script>
-        // ========================================
-        // Credits:
-        // - https://stackoverflow.com/a/50259501
-        // - https://stackoverflow.com/a/50247140
-        // ========================================
 
+        function make404() {
+            const notFound = document.querySelector('.not-found');
+            notFound.style.display = 'block';
+        }
 
+        (function redirectForHistoryMode() {
+            const appNames = ['newsite'];
 
+            const { origin, pathname, href } = location;
+            const firstDir = pathname.split('/')[1];
+            const appName = appNames.find((name) => name = firstDir);
 
-        // href: "https://evb0110.github.io/newsite/maalula/corpus?mode=search"
-        // origin: "https://evb0110.github.io"
-        // pathname: "/newsite/maalula/corpus"
+            if (!appName) {
+                setTimeout(make404, 500);
+                return;
+            }
 
-        const appNames = ['newsite'];
+            const replace = '/' + appName;         // '/newsite'
+            const localPath = href.replace(origin + replace, '');
+            sessionStorage.redirect = localPath;
+            console.log(location)
 
-        const { origin, pathname, href } = location;
-        const firstDir = pathname.split('/')[1];
-        const appName = appNames.find((name) => name = firstDir);
+            debugger
 
-
-        const longPathname = (pathname + href.split(pathname)[1]).replace(/\/[^\/]+/, '');
-
-
-        const segment = 1
-
-
-        // sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
-        sessionStorage.redirect = longPathname;
-
-        const replace = location.pathname.split('/').slice(0, 1 + segment).join('/');
-        console.log(location)
-
-        debugger
-
-        location.replace(replace);
-
-
+            location.replace(replace);
+        })()
     </script>
+    <style>
+        .not-found {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
 </head>
 <body>
+    <div class="not-found" style="display: none;">
+        <h1>404</h1>
+        <h1>Wrong Page</h1>
+    </div>
 
 </body>
 </html>
