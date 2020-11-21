@@ -14,7 +14,7 @@
             const appNames = ['newsite'];
 
             const { origin, pathname, href } = location;
-            const firstDir = pathname.split('/')[1];
+            const firstDir = pathname.split('/')[1];         // 'newsite'
             const appName = appNames.find((name) => name === firstDir);
 
             if (!appName) {
@@ -23,11 +23,8 @@
             }
 
             const replace = '/' + appName;          // '/newsite'
-            const localPath = href.replace(origin + replace, '');
+            const localPath = href.replace(origin + replace, '');  // what after /newsite
             sessionStorage.redirect = localPath;
-            console.log(location)
-
-            debugger
 
             location.replace(replace);
         })()
