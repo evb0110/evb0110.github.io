@@ -15,14 +15,14 @@
 
             const { origin, pathname, href } = location;
             const firstDir = pathname.split('/')[1];
-            const appName = appNames.find((name) => name = firstDir);
+            const appName = appNames.find((name) => name === firstDir);
 
             if (!appName) {
                 setTimeout(make404, 500);
                 return;
             }
 
-            const replace = '/' + appName;         // '/newsite'
+            const replace = '/' + appName;          // '/newsite'
             const localPath = href.replace(origin + replace, '');
             sessionStorage.redirect = localPath;
             console.log(location)
