@@ -9,16 +9,17 @@
         // - https://stackoverflow.com/a/50259501
         // - https://stackoverflow.com/a/50247140
         // ========================================
-        var pathSegmentsToKeep = 0;
+        const segment = 1
 
-        var l = window.location;
-        l.replace(
-        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
-        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
-        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
-        l.hash
-        );
+        sessionStorage.redirect = '/' + location.pathname.slice(1).split('/').slice(segment).join('/')
+
+        console.log(sessionStorage.redirect)
+        console.log(location.pathname);
+
+        location.replace(
+            location.pathname.split('/').slice(0, 1 + segment).join('/')
+        )
+        console.log(location.pathname);
     </script>
 </head>
 <body>
