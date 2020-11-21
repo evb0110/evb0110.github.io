@@ -18,14 +18,13 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms))
       
         (async function foo() {
             console.log(location);
-            throw 'stop';
             console.log(sessionStorage.redirect)
             console.log(location.pathname);
             console.log(location.pathname.split('/').slice(0, 1 + segment).join('/'))
             await sleep(20000);
-            location.replace(
-                location.pathname.split('/').slice(0, 1 + segment).join('/')
-            )
+            // location.replace(
+            //     location.pathname.split('/').slice(0, 1 + segment).join('/')
+            // )
         })();
 
 
