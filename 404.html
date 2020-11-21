@@ -7,7 +7,7 @@
 
         function make404() {
             const notFound = document.querySelector('.not-found');
-            notFound.style.display = 'block';
+            notFound.style.display = 'flex';
         }
 
         (function redirectForHistoryMode() {
@@ -30,17 +30,26 @@
         })()
     </script>
     <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
         .not-found {
-            width: 100vh;
-            height: 100vh;
+            width: 100%;
+            height: 100%;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             background-color: lightgrey;
+        }
+        .not-found h1 {
             font-size: 3rem;
         }
         .number-404 {
-            font-size: 4rem;
+            font-size: 5rem;
         }
     </style>
 </head>
