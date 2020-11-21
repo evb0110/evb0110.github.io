@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{518:function(e,n,r){"use strict";r.r(n);var t={name:"UrmiCorpusSearch"},c=r(39),component=Object(c.a)(t,(function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  Urmi Corpus Search\n")])}),[],!1,null,"1e95f18d",null);n.default=component.exports}}]);

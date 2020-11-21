@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["MaalulaPerfect"],{aeec:function(e,a,t){"use strict";t.r(a);var l=function(){var e=this,a=e.$createElement,t=e._self._c||a;return t("div",[e._v(" Maalula Perfect ")])},n=[],c={name:"MaalulaPerfect"},r=c,u=t("2877"),s=Object(u["a"])(r,l,n,!1,null,"5da54e7e",null);a["default"]=s.exports}}]);
+//# sourceMappingURL=MaalulaPerfect.c38e995e.js.map

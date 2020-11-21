@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{517:function(n,e,t){"use strict";t.r(e);var r={name:"UrmiAbbreviations"},o=t(39),component=Object(o.a)(r,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  Urmi Abbreviations\n")])}),[],!1,null,"e92293a0",null);e.default=component.exports}}]);

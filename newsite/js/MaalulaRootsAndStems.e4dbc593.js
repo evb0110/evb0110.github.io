@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["MaalulaRootsAndStems"],{b770:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",[t._v(" Roots and Stems ")])},s=[],o={name:"MaalulaRootsAndStems"},l=o,u=e("2877"),c=Object(u["a"])(l,n,s,!1,null,"2ac5011b",null);a["default"]=c.exports}}]);
+//# sourceMappingURL=MaalulaRootsAndStems.e4dbc593.js.map
