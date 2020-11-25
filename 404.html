@@ -23,10 +23,8 @@
             }
 
             const replace = origin + '/' + appName;
-            const localPath = href.replace(replace, '');  // what after /newsite
 
-            debugger
-            sessionStorage.redirect = localPath;
+            sessionStorage.redirect = href.replace(replace, '');
 
             location.replace(replace);
         })()
