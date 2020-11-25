@@ -17,7 +17,7 @@
             const firstDir = pathname.split('/')[1];         // 'newsite'
             const appName = appNames.find((name) => name === firstDir);
 
-            if (!appName) {
+            if (!appName || !firstDir) {
                 setTimeout(make404, 500);
                 return;
             }
