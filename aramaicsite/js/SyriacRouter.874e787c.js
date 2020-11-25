@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["SyriacRouter"],{"09b8":function(e,r,t){"use strict";t.r(r);var n=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("router-view")},a=[],u={name:"SyriacRouter"},c=u,o=t("2877"),i=Object(o["a"])(c,n,a,!1,null,"4a4f1821",null);r["default"]=i.exports}}]);

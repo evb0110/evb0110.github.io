@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["UrmiRouter"],{baf4:function(e,r,t){"use strict";t.r(r);var n=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("router-view")},u=[],a={name:"UrmiRouter"},o=a,i=t("2877"),c=Object(i["a"])(o,n,u,!1,null,"28ad0d1b",null);r["default"]=c.exports}}]);
