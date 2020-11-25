@@ -11,7 +11,7 @@
         }
 
         (function redirectForHistoryMode() {
-            const appNames = ['aramaicsite', 'newsite'];
+            const appNames = ['newsite', 'aramaicsite'];
 
             const { origin, pathname, href } = location;
             const firstDir = pathname.split('/')[1];         // 'newsite'
@@ -22,8 +22,8 @@
                 return;
             }
 
-            const replace = '/' + appName;          // '/newsite'
-            const localPath = href.replace(origin + replace, '');  // what after /newsite
+            const replace = origin + '/' + appName;
+            const localPath = href.replace(replace, '');  // what after /newsite
 
             debugger
             sessionStorage.redirect = localPath;
