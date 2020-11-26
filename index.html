@@ -1,8 +1,15 @@
 <head>
   <title>EVB</title>
+  <script>
+    const { origin, pathname, href } = location;
+    const appName = 'aramaicsite';
+    const replace = origin + '/' + appName;
+    location.replace(replace);
+  </script>
 </head>
 <style>
 html {
+  display: none;
   overflow-y: scroll;
 }
 .mylink {
@@ -47,7 +54,7 @@ html {
 
 
 <br>
-<a 
+<a
   class="mylink"
   href="Turoyo/turoyo.html">
   Turoyo
