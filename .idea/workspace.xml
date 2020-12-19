@@ -26,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -42,6 +43,7 @@
       <workItem from="1606252911683" duration="526000" />
       <workItem from="1606306213706" duration="2009000" />
       <workItem from="1606373382536" duration="2771000" />
+      <workItem from="1607192486463" duration="1270000" />
     </task>
     <servers />
   </component>
