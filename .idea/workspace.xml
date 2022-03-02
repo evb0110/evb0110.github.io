@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9180f5-d801-4644-90cc-b33d107ea2a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e9180f5-d801-4644-90cc-b33d107ea2a5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
       <workItem from="1606373382536" duration="2771000" />
       <workItem from="1607192486463" duration="1270000" />
       <workItem from="1644061419604" duration="2642000" />
+      <workItem from="1645365164873" duration="1158000" />
     </task>
     <task id="LOCAL-00001" summary="разные мелкие правки">
       <created>1644091337543</created>
@@ -56,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644091337543</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="syriac search to public">
+      <created>1645365295214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645365295214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +71,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="разные мелкие правки" />
-    <option name="LAST_COMMIT_MESSAGE" value="разные мелкие правки" />
+    <MESSAGE value="syriac search to public" />
+    <option name="LAST_COMMIT_MESSAGE" value="syriac search to public" />
   </component>
 </project>
