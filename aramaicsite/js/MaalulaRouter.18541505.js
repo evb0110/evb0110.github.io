@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["MaalulaRouter"],{ea0b:function(e,a,t){"use strict";t.r(a);var n=function(){var e=this,a=e.$createElement,t=e._self._c||a;return t("router-view")},u=[],r={name:"MaalulaRouter"},l=r,o=t("2877"),c=Object(o["a"])(l,n,u,!1,null,"39925fdb",null);a["default"]=c.exports}}]);

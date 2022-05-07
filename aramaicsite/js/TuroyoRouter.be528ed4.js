@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["TuroyoRouter"],{8421:function(e,o,r){"use strict";r.r(o);var t=function(){var e=this,o=e.$createElement,r=e._self._c||o;return r("router-view")},n=[],u={name:"TuroyoRouter"},a=u,c=r("2877"),s=Object(c["a"])(a,t,n,!1,null,"3e412454",null);o["default"]=s.exports}}]);
