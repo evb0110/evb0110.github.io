@@ -2,3 +2,8 @@
 .idea/*
 .directory
 .DS_Store
+/static/.idea/.gitignore
+/static/.idea/modules.xml
+/static/.idea/php.xml
+/static/.idea/static.iml
+/static/.idea/vcs.xml
