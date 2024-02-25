@@ -1,6 +1,6 @@
 #!/bin/bash
 
 git add .
-commit=`date`
+commit=$(date)
 git commit -m"automatic: $commit"
 git push
