@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkaramaicsite"]=self["webpackChunkaramaicsite"]||[]).push([[80],{677:function(e,r,u){u.r(r),u.d(r,{default:function(){return f}});var t=function(){var e=this,r=e._self._c;return r("router-view")},n=[],a={name:"TuroyoRouter"},i=a,s=u(1656),c=(0,s.A)(i,t,n,!1,null,"74145fd6",null),f=c.exports}}]);

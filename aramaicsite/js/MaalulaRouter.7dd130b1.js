@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkaramaicsite"]=self["webpackChunkaramaicsite"]||[]).push([[521],{3526:function(a,e,u){u.r(e),u.d(e,{default:function(){return s}});var r=function(){var a=this,e=a._self._c;return e("router-view")},t=[],n={name:"MaalulaRouter"},c=n,i=u(1656),l=(0,i.A)(c,r,t,!1,null,"1beacc4a",null),s=l.exports}}]);

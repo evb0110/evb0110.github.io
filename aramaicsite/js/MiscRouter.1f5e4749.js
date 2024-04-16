@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkaramaicsite"]=self["webpackChunkaramaicsite"]||[]).push([[24],{403:function(e,a,r){r.r(a),r.d(a,{default:function(){return f}});var t=function(){var e=this,a=e._self._c;return a("router-view")},u=[],n={name:"MiscRouter"},i=n,s=r(1656),c=(0,s.A)(i,t,u,!1,null,"1a6e7fae",null),f=c.exports}}]);

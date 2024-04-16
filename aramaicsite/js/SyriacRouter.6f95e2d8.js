@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkaramaicsite"]=self["webpackChunkaramaicsite"]||[]).push([[695],{1912:function(e,a,r){r.r(a),r.d(a,{default:function(){return l}});var t=function(){var e=this,a=e._self._c;return a("router-view")},u=[],n={name:"SyriacRouter"},i=n,c=r(1656),s=(0,c.A)(i,t,u,!1,null,"063a3a21",null),l=s.exports}}]);
