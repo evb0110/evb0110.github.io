@@ -1,0 +1,1 @@
+import{_ as o,k as t,o as r,l as s}from"./index-BM3v4wcN.js";const c={name:"MiscRouter"};function n(a,_,p,i,u,f){const e=t("router-view");return r(),s(e)}const l=o(c,[["render",n]]);export{l as default};
