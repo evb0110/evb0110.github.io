@@ -1,0 +1,1 @@
+import{_ as o,k as r,o as t,l as c}from"./index-CgEucBZG.js";const n={name:"SyriacRouter"};function s(a,_,p,i,u,f){const e=r("router-view");return t(),c(e)}const l=o(n,[["render",s]]);export{l as default};

@@ -1,1 +1,0 @@
-import{_ as e,k as r,o as t,l as n}from"./index-BM3v4wcN.js";const s={name:"TuroyoRouter"};function c(a,_,p,u,f,i){const o=r("router-view");return t(),n(o)}const l=e(s,[["render",c]]);export{l as default};
