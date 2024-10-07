@@ -1,0 +1,1 @@
+import{_ as o,l as t,o as r,j as s}from"./index-CuWP80Oz.js";const c={name:"MiscRouter"};function n(a,_,p,i,u,f){const e=s("router-view");return r(),t(e)}const l=o(c,[["render",n]]);export{l as default};

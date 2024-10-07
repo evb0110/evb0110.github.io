@@ -1,1 +1,0 @@
-import{_ as o,l as r,o as t,j as c}from"./index-Deu3D283.js";const n={name:"SyriacRouter"};function s(a,_,p,i,u,f){const e=c("router-view");return t(),r(e)}const l=o(n,[["render",s]]);export{l as default};

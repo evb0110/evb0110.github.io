@@ -1,0 +1,1 @@
+import{_ as e,l as r,o as t,j as n}from"./index-CuWP80Oz.js";const s={name:"TuroyoRouter"};function c(a,_,p,u,f,i){const o=n("router-view");return t(),r(o)}const l=e(s,[["render",c]]);export{l as default};
