@@ -1,1 +1,0 @@
-import{_ as o,n as r,o as t,l as n}from"./index-CT75iCmw.js";const s={name:"UrmiRouter"};function c(a,_,p,i,m,u){const e=n("router-view");return t(),r(e)}const l=o(s,[["render",c]]);export{l as default};
