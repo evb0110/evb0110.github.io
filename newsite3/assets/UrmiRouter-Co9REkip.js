@@ -1,1 +1,0 @@
-import{_ as o,l as r,o as t,j as n}from"./index-CuWP80Oz.js";const s={name:"UrmiRouter"};function c(a,_,p,i,m,u){const e=n("router-view");return t(),r(e)}const l=o(s,[["render",c]]);export{l as default};

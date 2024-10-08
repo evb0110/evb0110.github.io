@@ -1,0 +1,1 @@
+import{_ as o,n as t,o as r,l as n}from"./index-CT75iCmw.js";const s={name:"MiscRouter"};function c(a,_,p,i,u,f){const e=n("router-view");return r(),t(e)}const l=o(s,[["render",c]]);export{l as default};
