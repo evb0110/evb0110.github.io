@@ -1,0 +1,1 @@
+import{_ as o,s as r,o as t,q as c}from"./index-eAgdvAXd.js";const n={name:"SyriacRouter"};function s(a,_,p,i,u,f){const e=c("router-view");return t(),r(e)}const d=o(n,[["render",s]]);export{d as default};

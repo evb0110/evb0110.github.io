@@ -1,0 +1,1 @@
+import{_ as o,s as t,o as r,q as s}from"./index-eAgdvAXd.js";const c={name:"MiscRouter"};function n(a,_,p,i,u,f){const e=s("router-view");return r(),t(e)}const d=o(c,[["render",n]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,s as r,o as t,q as n}from"./index-eAgdvAXd.js";const s={name:"TuroyoRouter"};function c(a,_,p,u,f,i){const o=n("router-view");return t(),r(o)}const d=e(s,[["render",c]]);export{d as default};
