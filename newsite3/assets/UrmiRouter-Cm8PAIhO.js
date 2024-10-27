@@ -1,1 +1,0 @@
-import{_ as o,s as r,o as t,q as n}from"./index-eAgdvAXd.js";const s={name:"UrmiRouter"};function c(a,_,p,i,m,u){const e=n("router-view");return t(),r(e)}const d=o(s,[["render",c]]);export{d as default};

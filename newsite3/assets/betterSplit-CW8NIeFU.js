@@ -1,0 +1,1 @@
+function i(e,n){n=RegExp(n.source,h(n.flags,"g"));const u=Array.from(e.matchAll(n)),c=[];let t=0;for(const o of u){const s=o[0];c.push(e.slice(t,o.index)),c.push(s),t=o.index+s.length}return c.push(e.slice(t)),c}function h(e,n){return e.includes(n)?e:e+n}export{i as b};
