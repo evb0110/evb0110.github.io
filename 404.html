@@ -4,17 +4,16 @@
     <meta charset="UTF-8">
     <title>Not Found</title>
     <script>
-
         function make404() {
             const notFound = document.querySelector('.not-found');
             notFound.style.display = 'flex';
         }
 
         (function redirectForHistoryMode() {
-            const appNames = ['newsite', 'aramaicsite', 'newsite3'];
+            const appNames = ['aramaicsite', 'newsite3', 'oldsite2'];
 
             const { origin, pathname, href } = location;
-            const firstDir = pathname.split('/')[1];         // 'newsite'
+            const firstDir = pathname.split('/')[1];         // 'newsite3'
             const appName = appNames.find((name) => name === firstDir);
 
             if (!appName || !firstDir) {
@@ -27,7 +26,7 @@
             sessionStorage.redirect = href.replace(replace, '');
 
             location.replace(replace);
-        })()
+        })();
     </script>
     <style>
         html, body {
@@ -59,6 +58,5 @@
         <h1 class="number-404">404</h1>
         <h1>Wrong Page</h1>
     </div>
-
 </body>
 </html>
