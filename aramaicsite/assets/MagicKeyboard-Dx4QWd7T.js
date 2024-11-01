@@ -1,1 +1,0 @@
-import{_ as o,f as r,k as a,o as n}from"./index-Auqq_LRT.js";const t={};function c(s,e){return n(),r("div",null,e[0]||(e[0]=[a("h1",null,"Magic Keyboard",-1)]))}const d=o(t,[["render",c]]);export{d as default};
