@@ -1,1 +1,0 @@
-import{ad as n,c as r,e as u,v as l}from"./index-BE_32NFI.js";const f=l({eager:Boolean},"lazy");function m(e,o){const a=n(!1),s=r(()=>a.value||e.eager||o.value);u(o,()=>a.value=!0);function t(){e.eager||(a.value=!1)}return{isBooted:a,hasContent:s,onAfterLeave:t}}export{f as m,m as u};
