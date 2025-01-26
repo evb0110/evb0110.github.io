@@ -1,0 +1,1 @@
+import{ak as t,c,e as u,v as r,bx as d}from"./index-JLW-bKvC.js";const l=r({eager:Boolean},"lazy");function p(o,e){const a=t(!1),s=c(()=>a.value||o.eager||e.value);u(e,()=>a.value=!0);function n(){o.eager||(a.value=!1)}return{isBooted:a,hasContent:s,onAfterLeave:n}}function v(){const e=d("useScopeId").vnode.scopeId;return{scopeId:e?{[e]:""}:void 0}}export{v as a,l as m,p as u};
