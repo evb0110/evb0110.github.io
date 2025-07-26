@@ -1,0 +1,174 @@
+Serial;Text ID;Tokens;Types;Speaker's name;Sp_ID;Gender;Age (around 1986);Occupation;Title;Text types and topics
+1;III.01 ;370;197;Ḥabīb Fransīs;S01;M;26;Trader, farmer;How to make grape molasses;Activities at home and in the village
+2;III.02 ;184;124;Čaḳla Fōḏ̣el;S13;F;51;Housewife, farmer;How to make apricot jam;Activities at home and in the village
+3;III.03 ;234;128;Fōṭme Ḳamar;S05;F;58;Housewife, farmer;How to make cheese;Activities at home and in the village
+4;III.04 ;425;213;Raḥme Šahīn;S25;F;55;Housewife;How to grind grain;Activities at home and in the village
+5;III.05 ;257;157;Raḥme Šahīn;S25;F;55;Housewife;Baking bread;Activities at home and in the village
+6;III.06 ;298;168;Čaḳla Fōḏ̣el;S13;F;51;Housewife, farmer;How to make xeška (a dairy product);Activities at home and in the village
+7;III.07 ;137;97;Ilyas Hilal;S42;M;56;Shepherd;How I once looked after the goats as a child;Activities at home and in the village
+8;III.08 ;401;237;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;A blizzard;Activities at home and in the village
+9;III.09 ;277;180;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Torrents;Activities at home and in the village
+10;III.10 ;129;82;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Singing in the vineyard;Activities at home and in the village
+11;III.11 ;305;204;Čaḳla Šahīn;S34;F;33;Housewife;How we got engaged and married;Activities at home and in the village
+12;III.12 ;346;211;Čaḳla Fōḏ̣el;S13;F;51;Housewife, farmer;A child is born;Activities at home and in the village
+13;III.13 ;98;73;Fōṭme Ḏiyāb;S36;F;47;Housewife;Providing hospitality to guests when a child is born;Activities at home and in the village
+14;III.14 ;539;258;Ḏēba ebər Mūše Pxīl;S29;M;34;Civil servant (Department of Antiquities - Maaloula);The shisha;Activities at home and in the village
+15;III.15 ;494;247;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Drinking coffee;Activities at home and in the village
+16;III.16 ;508;262;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;Drinking maté;Activities at home and in the village
+17;III.17 ;253;142;Niʕmat Ḏiyāb;S37;F;20;Housewife;A girl talking about her life in the village ;Activities at home and in the village
+18;III.18 ;87;69;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Ōfṯa (a horned viper);Activities at home and in the village
+19;III.19 ;587;312;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Bus accidents;Activities at home and in the village
+20;III.20 ;208;133;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The donkey;Activities at home and in the village
+21;III.21 ;87;54;Lawandyos Sanžar;S21;M;66;Farmer;The vineyard work;Occupational and agricultural activities
+22;III.22 ;107;69;Yawse Sirḥan;S10;M;70;Farmer, plowwright;Making a plow;Occupational and agricultural activities
+23;III.23 ;196;137;Čaḳla Fōḏ̣el;S13;F;51;Housewife, farmer;Sheep shearing;Occupational and agricultural activities
+24;III.24 ;105;76;Yawse Sirḥan;S10;M;70;Farmer, plowwright;Processing sheepskin;Occupational and agricultural activities
+25;III.25 ;206;140;Lawandyos Barkīla;S38;M;28;Baker;The baker;Occupational and agricultural activities
+26;III.26 ;203;131;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The greengrocer;Occupational and agricultural activities
+27;III.27 ;93;66;Filīb Šōʕra;S16;M;46;Farmer;The medicine man;Occupational and agricultural activities
+28;III.28 ;401;210;Ḥanna Milōne;S14;M;76;Farmer, weaver;The rug weaver;Occupational and agricultural activities
+29;III.29 ;282;172;Edmōn Šannīṣ;S35;M;22;Inlaid wood craftsman;The inlaid wood craftsman;Occupational and agricultural activities
+30;III.30 ;908;469;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Buying a horse;Occupational and agricultural activities
+31;III.31 ;419;259;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The futile search for barley;Occupational and agricultural activities
+32;III.32 ;514;278;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Buying chaff;Occupational and agricultural activities
+33;III.33 ;542;239;Pšāra Ḥalabō ebər Xalel Ḥalabō;S28;M;46;Taxi driver, farmer;The allocation of irrigation water rights in the Šiḳya;Occupational and agricultural activities
+34;III.34 ;42;35;Tufīḳ ebər Alṭun Milōne;S45;M;84;Farmer;The Lord's Prayer;Religious traditions and beliefs (the Christian community)
+35;III.35 ;101;67;Nāyfe Fransīs;S43;F;24;Housewife;The Feast of Saint Barbara;Religious traditions and beliefs (the Christian community)
+36;III.36 ;129;87;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Christmas;Religious traditions and beliefs (the Christian community)
+37;III.37 ;182;109;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of the Epiphany;Religious traditions and beliefs (the Christian community)
+38;III.38 ;790;317;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Lent, Holy Week, and Easter;Religious traditions and beliefs (the Christian community)
+39;III.39 ;140;93;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of Saint George;Religious traditions and beliefs (the Christian community)
+40;III.40 ;92;63;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The month of the Virgin Mary;Religious traditions and beliefs (the Christian community)
+41;III.41 ;163;101;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of Pentecost;Religious traditions and beliefs (the Christian community)
+42;III.42 ;366;182;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of Corpus Christi;Religious traditions and beliefs (the Christian community)
+43;III.43 ;150;90;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of Saint Lavandius;Religious traditions and beliefs (the Christian community)
+44;III.44 ;1394;524;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of the Cross;Religious traditions and beliefs (the Christian community)
+45;III.45 ;996;408;Sarkes Ḳattaḥ;S19;M;80;Civil servant (retired);The Feast of Saint Thecla ;Religious traditions and beliefs (the Christian community)
+46;III.46 ;445;215;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The Feast of Saint Sergius;Religious traditions and beliefs (the Christian community)
+47;III.47 ;737;334;Ilyas Pxīl;S24;M;45;Priest;Baptism;Religious traditions and beliefs (the Christian community)
+48;III.48 ;304;179;Ḥabīb Fransīs;S01;M;26;Trader, farmer;First Communion;Religious traditions and beliefs (the Christian community)
+49;III.49 ;834;392;Fēres Šalhub;S07;M;44;Farmer;The wedding;Religious traditions and beliefs (the Christian community)
+50;III.50 ;685;306;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Funerals and burial ceremonies;Religious traditions and beliefs (the Christian community)
+51;III.51 ;187;107;Ḥabīb Fransīs;S01;M;26;Trader, farmer;Burial of children;Religious traditions and beliefs (the Christian community)
+52;III.52 ;859;439;Ḏēba Čažra;S04;M;56;Farmer, builder;The Convent of Saint Thecla;Religious traditions and beliefs (the Christian community)
+53;III.53 ;764;357;Ḥanna Milōne;S14;M;76;Farmer, weaver;The Shrine of Saint Šurben;Religious traditions and beliefs (the Christian community)
+54;III.54 ;1161;533;Xalel Ḳuṭayman;S15;M;57;Farmer, worker;The wedding;Religious traditions and beliefs (the Muslim community)
+55;III.55 ;231;127;Fōṭme Ḳamar;S05;F;58;Housewife, farmer;Funerals and burial ceremonies I;Religious traditions and beliefs (the Muslim community)
+56;III.56 ;1108;417;Mḥammad ʕali Ḥamīd;S17;M;45;Farmer;Funerals and burial ceremonies II;Religious traditions and beliefs (the Muslim community)
+57;III.57 ;315;162;Meḥsen Ḳamar;S30;M;45;Farmer;Ramadan fasting;Religious traditions and beliefs (the Muslim community)
+58;III.58 ;167;102;Fōṭme Ḏiyāb;S36;F;47;Housewife;Eid al-Fitr (The Feast of Breaking the Fast);Religious traditions and beliefs (the Muslim community)
+59;III.59 ;285;151;Fōṭme Ḳamar;S05;F;58;Housewife, farmer;Eid al-Adha;Religious traditions and beliefs (the Muslim community)
+60;III.60 ;332;200;Alṭun Ṣādeḳ;S22;M;51;Grocer;Birth of a demon;Superstitions
+61;III.61 ;142;96;Milōne, berčil Alṭun Milōne;S40;F;89;Housewife;The demons' visit;Superstitions
+62;III.62 ;411;157;Ḥanne berčlə Šḥōde Barkīla;S08;F;60;Housewife, farmer;Reading coffee grounds (tasseography);Superstitions
+63;III.63 ;178;110;Alṭun Ṣādeḳ;S22;M;51;Grocer;Surviving accidental premature burial;Superstitions
+64;III.64 ;235;140;Mṭānyos Mʕallmōna;S02;M;63;Civil servant;The divining rod;Superstitions
+65;III.65 ;227;111;Lawandyos Sanžar;S21;M;66;Farmer;The demon was a cat;Superstitions
+66;III.66 ;172;115;Čaḳla Fōḏ̣el;S13;F;51;Housewife, farmer;The missing watermelon;Personal experiences and events
+67;III.67 ;51;42;Mūše Barkīla;S06;M;25;Civil servant (paramedic);Falling off the edge of the torrent channel;Personal experiences and events
+68;III.68 ;57;43;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The bee sting;Personal experiences and events
+69;III.69 ;57;47;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The donkey ride;Personal experiences and events
+70;III.70 ;106;91;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The blood of the lizard;Personal experiences and events
+71;III.71 ;206;118;Yḥanne Milōne;S39;M;75;Farmer;Recording songs;Personal experiences and events
+72;III.72 ;101;65;Mūše Barkīla;S06;M;25;Civil servant (paramedic);Mistaking someone for someone else;Personal experiences and events
+73;III.73 ;161;113;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The dead uncle;Personal experiences and events
+74;III.74 ;179;121;Filīb Šōʕra;S16;M;46;Farmer;The emigrant;Personal experiences and events
+75;III.75 ;141;94;Filīb Šōʕra;S16;M;46;Farmer;The missing gate;Personal experiences and events
+76;III.76 ;150;114;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;How we stole a sheep in Baxʿa;Personal experiences and events
+77;III.77 ;229;143;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Selling the loom;Personal experiences and events
+78;III.78 ;163;109;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Field irrigation in the middle of a winter night;Personal experiences and events
+79;III.79 ;140;91;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Shoplifting;Personal experiences and events
+80;III.80 ;233;163;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Celebrating the reconciliation;Personal experiences and events
+81;III.81 ;149;109;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The picnic;Personal experiences and events
+82;III.82 ;144;102;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;How we burned the threshing board;Personal experiences and events
+83;III.83 ;245;171;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The trouble with the priest ;Personal experiences and events
+84;III.84 ;139;101;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The tomato fight;Personal experiences and events
+85;III.85 ;178;113;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The egg fight;Personal experiences and events
+86;III.86 ;171;112;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The gift;Personal experiences and events
+87;III.87 ;113;81;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The banana theft;Personal experiences and events
+88;III.88 ;146;101;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The mice in the bag;Personal experiences and events
+89;III.89 ;131;98;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The low passage;Personal experiences and events
+90;III.90 ;165;98;Alṭun Ṣādeḳ;S22;M;51;Grocer;A murder in the gorge;Personal experiences and events
+91;III.91 ;258;174;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;Revenge;Personal experiences and events
+92;III.92 ;138;89;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The broken window;Personal experiences and events
+93;III.93 ;74;60;Sarkes Barkīla;S44;M;39;Farmer;An experience in Germany;Personal experiences and events
+94;III.94 ;52;39;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The loose steering wheel;Personal experiences and events
+95;III.95 ;251;154;Mūše Ḥažža;S11;M;77;Farmer;A drinking bout in the wine cellar;Personal experiences and events
+96;III.96 ;370;208;Lawandyos Sanžar;S21;M;66;Farmer;Face-to-face with hunters;Personal experiences and events
+97;III.97 ;607;355;Fēres Šalhub;S07;M;44;Farmer;Two dangerous pranks;Personal experiences and events
+98;III.98 ;502;296;Fēres Šalhub;S07;M;44;Farmer;Rescuing an injured tractor driver;Personal experiences and events
+99;III.99 ;1980;834;Ḏēba Čažra;S04;M;56;Farmer, builder;The autobiography of Ḏēba Čažra;Personal experiences and events
+100;IV.01 ;500;271;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The wise judge and the sorcerer;Fairy tales
+101;IV.02 ;445;227;Fādi Maxōyel Wehbe;S33;M;13;(School) student;The poor man and the rich man;Fairy tales
+102;IV.03 ;385;204;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The boy's deer and the king's son;Fairy tales
+103;IV.04 ;4340;1417;Mṭānyos Mʕallmōna;S02;M;63;Civil servant;The magic ring;Fairy tales
+104;IV.05 ;986;457;Yawse Sirḥan;S10;M;70;Farmer, plowwright;The legacy of the fisherman;Fairy tales
+105;IV.06 ;702;371;Saʕda Ṭayfūr;S18;F;61;Housewife;The pious girl;Fairy tales
+106;IV.07 ;1105;509;Ḥanne berčlə Šḥōde Barkīla;S08;F;60;Housewife, farmer;The shoemaker's daughter;Fairy tales
+107;IV.08 ;381;195;Ḥanne berčlə Šḥōde Barkīla;S08;F;60;Housewife, farmer;The chicken thief;Fairy tales
+108;IV.09 ;511;256;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The poor man’s gem;Fairy tales
+109;IV.10 ;2690;981;Mṭānyos Mʕallmōna;S02;M;63;Civil servant;The adventures of the king’s son;Fairy tales
+110;IV.11 ;852;429;Mṭānyos Mʕallmōna;S02;M;63;Civil servant;How the sea got salty;Fairy tales
+111;IV.12 ;645;349;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The young man and the snake;Fairy tales
+112;IV.13 ;754;355;Warde Ḳallūme;S23;F;72;Housewife;The golden hen;Fairy tales
+113;IV.14 ;495;224;Nažāt Ḳallūme;S31;F;16;(No occupation);The wicked daughter-in-law;Fairy tales
+114;IV.15 ;476;259;Žaržūra Zaxxōma;S32;M;35;Bricklayer;The four conditions;Fairy tales
+115;IV.16 ;383;216;Žabrōyin Čažra;S20;M;43;Baker;The wonderful wheat grains;Fairy tales
+116;IV.17 ;375;188;Žabrōyin Čažra;S20;M;43;Baker;The conversation with the fisherman;Fairy tales
+117;IV.18 ;896;467;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The father's legacy to his greedy children;Fairy tales
+118;IV.19 ;421;245;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The story of Krunbe;Fairy tales
+119;IV.20 ;1032;450;Mṭānyos Mʕallmōna;S02;M;63;Civil servant;The king and the peasant;Fairy tales
+120;IV.21 ;1345;604;Fōṭme Ḳamar;S05;F;58;Housewife, farmer;The wicked stepmother;Fairy tales
+121;IV.22 ;777;363;Žuryes Yawse Fransīs;S03;M;65;Farmer, trader;The wood gatherer and the king's daughter;Fairy tales
+122;IV.23 ;562;279;Mūše Ḥažža;S11;M;77;Farmer;The king and the handsome young man;Fairy tales
+123;IV.24 ;464;253;Ḥabīb Fransīs;S01;M;26;Trader, farmer;How the fox tricked the wolf;Fables
+124;IV.25 ;571;287;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The fox in sheepskin and the zucchini;Fables
+125;IV.26 ;356;221;Ḏēba Čažra;S04;M;56;Farmer, builder;The expulsion of Kuruġli;Lore
+126;IV.27 ;305;179;Ḏēba Čažra;S04;M;56;Farmer, builder;Brōša and the Bedouins;Lore
+127;IV.28 ;139;102;Sōba Ḳallūme;S41;M;75;Shepherd;The sung message;Lore
+128;IV.29 ;114;64;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;Žalīl went missing;Lore
+129;IV.30 ;112;87;Filīb Šōʕra;S16;M;46;Farmer;Dead during a drinking bout;Lore
+130;IV.31 ;214;153;Yawse Sirḥan;S10;M;70;Farmer, plowwright;Call of nature;Lore
+131;IV.32 ;307;206;Saʕda Ṭayfūr;S18;F;61;Housewife;Saint Thecla in Maʿlūla;Lore
+132;IV.33 ;598;281;Ḏēba Čažra;S04;M;56;Farmer, builder;The story of Brōm Wakīn;Lore
+133;IV.34 ;1176;578;Ḏēba Čažra;S04;M;56;Farmer, builder;The strong man Žuryes Šayyība;Lore
+134;IV.35 ;284;165;Ḏēba Čažra;S04;M;56;Farmer, builder;The story of Sarkes ʿAptalla;Lore
+135;IV.36 ;156;96;Lawandyos Sanžar;S21;M;66;Farmer;Yawse Drūb and the hyena;Lore
+136;IV.37 ;33;29;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;The joking fiancé;Jokes and anecdotes
+137;IV.38 ;80;51;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;Coming back from the mill;Jokes and anecdotes
+138;IV.39 ;72;60;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;The second floor;Jokes and anecdotes
+139;IV.40 ;425;241;Maxōyel Xūr;S27;M;76;Farmer;The two foolish husbands;Jokes and anecdotes
+140;IV.41 ;75;59;Yawse Sirḥan;S10;M;70;Farmer, plowwright;The crazy child kidnapper;Jokes and anecdotes
+141;IV.42 ;62;43;Yawse Sirḥan;S10;M;70;Farmer, plowwright;The nuts in the clay jug;Jokes and anecdotes
+142;IV.43 ;120;77;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;The leftovers;Jokes and anecdotes
+143;IV.44 ;107;75;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The bear in the walnut tree;Jokes and anecdotes
+144;IV.45 ;63;50;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The virginity test;Jokes and anecdotes
+145;IV.46 ;97;73;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The brave husband ;Jokes and anecdotes
+146;IV.47 ;84;68;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The shisha in the madhouse;Jokes and anecdotes
+147;IV.48 ;583;305;Filīb Šōʕra;S16;M;46;Farmer;The woman and the devil;Jokes and anecdotes
+148;IV.49 ;55;42;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;A cheap dinner;Jokes and anecdotes
+149;IV.50 ;186;118;Žabrōyin Čažra;S20;M;43;Baker;A riddle and its answer;Jokes and anecdotes
+150;IV.51 ;183;106;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;Why the butcher's son was hanged;Jokes and anecdotes
+151;IV.52 ;170;91;Yḥanne (Ḥannūne) Barkīla;S12;M;71;Farmer;The vengeance of Abu Nawwās;Jokes and anecdotes
+152;IV.53 ;67;51;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The red underpants;Jokes and anecdotes
+153;IV.54 ;76;53;Mṭānyos Mʕallmōna;S02;M;63;Civil servant;Nothing returned;Jokes and anecdotes
+154;IV.55 ;89;70;Meḥsen Ḳamar;S30;M;45;Farmer;The tree that bore no fruit;Jokes and anecdotes
+155;IV.56 ;102;68;Meḥsen Ḳamar;S30;M;45;Farmer;The wife and the prayer;Jokes and anecdotes
+156;IV.57 ;93;71;Alṭun Ṣādeḳ;S22;M;51;Grocer;Bestiality;Jokes and anecdotes
+157;IV.58 ;45;37;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The thrifty lover;Jokes and anecdotes
+158;IV.59 ;113;72;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The stingy man and the bone;Jokes and anecdotes
+159;IV.60 ;33;32;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The tree commemorating a quarrel;Jokes and anecdotes
+160;IV.61 ;148;93;Mūše Ḥažža;S11;M;77;Farmer;The German tourist and the donkey;Jokes and anecdotes
+161;IV.62 ;556;272;Mūše Ḥažža;S11;M;77;Farmer;How a divorce was avoided;Jokes and anecdotes
+162;IV.63 ;387;229;Malake Hilal;S09;F;75;Housewife;Why the sheikh danced;Jokes and anecdotes
+163;IV.64 ;652;323;Malake Hilal;S09;F;75;Housewife;The bishop and the dead person;Jokes and anecdotes
+164;IV.65 ;671;316;Malake Hilal;S09;F;75;Housewife;The unsuccessful love affair;Jokes and anecdotes
+165;IV.66 ;136;94;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The urine sample;Jokes and anecdotes
+166;IV.67 ;163;117;Mūše Barkīla;S06;M;25;Civil servant (paramedic);The Feast of the Cross;Songs and poems
+167;IV.68 ;113;83;Mūše Barkīla;S06;M;25;Civil servant (paramedic);Love poem;Songs and poems
+168;IV.69 ;131;95;Maxōyel Xūr;S27;M;76;Farmer;Hail in the vineyard;Songs and poems
+169;IV.70 ;19;17;Saʕda Ṭayfūr;S18;F;61;Housewife;Raḥme;Songs and poems
+170;IV.71 ;43;30;Ḥabīb Fransīs;S01;M;26;Trader, farmer;The brave bridegroom;Songs and poems
+171;IV.72 ;153;114;Žaržūra Ruzḳalla;S26;M;50;Teacher;Where are you going?;Songs and poems
+172;IV.73 ;206;150;Žaržūra Ruzḳalla;S26;M;50;Teacher;A song for the Feast of the Cross;Songs and poems
+173;IV.74 ;289;191;Žaržūra Ruzḳalla;S26;M;50;Teacher;The grapevine;Songs and poems

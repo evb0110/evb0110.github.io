@@ -1,0 +1,3787 @@
+mar	->	mar, mār 
+mōn	->	mōn 
+(i)nkōn	->	nkōn 
+[annotation]	->	ar, sic 
+[interrupted]	->	may, a, abəʕḏ, aġa, aḥḥa, aḳīm, alle, ame, amrō, amrōlu, ank, aplē, arpa, aṣfiṯ, ax, axətm, ayṯar, ba, baġ, bana, ber, bisnī, bla, bʕīm, čayyiṯ, čbay, če, čimha, čōm, čuṯ, ḏa, ḏēb, eb, ebəl, eber, el, ešb, faṣ, ġā, ġab, ġabrō, ḥa, ḥafər, ḥal, ḥamme, ḥamš, ḥayy, ḥažzill, ḥḏuṯ, ḥet, ḥim, ḥkī, ḥm, ḥmu, ḥō, ḥu, ičča, inčah, inf, irfeḓ, iʕō, ḳa, ḳabr, kiz, ḳōy, ḳufō, kus, lan, lē, lo, lž, mači, mafḳa, mahəḓ, mal, mame, mamrō, manəʕ, marrōž, maš, mbaṭṭlō, mḓaḥḥ, me, mḥasle, mičɁahl, mičʕar, miš, mižčam, mlaḳḳeṭ, mne, mšariṭōl, msaž, mtawwarəl, muṣrōyṯ, mxarraḥ, naḳ, nax, naxesəl, nḥapṭi, nibbux, nič, nim, niši, niẓxe, nnaff, nṣariḥin, nṯill, nwafīḳ, nzaʕ, nzōyaʕ, om, omm, ppō, ps, ra, ri, ša, ṣa, šaḳ, ṣapḥiš, ṣay, šē, ši, šimaʕč, šimeʕ, ṭanni, tar, ṭaʕniš, ṯē, tiḏōle, ṯiḳninn, ṯōla, ṯul, warḳō, wayb, waʕ, xa, xafsil, xaṭəf, xaṯpō, xeš, xiyyayo, xol, y, yīxu, ykū, yrō, yṭamlell, yṯe, yxar, za, žanzī, zen, zuwwō, zwi, ʕač, ʕam, ʕas, ʕask, ʕaṭ, ʕō, ʕṣo 
+[loanword]	->	adībay, afandīna, afrāḥkon, aḷḷa, aḷḷāh, aḷḷāhu, axirihi, aʕlam, bāb, bala, bāṣ, baṣō, bass, baṭal, baṭōn, bāxra, bayāḍ, bel, bēt, bharāt, bidūn, billā, byiḥki, byiẓhar, ḏabaḥto, dāɁiman, durzi, əlḥamra, esm, esmil, faqaṭ, fáraḓan, faras, fātḥa, fážɁatan, fiʕlan, flān, frēr, fustoḳ, ġáliban, gāsi, ġəre, ġire, hāḏa, ḥaḳḳ, ḥāl, ḥāliyyan, halumma, ḥasan, ḥawāḍer, ḥawāḓr, hay, ḥaywanāt, hāzihi, ibrahimiyye, īdakom, ila, ilāh, ilāha, intom, intu, ism, ixrāž, ḳadr, ḳēd, kizālik, ḳudos, kull, ḳuwwāt, laha, lāken, lam, lēltil, lil, ḷḷāh, ḷḷāhu, mābu, madāyiḥ, māl, malek, malikna, manāʕa, marmarāt, marran, massīki, matḥaf, mbārak, mexfiyya, mḥabbe, mifred, miġli, mīt, miyyet, mlūki, mšakkale, mubarā, muftaraž, muḥəsnīn, musaddas, mustaṭīl, mutaxallef, muxtaṣar, mužawharāt, muʕayyan, muɁmen, nadāme, naʕam, neʕəm, niyya, nyōn, raḥīm, rasūl, rōḥ, rōḥo, ṣabāḥ, ṣabbḥak, sadɁet, šafahiyyan, ṣaḥḥa, sāḥli, šahr, ṣalawāt, ṣalīb, sālimīn, sallam, samak, sanad, ṣandwīšča, šanta, ṣapḥek, ṣār, šarrīra, sayyidna, ṣēd, sēr, sērān, šī, sirriyyan, šōbāš, šū, subḥān, ṣubḥān, ṣūf, sulūk, šūm, tadārož, ṭarafēn, ṭaṭami, ṭawīle, ṭaylaʕ, texra, ṭīb, tōbe, turki, ušṭmān, wālde, waḷḷāhi, waṯani, xalīṭ, xamīs, xara, xarīṭa, xaṣāb, xayyer, xazūɁ, xērkon, xōnum, xrā, xūy, yaḥzanūn, yawman, yazal, yišbeh, ykaṯṯer, ytammem, yurṯa, yušbeh, žabābra, žabali, žafāf, ẓāher, zālek, žamād, zamān, žamīʕ, žamīʕo, žapṣīn, žasad, ždīd, zirāʕa, zkān, žnēne, žōzəṭ, ʕabətɁūlu, ʕabīd, ʕádatan, Ɂaḍḥa, ʕāl, ʕala, ʕalayhi, ʕām, ʕāmen, ʕammo, ʕasal, ʕaṭēnākon, ʕīd, ʕṭūrāt, Ɂurbāne, rabbak 
+[NA]	->	al, an, bət, bḥēs, bi, bini, bit, č, čaḥwīl, činzḥaḥ, əḏ, ən, ər, əš, əṣ, ət, əṭ, əṯ, əz, əẓ, ġaṭa, han, ḥattani, hayna, ḥlōḳa, il, iṣ, it, iz, iž, ḳastan, mamōči, masīrəl, masīrlə, masraḥ, mraṣʕōle, muxtōra, n, šeh, wa, yāḷḷa, ʕalam
+[proper noun]	->	alṭun, andriyya, antrowwes, asʕad, bab, brahīm, brāhīm, daʕbūl, ḏiyāb, drūb, faraḥ, fuɁād, ġabra, ġazāle, ḥalāl, ḥammūd, hana, ḥananiyya, hārūn, hilal, ḥilwe, ḥišme, hitler, ḥsēn, kappušō, ḳaṣṣāʕ, ḳáṭana, ḳattaḥ, kuruġli, ḳuṣṭanṭīn, ḳuṣṭanṭīniyye, laḥəm, lyān, lyās, maḥfuḓ, malaṣ, marsīlya, masīḥ, masʕūd, mayyōla, māžed, maẓẓ, mēšeḥ, milād, milōne, minbež, mirhež, mišēl, msīḥ, mṭānyos, muḥammadan, mušēl, muxx, nadīm, naḳōla, nawwās, nāyfe, nažla, nimər, nizār, nuṣralla, rašīd, rayḥan, ritta, riyāḳ, ruzḳalla, šalhub, šarīf, sawwūḳ, šḥōde, sifl, sirḥan, sirḥān, siʕet, skandar, ṭabīb, tamīm, taɁla, taʕssēn, užiyya, wakīn, xāled, xalel, xalīl, yuḥanna, žamīl, žoržēt, ʕabd, ʕaḓəm, ʕaḍra, Ɂantrowwes, ʕapṭalla, ʕapṭaḷḷa, Ɂaṣab, ʕažaž, ʕažžāž, Ɂrēna 
+[sic]	->	aččem, allaḥlen, amitḥ, amraḥle, amrella, amrellen, anḳaṯ, arkes, ayṯil, baraš, bette, binašō, bon, čilmizōye, čimrōšša, člakin, čwunni, ḏekkṯe, ebna, em, fōresil, ġurnōyṯa, ġurnōyṯiḏ, ḥayḥ, hitta, ḥmečča, hoṯinnun, ḥṣaḏō, hūi, ibəšlaš, ikw, ilōhal, irḥam, iṯḳinnaḥ, iʕṭas, kappayōṯa, ḳaṭṭaʕlun, ḳaʕyille, keṯ, ḳʕō, leʕlīš, loḥiḳōl, loṯinn, luġrayhen, madal, maḓir, maḳibille, mallīxa, maršōra, meṯṯ, miffōyəl, mistaxtemle, mišwullun, moḳīmin, mōmer, moniṭṭa, mozetla, mrasṭʕōle, mrožīʕa, mšatterəl, msōleḳ, mtōḳḳa, muniṭṭa, mʕallka, mʕapper, mʕayna, nayṯillīš, nimtaḥkal, niṭḥīll, nizlinnaḥ, nmaffīḳin, nmaṭəʕmillu, nxallfenn, nžuččenna, ōba, oḥəm, omellon, omrille, oniṭṭaṯ, raḥmūṯiš, rōfʕil, šapplaḥlēle, sawfa, seləfṯa, šḳōḳ, šḳōllaḥ, ṯinnaġlan, tnakkar, tōḳḳe, ṭōlpille, ṯyalla, ṯyalle, wčōbin, yiḥi, yiṯḳun, yrōžaʕlax, žačča, žaččil, zaḳḳfullu, zalla, zlallun, ʕamtōḳeḳlon, ʕetta, ʕilwōne 
+āb	->	Ɂāb 
+abač	->	abač 
+abaḍāy	->	abaḍāy 
+abaḥ yībuḥ	->	nbōyaḥ 
+ábatan	->	abatan, ábatan 
+abən yabən	->	abnull, abnunne, mabənyin, nabən 
+abət yabət	->	abət, čmabətya, ənmabətyin, mabət, mabətya, mabətyin, nmabət, nmabətyin 
+abət/apt yabət	->	apt, aptaṯ, aptiṯ, maptēlon 
+abrem yabrem	->	abərminnaḥ, abrem, mabərmin, nmabərmin, ʕammabərmin, ʕammabrem 
+abṣeṭ yabṣeṭ	->	yabəṣṭinniš 
+abu	->	abu 
+abʕaḏ	->	abʕaḏ 
+abʕeḏ	->	abʕēḏ, abʕiḏlaḥəl 
+abʕeḏ yabʕeḏ	->	abəʕḏaṯ, abəʕḏil, abəʕḏiṯ, mabəʕḏan, mabəʕḏin, mabʕeḏ, yabʕeḏ 
+ačab	->	ačab 
+ačab yīčub	->	čōbaṯ, čōyba 
+ačah	->	ačah 
+ačneḥ yačneḥ	->	ačənḥunn, ačənḥunnax 
+ačōča	->	ačōčəl 
+ačʕeb yačʕeb	->	ačəʕbaṯ, ačəʕbiṯ, ačʕeb 
+aḓab yiḓḓub	->	ḓappil, ḓōppa, ḓūb 
+aḏab yīḏub	->	aḏab, čḏayyība 
+aḏaḳ yīḏuḳ	->	aḏaḳ, aḏoḳ, čḏayyīḳla, yḏuḳenna 
+aḓann	->	aḓann 
+aḓar yiḓḓur	->	niḓḓur 
+aḓaʕ yīḓaʕ 	->	aḓaʕ 
+aḏḏen yɁaḏḏen	->	aḏḏen, yɁaḏḏen 
+aḏkar yaḏkar	->	maḏəkrill 
+aḏlef yaḏlef	->	aḏlef 
+aḏleḳ yaḏleḳ	->	aḏəlḳa, nmaḏəlḳin 
+aḏmex yaḏmex	->	aḏəmxa, aḏəmxi, čmaḏəmxōl, naḏəmxennax 
+aḏrex yaḏrex	->	yaḏərxun 
+afač yīfuč	->	afač 
+afak yiffuk	->	fakekəllə, fakekl, fakeklə, fakka, fakkann, fakkil, fakkl, fakklə, fakklēla, fakklēle, fakklille, fakkōl, fakkull, fōk, yfukkell, yfukkenna, yfukkenne, yfukklēle 
+afal yifful	->	afal 
+afaš yīfuš	->	afaš, lōfaš, yīfuš 
+afaz yiffuz	->	afaz, afizzaṯ, afizziṯ 
+afaz yīfuz	->	fōyez 
+afčel yafčel	->	afčel, mafčel, mafəčla, mafəčlille, mafəčlin 
+afḓal 	->	afḓal 
+afəḓ yafəḓ	->	nmafəḓyin 
+afət/afti yafət/yafti	->	mafət 
+afəṭrūṯa	->	afəṭrūṯa 
+aff/affi yaff/yaffi	->	affa, affann, affannaḥ, affanxun, affaṯ, affičča, affiččil, affiččun, affillax, affin, affinnaḥ, affīšən, affiṯ, afflaḥle, affna, affne, affnī, affnil, affōn, affunn, čaffenn, čaffinn, čmaffōl, maffēl, maffēle, maffille, maffin, maffyilla, maffyille, maffyillun, naff, naffenna, naffennax, naffenne, nmaff, nmaffēle, nmaffill, nmaffīš, yaffell, yaffennax, yaffenne, yaffenxen, yaffenxon, yaffinniš, yafflēḥ, yaffunna 
+affeḳ yaffeḳ	->	affeḳ, affēḳ, affeḳla, affəḳlaḥliš, affiḳlīḥ, affḳa, affḳanni, affḳələ, affḳil, affḳlaḥəl, affḳlēl, affḳunne, čaffiḳ, čaffḳenne, čaffḳerr, čaffḳinna, maffeḳ, maffeḳəl, maffeḳl, maffeḳla, maffeḳle, maffiḳlille, maffḳall, maffḳalla, maffḳallen, maffḳill, maffḳilla, maffḳille, maffḳillun, maffḳin, maffḳinn, maffḳōl, nmaffeḳəl, nmaffeḳle, nmaffḳin, yaffeḳ, yaffeḳle, yaffḳell, yaffḳenne, yaffḳull, yaffḳunne 
+afhem yafhem	->	afhem, afhēm, mafəhmin, mafhem 
+afḳar yafḳar	->	afḳričče 
+afrež yafrež	->	afərža, afrež, mafrežla 
+afset yafset	->	čmafset, nmafəsta 
+afṭar yafṭar	->	afṭar, mafəṭrin, mafṭar, mafṭrin, nafəṭrenna, nmafəṭrin, nmafṭrin, yafəṭrun, ʕammafəṭrin 
+afʕel yafʕel	->	yafʕlell 
+aġar yīġur	->	aġar 
+aġaṭ yiġġuṭ	->	aġaṭ, ġaṭeṭəḏ, ġaṭeṭlə, ġaṭṭillun, ġōṭeṭ 
+aġḓeb yaġḓeb	->	aġḓeb, maġḓeb 
+aġəl yaġəl	->	aġəlne, čaġəl, maġəl, maġəlya, maġəlyill, maġəlyilla, maġəlyille, maġəlyin, nmaġəlyillun, yaġəl, yaġlēle, yaġlun, ʕammaġlēle, ʕammaġlēš 
+aġən yaġən	->	aġən, čaġnenne, maġnēḥ 
+aġəš/aġši yaġəš/yaġši	->	aġšaṯ, maġəšyin, nmaġəšyin 
+aġīra	->	aġīra, aġīre, aġīrl 
+aġīrča	->	aġīrča, aġiryōṯa 
+aġla	->	aġla 
+aġleṭ yaġleṭ	->	aġəlṭinnaḥ 
+aġm(i) yaġm(i)	->	maġəmyin 
+aġra	->	aġra, aġre, aġril, aġrit, Ɂaġre 
+aġreḳ yaġreḳ	->	aġərḳaṯ, aġreḳ, ġarreḳ, ġarrīḳa 
+aġṣeb yaġṣeb	->	aġəṣbi, yaġəṣbenna 
+ah/āh/eh	->	eh, ēh 
+aḥal yiḥḥul	->	ḥōlla, yḥullell 
+aḥal/yiḥḥul	->	ḥall 
+ahamm	->	ahamm 
+aḥas yiḥḥus	->	ḥassōsča 
+ahaš yīhuš	->	ahaš 
+aḥaṣ yīḥuṣ	->	ḥayyīsan, ḥōsaṯ, ḥōysin, ʕamḥōyes, ʕamḥōysa, ʕamḥōysin 
+ahat yihhut	->	hatetla, hattačča, hattaččil, hattōl, hōtet, yhuttell, ʕamhatetlon 
+aḥaz yiḥḥuz	->	yiḥḥuz 
+aḥaž yiḥḥuž	->	ḥažžež, yiḥḥuž 
+ahaz/ihhaz yihhuz	->	hazezəl, hazzačča, hazzl, hazzōle, nhazzillen, yhuzzell, ʕamhazezəs 
+aḥḓar yaḥḓar	->	aḥḓar, aḥəḓraṯ, aḥəḓril, aḥəḓrōn, maḥḓar, maḥḓarəl, maḥḓarla, maḥəḓra, maḥəḓrin, naḥəḓrell, yaḥḓar, yaḥəḓrun, ʕammaḥəḓrill, ʕammaḥəḓrin 
+aḥək yaḥək	->	aḥək, aḥəklaḥla, aḥəklalla, aḥəklēla, aḥəklēlon, aḥkā, aḥkannūn, aḥkaṯ, aḥkāy, aḥkeḥī, aḥkēl, aḥkič, aḥkiččil, aḥkīl, aḥkilī, aḥkillax, aḥkillēle, aḥkinnaḥ, aḥkiš, aḥkiṯ, čaḥək, čaḥəklīl, čaḥkēle, čaḥkīl, čaḥkīli, čaḥkinnu, čḥakennon, čḥakinni, čmaḥəkya, čmaḥki, ḥakkiyya, maḥək, maḥəklēla, maḥəklōle, maḥəkya, maḥəkyan, maḥəkyin, maḥəkyōle, maḥki, maḥkill, maḥkillax, maḥkyillun, naḥək, naḥəklēx, naḥkēlxon, naḥkēx, naḥkīš, naḥklēx, naḥklīš, nmaḥək, nmaḥəkyin, nmaḥkēx, nmaḥkyin, yaḥək, yaḥəklēx, yaḥklīl, yaḥkulle, ʕačmaḥək, ʕačmaḥəkya, ʕačmaḥkēle, ʕammaḥək, ʕammaḥəkyin, ʕammaḥkēl, ʕammaḥkēle, ʕanmaḥək, ʕanmaḥəklēl, ʕanmaḥəkyin 
+aḥəm yaḥəm	->	aḥmannaḥ, čaḥminnaḥ, maḥməllōle, nmaḥmillēx, yaḥəm 
+ahər/ahri yahər/yahri	->	ahərne 
+aḥəšmūṯa	->	aḥəšmūṯa, Ɂaḥəšmūṯa 
+ahət/ahti yahət/yahti	->	ahət, ahətna, ahətne, ahta, ahtaṯ, ahtunne, čahətlēle, mahət, yahətlēl, yahtēla 
+aḥfeḓ/aḥfeẓ yaḥfeḓ/yaḥfeẓ	->	aḥəfẓe, aḥəfẓičča, aḥfeḓ, aḥfēẓ, naḥfīẓlen 
+aḥḥ yaḥḥ	->	aḥnē 
+aḥḥaḏ	->	aḥḥaḏ 
+aḥḥaḏaʕsar	->	eḥḏaʕasər 
+aḥḥeč yaḥḥeč	->	aḥəčlaḥəl, aḥḥča, aḥḥčaččir, aḥḥčannaḥ, aḥḥčaṯ, aḥḥče, aḥḥčičče, aḥḥčiččil, aḥḥčiṭ, aḥḥčl, aḥḥčunn, aḥḥčunne, aḥḥeč, aḥḥīčin, aḥḥičlaḥəl, čaḥḥčenne, čmaḥḥečəl, čmaḥḥičəl, maḥḥča, maḥḥčill, maḥḥčilla, maḥḥčille, maḥḥčin, maḥḥčōlun, maḥḥeč, maḥḥečəl, maḥḥečl, naḥḥčess, nmaḥḥčill, nmaḥḥčilla, nmaḥḥčille, nmaḥḥčin, nmaḥḥečəl, nmaḥḥečle, yaḥḥčenne, yaḥḥčun, yaḥḥeč, ʕanmaḥḥečle 
+ahhel yɁahhel	->	ahhlī, ahhliṯ, čimɁahhilli, nimɁahhellax, nɁahhlell, nɁahhlennax, yɁahhillulle, yɁahhlenna, yɁahhlenne 
+aḥkem yaḥkem	->	aḥkem, aḥkme, maḥkem, maḥkemla 
+ahla	->	ahla 
+aḥla	->	aḥla 
+ahlek yahlek	->	mahəlkin 
+aḥlem yaḥlem	->	aḥlīm, maḥəlma, ʕammaḥlem 
+ahlōyṯa	->	ahlōyṯ, ahlōyṯa, ahlōyṯe 
+aḥmet yaḥmet	->	aḥəmtaččil, aḥəmtīčne, čaḥəmtenne, naḥəmtenne 
+aḥn yaḥn	->	ḥanniyōl, maḥən 
+aḥref	->	aḥref 
+aḥref yaḥref	->	aḥərfaṯ, čaḥref, čaḥrif, ḥərfaṯ, ḥref, maḥərfa, maḥərfin, maḥref, yaḥref 
+aḥrež yaḥrež	->	aḥəržann, aḥəržanxun 
+aḥsan	->	aḥsall, aḥsan 
+aḥṣel yaḥṣel	->	nmaḥṣlin 
+aḥšem yaḥšem	->	aḥəšminnaḥ, aḥšem, maḥəšma, maḥəšmin, naḥšem, nmaḥəšmin, yaḥəšmun, yaḥšem 
+aḥset yaḥset	->	aḥəste 
+aḥw yaḥw	->	maḥw, maḥwīl 
+ahw/ahwi yahw/yahwi	->	ahwiṯ, čahw 
+aḳa(m) yīḳu(m)	->	aḳa, aḳam, aḳo, čīḳu, ḳaminnaḥ, ḳayyīman, ḳō, ḳōm, ḳōmaṯ, ḳōmič, ḳominnaḥ, ḳōmiṯ, ḳōye, ḳōyem, ḳōyma, ḳōyman, ḳōymin, ḳū, ḳūm, ḳumēn, ḳumōn, nīḳu, nīḳum, nḳōye, nḳōyem, nḳōymin, yīḳu, yīḳum, yḳūmun 
+aḳal	->	aḳal 
+aḳall	->	aḳall 
+aḳaš yiḳḳuš	->	nḳaššill 
+aḳaṣ yiḳḳuṣ	->	čḳuṣṣenna, ḳaṣeṣla, ḳaṣṣlēle, ḳaṣṣunnun, ḳuṣṣa 
+aḳat yiḳḳut	->	ḳatetla, ḳōtet 
+aḳbel yaḳbel	->	aḳbel, aḳəblič, čmaḳbel, maḳbel, nmaḳbel, yaḳbel 
+aḳəḓ yaḳəḓ	->	čaḳəḓ 
+akəlṯa	->	aklan 
+aḳərṭūṯa	->	aḳərṭūṯa, aḳərṭūṯaḥ 
+aḳəʕ yaḳəʕ	->	aḳəʕlaḥla, aḳəʕlaḥle, aḳəʕne, aḳʕačče, aḳʕanni, aḳʕičče, aḳʕunn, aḳʕunna, aḳʕunni, maḳəʕyille, maḳʕēle, maḳʕēll, maḳʕyilla, maḳʕyille, naḳʕenne, naḳʕīlla, nmaḳəʕyill 
+akīd	->	akīd 
+akket yɁakket	->	aktičče, mɁakkat 
+akrah yakrah	->	akərhiš, akrīhliš 
+aḳreb yaḳreb	->	aḳərbaṯ, aḳərbiṯ, maḳərbille, maḳərbillun, maḳərbōle, maḳreb, yaḳərbun, yaḳreb, ʕammaḳreb 
+aḳreṣ yaḳreṣ	->	čaḳreṣ, maḳərṣa, nmaḳərṣillun, yaḳərṣun 
+aḳreṭ yaḳreṭ	->	aḳərṭaṯ, aḳreṭ, čaḳreṭ, naḳərṭenna, naḳreṭ, nmaḳərṭin, nmaḳreṭ, yaḳərṭun, ʕanmaḳərṭin 
+aḳṣa	->	aḳṣa 
+akseb yakseb	->	aksiblaḥle 
+akšef yakšef	->	nakšef, yakəšfun, yakšef 
+aḳset yaḳset	->	maḳəstilla, maḳəstille, maḳset 
+akṯar	->	akṯar 
+aḳtar yaḳtar	->	aḳətraṯ, aḳətričxun, aḳətriṯ, aḳtar, aḳtrinnaḥ, aḳtriṯ, čaḳtar, čmaḳtar, čmaḳtrin, əčmaḳtar, maḳtar, maḳtran, maḳtrin, naḳtar, nmaḳətra, nmaḳətrin, nmaḳtar, nmaḳtrin, yaḳtar, ʕammaḳtar, ʕanmaḳtar 
+akṯarīṯa	->	akṯarīṯl 
+aḳw yaḳw	->	aḳw, aḳwaṯ, čaḳwi 
+aḳwa	->	aḳwa 
+alač yilluč	->	laččilla, lačečəl, lačečle 
+alaf yilluf	->	alaf, lafefla, lafeflon, laffe, laffille, laffillun, lafflille, laffunni, lōffin, nlaffille, nlaffillen, nlōfef, nlōffin, ʕamlafefle 
+alaḥ yīluḥ	->	laḥull, layaḥəl 
+alaḳ yīluḳ	->	lōyeḳ 
+alam yillum	->	alam, lōmmin, lummlēḥ, nlamemlon 
+alam yīlum	->	ylummun 
+alaš yīluš	->	lašaččun, layešle, layšille, lōyeš, lōyšan, nīluš, nlayešəl, nlōyšin, yīluš, ʕamlōyšan 
+aləḳ yaləḳ	->	alḳon, yalḳennaḥ 
+aləṭ yaləṭ	->	laṭṭiyya 
+alhem yalhem	->	aləhme, aləhmi, malhemle 
+aliʕāzar	->	aliʕāzar 
+alkul	->	alkul 
+all-	->	all, allax 
+allef yɁallef	->	allef, mɁallaf 
+allex yallex	->	allex, allīxa, allīxan, allīxin, allxa, allxaṯ, allxič, allxinnaḥ, allxiṯ, čallex, čallix, čmallxin, mallex, mallxa, mallxin, nallex, nallīxəl, nallīxin, nmallex, nmallxin, yallex, yallxun, ʕammallex, ʕanmallex 
+almānya	->	almānya 
+almās	->	almās 
+almaʕ yalmaʕ	->	ʕammalmaʕ 
+almōnay	->	almōnay 
+aḷō	->	aḷḷō, aḷō, aḷōh, paʕḷō, yībaʕḷō, Ɂaḷō 
+alōma	->	alōma 
+alṭef yalṭef	->	alṭef 
+alūla	->	alūla 
+alʕan	->	alʕan 
+amal yīmul	->	amal 
+aman yīmun	->	čmōyen, mōyna 
+amar yīmar	->	amar, amār, ameḓḓ, amell, amella, amelle, amellə, amellen, amellon, amerəl, amerla, amərlaḥla, amərlaḥlax, amərlaḥle, amərlaḥliš, amərlaḥlun, amerle, amerlen, amerlon, amerr, amett, amill, amilli, amrall, amralla, amralle, amrallun, amraṯ, amrič, amrīčəl, amrīčlaḥ, amril, amrill, amrilla, amrillax, amrille, amrilliš, amrillun, amrinnaḥ, amrīšəl, amriss, amrišš, amriṯ, amrōl, amrōla, amrōle, amrōlen, amrōli, amrōll, amrōlun, amrōr, amrull, amrulla, amrullax, amrulle, amrulli, amrullun, čamell, čamellon, čamill, čamrōl, čamrōli, čamrōlun, čīmar, čmall, čmallaḥ, čmalle, čmalli, čōmar, čōmrin, əčmalli, ənmall, mall, malle, mallē, mallī, mallun, mamell, mamella, mamellaḥ, mamellax, mamelle, mamellə, mamellon, mamerəl, mamerla, mamerle, mamerlə, mamerlon, mamill, mamilli, mamrill, mamrilla, mamrille, mamrilliš, mamrillun, mamrōl, mamrōla, mamrōle, mamrōlen, mamrōlun, mamrōx, mōmar, mōmra, mōmrin, namella, namellax, namelle, namellon, namrill, namrilla, namrille, namrillun, namrōši, namrōx, nīmar, nmall, nmallax, nmalle, nmalliš, nmallun, nmallxun, nmōmrin, nōmar, ōmar, ōmra, umərlēle, yimrenna, ymall, ymalla, ymalle, yumrun, ʕammamella, ʕammamellax, ʕammamrōl, ʕammōmar, ʕammōmra, ʕanamelle, ʕanamilliš, ʕanmōmar, ʕannamellax, ʕannamelle 
+amaṣ yimmuṣ	->	nmaṣeṣl, nmaṣeṣle 
+amat yimmut	->	mattetl, mattil, mattl 
+amērka	->	amērka 
+ameṯ yīmuṯ	->	ameṯ, čīmuṯ, mīṯaṯ, mīṯiṯ, mōyeṯ, mōyṯa, nīmuṯ, yīmuṯ, ʕammōyeṯ, ʕammōyṯa 
+aməṭ/amṭi yaməṭ/yamṭi	->	amṭannaḥ, amṭunne, maməṭlilla, namṭenna, yaməṭlulla 
+amhel yamhel	->	aməhlā, aməhlannūn 
+amla	->	amla 
+amlek yamlek	->	nmamlekla 
+amma	->	amma 
+ammen yɁammen	->	ammīnin, amnil, amninnaḥ, mɁammen, nɁammen 
+amōna	->	amōna, Ɂamōna 
+amōnča	->	amanyōṯa, amōnča, amōnče 
+amra	->	amra, amrax, Ɂamər, Ɂamərl, Ɂamra, Ɂamre, Ɂamril 
+amṣeṭ yamṣeṭ	->	aməṣṭinnaḥ, amṣiṭlille, amṣiṭōl, maməṣṭa 
+ana	->	ana 
+anaḥ	->	anaḥ 
+anaṭ yinnuṭ	->	naṭṭinnaḥ 
+anḏar yanḏar	->	manəḏrin 
+anfaʕ yanfaʕ	->	čanəfʕennax, manəfʕa, manfaʕ, manfaʕlax, manfʕa, manfʕan, manfʕōl 
+anhar yanhar	->	anəhrull, anhīrin, manəhrill, manəhrille, manəhrin, manəhrišš, manəhrōle, manharle, nmanharle, yanəhrun, ʕammanhar 
+anhi yanhi	->	manəhyille, yanhell 
+ani/ana	->	ani 
+anik	->	anik, anikk 
+anḳeḏ yanḳeḏ	->	yanəḳḏell 
+ann/anni yɁann/yɁanni	->	mɁanni 
+anšef yanšef	->	čanšef, yanšef 
+antem yantem	->	čantem 
+anu/ana	->	anu 
+anw yanw	->	anwaṯ, čnaww, čnawwīla, manwēla, nmanwyin 
+anžaḥ yanžaḥ	->	anəžḥičxun 
+anʕem yanʕem	->	anʕem, anʕēm, anʕīm, manəʕma, manʕem 
+anʕen yanʕen	->	manʕeləl 
+app(i) yapp(i)	->	apnəl, app, appalle, appalli, appallī, appallun, appaṯ, appēḥ, appēla, appēle, appīčle, appīḥ, appiḥī, appīl, appilēx, appīli, appīlla, appillax, appille, appīlle, appillēla, appīlli, applaḥəl, applaḥla, applaḥlēle, applall, applalla, applalle, applēl, applēla, applēle, applēll, applēx, applīčle, applīl, applilī, applille, applull, applulle, appull, appullaḥ, appulle, appullē, appullun, čapp, čappēle, čappēlon, čappīl, čappīlle, čappiyōlun, čapplīl, čmappēl, čmappēla, čmappēle, čmappīl, čmappill, čmapplīl, čmapplōle, čmappya, mapp, mappalle, mappēḥ, mappēl, mappēla, mappēle, mappēlon, mappīl, mappill, mappilli, mappillun, mapplēl, mapplēla, mapplēle, mapplēlon, mapplīl, mapplille, mapplillun, mapplōle, mappōl, mappōlun, mappōx, mappya, mappyilla, mappyillun, mappyin, mappyōle, nappēle, nappēx, nappillīš, napplēl, napplēle, napplēll, napplēx, nmapp, nmappēle, nmappēx, nmappīš, nmapplēle, nmapplēx, nmapplill, nmapplille, nmapplōši, nmapplōx, nmappōlxun, yapp, yapplēl, yapplēle, yapplēlon, yapplulle, yappulle 
+apšer yapšer	->	abšir, apšer, apšir, čapšer 
+araḥ yirruḥ	->	nraḥaʕle, raḥḥill 
+araḳ yirruḳ	->	rōḳeḳ 
+araš yirruš	->	črōšša, nraššille, nraššlēle, rašešəl, raššull, rōšša, rōššin, ršīšin 
+arat yirrut	->	rattačč, rōttin, rūt 
+araž yirruž	->	ražžaṯ 
+arbaḥ yarbaḥ	->	arbaḥ, arbḥax, arpḥiṯ, marbḥa 
+arək yarək	->	arkaṯ, marək 
+arəḳ yarəḳ	->	marḳya 
+arənba	->	arənba 
+arəṣ yarəṣ	->	arṣunna, yarṣ 
+argīlča	->	argīlča 
+arḥam	->	arḥam 
+arḥel yarḥel	->	arḥel, yarəḥlun 
+arḥem yarḥem	->	yarəḥmell, yarəḥmenne, yarəḥmennon 
+arhen yarhen	->	arəhnann, arəhniččil, arəhnil 
+arheṭ  yarheṭ	->	arəhṭaṯ, arəhṭič, arəhṭinnaḥ, arəhṭiṯ, arheṭ, arhēṭ, nmarəhṭin, nmarheṭ, ʕammarheṭ, ʕanmarheṭ 
+arheṭ yarheṭ	->	marəhṭin, marheṭ, narheṭ 
+arkeš yarkeš	->	arkeš, arkəšlaḥəl, arkšaṯ, arkše, arkšil, arkšillə, arkšiṯ, arkšull, ənmarkšin, markeš, markešəllə, markšin, markšōll, nmarkeš, yarkeš, yarkšun, ʕammarkeš, ʕanmarkešəḏ 
+arḳet yarḳet	->	arḳtaṯ, čarḳet, yarḳet 
+armaġōna	->	armaġōne 
+armalča	->	armalča 
+ármanay	->	ármanay 
+arnaḥ yarnaḥ	->	arnaḥ, arnḥaččir, arnḥil, čarnaḥ, marənḥōla, nmarnaḥle 
+arōmay	->	aramōy 
+arpaʕ	->	arpaʕ, arpʕa 
+arpaʕčaʕṣar	->	arpaʕčaʕṣar, arpaʕʕasər 
+aršet yaršet	->	maršetlon 
+arw yarw	->	nrawwīlla 
+arxeb yarxeb	->	arəxpiččil, arxibill, arxiblaḥle, arxpannaḥ, marəxpill, marəxpilla, marəxpille, marxebəl, marxibəl, narəxpenxon, narxeb, narxībla, nmarxebəlxon, yarəxpennen 
+arzal	->	arzal 
+arzeḳ yarzeḳ	->	arəzḳe, arəzḳi, čarəzḳinnaḥ, marzeḳ 
+arʕa	->	arəʕwōṯa, arəʕwōṯun, arʕa, arʕe, arʕiš, Ɂarʕa 
+ās	->	ās 
+asab yissub	->	sappille 
+aṣab yiṣṣub	->	ṣappille 
+asab yīsub	->	asab, asebəl, asebəll, asebla, aseblə, aspačča, aspaččun, časebl, časibəl, čusəplēl, čusəplīl, maspill, maspille, nusəplēle, nuspenn, nuspenna, nuspinniš, sība, sibill, sōb, yispunn, yīsub, yuspell, yuspellə, yuspenna, yuspenne, yuspun, yuspunna, yuspunne, aspaṯ, aspič, aspill, aspilla, aspille, aspillun, aspinnaḥ, aspiṭ, aspiṯ, aspiṭṭ, aspōle, aspuḏḏ, aspull, aspunna, aspunne, ōspin 
+asaf yissuf	->	nsafefle 
+aṣaf yiṣṣuf	->	ṣaffilla, ṣaffillun, ṣafflaḥəl, ṣaffull, ṣaffunnun, ṣfifill, ṣfīfin, ṣōfef, ṣōffin 
+asaḥ yīsuḥ	->	sōyaḥ 
+aṣaḥḥ	->	aṣaḥḥ 
+ašak yiššuk	->	nšukkerr, šakker, šaklille 
+asam yissum	->	sammōl, ssammem 
+ašam yiššum	->	nšammill, nšummell, yšummell, ʕamšammill 
+aṣam yīṣum	->	aṣam, ṣōyma, ṣōymin, yṣūmun 
+ašan yiššun	->	šannis 
+aṣar yiṣṣur	->	ṣarre, ṣarril 
+ašbah	->	ašbah 
+aṣbaḥ yaṣbaḥ	->	čaṣəpḥun, maṣəpḥin 
+ášbahay	->	ášbahay, ašbahōyin 
+ašbaṭ	->	ašbaṭ 
+ašəf yašəf	->	mašfēl 
+aṣəf/aṣfi yaṣəf/yaṣfi 	->	aṣəf, aṣf, aṣfaṯ, maṣəf, maṣəfya, yaṣəf 
+aṣəḥ yaṣəḥ	->	aṣəḥ, aṣḥaṯ, aṣḥiš, aṣḥiṯ, aṣiḥ, maṣəḥya, maṣəḥyin, yaṣḥun 
+aṣəh/aṣhi yaṣəh/yaṣhi	->	aṣəhna 
+ašəḳ yašəḳ	->	ašəḳl, ašəḳlaḥəl, ašəḳlaḥle, ašəḳlēle, ašḳačča, ašḳannaḥ, ašḳiččil, ašḳna, ašḳne, ašḳnil, ašḳunne, čmašḳēle, čmašḳyill, mašəḳlēl, mašəḳyill, mašəḳyin, mašḳēla, mašḳēle, mašḳēlon, mašḳyille, mašḳyillun, mašḳyin, našḳell, našḳenn, našḳenna, našḳennax, nmašəḳyille, nmašəḳyillun, yašəḳ, yašḳell, yašḳenne, yašḳull, ʕammašəḳ, ʕanmašḳ 
+aṣəx yaṣəx	->	aṣəx, maṣəxya 
+asəʕ/asʕi yasəʕ/yasʕi	->	saʕʕiyyin 
+ašfeḳ yašfeḳ	->	ašəfḳiṯ, ašfeḳ 
+aṣfen yaṣfen	->	aṣəfnaṯ, aṣfen 
+ašḥen yašḥen	->	ašḥinčunn, mašəḥnilli, yašəḥnenxon 
+askar yaskar	->	asəkriṯ, askar, askrinnaḥ, masəkra, masəkrin, naskar, nmasəkrin, ʕammaskrin 
+aškar yaškar	->	naškrell, aškričče 
+asḳaʕ yasḳaʕ	->	asḳaʕ, ʕammasḳʕin 
+aṣla	->	aṣla 
+aṣlaḥ yaṣlaḥ	->	maṣlaḥ 
+aslem yaslem	->	aslem 
+asmaḥ yasmaḥ	->	čmasəmḥōl, čmasmaḥlaḥ, nmasmaḥlax 
+asmaḥ/asmeḥ yasmaḥ/yasmeḥ	->	yasmoḥle 
+asnet yasnet	->	asənta 
+asōs/asās/asas	->	asās, asōsa, asōsay, asōsəl 
+aṣpaḥ	->	aṣpaḥ 
+ašpah yašpah	->	mašəphall, mašəphōš 
+aṣpar yaṣpar	->	aṣpar, maṣprin, nṣapper 
+aspeʕ yaspeʕ	->	asəpʕon, asəpʕurr 
+aṣraḥ yaṣraḥ	->	aṣraḥ, aṣrḥaṯ, nsarreḥ, yaṣraḥle 
+ašref yašref	->	yašref 
+aṣref yaṣref	->	aṣərfannun, aṣərfōn, maṣreflon, yaṣərfell, yaṣərfenne, yaṣərfun 
+aššar yɁaššar	->	ašrille, mɁaššarəl 
+asseḳ yasseḳ	->	asseḳ, assēḳ, assīḳa, assiḳille, assīḳin, assḳiččil, assḳid, assḳinnaḥ, assḳu, assḳunn, assḳunna, assḳunne, čmasseḳle, čmassiḳlōl, masseḳle, massiḳəl, massḳill, massḳille, massḳillun, massḳin, massḳiss, massḳōl, massḳōle, nassīḳin, nmassḳille, nmassḳillen, yassḳun, yassḳunn, ʕačmassiḳlōl, ʕammasseḳ 
+ašṭar	->	ašṭar 
+aṣṭef yaṣṭef	->	maṣəṭfa 
+aṣʕeb yaṣʕeb	->	aṣəʕbaṯ 
+aṭab yiṭṭub	->	ṭappaṯ, ṭappiṯ, ṭōppin 
+atab/ittab yittub	->	ittab, ntappille 
+ataḳ yittuḳ	->	ataḳ, ntaḳeḳəš, ntaḳeḳəṯ, ntaḳeḳle, taḳeḳəṯ, taḳeḳle, taḳḳaččil, taḳḳaččiṯ, taḳḳann, taḳḳe, taḳḳil, taḳḳill, taḳḳilla, taḳḳille, taḳḳinn, taḳḳiṯ, taḳḳižž, taḳḳl, taḳḳlēle, taḳḳōl, taḳḳōla, taḳḳunn, tōḳ, tōḳeḳ, tōḳḳa, tōḳḳin, tuḳḳōn, ytuḳḳan, ytuḳḳun, ʕamtaḳeḳlon, ʕamtaḳḳōṯ, ʕamtōḳḳan 
+atal yittul	->	ntalella, ntalilliš, ntullenne, ntullinniš, talle, tallunn, tallunne, tulli, tullī, tullunn, tullunnē, tullunni, ytullunne 
+atar	->	atar 
+aṭar yīṭar	->	aṭar, nṭayyer, ṭayyer, ṭōyar, ṭōyra, yṭūran 
+aṭax yīṭax	->	aṭax 
+aṭax yiṭṭux	->	ṭaxx 
+aṭaž yiṭṭuž	->	aṭaž, ṭažežle 
+aṭəġ yaṭəġ	->	maṭġēle 
+aṯən/aṯni yaṯən/yaṯni	->	aṯinn, čaṯən 
+atər/atri yatər/yatri	->	atər, atir, atriṯ, matri 
+atəʕ/atʕi yatəʕ/yatʕi 	->	atʕaṯ, atʕāy, matəʕ, matəʕya, matəʕyill, taʕyillun, taʕʕiyillun 
+aṭleḳ yaṭleḳ	->	maṭleḳəl 
+aṭmaʕ yaṭmaʕ	->	aṭəmʕiṯ, aṭmaʕ 
+aṯoḳča	->	aṯoḳča 
+aṯra	->	Ɂaṯril 
+atrek yatrek	->	matrekle 
+aṭw yaṭw	->	aṭwne, aṭwniẓ, maṭwēle, maṭwēn, yaṭwenn 
+aṭyab	->	aṭyab 
+aṭʕem yaṭʕem	->	aṭəʕme, aṭəʕmunne, maṭəʕmill, maṭəʕmillun, maṭʕemla, naṭəʕmell, naṭəʕmenne, naṭʕīmle, nmaṭəʕmille, nmaṭʕimlēx, nmaṭʕmillun, yaṭəʕmell, yaṭəʕmenn, yaṭəʕmull 
+aw	->	aw 
+awḏaʕ yawḏaʕ	->	yawḏʕennaḥ, yawḏʕinn 
+awəf yawəf	->	čawəflēle 
+awəʕ yawəʕ	->	awʕax, awʕinnaḥ, awʕiš, awʕiṯ 
+awfaḳ	->	Ɂawfaḳ 
+awġ(i) yawġ	->	awġā, awġunn, awġunne, mawəġ, mawġ, waġġ, ʕammawġ 
+awheb yawheb	->	awəhbe, awhiblaḥəl, mawəhbill, mawəhbille, mawhiblēle 
+awkaʕ yawkaʕ	->	awkʕi 
+awḳef yawḳef	->	awḳef, awḳēf, awḳeflaḥ, awḳfaṯ, awḳfinnaḥ, awḳfiṯ, čmawḳfa, čwaḳḳef, mawḳef, mawḳefəl, mawḳeflə, mawḳfill, mawḳfillaḥ, mawḳfin, mawḳifəl, nawḳef, nmawḳef, nwaḳḳīfin, waḳḳīfin, yawḳef 
+awōna	->	awōnun, Ɂawōne 
+awpel yawpel	->	awpillaḥle, awpla, nmawpla, yawplennen 
+awpṯa	->	awpṯa 
+awrab	->	awrab 
+awrex yawrex	->	yawərxell 
+awṣef yawṣef	->	mawṣefəl, nawṣefəlxon 
+awwal	->	awwal, awwar, Ɂawwal 
+awwalča	->	awwalča, awwalče, awwalčil, awwalčiš, awwalčit, awwalčiṭ, awwalčlə 
+awwalnō	->	awwalnō, awwalnōy, awwalnōyṯa 
+awʕeẓ yawʕeẓ	->	mawʕeẓ 
+ax	->	axi, xi 
+ax/āx	->	āx 
+axal yīxul	->	axal, axəl, axell, axella, axəllaḥəl, axəllaḥlen, axellon, axla, axlaččl, axlaṯ, axle, axličča, axliččil, axliččun, axličl, axlil, axlilla, axlinnaḥ, axliṯ, axlull, axlunne, axol, axul, čixel, čīxul, ixel, naxella, naxlilla, nīxul, nōxel, nōxlin, nuxlell, nuxlenna, ōxel, ōxla, ōxlan, ōxlin, uxlēn, uxlōn, xell, xīlle, xlilla, xōl, xūl, yīxul, yuxlann, yuxlenna, yuxlenne, yuxlun, yuxlunne, ʕaččōxlin, ʕammaxell, ʕammaxlōl, ʕammōxel, ʕammōxlin, ʕamxella, ʕannōxlin 
+axan yīxun	->	nxaynōx, xoniččax 
+axbeṯ yaxbeṯ	->	axbīṯ 
+axəf yaxəf	->	yaxfell 
+axerča	->	axerča, axerče, axerčil, axerčiš, axerčiṣ, axerčit, axerčl, Ɂaxerčlə 
+axərnō	->	axərnō 
+axəṭ yaxəṭ	->	axṭiṯ, maxṭ 
+axfen yaxfen	->	axəfnōn, axəfnull 
+axmar yaxmar	->	maxəmrin 
+axsar yaxsar	->	maxsar 
+axṭar yaxṭar	->	maxṭar 
+axtem yaxtem	->	axətmax, axətmīčən, axətmiṯ, axətmull, axətmunn, axtimlēx, axtmilə, axtmiṯ, čaxtmunni, maxətman, maxətmille, maxtem, maxteməl, maxtemle, maxtmōle, naxətmenna, naxtem, nmaxtem, yaxətmannax, ʕammaxteml 
+axxar yɁaxxar	->	nimɁaxxar 
+aya/ayya	->	Ɂayy 
+aylef yaylef	->	ayəlfiččax, aylfī, aylfīčən, aylfil, aylfunne, ayliflīl, mayəlfillun, mayleflaḥ, maylefle, mayləflēl, yayəlfell 
+aylun/aylul	->	aylul 
+ayneḳ yayneḳ	->	maynḳōle 
+ayṯ(i) yayṯ(i)	->	ayṯ, ayṯa, ayṯā, ayṯalle, ayṯann, ayṯannēn, ayṯannun, ayṯannūn, ayṯaṯ, ayṯay, ayṯāy, ayṯēḥ, ayṯēle, ayṯēlon, ayṯičča, ayṯičče, ayṯiččil, ayṯiččin, ayṯiččl, ayṯiččun, ayṯīčəl, ayṯičxun, ayṯiḥī, ayṯīl, ayṯilī, ayṯīli, ayṯillaḥəl, ayṯillaḥəs, ayṯillaḥla, ayṯillaḥle, ayṯillaḥlen, ayṯillall, ayṯillalla, ayṯillalle, ayṯillīčəl, ayṯillīl, ayṯillillax, ayṯillull, ayṯillulle, ayṯinnaḥ, ayṯiṯ, ayṯlaḥəl, ayṯlēle, ayṯlīl, ayṯlulle, ayṯlullī, ayṯna, ayṯne, ayṯnē, ayṯnil, ayṯniš, ayṯon, ayṯōn, ayṯōx, ayṯull, ayṯulla, ayṯullaḥ, ayṯulle, ayṯullē, ayṯulli, ayṯullī, ayṯullullī, ayṯunna, ayṯunne, ayṯūš, ayyeṯ, ayyīṯa, ayyiṯall, ayyīṯəl, ayyiṯill, ayyiṯilla, ayyiṯille, ayyīṯin, ayyīṯla, ayyīṯle, ayyīṯliš, čayṯ, čayṯēḥ, čayṯell, čayṯenne, čayṯīl, čayṯill, čayṯinn, čayṯull, čayyeṯ, čayyīṯəl, čmayṯ, čmayṯēḥ, čmayṯēl, čmayṯīl, ənmayṯyin, mayṯ, mayṯēl, mayṯēla, mayṯēle, mayṯēlon, mayṯēẓ, mayṯillilla, mayṯillille, mayṯlēle, mayṯya, mayṯyan, mayṯyill, mayṯyilla, mayṯyille, mayṯyillun, mayṯyin, mayṯyōl, mayṯyōla, mayṯyōle, nayṯ, nayṯēla, nayṯēle, nayṯell, nayṯēlon, nayṯēlxon, nayṯenxon, nayṯēx, nayṯi, nayṯillēle, nayṯillēx, nayyeṯ, nayyiṯill, nayyīṯin, nayyīṯlax, nayyīṯle, nayyiṯlīš, nmayṯillōx, nmayṯīš, nmayṯōxi, nmayṯya, nmayṯyill, nmayṯyilla, nmayṯyille, nmayṯyillen, nmayṯyin, nmayṯyiss, yayṯ, yayṯell, yayṯellə, yayṯežž, yayṯun, yayṯunna, ʕammayṯya, ʕammayṯyilla 
+ayṭeb yayṭeb	->	ayṭbačča, ayṭbaṯ, ayṭbe, ayṭbič, ayṭeb, čayṭeb, mayṭbin, mayṭbōlun, mayṭeb, mayṭeblax, mayṭeble, mayṭeblon, yayṭbenne, yayṭbunne, yayṭeb 
+ayy	->	ayy 
+ayya/ayyi/ayyu	->	ayya 
+ayyub	->	ayyub 
+azač yizzuč	->	ənzaččillun, nzuččenn, nzuččenna, yzuččenne, yzuččull, začča, začče, začčičča, začčil, začčill, začčlaḥəl, začčlīl, začčunn, začečəl, začečle, zōč, zōčeč 
+azal yizzul	->	nzōllin, zōlla 
+ažann	->	ažann 
+aẓar yīẓur	->	čẓurell, nẓōyrin, nẓurennax, nẓurenne, nẓurennon, nẓurett, yẓūran, yẓurennaḥ, yẓurenne, ẓayrill, ẓayrille, ẓayrōl, ẓōrnit, ẓōyran, ẓōyrin, ʕamẓayerəl 
+ažar yižžur	->	žarr, žarrlaḥle, žarrunn 
+ažas yižžus	->	čžasesən, žassil, žassin 
+ažax yižžux	->	ižxex 
+azaʕ yīzuʕ	->	azaʕ, čīzuʕ, čzōyaʕ, nīzuʕ, nzayyeʕ, nzayyīʕin, zayyīʕa, zōyaʕ, zōyʕa, zōyʕin, zōʕič, zōʕiṯ 
+ažbar yažbar	->	yažəbrenna, yažəbrinni 
+aẓbeṭ yaẓbeṭ	->	čaẓbeṭ 
+ažəl yažəl	->	mažəlya, žalliyya, ʕammažəlya 
+ažər yažər	->	mažər 
+aẓhar yaẓhar	->	aẓəhrill 
+azka	->	azka 
+azkar yazker	->	azkirlillax, mazəkrill, mazəkrin, mazkerəl 
+ažles yažles	->	čažles 
+ažmal	->	ažmal 
+ažmaʕ yažmaʕ	->	ažəmʕax 
+ažmet yažmet	->	ažmet, yažmet, žammet 
+ážnabay	->	ážnabay 
+ažōt-	->	ažōte 
+ažra	->	ažra, ažril, Ɂažre 
+ažžar yɁažžar	->	ažžərlēx, nɁažžərlēle, nɁažžərlēx 
+ažžel yɁažžel	->	ažəllalla, ažəllēlon, mɁažžal 
+azʕel yazʕel	->	azəʕlaṯ, azəʕliṯ, azʕel, čazʕel, mazəʕla, mazʕel, mazʕlin 
+ažʕel yažʕel	->	yažəʕlell 
+ažʕi/ažəʕ yažʕi/yažəʕ	->	ažʕi 
+aʕat yiʕʕut	->	ʕattlaḥlun, ʕōtet 
+aʕaz yiʕʕuz	->	aʕaz 
+aʕbet yaʕbet	->	ʕbitōl 
+aʕəf yaʕəf	->	aʕəf, čmaʕfyillaḥ 
+aʕən yaʕən	->	maʕənyin, yaʕən, yaʕni 
+aʕər maʕər	->	ʕamʕarēḥ 
+aʕəṣ yaʕəṣ	->	maʕṣya 
+aʕla	->	aʕla 
+aʕleḳ yaʕleḳ	->	aʕəlḳinnaḥ, aʕleḳ 
+aʕlem yaʕlem	->	maʕlem 
+aʕlen yaʕlen	->	aʕlen, maʕlen 
+aʕtem yaʕtem	->	aʕtmunne, čaʕətmell, čaʕtmell 
+aʕžeb yaʕžeb	->	aʕžba, aʕžbačč, aʕžbačče, aʕžbe, aʕžbi, aʕžbīšən, čaʕžbell, maʕžbōl, ʕžīble 
+aʕzem yaʕzem	->	aʕzmaččil, aʕzmannaḥ, aʕzmiččis, aʕzmull, aʕzmunnaḥ, čaʕəzmennaḥ, maʕzem, maʕzeməl, maʕzemle, maʕzemlə, maʕziməl, maʕzmill, maʕzmillun, maʕzmin, maʕzmitt, maʕzmōl, maʕzmōle, naʕzem, naʕzmell, nmaʕəzmin, nmaʕzmill, yaʕzem, yaʕzmell, yaʕzmunne 
+b-	->	b, bā, bāḥ, bāx, bə, bib, bil, bīš, bōn, bōnxun, əb, əp, p, f, əf, bī 
+bāba	->	bāba 
+baba ḥasan	->	baba 
+baba ḥasnūṯa	->	ḥasnūṯa 
+badōl	->	badōl 
+bādye	->	bādye 
+baġla	->	baġla, baġlō 
+baḥar	->	baḥar 
+baḥərṯa	->	baḥərṯa, baḥərṯil 
+baḥleḳ ybaḥleḳ	->	baḥlīḳəl 
+baḥra	->	baḥər, baḥra 
+bahtel ybahtel	->	mbahtella 
+bakēt	->	bakēt 
+bakkar ybakkar	->	bakkar, čbakker 
+baḳḳar ybaḳḳar	->	baḳḳar, baḳḳirōl, baḳḳra, baḳḳračča, baḳḳračče, baḳḳraččil, baḳḳranne, baḳḳrič, baḳḳričče, baḳḳrīčne, čbaḳḳīra, čimbaḳḳar, čimbaḳḳarəl, čimbaḳḳarle, čimbaḳḳrin, mbaḳḳar, mbaḳḳarəš, mbaḳḳarle, mbaḳḳrallaḥ, mbaḳḳrōle, nbaḳḳar, nbaḳḳrennon, nimbaḳḳar, nimbaḳḳarəl, nimbaḳḳarle, nimbaḳḳra, nimbaḳḳrill, nimbaḳḳrin, ybaḳḳar, ybaḳḳrun, ybaḳḳrunnaḥ 
+bálatay	->	balatōyan 
+balbalča	->	balbalča 
+balḥōḏ	->	baləḥḏinn, baləḥḏinnun, balḥōḏa, balḥōḏe, balḥūḏ, balḥūḏiš 
+balk	->	balək, balk 
+balki	->	balki 
+balleš yballeš	->	balleš, ballōš, ballšaṯ, ballšinnaḥ, ballšiṯ, mballeš, mballšin, nimballeš, yballeš 
+balleṭ yballeṭ	->	balṭe 
+ballōr	->	ballōr 
+ballōrča	->	ballaryōṯa, ballōrčil 
+balōš	->	balōš 
+balžaktōra	->	balžaktarō 
+banadōra	->	banadōra 
+banawb/bnōb/bnawbi	->	banawb, bnawb, bnawbi, bnōb, əbnawb 
+banža	->	banža 
+barakāt	->	barakāt 
+bárake	->	bárake 
+baranda	->	baranda 
+baraṣ	->	baraṣ 
+barbōra	->	barbōra 
+barəmṯa	->	barəmṯa 
+barkīla	->	barkīla 
+barmīla	->	barmīla, barmilō 
+barnaš/barš	->	barnaš, bareš, barəš, bariš 
+barnōša	->	barnōša 
+barōta	->	barōta 
+barra	->	barra 
+barrād	->	barrād 
+barret	->	barrītin 
+barriyya	->	barriyya 
+barrōnay	->	barranōyan 
+barrōyṯ-	->	barrōyṯa, barrōyṯil, barrōyṯin, barrōyṯlə 
+barš	->	barš 
+bartex ybartex	->	nimbartxilla 
+basīṭay baṣīṭay	->	basiṭōy 
+basīṭay/baṣīṭay	->	basīṭay, baṣīṭay 
+baššel ybaššel	->	baššīlin, baššlunne, baššlunnē, mbaššla, mbaššlilla, mbaššlillun, mbaššlin, nbaššlenna, nimbaššlilla, nimbaššlin, ybaššlull, ybaššlunna, ʕambaššla, ʕambaššlille 
+baṣṣer	->	baṣṣer, baṣṣīra 
+baššer ybaššer	->	baširinnaḥ, ʕambaššrōle 
+baṣṣṯa	->	baṣṣṯa 
+baṣṭa	->	baṣṭa 
+baṭəḥṯa	->	baṭəḥṯil 
+batəlṯa	->	batəlṯa, batəlṯe, batəlṯil, batəlṯill 
+batərka	->	batərka 
+batra	->	batra 
+baṭrakōyṯa	->	baṭrakōyṯa 
+baṭraxōnča	->	baṭraxōnča 
+batt-	->	baḥ, ban, bann, baš, bašš, batt, batta, battaḥ, battax, battayhun, battaynaḥ, battayy, batte, batti, battiš, battun, battxun, bax, mann 
+battel ybattel	->	battel 
+baṭṭel ybaṭṭel	->	baṭṭel, baṭṭlaṯ, baṭṭliččlə, baṭṭliṣ, baṭṭliṯ, čimbaṭṭel, mbaṭṭel, mbaṭṭla, mbaṭṭlin, nbaṭṭlennis 
+baṭṭīxča	->	baṭṭīxča 
+bawwež ybawwež	->	čbawwženna, mbawwežl, nbawwženna 
+bawwōpča	->	bawwōpča, bawwōpčaḥ, bawwōpčxun 
+baxča	->	baxčō 
+baxxūra	->	baxxūra 
+baxʕa	->	baxʕa 
+baxʕōnay	->	baxʕanōy, baxʕōnay 
+baynṯ-	->	baynṯe, baynṯi, baynṯil, baynṯinn, baynṯinnaḥ, baynṯinnun, baynṯiš, baynṯl 
+bayruč	->	bayruč 
+bayyan ybayyan	->	mbayyan 
+bayyan/bayyen ybayyan/ybayyen	->	bayyan, bayyen, bayyillēla, bayyīna, bayynaṯ, nbayynill 
+bayyen ybayyen	->	čbayyninnu, mbayyen 
+bayyen/bayyan  ybayyen/ybayyan	->	mbayynin 
+bayyeš ybayyeš	->	ʕanimbayyeš 
+bayyōʕa	->	bayyōʕəl 
+baʕḓ	->	baʕḓ 
+baʕḓ-	->	baʕḓax, baʕḓe, baʕḓil, baʕḓin, baʕḓinn, baʕḓinnaḥ, baʕḓinnen, baʕḓinnun, baʕḓinxun 
+baʕḓa	->	baʕḓa 
+baʕdēn	->	baʕdēn 
+baʕla	->	baʕla 
+baʕʕeḏ	->	baʕʕīḏa, baʕʕīḏča, baʕʕīḏin, baʕʕeḏ 
+baʕʕeḏ ybaʕʕeḏ	->	baʕʕḏičče, baʕʕḏōn, mbaʕʕeḏ 
+bḏōra	->	bḏōra 
+bḓōʕča	->	bḓōʕča 
+bē	->	be, bē 
+bēl	->	bēl, bēš 
+bēla	->	bēla 
+bəl-ḓabəṭ	->	ḓḓabəṭ 
+bēlma	->	bēlma 
+bēn	->	bēn 
+berča	->	berča, berčax, berče, berčəllə, berčiḏ, berčil, berčis, berčlə, berčxon, birč, birči, bnōṯ, bnōṯax, bnōṯəl 
+berkṯa	->	berəkṯa, berkṯa 
+besərṯa	->	besərṯa 
+beṣla	->	beṣla, biṣlō 
+besra	->	besra, besril, bisər 
+bess/bessi	->	bess, besse, bessi 
+bezra	->	bezril, bizrayyun, bizrō 
+bezza	->	bezzis, bizzōya 
+beʕla	->	beʕəl, beʕla, beʕliš, biʕəl, biʕli, biʕliš 
+beʕṯa	->	beʕṯa, bīʕ, biʕō, biʕōy, biʕōye 
+bhīmča	->	bhīmča, bhīmčax, bhīmče, bhimōṯa, bhimōṯe 
+bīl	->	bīl 
+billa	->	billa 
+bima	->	bima 
+bīma	->	bīma 
+binišō	->	binišō 
+binōyṯa	->	binayōṯe 
+bīra	->	bīra, birō, birōyəs 
+bīša	->	bīša 
+bisčōna	->	bisčanō, bisčōna, bisčōne 
+bisnīṯa	->	bisənyōṯa, bisnīṯa, bisniyyan 
+bišōla	->	bišalō, bišōl, bišōla 
+bitōyṯa	->	bitōyṯa 
+bižāma	->	bižāma 
+bižūz	->	bižūz 
+blastīk	->	blastīk 
+blō	->	blō 
+blōk	->	blōk 
+blōta	->	blatayhun, blataynaḥ, blatayy, blatō, blatōy, blatōya, blatōye, blatōyl, blōt, blōta, blōtaḥ, blōte, blōti, blōtun, blōtxun, əblatō, əblōta 
+blōṭča	->	blāṭ 
+bōdra	->	bōdra 
+boġta	->	boġta, boġtax, boġtir, buġti, buġtō 
+boḥəšṯa	->	boḥəšṯa 
+bōla	->	balayxun, balayy, balinn, bōl, bōla, bōlax, bōle 
+bōrča	->	bōrča 
+borəhṯa	->	borəhṯiṯ 
+bōrex ybōrex	->	mbarixəl, mbarixill, mbarixilla, mbarixille, mbarīxin, ybarexlax 
+boṣərṯa	->	boṣərṯa 
+bōṯar	->	bōṯar 
+bōṭna	->	baṭnō, bōṭna, bōṭnil 
+boxša	->	buxšō 
+bōykṯa	->	bōykṯa 
+bōža	->	bōža 
+boʕḏa	->	boʕḏa 
+boʕra	->	buʕrō 
+brōḳa	->	brōḳe 
+brōm	->	barhūme, brōm, əbrōm 
+brōša	->	brōša 
+buntḳōyṯa	->	buntaḳyōṯa, buntḳōyṯa, buntḳōyṯe 
+būra	->	būra 
+burnōyṯa	->	burnōyṯa, burnōyṯiḏ 
+burtḳān	->	burtḳān 
+buṭanžay	->	buṭanžay 
+buṭər rabbi	->	buṭər 
+buṭros	->	buṭros 
+butt	->	butt 
+būza	->	būzəl 
+bzurōyṯa	->	bzurōyṯa 
+bʕalbak	->	bʕalbak 
+čaḳla	->	čaḳla 
+čamam	->	čamam 
+čaməzṯa	->	čaməzṯa 
+čammem yčammem	->	yčammimenna 
+čammuz	->	čammuz 
+čamōma	->	čamōmen 
+čappar yčappar	->	čappərčuḏḏ, čappərlaḥle, čappīran, čappračče, čappričče, čapprunnax, čappre, mčapparla, yčapprell 
+čarīxa	->	čarīxa 
+čawma	->	čawmil 
+čaxča	->	čaxča, čaxče 
+čažra	->	čažra 
+čaʕba	->	čaʕba, čaʕbe 
+čaʕban	->	čaʕbōnan, nčaʕbōn 
+čaʕnēx/čuʕnēx	->	čaʕnēx, čaʕnīš, čiʕnēlxon, čiʕnīš, čuʕnēlxon, čuʕnēx, čuʕnīš 
+čaʕpṯa	->	čaʕpṯe 
+čbaḳḳ yičbaḳḳ	->	čbaḳḳ, čbaḳḳa, čbaḳḳaṯ, čbaḳḳēlen, čbaḳḳi, čbaḳḳinnaḥ, mičbaḳḳ, mičbaḳḳi, mičbaḳḳya, mičbaḳḳyin, yičbaḳḳ, yičbaḳḳēle 
+čbarbas yičbarbas	->	mičbarpsin 
+čbarraʕ yičbarraʕ	->	čbarraʕ, mičbarrʕin 
+čbarṭal yičbarṭal	->	mičbarṭal 
+čbassam yičbassam	->	čbassam 
+čbatt yičbatt	->	nmičbattyin 
+čbayyan yičbayyan	->	mičbaynin, ničbayyan 
+čbōra	->	čbōrəl 
+čbōrax yičbōrax	->	mičbarīxin 
+čbōxal	->	ničbōxal 
+čḓarrar yičḓarrar	->	čičḓarrīrin 
+čḓarraʕ yičḓarraʕ	->	miḓḓarrʕa 
+čfaḓḓal yičfaḓḓal	->	čfaḓḓāl, čfaḓḓlōn 
+čfaḓfaḓ yičfaḓfaḓ	->	ničfaḓfaḓ 
+čfaḳḳat yičfaḳḳat	->	čfaḳḳitlaḥəl 
+čfallaḥ yičfallaḥ	->	mičfallaḥ, nmičfallaḥ 
+čfarraḳ yičfarraḳ	->	čfarraḳ 
+čfassar yičfassar	->	čfassar 
+čfaṯṯaḥ yičfaṯṯaḥ	->	čfaṯṯaḥ 
+čġazz(i) yičġazz(i)	->	mičġazzya 
+čḥammal yičḥammal	->	čḥammal, čḥammel, mičḥammal, ničḥammal, yičḥammlun 
+čḥammam yičḥammam	->	čḥammam 
+čḥammaṣ yičḥammaṣ	->	čičḥammaṣ, mičḥammṣa 
+čharrab yičharrab	->	mičharrab 
+čḥaṭṭaṭ yičḥaṭṭaṭ	->	čḥaṭṭaṭ 
+čhayyaḳ yičhayyaḳ	->	yičhayyaḳla 
+čḥayyar yičḥayyar	->	čḥayyar 
+čḥōṣar yičḥōṣar	->	čḥōṣar 
+čḥōtas yičḥōtas	->	ʕammičḥōtas 
+či	->	či 
+čifkīra	->	čifkīra 
+čifsīra	->	čifsīra, čifsīrun 
+čiġrepča	->	čiġrepča, čiġribyōṯa 
+čikberča/čikbīrča	->	čikberča, čikbiryan 
+čiḳlīta	->	čiḳlīta 
+čiḳrīban	->	čiḳrīban 
+čikrīza	->	čikrīza, čikrīzəl 
+čilbīḏa	->	čilbīḏa 
+čilmīḏa	->	čilmiḏō, čilmiḏōye, čilmiḏōylə 
+činya	->	činya 
+čirčīpča	->	čirčibyōṯa 
+čirpīṯa	->	čirpīṯa 
+čirtīla	->	čirtīla 
+čišlīḥa	->	čišlīḥa 
+čislīma	->	čislīmlə 
+čišrin	->	čišrin 
+čitberča	->	čitberča 
+čitbīra	->	čitbīra 
+čiṯḥōnax	->	čiṯḥōnax 
+čittōḏa	->	čittōḏ 
+čkallam yičkallam	->	ʕanmičkallam 
+čkammal yičkammal	->	čkammlaṯ 
+čḳarrab yičḳarrab	->	mičḳarrban 
+čkarrar yičkarrar	->	yičkárrirun 
+čḳattam yičḳattam	->	mičḳattam, mičḳattmin 
+čḳattaš yičḳattaš	->	yičḳattaš 
+čḳaṭṭaʕ yičḳaṭṭaʕ	->	čḳaṭṭaʕ 
+čkawwan yičkawwan	->	mičkawwna 
+člappak yičlappak	->	člappak 
+člažž yičlažž	->	člažžaṯ 
+člōḥa	->	člōḥən 
+člōž yičlōž	->	člōžiṯ 
+čmannaʕ yičmannaʕ	->	yičmannaʕ 
+čmarkaz yičmarkaz	->	čmarkaz 
+čmaržaḥ yičmaržaḥ	->	mičmarəžḥin 
+čmašš yičmašš	->	mičmaššyin 
+čmatmet yičmatmet	->	čmatmet 
+čmaxṭar yičmaxṭar	->	mičmaxṭar 
+čmunni	->	čmunni 
+čnakkar yičnakkar	->	čnakkar 
+čnaṣran yičnaṣran	->	čnaṣran 
+čnaššaḳ yičnaššaḳ	->	čnaššaḳ, mičnaššaḳ 
+čnaṣṣaṭ yičnaṣṣaṭ	->	mičnaṣṣṭin 
+čnattam yičnattam	->	mičnattmin 
+čnawmas yičnawmas	->	mičnawmsin 
+čnažž yičnažž	->	čičnažž, čnažžinnaḥ 
+čnōḓef yičnōḓef	->	mičnaḓīfin 
+čnōġam yičnōġam	->	mičnōġam 
+čnōġaš yičnōġaš	->	ʕammičnaġīšin 
+čnōḳel yičnōḳel	->	mičnaḳīlin 
+čnōwal yičnōwal	->	čnawīlaṯ, mičnawīlin, ʕammičnawīlin 
+čōbaʕ yčōbaʕ	->	čabiʕaččil, čabiʕōt, čabiʕutt 
+čōma	->	čōma 
+čōra	->	čōr 
+čorsa	->	čorsa 
+čōžar yčōžar	->	mčōžar, nčōžar, ʕamčōžar 
+čōžra	->	čōžərlə, čōžra 
+čraḥḥab yičraḥḥab	->	čraḥḥab 
+čraḥḥam yičraḥḥam	->	čraḥḥmōn, mičraḥḥam, mičraḥḥmin, yičraḥḥam 
+čraḥraḥ yičraḥraḥ	->	čraḥraḥ 
+črattat yičrattat	->	mičráttitin 
+črawḥan yičrawḥan	->	čičrawəḥnun, črawḥan 
+čražž(i) yičražž(i)	->	čražžačče, mičražžēlon, mičražži, mičražžyille 
+čražžal yičražžal	->	mičražžal 
+črōfaḳ yčrōfaḳ	->	ničrōfaḳ 
+črōfaḳ yičrōfaḳ	->	črōfaḳ 
+črōžaʕ yičrōžaʕ	->	črōžaʕ 
+čṣaff yičṣaff	->	miṣṣaff 
+čšakk yičšakk	->	mičšakkyin 
+čsakkar yičsakkar	->	mičsakkrin 
+čsall(i)/ssall(i) yičsall(i)/yissall(i)	->	ssalliṯ, čmissalli, nissall, nissalli, nmičsallya, nmissallya, yissalli 
+čšammas yičšammas	->	mičšammsin 
+čšanṭaṭ yičšanṭaṭ	->	ššanṭaṭ 
+čšarkal yičšarkal	->	čšarkal, yičšarkal 
+čšarrab yičšarrab	->	mičšarrba 
+čšarraf yičšarraf	->	ničšarraf 
+čsarraḥ yičsarrḥ	->	čsarrḥiṯ 
+čṣōraʕ yičṣōraʕ	->	mičṣarīʕin, ničṣōraʕ 
+čsōw yičsōw	->	čsowā 
+čtappar yičtappar	->	mittappra 
+čtarwaš yičtarwaš	->	mittarwšin, tarwīšin 
+čṭawwaʕ yičṭawwaʕ	->	əṭṭawwʕaṯ 
+čū/ču	->	ču, čū 
+čūb	->	čūb, čūba, čūban, čūbin 
+čūl-	->	čūḥ, čūl, čūla, čūle, čūli, čūlun, čūš, čūx 
+čuppe	->	čuppa, čuppax, čuppe 
+čūṯ(i)	->	čūṯ 
+čuwrīḳa	->	čuwrīḳa 
+čūʕl-/čuʕl-	->	čeʕle, čuʕla, čuʕle, čūʕle 
+čwaḓḓ yičwaḓḓ	->	čwaḓḓ, ničwaḓḓ 
+čwaff yičwaff	->	čičwaff, čwaff, čwaffaṯ 
+čwaḥḥ yičwaḥḥ	->	mičwaḥḥ 
+čwaḥḥat yičwaḥḥat	->	čwaḥḥat 
+čwašwaš yičwašwaš	->	mičwašwaš 
+čwažžah yičwažžah	->	čwažžhinnaḥ, mičwažžah 
+čwazzaʕ yičwazzaʕ	->	čwazzaʕ 
+čwaʕʕ yičwaʕʕ	->	yičwaʕʕ 
+čxaff yičxaff	->	čxaffaṯ 
+čxallaf yičxallaf	->	čxallaf, čxallef, čxallfaṯ, čxallfič, čxallfiṯ 
+čxallaṣ yičxallaṣ	->	ničxallaṣ 
+čxarraḥ yičxarraḥ	->	mičxarraḥ 
+čxarraž yičxarraž	->	yičxarraž 
+čxōyal yičxōyal	->	čxōyal 
+čzakkar yičzakkar	->	čizzakkīrle 
+čžarraʕ yičžarraʕ	->	mižžarraʕ 
+čẓōhar yičẓōhar	->	mičẓahīrin, ʕanmičẓōhar 
+čžōʕča	->	čžōʕča 
+čɁahhal yičɁahhal	->	čičɁahhal, čɁahhal, čɁahhel, čɁahhīla, čɁahhīlan, čɁahhlaṯ, čɁahhlič, čɁahhliṯ, əčɁahhel, mičɁahhella, ničɁahhal, ničɁahhel, nmičɁahhal, yičɁahhal 
+čɁakkat yičɁakkat	->	čɁakkat 
+čʕall yičʕall	->	čʕallaṯ 
+čɁallaf yičɁallaf	->	mičɁallfa 
+čʕallaḳ yičʕallaḳ	->	čʕalleḳ, mičʕallaḳ 
+čʕammaḏ yičʕammaḏ	->	čʕammaḏ, yičʕammaḏ 
+čɁammal yičɁammal	->	mičɁammal, ʕammičɁammall 
+čʕannat yičʕannat	->	čʕanntiṯ 
+čʕarraf yičʕarraf	->	čʕarraf, čʕarrfič, mičʕarrfa, ničʕarraf, nmičʕarraf 
+čʕaskar yičʕaskar	->	čʕaskar 
+čʕaṭṭal yičʕaṭṭal	->	mičʕaṭṭlin 
+čɁaxxar yičɁaxxar	->	čičɁaxxar, čɁaxxriṯ, mičɁaxxar, ʕammičɁaxxrin 
+čʕažref yičʕažref	->	čʕažref 
+čʕažžab yičʕažžab	->	čʕažžab, yičʕažžbun 
+čʕōlaž yičʕōlaž	->	čʕōlaž, mičʕalīžin, ʕačmičʕalīžin 
+čɁōmar yičɁōmar	->	mičɁamīrin 
+čʕōwan yičʕōwan	->	mičʕawīnin 
+čɁuhhōla	->	čɁuhhōla 
+ḓabḓeb yḓabḓeb	->	mḓabəḓbōl 
+ḓabʕa	->	ḓabʕa, ḓabʕil 
+dafīn	->	dafīn 
+ḏaḥaḳōna	->	ḏaḥaḳōna, ḏaḥaḳōnəl 
+ḏahba	->	ḏahba, ḏahbō, ḏahəb 
+ḓaḥḥ yḓaḥḥ	->	ḓaḥḥ, mḓaḥḥyin, yḓaḥḥell, yḓaḥḥenna, yḓaḥḥun 
+ḓaḥḥek yḓaḥḥek	->	čḓaḥḥkunnaḥ 
+ḓaḥḥiyye	->	ḓaḥḥiyye 
+ḓaḥwṯa	->	ḓaḥwṯa 
+ḏakar	->	ḏakar 
+daktōr	->	daktōr 
+ḏalfa	->	ḏalfa 
+ḏalīṯa	->	ḏalīṯa 
+danger ydanger	->	dangīrin 
+danyān	->	danyān 
+ḏapparīṯa	->	ḏapparīṯa 
+dárakay	->	dárakay, darakō 
+ḓarba	->	ḓarblə 
+ḓarfa	->	ḓarfa, ḓarfil, ḓarfō 
+darkesyōn	->	darkesyōn 
+ḓarrar yḓarrar	->	ḓarrarlax 
+ḓaww yḓaww	->	ḓawwīlo, ḓawwlullī, ḓawwunne, mḓawwyillə 
+ḓawwaʕ yḓawwaʕ	->	ḓawwʕičča, ḓawwʕičče, ḓawwʕīšna 
+ḏawweḳ yḏawweḳ	->	nḏawəḳlēx 
+ḓayfa	->	ḓayfa, ḓayfō, ḓayfṯa 
+dāyman	->	dāyman 
+ḏayra	->	ḏayr, ḏayra, ḏayril, ḏayrwōṯa 
+ḓayyef yḓayyef	->	mḓayyefle, mḓayyfillun, ʕamḓayyefle 
+ḏayyeḳ	->	ḏayyīḳa, nḏayyeḳ 
+ḏaʕṯa	->	ḏaʕṯələ 
+ḏbīḥča	->	ḏbīḥča, ḏbiḥōṯa, əḏbiḥōṯa 
+ḏḏōyaḳ yiḏḏōyaḳ	->	ḏḏōyaḳ, ḏḏoyīḳiṯ, miḏḏōyaḳ 
+ḏēba	->	ḏēba, ḏibō 
+ḏebša	->	ḏebša 
+ḏeffa	->	ḏeffa 
+ḓeḥka	->	ḓeḥka 
+ḏeḳna	->	ḏeḳna, ḏeḳnax, ḏeḳne, ḏeḳnon, ḏiḳət, ḏiḳni, ḏiḳniš 
+ḏeməʕṯa	->	ḏeməʕṯil 
+ḏemseḳ	->	ḏemseḳ 
+ḏenpa	->	ḏenpa, ḏenpe, ḏenpis, ḏinəp 
+ḓḥīṯa	->	ḓḥīṯa 
+ḏī	->	ḏībaʕḷō 
+ḏīka	->	ḏīka, ḏikō 
+ḏikkel yḏikkel	->	čḏikkel, čimḏikkla, ḏikkel 
+ḏīna	->	ḏīna, ḏīne 
+ḏlūḳa	->	ḏlūḳa, ḏluḳō, əḏlūḳa 
+ḏmōxa	->	ḏmōxa 
+ḏōb/nḏōb	->	ḏōb 
+ḏōḏa	->	ḏaḏō, ḏaḏōye, ḏōḏ, ḏōḏa, ḏōḏaḥ, ḏōḏax, ḏōḏe, ḏōḏen 
+ḏokkṯa	->	ḏokkil, ḏokkṯa, ḏokkṯax, ḏokkṯe, ḏokkṯil, ḏokkṯillə, ḏokkṯiṣ, ḏukəṯ, ḏukk, ḏukkaṯinn, ḏukkaṯinnun, ḏukkōṯa, ḏukkṯiḏ, ḏukkṯil, ḏukkṯin, ḏukkṯis, ḏukkṯiš, ḏukkṯit, ḏukkṯiṯ 
+ḓōpṭa	->	ḓōpṭa 
+ḏōrča	->	ḏaryōṯa, ḏōrča, ḏōrčit, ḏōrčun 
+ḓōyef yḓōyef	->	əmḓayīfin, mḓayifill, mḓayifille, mḓayifillun, mḓayīfin, nimḓayifille, yḓayifell, yḓayifull, yḓayifunne 
+ḏrōʕa	->	ḏrōʕ, ḏrōʕa, ḏrōʕe, əḏrōʕ 
+ḏuḥḥuḳ	->	ḏuḥḥuḳ, ḏuḥḥūḳin 
+ḏukkel	->	ḏukkel 
+ḏukkil/ḏikkil	->	ḏikkil, ḏikkin, ḏikkis, ḏikkit, ḏikkiž, ḏikkiẓ, ḏikkliš, ḏikkṯil, ḏukkil, ḏukkillə, ḏukkin, ḏukkis, ḏukkiṯ, ḏukkiz, ḏukklə 
+dūma	->	dūma 
+dumōnay	->	dumōnay 
+ḏura	->	ḏura 
+durbakke	->	durbakke 
+duʕa	->	duʕa 
+ḏxīrča	->	ḏxiryōṯa 
+ḓyyef yḓayyef	->	ḓayyfunnāḥ 
+ē	->	ē 
+ebəšṯa	->	pšōṯa 
+ebra	->	bnayy, bnō, bnōš, bnōx, bnōy, bnōya, bnōye, bnōyəḏ, bnōyəl, bnōyi, bnōylə, ebər, ebərl, ebərlə, ebərxon, əbnōy, əbnōye, əbnōyi, ebr, ebra, ebraḥ, ebrax, ebre, ebron, ibər, ibri, ibriš, Ɂebər 
+eččṯa	->	eččil, eččl, eččṯa, eččṯax, eččṯe, eččṯič, eččṯil, ečəṯlə, ičč, iččawōṯaḥ, iččawōṯe, iččawōṯun, iččawōṯxun, ičči, iččṯi, ičəṯ, Ɂeččṯax, Ɂeččṯe 
+eḏma	->	eḏma, eḏme, eḏmil, iḏmiš 
+eḏna	->	ḏnō, ḏnōye, eḏna, eḏne 
+eḥḏa	->	eḥḏa, Ɂeḥḏa 
+elbar	->	elbar 
+elġol	->	elġol 
+elhel	->	elhel 
+ellel	->	ellel 
+elʕel	->	elʕel 
+emḥar	->	emḥar 
+emma	->	emma, emmax, emmay, emme, emmen, emmil, emmin, emmis, emmiš, emmit, emml, emmlə, emmon, immi, immiš, Ɂemma, ʕemmax 
+emmat	->	emmat 
+emʕa	->	emʕa 
+erraʕ	->	erraʕ 
+ešbaʕ	->	ešbaʕ, šobʕa 
+ešma/ušma	->	ešəmlə, ešma, ešmax, ešme, ešmil, išəm, ušəm, ušma, ušme, ušmi, ušmiš 
+ešna	->	ešəl, ešəllə, ešəz, ešna, ešnaḥ, ešne, ešnil, ešniz, išən, išnō, šəl, Ɂešəl, Ɂišnō 
+eṯlaṯ	->	eṯlaṯ, ṯlōṯa 
+eṯlaṯʕasər	->	eṯlaṯʕasər 
+ētra	->	trō 
+eṭšaʕ	->	eṭšaʕ, ṭešʕa 
+eṭšaʕʕasər	->	eṭšaʕʕasər 
+etta	->	etta 
+ex/ux	->	ex 
+exma	->	exma 
+exmiḏ/exmil/uxmiḏ/uxmil	->	exmič, exmil, exmin 
+ext/exət/exti	->	exet, exət, ext, exte 
+ezna	->	ezənxon, ezna, eznax 
+eʕṣar	->	eʕṣar 
+fa	->	fa 
+faččalyōṯa	->	faččalyōṯa 
+fačəlṯa	->	fačlan 
+fačərṯa	->	fačərṯa, fačərṯil 
+fačfeč yfačfeč	->	fačfičille 
+faḓḓ yfaḓḓ	->	faḓḓičča, faḓniṭ, mfaḓḓyōlun, mfaḓyin, nimfaḓḓēl, nimfaḓḓyill, yfaḓḓun 
+faḓḓel yfaḓḓel	->	čimfaḓḓla 
+faḓla	->	faḓla, faḓlax, faḓlil 
+faḓlo	->	faḓlo 
+faḓwṯa	->	faḓwṯa 
+fādya	->	fādya 
+fahhem yfahhem	->	fahhme 
+faḥma	->	faḥma 
+fahman	->	fahman 
+faḥṣa	->	faḥṣa 
+fakīṯa	->	fakīṯa 
+fakkar yfakkar	->	čfakkrinn, fakkar, fakkraṯ, fakkrīčən, fakkriṯ, fakkrunne, mfakkar, ʕamfakkar 
+fakker	->	nfakker 
+falāfel	->	falāfel 
+falčanō	->	falčanō 
+falfel yfalfel	->	mfaləflill 
+fallaḥūṯa	->	fallaḥūṯa, fallaḥūṯun 
+fallek yfallek	->	nfallkenn, nimfallkillen 
+fallōḥa	->	fallaḥō, fallōḥa 
+fallōḥča	->	fallōḥča 
+fankūs	->	fankūsəl 
+fann yfann	->	fannalla, fannalle, fannlaḥəl, mfannyilla, mfannyille, mfannyin, yfann 
+fanna	->	fanna 
+fanōsa	->	fanōsa, fanōse 
+farəšṯa	->	farəšṯa 
+farḳa	->	farḳa 
+farraġ yfarraġ	->	farrāġ, farrġannaḥ, farrġinnaḥ, farrġōn, mfarraġ, mfarrġin, nimfarraġ, yfarraġ, yfarrġunne, ʕamfarraġ, ʕamfarrġa, ʕamfarrġin 
+farraʕ yfarraʕ	->	farrāʕ 
+farreḳ yfarreḳ	->	mfarəḳlēle, mfarreḳ, mfarreḳəl, mfarrḳilla, mfarrḳillun, mfarrḳin 
+farrōna	->	farrōna 
+farrūža	->	farrūža, farružō 
+farša	->	farša 
+fart	->	fart, ffart 
+farṭ	->	farṭ 
+farta	->	farta 
+fartṯa/farṯṯa	->	farəṯṯillə, fartṯa, farṯṯa, farṯṯis 
+farwṯa	->	farwōṯa, farwṯa, farwṯe 
+faṣḥiyye	->	faṣḥiyye 
+faṣla	->	faṣla, faṣlə, faṣlō, faṣlōš, faṣlōx, faṣlōyəl 
+fassar yfassar	->	fassarle, fassrann, mfassarəl, mfassarle, yfassarəl 
+faṣṣel yfaṣṣel	->	faṣṣilille, mfaṣṣlille, nimfaṣṣlill 
+faṣūlye	->	faṣūlye 
+faṯəḥṯa	->	faṯəḥṯa 
+faṯṯaḥ yfaṯṯaḥ	->	faṯṯaḥ, mfaṯṯḥa 
+faṭṭar yfaṭṭar	->	mfaṭṭrillun, yfaṭṭrenne 
+faṭṭarīṯa	->	faṭṭaryōṯa 
+faṯṯeḥ	->	faṯṯīḥa 
+fatteš yfatteš	->	fatteš 
+fawwāz	->	fawwāz 
+fawža	->	fawžō 
+fayya	->	fayya, fayye, fayyi, fayylə 
+fčōča	->	fčōča 
+fḓō	->	fḓō 
+fēčḥa	->	fēčḥa 
+feḏra	->	fiḏrō, fuḏrō 
+fekra	->	fekrax, fekre 
+felka	->	felka, filkayy, felke, felkər, felkil, felkin, felkiš, felkit, felklə 
+fellṯa	->	fellṯa 
+fēres	->	fēres 
+feška	->	feška, fišək 
+fezzṯa	->	fezzṯa 
+feʕla	->	feʕla, fiʕəl, fiʕl 
+ffō	->	ffayhun, ffayn, ffayy, ffō, ffōx, ffōya, ffōye, ffōyəl, ffōyəṭ, ffōyl 
+fīḓḓa	->	fīḓḓa 
+fīla	->	filō 
+filīb	->	filīb 
+finžōna	->	finžanō, finžōn, finžōna, finžōnəl, finžōnəṣ, finžōnlə 
+fittōna	->	fittōnlə 
+flanō	->	flanō, flanōyṯa 
+foḳra	->	foḳra 
+fōlča	->	fōlča 
+fōrča	->	fōrča 
+forḳṯa	->	forḳṯaḥ 
+forna	->	forna, furnō 
+fōrsa	->	fōrsa 
+fošəḥṯa	->	fušḥan 
+fōzi	->	fōzi 
+fōʕla	->	faʕlō, fōʕla 
+frang	->	frang 
+frānsa	->	frānsa 
+fransīs	->	fransīs 
+franžay	->	franžay, franžōyan 
+frašō	->	frašō 
+fretṯa/freṯṯa	->	freṯṯa, freṯṯil, frittayhen, frittō 
+frīsča	->	frīsča, frīsčil 
+frōġṯa	->	frōġṯa 
+frōma	->	frōma 
+frōxa	->	frōxa 
+frōža	->	frōža 
+fṣīlča	->	fṣīlča 
+fṭīsča	->	fṭīsča 
+fṭūra	->	əfṭūra, fṭūra 
+fulful	->	fulful 
+furrōʕča	->	furrōʕča, furrōʕče 
+ġabrōna	->	ġabərnayn, ġabərnō, ġabərnōye, ġabərnōylə, ġabrōna, ġabrūn, ġabrūni, ġabrūniš 
+ġabrṯa	->	ġabərṯa, ġabərṯil 
+ġaḓban	->	ġaḓban 
+ġaḏya	->	ġaḏya, ġḏō 
+ġaləpṯa	->	ġaləpṯa, ġaləpṯe 
+ġaləṭṯa	->	ġaləṭṯa 
+ġallōyṯa	->	ġallayōṯa, ġallōyṯa, ġallōyṯil 
+ġalṭan	->	čġalṭan 
+ġalwṯa	->	ġalwṯa 
+ġamġem yġamġem	->	ġamġīma 
+ġamla	->	ġamla, ġamlax, ġamle, ġamlō 
+ġammeḳ yġammeḳ	->	ġammeḳ, mġammeḳl 
+ġammṯa	->	ġammṯa 
+ġanna	->	ġann, ġanna, ġannil 
+ġapp-	->	ġapp, ġappa, ġappax, ġappayhen, ġappayhun, ġappayn, ġappaynaḥ, ġappayxun, ġappayy, ġappe, ġappə, ġappi, ġappič, ġappil, ġappillə, ġappin, ġappir, ġappiš, ġappit, ġappiz, ġappl, ġapplə
+ġappōna	->	ġappōna, ġappōne, ġappōnəl, ġappōnl
+ġarba	->	ġarba 
+ġarbay	->	ġarbay, ġarbō, ġarbōyan, ġarbōyṯa 
+ġarḓa	->	ġarḓa, ġarḓaynaḥ, ġarḓō, ġarḓōš 
+ġarfṯa	->	ġarfṯa 
+ġarība	->	ġarība, ġarīpča 
+ġarībay	->	čġarībay, ġaribōy 
+ġarmašča	->	ġarmašča 
+ġarōsa	->	ġarusō 
+ġarr(i) yġarr(i)	->	nimġarryilla 
+ġarreb yġarreb	->	ġarrbiččil, ġarrbiččun, ġarreb, mġarreb, nġarrbenna, nġarreb, yġarrbenna 
+ġaṣəb	->	ġaṣəb 
+ġaṣṣeb/ġasseb	->	ġasseb, ġaṣṣəl 
+ġaṣṣem	->	ġaṣṣem 
+gato	->	gato 
+ġaṭṭas	->	ġaṭṭas 
+ġaṭṭes yġaṭṭes	->	mġaṭṭesle, mġaṭṭsill, mġaṭṭsillun 
+ġawwa	->	ġawwa, ġawwaynaḥ, ġawwe 
+ġawwōnay	->	ġawwanō, ġawwanyōṯa 
+ġawwōyṯ-	->	ġawwōyṯ, ġawwōyṯe, ġawwōyṯil, ġawwōyṯiš, ġawwōyṯlə 
+ġawza	->	ġawza, ġawzō 
+ġawzṯa	->	ġawzṯa 
+ġaypṯa	->	ġaypṯax 
+ġayr/ġēr	->	ġayər, ġayərlə, ġayr, ġayra, ġayrax, ġayraynaḥ, ġayrayy, ġayre, ġayri, ġayrib, ġayriḏ, ġayril, ġayrin, ġayriš, ġayrit, ġayriž, ġayrl, ġayrlə, ġēr, ġērəl, ġērlə 
+ġayyaḏ yġayyaḏ	->	ġayyaḏ, ġayyeḏ 
+ġayyar yġayyar	->	ġayərlalle, ġayyār, ġayyer, ġayyralle, mġayyarət, mġayyrōli, nġayyrell, nġayyrett, nimġayyarəl, nimġayyrill 
+ġāz	->	ġāz, ġazō 
+ġazalīṯa	->	ġazalīṯa 
+ġazwa	->	ġazwa 
+ġbečča	->	ġbečča, ġbeččil, ġbeččlə 
+ġbīna	->	ġbīne, ġbinō, ġbinōye 
+ġelta	->	ġelta, ġiltō 
+ġerḥa	->	ġerḥe, ġirḥōy 
+ġerma	->	ġerma, ġirmō 
+ġešra	->	ġešra, ġišrō 
+ġezzṯa	->	ġezzṯil 
+ġmōʕča	->	əġmōʕča, ġmōʕča 
+ġnō	->	ġnō 
+ġofna	->	ġofna 
+ġōl	->	ġōl, ġōlya 
+ġolla	->	ġolla, ġullō 
+ġoppa	->	ġoppa 
+ġorfṯa	->	ġorfṯa 
+ġorḥa	->	ġurḥayy 
+ġorḥil	->	ġorḥil 
+ġorna	->	ġorna 
+ġorpṯa	->	ġorpṯa 
+grāfe	->	əgrāfe 
+ġrōḥa	->	ġrōḥa 
+ġrōrča	->	əġrōrča, ġrōrča, ġrōrče 
+ġrōsa	->	ġrōsa, ġrōse, ġrōsəḏ 
+ġtōra	->	ġtōra 
+ġṭōsa	->	ġṭōsa 
+ġubōra	->	ġubōra 
+ġuppaʕḏnay	->	ġuppaʕḏnō 
+ġuppaʕōḏ	->	ġuppaʕōḏ 
+ġuppaʕōḏ/xuppaʕōḏ	->	xuppaʕōḏ 
+ġuppōnay	->	ġuppanō 
+ġurayra	->	ġurayra 
+ġūrča	->	ġūrča, ġuryōṯa 
+ġūṭṯa	->	ġūṭṯa 
+ha, haɁ, hā, hah, hu, hō	->	ha, hah 
+ḥabīb	->	ḥabīb, ḥabībi 
+ḥabīpči	->	ḥabīpči 
+ḥabla	->	ḥabla, ḥablō 
+ḥačč(i)	->	ḥačč, ḥačča, ḥaččan, ḥačči 
+hačč/hačči	->	ačč, hačč, hačči 
+hačxun	->	haččxun, hačxun 
+ḥaḓḓar yḥaḓḓar	->	ḥaḓḓirille, ḥaḓḓirlille, ḥaḓḓirōla, mḥaḓḓərlille, mḥaḓḓrill, mḥaḓḓrišš, nḥaḓḓar, nimḥaḓḓrill, yḥaḓḓrull, yḥaḓḓrun 
+ḥafəlṯa	->	ḥafəlṯa, ḥafəlṯe, ḥafəlṯəllə, ḥafəlṯil 
+ḥaffṯa	->	ḥaffṯa, ḥaffṯin 
+ḥaḳīḳča	->	ḥaḳīḳča 
+ḥakkem yḥakkem	->	mḥakkem, mḥakkemət, nimḥakkem, yḥakkem, yḥakkmell, yḥakkmenna, yḥakkmunna, yḥakkmunne 
+ḥaḳḳōnay	->	ḥaḳḳanō 
+ḥaḳla	->	ḥaḳla, ḥaḳle, ḥaḳlə, ḥaḳlō 
+ḥakya	->	ḥakya, ḥakye 
+ḥalab	->	ḥalab 
+ḥalabay	->	ḥalabō 
+ḥalal	->	ḥalal 
+ḥalba	->	ḥalba 
+ḥaləḳṯa	->	ḥaləḳṯa, ḥalḳōṯa 
+ḥaləpṯa	->	ḥaləpṯa, ḥoləpṯa 
+ḥalḳūma	->	ḥalḳūma 
+ḥalla	->	ḥalla 
+ḥallaḳūṯa	->	ḥallaḳūṯa 
+ḥallef yḥallef	->	nḥallfell 
+hallel yhallel	->	mhalilin 
+ḥallel yḥallel	->	ḥalilunne, yḥalilell 
+ḥallōḳa	->	ḥallōḳa 
+ḥalōyṯa	->	ḥalōyṯa, ḥalōyṯaḥ, ḥalōyṯax, ḥalōyṯe, ḥalōyṯil 
+ḥalyūṯa	->	ḥalyūṯa 
+ḥaməlṯa	->	ḥaməlṯa 
+hamma	->	hamma, hamme, hamməl 
+ḥammel yḥammel	->	ḥaməl, ḥaməllaḥle, ḥammel, ḥammēl, ḥamməllaḥla, ḥammelle, ḥammīla, ḥammililla, ḥammlann, ḥammliččl, ḥammlinnaḥ, ḥammliṯ, mḥammel, mḥammla, mḥammlillun, nḥammel, nḥammlenn, nimḥammel, nimḥammlillen, yḥammel, yḥammlellə, ʕamḥammlill, ʕamḥammlin 
+ḥammem yḥammem	->	ḥammimlaḥle, ḥammimunnē, mḥammimille, nimḥammimille 
+ḥammeš	->	ḥammeš, ḥamša 
+ḥammeṣ yḥammeṣ	->	mḥammṣill, nimḥammṣille 
+ḥammeščaʕṣar	->	ḥammeščaʕṣar, ḥammešʕasər 
+ḥammešṯa	->	ḥammešṯa 
+ḥammōma	->	ḥammōma 
+ḥamra	->	ḥamra 
+hanik	->	hanik 
+ḥanka	->	ḥanke, ḥankōya 
+ḥann yḥann	->	mḥann, mḥannēl, mḥannyill, mḥannyin, yḥann, yḥannēllə, yḥannull, yḥannun 
+hann(i) yhann(i)	->	yhannennax 
+hann(un)	->	ann, hann, hannun, lannun 
+hanna	->	anna, banna, hanna, mnanna 
+ḥanna	->	ḥannax 
+ḥannek yḥannek	->	nimḥankille 
+hannen	->	hannen 
+ḥannūne	->	ḥannūne 
+hantez yhantez	->	hantez, hantzačče, mhantezle, mhantzōle, nimhantzille 
+hanúk	->	anuk 
+hanukk(i)	->	anukki 
+ḥanunōy	->	ḥanunōy 
+ḥappeṭ yḥappeṭ	->	mḥappeṭ 
+ḥaram	->	ḥaram 
+ḥarām	->	ḥarām 
+ḥaras	->	ḥaras 
+ḥarba	->	ḥarba, ḥarbi 
+ḥarḏōna	->	ḥarḏōna 
+ḥarəkṯa	->	ḥarəkṯa, ḥarkōṯa 
+ḥarfa	->	ḥarfa, ḥarfōye 
+harhar/harher yharhar/yharher	->	harhīran, yharhar 
+ḥarīma	->	ḥarīma, ḥarīmiš, ḥarīmxun 
+ḥarīra	->	ḥarīra 
+ḥarīša	->	ḥarīšax, ḥarīšiš 
+ḥarīṣay	->	ḥarīṣay 
+harr(i)	->	harriyyan 
+harreb yharreb	->	čimharrba, čimharrbōl, čimharrbōla, čimharrbōle, harrbū, harrīb 
+ḥarreb yḥarreb	->	ḥarpaṯ, ḥarreb 
+ḥarrek yḥarrek	->	mḥarrekən, mḥarrkin, mḥarrkōle, nimḥarrkille, yḥarrek, yḥarrkun 
+ḥarrem yḥarrem	->	čḥarrimlīl, čḥarrmun, ḥarrem, ḥarrimlēle, ḥarrimlīčəl, yḥarrmennaḥ 
+ḥarrež yḥarrež	->	ḥarrež 
+harūn	->	harūn 
+ḥasab	->	ḥasab 
+ḥasənṯa	->	ḥasənṯa 
+ḥašīša	->	ḥašīša 
+ḥašīšča	->	ḥašīšča 
+ḥaṣōḏa	->	ḥaṣuḏō 
+ḥašoppa	->	ḥašoppa, ḥašoppič 
+ḥašš	->	ḥaššiyyan 
+ḥašš yḥašš	->	ḥašš 
+hašš/hašši	->	hašš, hašši 
+ḥaṣṣa	->	ḥaṣṣ, ḥaṣṣa, ḥaṣṣax, ḥaṣṣayhen, ḥaṣṣayhun, ḥaṣṣaynaḥ, ḥaṣṣayy, ḥaṣṣe, ḥaṣṣil, ḥaṣṣir, ḥaṣṣiš, ḥaṣṣiṣ, ḥaṣṣiṯ, ḥaṣṣl, ḥaṣṣlə, ḥaṣṣun 
+ḥassel	->	yḥasslun 
+ḥassel yḥassel	->	čḥassel, ḥaslaṯ, ḥassel, ḥasslaččil, ḥasslaṯ, ḥasslil, ḥasslinnaḥ, ḥassliṯ, mḥassel, mḥassla, mḥasslin, mḥasslōš, nḥassel, nḥassilla, nimḥasslin, yḥassel, yḥasslan 
+ḥaṣṣel yḥaṣṣel	->	ʕamḥaṣṣlin 
+haṯinn	->	laṯinn 
+haṯinn/haṯinnun	->	haṯinn, haṯinnun 
+ḥatīsa	->	ḥatīsa, ḥatīsaḥ 
+ḥatīta	->	ḥatīta 
+ḥaṯna	->	ḥaṯnaḥ, ḥaṯne 
+hatt(i) yhatt(i)	->	čimhatt, hatt, hatta, hattā, hattay, nhattenna, yhattell, yhattun 
+ḥatta	->	ḥatt, ḥatta, ḥattis, ḥattōyəl 
+ḥaṭṭeb yḥaṭṭeb	->	ḥaṭṭeb, mḥaṭṭbin, mḥaṭṭeb, mḥaṭṭeble, yḥaṭṭeblen, ʕamḥaṭṭeb 
+ḥattet yḥattet	->	mḥáttitin 
+ḥaṭṭeṭ yḥaṭṭeṭ	->	ḥaṭṭiṭičče, nḥaṭṭiṭennax 
+ḥaṭṭōčča	->	ḥaṭṭōčča 
+hawbar yhawbar	->	mhawbrin 
+ḥawḓa	->	ḥawḓō 
+hawdža	->	hawdža 
+ḥawra	->	ḥawra 
+ḥawran	->	ḥawran 
+ḥawrōnay	->	ḥawərnō 
+hawwar yhawwar	->	hawwar, yhawwar 
+ḥawwel yḥawwel	->	ḥawwel, mḥawwel, mḥawwlin, nḥawwel 
+hawwen yhawwen	->	hawwna 
+hawwes yhawwes	->	nimhawwsille 
+ḥawweš yḥawweš	->	ḥawwšaṯ, mḥawweš, nḥawweš, nimḥawwešl, yḥawweš, ʕamḥawwša 
+hawžīra	->	hawžīra 
+haykla	->	haykla 
+ḥayl-	->	ḥayl, ḥayla, ḥaylayhen, ḥaylayn, ḥaylaynaḥ, ḥayle 
+ḥayna	->	ḥḥayna, ḥḥayniš 
+ḥayōṯa	->	ḥayōṯ, ḥayōṯa, ḥayōṯaḥ, ḥayōṯe, ḥayōṯəl 
+ḥaywōna/ḥiwōna	->	ḥaywanō, ḥaywōna, ḥiwanō 
+ḥayy	->	ḥayyil, ḥayyir 
+ḥayy-	->	ḥayyis, ḥayyiš 
+ḥayy yḥayy	->	mḥayyill 
+ḥáyyalla/ḥayyalla	->	ḥayyalla, ḥáyyalla 
+hayyar yhayyar	->	hayərlalle, hayyirall, hayyirallun, hayyirille, hayyīrla, hayyirlōl, hayyirōl, hayyirōle, mhayərlille, mhayərlōle, nhayyirirr, nimhayyrill, yhayyrull, yhayyrun, ʕamhayyarəl 
+ḥayyet yḥayyet	->	ḥayyēt 
+ḥayyeṭ yḥayyeṭ	->	čimḥayyiṭlōḥ, čimḥayyṭōl, əmḥayyeṭlon, ḥayyīṭla, ḥayyiṭlaḥle, ḥayyiṭlalla, mḥayyeṭ, nimḥayyiṭlōš 
+ḥayyež	->	ḥayyīžin 
+hayyīna	->	hayyīna 
+ḥažza	->	ḥažza 
+ḥažža	->	ḥažža 
+ḥaẓẓa	->	ḥaẓẓa, ḥaẓẓax, ḥaẓẓe 
+ḥazzar yḥazzar	->	mḥazzrin, nḥazzrennxon 
+ḥazzeḳ	->	ḥazzeḳ 
+ḥažži	->	ḥažži 
+ḥažžōža	->	ḥažžažō 
+ḥažžṯa/ḥažžōṯa	->	ḥažžōṯa 
+ḥaẓẓūra	->	ḥaẓẓūr, ḥaẓẓūra, ḥaẓẓurō 
+ḥbōka	->	ḥbōka 
+hbulya	->	hbulya 
+ḥḏawṯa	->	əḥḏawōṯa, ḥḏawōṯa 
+ḥḏučča	->	əḥḏuččaḥ, ḥḏučča, ḥḏučče, ḥḏuččōṯa, ḥḏuččun 
+ḥḏūṯa	->	əḥḏūṯa, ḥḏūṯ, ḥḏūṯa, ḥḏuṯō 
+ḥēdes	->	ḥēdes 
+ḥekəmṯa	->	ḥekəmṯa 
+hēl	->	hēl 
+ḥell/ḥull/ḥall	->	ḥulle, ʕalle 
+hellṯa	->	hellṯa 
+ḥelma	->	ḥelme, ḥiləm 
+ḥelsa	->	ḥelsa, ḥelsil, ḥilsayn 
+ḥenna	->	ḥenna 
+ḥessa	->	ḥessa, ḥesse, ḥessil, ḥessir, ḥiss 
+ḥeṣṣṯa	->	ḥeṣṣṯa, ḥeṣṣṯe, ḥeṣṣṯil, ḥiṣṣ, ḥiṣṣṯi 
+ḥetta	->	ḥett, ḥetta, ḥitta 
+hī	->	hī 
+ḥifyan	->	ḥifyan 
+ḥīlča	->	ḥīlča, ḥilyōṯa 
+hilōne	->	hilōne 
+ḥilpul	->	ḥilpul 
+ḥilwōna	->	ḥilwōl, ḥilwōna 
+ḥiməš	->	ḥiməš 
+ḥiməṣnay	->	ḥiməṣnōy 
+ḥimyōna	->	ḥimyanōye, ḥimyōn, ḥimyōnaḥ, ḥimyōnax, ḥimyōne 
+hinn	->	hinn 
+hinnen	->	hinnen 
+ḥinnīṯa	->	ḥinnīṯa 
+hinnun	->	hinnun 
+ḥīrča	->	ḥīrča 
+ḥišpōna	->	ḥišpōn, ḥišpōna 
+ḥišray	->	ḥišrōy 
+ḥišrūṯa	->	ḥišrūṯa 
+ḥiṭṭō	->	ḥiṭṭō 
+ḥiyalžay	->	ḥiyalžō 
+ḥkīma	->	əḥkimō, ḥkīma, ḥkīməl, ḥkimō 
+ḥkīma nafsōnay	->	nafsanōyin 
+ḥkōyṯa	->	əḥkōyṯa, ḥkōyṯa, ḥkōyṯax, ḥkōyṯe, ḥkōyṯi, ḥkōyṯiš 
+ḥkūmča	->	əḥkūmča, ḥkūmča 
+ḥlaslūsča	->	ḥlaslūsča 
+ḥlōṯa	->	ḥlōṯa 
+ḥmīra	->	əḥmīra, ḥmīra, ḥmirō 
+ḥmōra	->	əḥmarō, ḥmarō, ḥmōr, ḥmōra, ḥmōre 
+ḥmōrča	->	ḥmaryōṯa, ḥmōrč, ḥmōrča, ḥmōryan 
+ḥmōṯa	->	əḥmōṯa, ḥmōṯ, ḥmōṯa, ḥmōṯe 
+ḥmōyṯa	->	ḥmōyṯiš 
+hnō	->	hnō 
+ḥōḏ	->	ḥḥōḏ, ḥōḏ 
+hōḏ(i)	->	bō, bōš, hō, hōb, hōḏ, hōḏi, hōf, hōġ, hōḥ, hōk, hōḳ, hōl, hōm, hōn, hōr, hōs, hōt, hōṭ, hōṯ, hōx, hōy, hōz, hōž, hōɁ, hōʕ, lōḏ, lōḏi, lōf, lōġ, lōḥ, lōk, lōḳ, lōl, lōm, lōn, lōs, lōš, lōṣ, lōt, lōṭ, lōṯ, lōx, lōɁ, lōʕ, ō, ōč, ōḓ, ōḏ, ōġ, ōḥ, ōk, ōḳ, ōm, ōn, ōr, ōs, ōš, ōṣ, ōt, ōž, ōɁ, ōʕ 
+ḥōḓar	->	ḥōḓar, ḥōḓrin 
+ḥōḏyan	->	ḥḥōḏyan 
+ḥōfeḓ/ḥōfeẓ yḥōfeḓ/yḥōfeẓ	->	mḥafīḓa, nḥōfeẓ, yḥafīẓun 
+ḥofərṯa	->	ḥofərṯa 
+ḥōk yḥōk	->	čimḥakēl, čimḥakēṭ, ḥakačča, ḥakačče, ḥakaččil, ḥakaččl, ḥakann, ḥakannun, ḥakiččl, ḥakilaḥəl, ḥakīna, ḥakīnəl, mḥakēla, mḥakyōle, nḥakenne, nimḥakēla, nimḥakilēx, nimḥakyill, ʕamḥakēla, ʕanimḥakyōla 
+ḥokma	->	ḥokma 
+ḥōkma	->	ḥakmō, ḥōkma 
+ḥōla	->	ḥalayhen, ḥalayhun, ḥalayn, ḥalaynaḥ, ḥalayy, ḥalayyun, ḥalinn, ḥalinnaḥ, ḥalinnun, ḥalinxun, ḥalōye, ḥōl, ḥōla, ḥōlax, ḥōle, ḥōləṣ, ḥōli, ḥōliš, ḥōlun 
+ḥōlča	->	ḥalčwōṯa, ḥalčwōṯe, ḥōlč, ḥōlča, ḥōlčax, ḥōlče, ḥōlčen, ḥōlčiš, ḥōləč 
+ḥōna	->	ḥōna, ḥōnaḥ, ḥōnax, ḥōne, ḥūn, ḥunō, ḥunōx, ḥunōya, ḥunōye, ḥunōyi 
+ḥormṯa	->	ḥarəmyōṯa, ḥorəmṯa, ḥormṯa, ḥurman 
+ḥorša	->	ḥorša 
+ḥōrsa	->	ḥarsōye, ḥōrsl 
+hōš/hōši	->	hōš, hōši 
+ḥōṣar yḥōṣar	->	ḥaṣīrlə, ḥaṣirunna 
+ḥōṣel/ḥāṣel	->	ḥāṣlahu, ḥaṣlō, ḥāṣlo, ḥōṣel, lḥāṣlahu 
+ḥōṣla	->	ḥōṣla 
+ḥosna	->	ḥosəll, ḥosna 
+hōṯa	->	hōṯa, lōṯa, ōṯa 
+ḥōṯa	->	ḥaṯawōṯ, ḥaṯawōṯa, ḥōṯ, ḥōṯa, ḥōṯe, ḥōṯəl, ḥōṯiš, ḥōṯlə 
+hōṯe	->	hōṯe, lōṯe, ōṯe 
+ḥōwel yḥōwel	->	ḥawīlaṯ 
+hōxa	->	hōxa, ōxa 
+hōžem yhōžem	->	ʕamhažīma 
+ḥozna	->	ḥozna, ḥoznun 
+ḥožžṯa	->	ḥožžṯa, ḥužžō 
+ḥrēna	->	əḥrēna, əḥrīṯa, ḥrēna, ḥrinōy, ḥrinyōṯa, ḥrīṯa, ḥrōn 
+ḥrīpča	->	ḥrīpča 
+ḥrō	->	ḥrō 
+ḥrōma	->	ḥramō, ḥrōma 
+ḥrōmay	->	čiḥrōmay, ḥramōy, ḥrōmay, niḥramōy 
+ḥṣōḏa	->	ḥṣōḏa 
+ḥṣōna	->	əḥṣōna, ḥṣanō, ḥṣōna, ḥṣōne 
+htīṯa	->	htīṯa, htiyōṯa 
+ḥṭīṯa	->	əḥṭīṯa, ḥṭīṯa, ḥṭiyōṯaḥ 
+hū	->	hū 
+ḥukīṯa	->	ḥukīṯa 
+ḥummaʕīṯa	->	ḥummaʕyōṯa 
+hundbe	->	hundbe 
+huntōza	->	huntōzəl 
+huppōra	->	huppōra 
+ḥurr	->	ḥurr 
+ḥuṣōra	->	ḥuṣarō 
+huss	->	huss 
+ḥūṭa	->	ḥūṭa, ḥuṭō, ḥuṭōyəl 
+ḥuwwar	->	ḥuwwar, ḥuwwōr, ḥuwwōra, ḥuwwōran, ḥuwwōrča, ḥuwwūrin 
+ḥūya	->	ḥūya, ḥuyō 
+ḥuyyōṭa	->	ḥuyyōṭa 
+ḥuzzarīṯa/ḥuzzayrīṯa	->	ḥuzzarīṯa, ḥuzzaryōṯa 
+hwō	->	əhwō, hwō, hwōye, hwōyəl, hwōyər, hwōyil, hwōyun 
+hwōyṯa	->	hwōyṯa 
+ḥzīran	->	ḥzīran 
+hzōza	->	hzōza 
+hžūma	->	hžūma 
+ibḏar yibḏur	->	ʕambaḏarəl, ʕambōḏar 
+ibəčhaž yibəčhaž	->	mipčahžin 
+ibəčlaš yibəčlaš	->	ibəčlaš, mibəčlaš, pčalšaṯ, pčalšinnaḥ, pčalšiṯ 
+ibəx/ibxi yibəx/yibxi	->	bōx, bōxya, čibəx, nibəx, ʕačbōx, ʕačbōxya, ʕačbōxyin, ʕambōx, ʕambōxya, ʕambōxyin, ʕanbōx, ʕanbōxya 
+ibəʕ yibəʕ	->	baʕēle, baʕēlon, baʕille, bōʕ, bōʕa, bōʕan, bōʕin, čbaʕalle, čbaʕēl, čbaʕēle, čbōʕ, čbōʕa, čbōʕin, ibəʕ, ibʕiṯ, nbaʕēla, nbaʕillax, nbōʕ, nbōʕa, nibəʕ, nōbʕan, yibʕenne 
+ibheč yibhač	->	bahheč, bōheč, buhčōn, čbōheč, čiphač, ibheč, nbōheč 
+iblaʕ yibluʕ	->	baləʕlaḥlen 
+ibrex	->	yibrīxa 
+ičbar yičbar	->	ičbar, ʕamčōbar 
+ičbar yičbur	->	čabərlēlxon, čabrall, čabril, čbarle, ničber 
+ičbaʕ yičbuʕ	->	čabʕit, čbīʕa, čbīʕin 
+ičber	->	čbīrin, ičber 
+iččfeḳ yiččfeḳ	->	ččaffḳōn, ččafḳaṯ, ččafḳinnaḥ, čfīḳin, iččfeḳ, miččafḳan, miččafḳin, miččfeḳ, niččfeḳ, nmiččafḳin 
+iččižōha	->	iččižōha, iččižōhəl, Ɂiččižōhəl 
+iččṣel yiččṣel	->	miččaṣla, yiččṣel 
+iččxel yiččxel	->	ččaxliṯ, ččaxlōn 
+iččžaʕ yiččžaʕ	->	ččažʕaṯ, iččžaʕ, miččažʕin, miččžaʕ, yiččžaʕ 
+ičəčhat yičəčhat	->	miččahṭille 
+ičlaḥ yičluḥ	->	čalaḥəl, čaləḥlēla, čaləḥlilla, čalḥil, ičlaḥ 
+ičneḥ yičneḥ	->	čanneḥ, čannīḥa, čannīḥan, čnēḥ, čnīḥaṯ, čniḥinnaḥ, čnīḥiṯ, mičneḥ, mičnīḥin, ničneḥ, yičneḥ, yičnīḥun 
+ičʕeb	->	čeʕba 
+iḏa	->	iḏa 
+īḏa	->	ḏwōṯ, ḏwōṯa, ḏwōṯaḥ, ḏwōṯax, ḏwōṯe, ḏwōṯəč, ḏwōṯəl, ḏwōṯiš, ḏwōṯun, īḏ, īḏa, īḏaḥ, īḏax, īḏe, īḏəl, īḏəš, īḏiš, īḏlə, īḏun, īḏxen, īḏxun, Ɂīḏe, Ɂīḏəl 
+iḏəʕ yiḏəʕ	->	čiḏiʕ, čiḏʕenne, čyaḏaʕəs, čyaḏaʕlun, čyaḏḏeʕ, čyaḏḏīʕa, čyōḏaʕ, čyōḏʕa, čyōḏʕin, ḏiʕnil, ḏʕalle, ḏʕičxun, əḏʕinnaḥ, iḏəʕ, iḏiʕ, iḏʕaṯ, iḏʕič, iḏʕiṯ, niḏiʕ, niḏʕell, nyaḏaʕle, nyaḏaʕlun, nyaḏḏeʕ, nyaḏḏīʕa, nyaḏḏīʕin, nyaḏʕillun, nyōḏaʕ, nyōḏʕin, yaḏaʕlen, yaḏḏeʕ, yaḏḏīʕa, yaḏḏiʕill, yaḏḏiʕōl, yaḏʕillun, yiḏəʕ, yiḏiʕ, yiḏʕell, yiḏʕun, yōḏaʕ, yōḏʕa, yōḏʕin 
+iḏhan yiḏhun	->	ḏahella, ḏahnōlun, ḏhanil, nḏahnill, yḏuhnell 
+iḓḥek yiḓḥuk	->	čiḓḥuk, ḓḥikōlun, ḓōḥek, ḓōḥkin, iḓḥek, nḓōḥkin, yḓuḥkun, ʕammanḓōḥkin, ʕanḓōḥek, ʕanḓōḥkin 
+iḏmex yiḏmux	->	čḏōmxin, čiḏmex, čiḏmux, ḏimxaṯ, ḏimxinnaḥ, ḏmexle, ḏmīxa, ḏmīxin, ḏmōx, ḏōmex, iḏmex, niḏmex, niḏmux, yḏumxun, yiḏmux 
+iḓōfča	->	Ɂiḓōfča 
+īf(i) yīf(i)	->	ōf, ōfyan, ōfyin, yīfan, ʕaččōfyin, ʕammōfya, ʕammōfyan, ʕannōfyin 
+ifčer yifčar	->	yfučrun 
+ifčham yifčham	->	fčihəmna, ifčham, ifəčham 
+ifḓaḥ yifḓuḥ	->	yfuḓḥell 
+ifəčḓi yifəčḓi	->	ifəčḓi 
+ifəčkar yifəčkar	->	fčakraṯ, fčakriṯ, ifčkar, ifəčkar, mifčakra, mifčkar, ʕanmifčkar 
+ifəḓ/ifḓi	->	faḓya, nifəḓ 
+ifəx	->	ifəx 
+ifkaš yifkaš	->	ifkaš 
+ifḳer	->	fḳīra, fḳīrin, ifḳer, nifḳer 
+ifkuḥ	->	ifkuḥ 
+iflač yiflač	->	yiflač 
+iflaḥ yifluḥ	->	fōlaḥ, nfōlaḥ, yifluḥ 
+ifrak yifruk	->	farekəl, farekle, farkil 
+ifraḳ yifruḳ	->	čfurḳell, fareḳəl, ifraḳ 
+ifras yifrus	->	faresəl, farəslaḥəl, farsalle, fōrsin, nfaresle 
+ifraṭ yifraṭ	->	čifraṭ 
+ifrat yifrut	->	fartaṯ, fartillun, fartunne, nfartill, nfartille, nfartillen, nfōrtin 
+ifraṭ yifruṭ	->	farṭill, fōrṭa, nfarṭillun 
+ifrax yifrux	->	farexla, farxa, farxillun, farxis 
+ifrem	->	ifrem 
+ifres	->	frīsa, frisōl 
+ifšaḥ yifšuḥ	->	nifšuḥ 
+ifšīna	->	ifšīn, ifšīna, ifšinō, ifšinōyič 
+ifṯaḥ yifṯuḥ	->	čfaṯaḥlun, čfaṯḥill, čfuṯḥenne, faṯaḥəl, faṯaḥəš, faṯəḥl, faṯəḥlaḥəl, faṯəḥlēla, faṯəḥlulle, faṯḥaččl, faṯḥall, faṯḥalle, faṯḥiččiṯ, faṯḥiččl, faṯḥil, faṯḥilla, faṯḥinn, faṯḥis, faṯḥiṯ, faṯḥiṯṯ, faṯḥōl, faṯḥōṯ, faṯḥulle, faṯḥunne, faṯḥuṯṯ, faṯṯḥiṯ, fōṯaḥ, fṯaḥle, fṯōḥ, fṯuḥlū, ifṯaḥ, nfaṯaḥəl, nfaṯḥilla, nfuṯḥeṯ, nfuṯḥeṯṯ, nifṯoḥle, yfuṯḥeṯṯ, yifṯoḥla 
+ifṯeḥ	->	fṯīḥa, fṯiḥill, fṯīḥin 
+iġčar yiġčar	->	iġčar 
+iġən	->	iġən 
+iġfar yiġfur	->	ġufərlēḥ, iġfer, nġafərlill, yiġforlaḥ, yiġforle 
+iġlab yiġlub	->	ġalebl, ġōleb 
+iġraf yiġruf	->	iġraf, ʕamġōrfin 
+iġraḥ yiġruḥ	->	ġarḥull, iġraḥ 
+iġras yiġrus	->	čiġrus, ġarsill, ġarsōḥ, ġarsunne, ġōres, ġōrsa, ġōrsin, nġarsillen, nġursenna, ʕamġōrsa 
+iġreḥ	->	ġrīḥa, ġrīḥin 
+iġreḳ/iġraḳ yiġraḳ	->	ġōrḳa, iġraḳ 
+iġtar yiġtur	->	ġatre, ġatrīčən, yġutrinn, yġutrun 
+iġṭas yiġṭas	->	ġōṭes 
+iġʕer	->	ġaʕra 
+iḥanne	->	iḥanne 
+iḥbak yiḥbuk	->	nḥapkilla, nḥupkell, nḥupkenna 
+iḥbaṭ yiḥbuṭ	->	ḥabeṭər, hapṭil, ḥapṭille, ḥōpṭa, iḥbaṭ 
+iḥčal yiḥčal	->	čiḥčal, əḥčōlaṯ, iḥčal, miḥčal 
+iḥčar yiḥčar	->	ḥčōraṯ, iḥčar 
+iḥčfal yiḥčfal	->	iḥčfal, miḥčafla, miḥčaflin, nmiḥčaflin 
+iḥḓan yiḥḓun	->	ḥaḓnōl, ḥaḓnōle 
+iḥəčmi yiḥəčmi	->	ḥčamyaṯ 
+iḥəčni yiḥəčni	->	miḥəčni 
+iḥəčžam yiḥəčžam	->	iḥəčžam 
+iḥeḏ yīḥaḏ	->	yaḥeḏle 
+iḥəḏ/iḥḏi yiḥəḏ	->	iḥḏaṯ, iḥəḏ, iḥiḏ 
+iḥəl	->	ḥaliṯa, ḥalya, ḥalyan, ḥalyin, iḥəl, iḥl 
+iḥəm/iḥmi yiḥəm/yiḥmi/yiḥ(i)/yīḥ	->	čḥamēl, čḥamēla, čḥamēle, čḥamm, čḥammīlle, čḥammīllen, čḥōmya, čīḥ, čiḥəm, čiḥmedd, čiḥmennaḥ, čiḥmi, čiḥmīl, čiḥmun, əḥmanna, əḥmeḥī, ḥamēḥ, ḥamēl, ḥamēla, ḥamēle, ḥammīlla, ḥammīlle, ḥammiyill, ḥammiyōlun, ḥamyille, ḥamyōle, ḥiməl, ḥiməṣ, ḥimlaḥəl, ḥimlaḥəṭ, ḥimlə, ḥimlēḥ, ḥimlīl, ḥimna, ḥimne, ḥimni, ḥimnil, ḥmā, ḥmačča, ḥmaččaḥ, ḥmačče, ḥmaččil, ḥmaččl, ḥmann, ḥmannaḥ, ḥmāy, ḥmičča, ḥmiččax, ḥmičče, ḥmiččil, ḥmiččiš, ḥmiččit, ḥmiččl, ḥmiččun, ḥmīčəl, ḥmīčne, ḥmīl, ḥmilī, ḥminnaḥ, ḥmīš, ḥmōn, ḥmōx, ḥmull, ḥmunne, ḥmuss, ḥōm, ḥōmya, ḥōmyin, iḥəm, iḥmaṯ, iḥmay, iḥmič, iḥmiš, iḥmiṯ, iḥmon, nḥamēl, nḥammiyille, nḥammiyya, nḥamyille, nḥamyillun, nḥōm, niḥəm, niḥi, niḥmell, niḥmenna, niḥmennax, niḥmenne, niḥmīl, niḥminniš, yiḥəm, yiḥmanna, yiḥmell, yiḥmenna, yiḥmenne, yiḥminn, yiḥmun, yiḥmunn, yiḥmunne, ʕanḥōm 
+iḥər/iḥri yiḥər/yiḥri	->	čiḥər, ḥōr, ḥōrya, ḥrā, ḥrinnaḥ, iḥər, iḥra, niḥər, yiḥər 
+ihət	->	hatya 
+iḥfar yiḥfur	->	ḥfarle, ḥfirille, ḥōfar, ḥōfra, ḥōfrin, iḥfar, nḥafrille, nḥōfar 
+iḥfaẓ yiḥfuẓ	->	niḥfīẓəl 
+iḥḥ(i) yiḥḥ(i)	->	čiḥḥ, čiḥḥi, čiḥḥun, ḥayēl, ḥayyiyyin, ḥōyyan, ḥōyyin, iḥḥ, iḥḥaṯ, nḥayy, nḥayyiyyin, niḥḥ, niḥḥi, yiḥḥ, yiḥḥan 
+ihkal yihkul	->	čihkul, nhōkel 
+iḥlab yiḥlub	->	ḥalpillen 
+iḥlaḳ yiḥluḳ	->	ḥaləḳlēle, ḥalḳa, ḥalḳill, ḥalḳille, ḥōlḳin 
+iḥleḳ	->	iḥleḳ 
+iḥles	->	iḥles 
+ihmaš yihmuš	->	nhamešle 
+ihmel	->	hemla, ihmel 
+iḥmeʕ yiḥmaʕ	->	ḥimʕaṯ, yḥumʕan 
+iḥrab yiḥrub	->	ḥarplīčəl, ḥarplīšəl 
+iḥreb	->	ḥrība 
+iḥšab yiḥšub	->	čḥašebla, əḥšība, ḥašpič, ḥašpiččil, ḥašpille, ḥašpinnaḥ, ḥšība, ḥušpā, iḥšab, nḥušpenna 
+iḥṣaḏ yiḥṣuḏ	->	ḥōṣeḏ, niḥṣuḏ, ʕamḥaṣeḏl, ʕamḥōṣeḏ 
+iḥsel yiḥsal	->	ḥōsel 
+ihtas yihtus	->	ʕamhōtsa 
+ihtet	->	htīta 
+iḥzaḳ yiḥzuḳ	->	ḥazḳil, ḥazḳill, ḥazḳiṯ, ḥōzeḳ, ḥzōḳ, ḥzūḳ, iḥzaḳ, nḥazḳilla, nḥōzeḳ 
+ihžam yihžum	->	hažmaṯ, ihžam, ihžem, ihžom, nihžum 
+iḥzam yiḥzum	->	ḥazmiṯ 
+iḥžaz yiḥžuz	->	ḥažəzlillun, ḥažzille, ḥužzunne, iḥžez, nḥužzell 
+iḳbar yiḳbur	->	čiḳbirilla, čḳubrinni, ḳabrannaḥ, ḳabre, ḳabril, ḳabrilla, ḳabrille, ḳabrunna, ḳbīrle, yḳubrunne 
+ikbas yikbus	->	kabsilla 
+ikbat yikbut	->	ikbet 
+ikčam yikčum	->	kčīməl 
+iḳḏaḥ yiḳḏaḥ	->	iḳḏaḥ 
+iḳḏaḥ yiḳḏuḥ	->	nḳaḏḥilla 
+iḳḏum	->	iḳḏum 
+iḳər/iḳri yiḳər/yiḳri	->	iḳraṯ, ḳarēle, ḳarriyille, ḳaryill, ḳaryille, ḳaryillun, ḳirəl, ḳirlaḥle, ḳirne, ḳōr, ḳōri, ḳōrya, ḳōryin, ḳroḥī, niḳrēlxon, yiḳrell, yiḳrull, ʕamḳaryōle, ʕamḳōryin 
+iḳḥaṣ yiḳḥuṣ	->	iḳḥaṣ, yiḳḥuṣ 
+iḳḳer	->	iḳḳer, ḳḳīra 
+ikkum	->	ikkum, kkōm, kkōmča, kkūmin 
+iḳlab yiḳlab	->	iḳleb, ḳlība 
+iḳlab yiḳlub	->	iḳlab, ḳalbaččil, ḳalbe, ḳalbille, ḳalbillun, ḳaləbl, ḳalebla, ḳaleble, ḳaliblēla, ḳaleblen, ḳōleb, nḳalbilla, nḳalebla, nḳulbell, yḳulbunne 
+iḳlaš yiḳluš	->	nḳalešəl 
+iḳlaʕ yiḳluʕ	->	ḳaləʕlall, ḳaləʕlalla, ḳulʕōn, yḳulʕuss 
+ikmar yikmur	->	nkamarle, nkamrillen 
+ikmaš yikmuš	->	ikmaš, ikmeš, kamešəl, kamešl, kamešle, kaməšlēle, kamše, kamšičča, kamšill, kamšille, kamšinnaḥ, kamšl, kamšunne, kmišōl, kōmeš, kōmšin, nkamešle, yikmuš, ykumšenne 
+ikmat yikmut	->	kamtiṯ, kmūt 
+iḳmaṭ yiḳmuṭ	->	ḳamṭa, ḳamṭačče, ḳamṭaččil, ḳamṭille, ḳamṭl 
+iḳmaz yiḳmuz	->	čiḳmuz, čḳōmez 
+iḳraf yiḳruf	->	ḳarəflaḥle 
+ikramyōṯa	->	ikramyōṯa 
+iḳraṭ yiḳruṭ	->	ḳarṭačč, ḳarṭačče, ḳarṭe, ḳarṭill, ḳarṭunna, ḳarṭunne, ʕamḳarṭōl 
+ikraʕ yikruʕ	->	karaʕle, kōraʕ 
+ikšaf yikšuf	->	kašfa, ykušfunne 
+iksaḥ yiksuḥ	->	kasḥille 
+iḳsam yiḳsum	->	čiḳsum, čḳasmilla, čḳusmell, čḳusmenna, ḳasmall, ḳasmill, ḳasmull, ḳsīma, niḳsum, nḳasmillun, nḳusmenna, yḳusmunne 
+iḳšaṭ yiḳšuṭ	->	nḳašṭilla 
+ikšef	->	ikšef 
+iḳṭab yiḳṭub	->	ḳaṭəblēle, yḳuṭəblulle 
+iḳṭaf yiḳṭuf	->	iḳṭaf, ḳaṭfe, ḳaṭfill, nḳuṭfennen 
+iḳṭal yiḳṭul	->	čḳuṭlell, čḳuṭlinn, ḳaṭəll, ḳaṭellon, ḳaṭellxon, ḳaṭill, ḳaṭlannaḥ, ḳaṭle, ḳaṭlīčəč, ḳaṭlīčlə, ḳaṭlill, ḳaṭlilla, ḳaṭlillaḥ, ḳaṭlille, ḳaṭlull, ḳaṭlunnax, ḳṭilille, ḳuṭlannūn, nḳaṭellax, nḳaṭilliš, nḳuṭlenna, nḳuṭlennax, yḳuṭlenne, yḳuṭlunn, yḳuṭlunnaḥ, yḳuṭlunnax, ʕamḳaṭlill 
+iḳtar yiḳtur	->	iḳter, ḳatərlaḥle, ḳatərlaḥlēle, ḳatərlaḥlun, ḳatərlille, ḳatra, ḳatriččis, ḳatriṯ, ḳatrull, ḳatrunn, ḳatrunne, ḳōtrin, ḳtīran, ḳtīrl, ḳtīrle, ḳutrunnē, nḳatrilla, nḳatrillax, nḳōtrin, yḳutrenne 
+iḳṭaš yiḳṭuš	->	ḳaṭəšlille, ḳṭīša 
+iḳṭaʕ yiḳṭaʕ	->	ḳōṭʕa 
+iḳṭaʕ yiḳṭuʕ	->	čḳuṭʕerr, iḳṭaʕ, iḳṭeʕ, ḳaṭaʕəl, ḳaṭaʕər, ḳaṭəʕlaḥəl, ḳaṭəʕlēle, ḳaṭəʕlōle, ḳaṭʕaččil, ḳaṭʕaččir, ḳaṭʕəl, ḳaṭʕil, ḳaṭʕlēle, ḳaṭʕōr, ḳaṭʕull, ḳōṭaʕ, ḳṭīʕa, ḳṭīʕəl, ḳuṭəʕlēle, ḳuṭʕā, nḳaṭʕōr, nḳōṭaʕ, nḳuṭəʕlēx, yḳuṭəʕlēle, yḳuṭʕell 
+iḳṭel	->	iḳṭel 
+iḳṭōʕay	->	iḳṭōʕay 
+iḳw	->	čiḳw, iḳw 
+iḳw/iḳwi	->	ḳawya 
+ikʕam yikʕum	->	ikʕam, kaʕmill, kaʕml, kōʕem, kʕīməl, ykuʕmunnax, ykuʕmunne 
+ilčhi yilčhi	->	člahhiyya, lahhiyyin 
+ilčḳi yilčḳi	->	ilčḳi, lčaḳyaṯ, lčaḳyič, milčaḳyin 
+īle/ūle	->	īḥ, īl, īla, īle, īlen, īli, īlun, īlxun, īš, īx, īxi, ūḥ, ūl, ūla, ūle 
+iləčži yiləčži	->	čiləčži 
+ilef/(īlaf) yīlaf	->	čīlaf, člōyef, ilef, ilfič, ilfiṯ, layyef, layyīfan, lfiččil, liflaḥla, lifne, lōyfin, nlayyīfin 
+ilfef	->	ilfef 
+ilḥaḳ yilḥuḳ	->	člaḥeḳle, člaḥḳōli, laḥəḳ, laḥəḳlaḥlun, laḥeḳle, laḥḳačče, laḥḳe, laḥḳičče, laḥḳōle, laḥḳull, laḥḳunne, lḥiḳill, lḥiḳilla, lḥīḳle, lḥiḳōl, lōḥeḳ, nlaḥeḳəl, nlaḥeḳlax, yluḥḳunn 
+ilḥas yilḥus	->	nlaḥesle 
+ilḳaṭ yilḳuṭ	->	čluḳəṭlīl, laḳeṭəl, laḳeṭl, laḳeṭla, laḳeṭle, laḳḳṭunne, laḳṭe, laḳṭičče, laḳṭiččil, laḳṭil, laḳṭull, laḳṭunne, lḳīṭin, lḳīṭla, lḳīṭle, nlaḳeṭəs, nlōḳeṭ 
+ilkaz yilkuz	->	lakəzlə 
+illa	->	illa 
+ilmas yilmus	->	lamsalla 
+ilōha	->	ilōhəl 
+ilṭaš yilṭuš	->	laṭšann 
+ilṭax yilṭux	->	ilṭax, lōṭex 
+ilṭex	->	lṭīxa 
+ilyān	->	ilyān 
+ilyas	->	ilyas 
+ilzaḳ yilzuḳ	->	lazḳōla 
+ilzam yilzum	->	lzīmliš 
+īm(i) yīm(i)	->	nīm, yamēlon 
+imčḥan yimčḥan	->	yimčaḥnunne 
+iməčḓi yiməčḓi	->	iməčḓi, mčaḓyaṯ 
+iməḥ yiməḥ	->	čimḥenna, əmḥičče, iməḥ, maḥēl, maḥēla, maḥēle, maḥēš, maḥēx, maḥēz, maḥyill, mḥā, mḥičče, mḥunne, miḥəl, miḥən, miḥna, miḥne, nimḥennax, nimḥenne, nmaḥīš, nmaḥyill, yimḥell, yimḥenne, yimḥess, yimḥinniš, ʕanmōḥ 
+iməl	->	iməl, malya, malyan 
+iməl yiməl	->	čiməl, imlaṯ, millēle, mōlya 
+iməš yiməš	->	iməš, mašēḏ, maššilōle, maššilōr, mišəllə, mišlaḥlə, mišlalle, mšannaḥ, niməš, yimšun 
+imeṯ	->	čimeṯ, čmīṯa, imeṯ, mīṯa, miṯayhun, miṯayxun, mīṯin, miṯō, miṯōx, miṯōye, nmīṯin 
+iməṭ/imṭi yiməṭ	->	čiməṭ, iməṭ, imṭ, imṭaṯ, imṭi, imṭiṯ, mōṭ, mōṭya, mōṭyin, mṭinnaḥ, niməṭ, yimṭ, yimṭall, yimṭun 
+imkanyōṯa	->	imkanyōṯe 
+imles	->	imles 
+imma	->	imma 
+immōyṯa	->	immōyṯa 
+imnaʕ yimnuʕ	->	čmunʕun, imnaʕ, manʕille, manʕillun, mniʕillə, ymunʕull 
+imōḏ	->	imōḏ 
+imōma	->	imōma 
+imōna	->	imōna, imōnun 
+imreḳ yimruḳ	->	imreḳ, marreḳ, marrīḳa, marrīḳin, mirḳaṯ, mirḳičxun, mirḳinnaḥ, mōreḳ, mōrḳa, mōrḳin, nimruḳ, nmarreḳ, nmōreḳ, nmōrḳa, nmōrḳin, yimruḳ, ymurḳan, ymurḳun 
+imsaḥ yimsuḥ	->	masəḥlalla, masḥan, masḥe, masḥil 
+imšaḥ yimšuḥ	->	mašaḥle, ymušḥell 
+imṣeṭ yimṣaṭ	->	ymuṣṭun 
+imṯaḥ yimṯuḥ	->	maṯəḥl, maṯḥil, mōṯaḥ, mṯīḥa 
+imzaḥ yimzuḥ	->	ʕammōzaḥ, ʕanmōzaḥ 
+imẓaṭ yimẓuṭ	->	imẓaṭ, mōẓeṭ 
+imʕak yimʕuk	->	mōʕka, nmaʕkillen, nmōʕkin 
+imʕes	->	mʕīsan 
+in	->	in 
+inbaš yinbuš	->	napšaṯ 
+inčaf yinčuf	->	načefle, nučfē 
+inčbah yinčbah	->	inčbah 
+inčfaʕ yinčfaʕ	->	yinčafʕun 
+inčḥar yinčḥar	->	ninčḥar, ʕanminčḥar 
+inčhi yinčhi	->	inčahyaṯ, nčahyaṯ, nčahyinnaḥ, yinčhi 
+inčibōha	->	inčibōha 
+inčḳi yinčḳi	->	minčaḳyōli, minčḳēle, minčḳillun, nčaḳyulle, nčiḳlaḥle, nčḳalle, nčḳēla, nčḳēle, nčḳīl, nčḳīli, nčḳulle 
+inčxab yinčxab	->	inčxab, inəčxab 
+inḏaḳ yinḏaḳ	->	minḏōḳ, nḏaḳinnaḥ, nḏōḳiṯ 
+inḓar yinḓur	->	nnōḓrin 
+inḓef yinḓaf	->	inḓef, ynuḓfan 
+inḓʕaf yinḓʕaf	->	minḓaʕfa, minḓʕaf 
+inəbraḏ yinəbraḏ	->	inəbraḏ 
+inəbram yinəbram	->	inəbram, ninəbram 
+inəčbar yinəčbar	->	nčabraṯ 
+inəčġab yinəčġab	->	inəčġab 
+inəčḳat yinəčḳat	->	inəčḳat 
+inəčṣar yinəčṣar	->	ninəčṣar, yinəčṣar 
+inəfḳar yinəfḳar	->	inəfḳar 
+inəfḳat yinəfḳat	->	inəfḳat, minfaḳta 
+inəfṣal yinəfṣal	->	inəfṣal 
+inəfṯaḥ yinəfṯaḥ	->	inəfṯaḥ, ʕamminəfṯaḥ 
+inəḳhar yinəḳhar	->	nḳahraṯ 
+inəḳraḓ yinəḳraḓ	->	inəḳraḓ 
+inəḳri yinəḳri	->	minḳarya 
+inəḳṭal yinəḳṭal	->	inəḳṭal, nḳaṭliṯ 
+inəḳtar yinəḳtar	->	inəḳtar 
+inəḳṭaʕ yinəḳṭaʕ	->	nḳaṭʕiṯ 
+inəpṣaṭ yinəpṣaṭ	->	inəpṣaṭ, minbaṣṭin, minəpṣaṭ, nbaṣṭaṯ, nbaṣṭinnaḥ 
+inəš/inši yinəš/yinši	->	činəš, čnašš, čnaššīlle, inšiṯ, našēl, naššiyya, nnaššīl, nōš, nšaččil, nšičča, nšiččiš 
+inəṣlab yinəṣlab	->	inəṣlab 
+inəsṭal yinəsṭal	->	minsaṭla 
+inəṭbaʕ yinəṭbaʕ	->	inəṭbaʕ 
+inəṭmar yinəṭmar	->	inəṭmar 
+inəxṯab yinəxṯab	->	inəxṯab, minxaṯpa 
+inəxṭaf yinəxṭaf	->	inəxṭaf, nxaṭfaṯ 
+inəxtaʕ yinəxtaʕ	->	inəxtaʕ 
+inəxwaṯ yinəxwaṯ	->	inəxwaṯ 
+inəžbar yinəžbar	->	nžabraṯ, nžabrinnaḥ 
+inəžḳar yinəžḳar	->	nžaḳraṯ 
+inəžlaḳ yinəžlaḳ	->	čižliḳōlun 
+inəʕzam yinəʕzam	->	nʕazminnaḥ 
+infaḏ yinfuḏ	->	činfuḏ, čnufḏun, infaḏ, nafḏaṯ, nafḏičxun, nafḏinnaḥ, nafḏiṯ, naffḏiš, ninfuḏ, nōfḏin, nōfeḏ, yinfuḏ, ynufḏun 
+infaḥ yinfuḥ	->	nfōḥ 
+infaḥ yinfuḥ/yinfaḥ	->	infaḥ, infeḥ, nafḥaṯ, nafḥiṯ, nōfaḥ, ʕannōfaḥ 
+infeḳ/iffeḳ yiffuḳ/yinfuḳ	->	čiffuḳ, infeḳ, nafeḳle, naffeḳ, naffīḳa, naffīḳin, naffḳenna, naffḳenne, nfōḳ, niffuḳ, nifḳaṯ, nifḳičxun, nifḳinnaḥ, nifḳiṯ, ninfuḳ, nnaffeḳ, nnaffīḳa, nnaffīḳin, nnōfeḳ, nnōfḳin, nōfeḳ, nōfḳa, nōfḳan, nōfḳin, yiffoḳla, yiffuḳ, yinfoḳle, yinfuḳ, ynufḳan, ynufḳun 
+infeḳ/iffeḳ yinfuḳ/yiffuḳ	->	činfuḳ, čnōfeḳ, ʕamnōfeḳ 
+inġab yinġub	->	činġiblēḥ, činġibōl, činġub, čnōġeb, inġab, naġeble, naġəplalla, naġəplēle, naġəplulle, naġpaččil, naġpe, naġpiččiḏ, naġpiččil, naġpiṯ, naġpl, naġpunnen, nġabla, nġībla, nġiblēle, ninġība, nnōġpa, nnuġpenne, nōġeb, nōġpin, nuġpu, yinġub, ʕamnōġeb 
+inġaz yinġuz	->	naġzill, ynuġzunne 
+inglīzay	->	anglizō, inglīzay 
+inhab yinhub	->	nahəplallun, nahəplull, nahpillen, nahpiṯ 
+inhaḓ yinhaḓ	->	inhaḓ 
+inḥal yinḥul	->	ənnōḥlin 
+inḥam yinḥam	->	činḥam, yinḥam 
+inhaš yinhuš	->	nōhšin 
+inhaz yinhaz	->	hzīza, nhazzaṯ 
+inḥeč/iḥḥeč yinḥuč/yiḥḥuč	->	čiḥḥuč, činḥuč, čnaḥḥeč, čnōḥčin, čnōḥeč, əčnaḥḥeč, inḥeč, inḥuč, naḥḥeč, naḥḥīča, naḥḥīčin, nḥōč, nḥūč, niḥčaṯ, niḥčinnaḥ, niḥčiṯ, niḥḥuč, ninḥuč, nnaḥḥeč, nnaḥḥīčin, nnōḥča, nnōḥčin, nnōḥeč, nōḥča, nōḥčin, nōḥeč, nuḥčōn, yiḥḥuč, yinḥuč, ynuḥčan, ynuḥčun, ʕačnōḥeč, ʕamnōḥča, ʕamnōḥeč 
+inḳal yinḳul	->	naḳlillun, naḳlunne, nnōḳla, nōḳla, ynuḳlull 
+inḳam yinḳam	->	inḳam 
+inḳar yinḳur	->	naḳril, nnaḳrille 
+inkas yinkus	->	nōkes 
+inkaš yinkuš	->	čnukəšlīli, nakəšlīčəl 
+inḳaʕ yinḳaʕ	->	činḳaʕ 
+inkeb yinkab	->	nōkban, nōkbin, nōkeb, yinkab, ynukbun 
+inno/inne/inni	->	innax, inne, inni, inno 
+inṣab yinṣab	->	yinṣab 
+inṣab yinṣub	->	inṣab, naṣpille, naṣpillun, naṣpunne, ninṣub, nōṣpin, nṣībəl 
+insak yinsuk	->	ninsuk 
+inšaḳ yinšuḳ	->	našeḳla, našeḳle, našəḳlēlen, našḳa, našḳičča, našḳōla, nnašeḳlə, nnušḳell 
+inšar yinšur	->	našarət, našričča, našrilla, našrillun, nnašarle, nnašrilla, nnašrillen, nnušərlēle, nnušrell 
+inṣeb	->	činṣība, nṣībin 
+intab yintub	->	čintub, nōteb 
+intaḳ yintaḳ	->	intaḳ 
+intar yintar	->	intar, mintar, mintaritt, mintōr, mintōrin, nintar, nmintar, nmintōrin, ntār, ntarinnaḥ, ntayyer, ntayyīrin, ntōraṯ, tayyer, tayyīra, tayyīran, tayyīrin, yintōrun, ʕammintōrin 
+inṭar yinṭur	->	inṭar, inṭer, naṭarle, naṭarlə, naṭrille, ninṭirillun, ninṭīrlax, ninṭīrle, nnaṭarle, nōṭar, nōṭran, nōṭrin, nṭīra, nṭirill, nṭīrin, nṭīrle, nṭirōlun, ynuṭrennon, ynuṭrunne, ʕamnōṭar 
+inṭraḥ yinṭraḥ	->	nṭarəḥnil 
+inwžat yinwžat	->	inwžat 
+inxas yinxus	->	čnuxsenna, naxesla, naxəslaḥəl, naxəslaḥle, naxesle, naxəslēle, naxsa, naxsilla, naxsl, naxsull, nnuxsenne, nnuxsinniš, nōxsin, nuxsē, nxīsa, nxisille 
+inzaʕ yinzaʕ	->	činzaʕ, inzeʕ, nōzʕa, nzīʕa, yinzaʕ 
+inzaʕ yinzuʕ	->	nazʕlēḥ, nazʕlēle, nazʕlīl 
+inžes	->	inžes, nežsa 
+inžīla	->	inžīl, inžīla, inžilō, Ɂinžīla 
+inʕat yinʕat	->	minʕattin 
+inʕem yinʕam	->	yinʕam 
+inʕžaḳ yinʕžaḳ	->	minʕažḳin 
+ipčihōža	->	ipčihōža 
+ipḥaš yipḥuš	->	baḥšull, bōḥeš, bōḥšin, ipḥaš, ipḥeš, nbōḥeš, pḥišill, ʕambōḥeš 
+ipp-/upp-	->	upp, uppa, uppax, uppe, uppiš, uppun 
+ippe/uppe	->	ippa, ippe 
+ipṣer yipṣar	->	biṣraṯ, ipṣar 
+ipxaš yipxuš	->	nbaxšill 
+ipxel	->	bixlin, ipxel 
+ipxeš	->	ipxeš 
+irčeb	->	rečba 
+irčfaʕ yirčfaʕ	->	irčfaʕ 
+irčifōʕa	->	irčifōʕa 
+ireb yīrab	->	irbaṯ, ireb, yirbun 
+irəḏ/irḏi yirəḏ/yirḏi	->	raḏyille, rōḏyin, ʕamrōḏ, ʕamrōḏi 
+irəṣ/irṣi yirəṣ/yirṣi	->	čraṣṣiyyin, črōṣya, irəṣ, irṣaṯ, irṣiṯ, raṣṣ, raṣṣiyyin, rōṣ, rōṣyan, rṣičxun, čirəṣ, nraṣṣiyya, nraṣṣiyyin, nrōṣya, yirəṣ, yirṣun 
+ireṯ yīraṯ	->	nrayyīṯla 
+irex yīrax	->	čīrax 
+irəʕ/irʕi yirəʕ/yirʕi 	->	yirʕunne, ʕačraʕyōla, ʕamraʕēl, ʕamraʕyōla, ʕamraʕyōlen, ʕamrōʕ 
+irfaḓ yirfuḓ	->	rfīḓlə, rōfḓin, yrufḓull, yrufḓušš 
+irfas yirfus	->	nrafeslon, nrafsill 
+irfaʕ yirfuʕ	->	črufʕenne, nrafaʕəll, nrafaʕlə, nrafəʕlille, nrafʕill, rafəʕl, rafəʕlaḥəllə, rafəʕlə, rafʕiččlə, rafʕil, rafʕill, rafʕille, rafʕōl, rafʕurr, rafʕuṭṭ, rfīʕər, rfīʕla, rfīʕle, rfōʕ 
+irhan yirhun	->	nirhīll, nirhīnla 
+irḥem yirḥum	->	čraḥmōl, čraḥmōle, irḥem, nirḥem, nraḥimliš, nraḥmilla, nraḥmōx, nrōḥma, raḥemla, raḥemlax, raḥmill, raḥmilla, raḥmōl, raḥmōla, riḥəml, riḥmačč, riḥmaččax, riḥmaččil, riḥmannun, riḥmičče, rōḥem, rōḥma, yruḥmenne 
+irḳaḏ yirḳuḏ	->	čirḳuḏ, rōḳḏa, rōḳḏan, rōḳḏin, rōḳeḏ, yirḳuḏ, yruḳḏun, ʕamrōḳḏin, ʕanrōḳḏa 
+irkaʕ yirkuʕ	->	irkaʕ, rkaʕle, rōkʕa 
+irōta	->	irōta, irōtl 
+irpiʕ	->	irpiʕ 
+irrex	->	čirrīxa, irrex, nirrīxa, rrīxa, rrīxin, rrixō 
+irsam yirsum	->	raseməl 
+irxeb yirxab	->	čirxeb, črōxeb, irxeb, nirxab, nrōxpin, raxebla, raxeblə, rixəplaḥəl, rixəpnis, rixpaṯ, rixpiččil, rixpinnaḥ, rixpiṯ, rixplaḥlə, rixplə, rōxeb, rōxpa, rōxpan, rōxpin, ruxpōn, yirxab 
+irxeṣ	->	irxeṣ 
+irzel	->	rezla 
+isbaḥ yisbuḥ	->	nisbuḥ, sōbḥa 
+isbeʕ yisbaʕ	->	isbeʕ, sibʕaṯ 
+išč/išči yišč	->	čišəč, ənšaṯēla, əščāy, išč, išča, iščaṯ, išči, iščiṯ, nišč, niščenne, nišči, nšaṯēla, nšaṯṯ, nšaṯyill, nšōṯ, nšōṯyin, šaṯṯ, šaṯṯiyyin, šaṯyill, šaṯyilla, šaṯyōla, ščiččil, ščinnaḥ, ščōn, šiṯlaḥəl, šiṯlaḥla, šiṯna, šōṯ, šōṯi, šōṯya, šōṯyin, yišč, yiščell, yiščun, yišəč, ʕamšōṯ, ʕamšōṯya, ʕamšōṯyin, ʕanšōṯ, ʕanšōṯyin 
+iščaḥ yiščaḥ	->	čiščaḥyell, čiščaḥyenne, čmiščaḥ, čmiščaḥle, iščaḥ, miščaḥ, miščaḥəl, miščaḥla, miščaḥle, miščaḥya, miščaḥyill, miščaḥyilla, miščaḥyille, miščaḥyōl, miščaḥyōla, miščaḥyōle, niščaḥ, niščaḥyell, nmiščaḥlə, nmiščaḥyin, nmiščaḥyōš, ščaḥlillax, ščaḥyaččil, ščaḥyaččillə, ščaḥyaṯ, ščaḥyčull, ščaḥyičča, ščaḥyinnaḥ, ščaḥyīšəl, ščaḥyiṯ, ščaḥylaḥlə, ščaḥyull, ščaḥyulle, ščaḥyunne, ščḥačča, ščḥačče, ščḥaččil, ščḥaččl, ščḥann, ščḥiččl, ščḥičča, ščḥičče, ščḥiččil, ščḥunna, ščḥunne, ščiḥəl, ščiḥil, ščiḥlaḥəl, ščiḥlaḥəs, ščiḥlaḥle, ščiḥna, ščiḥne, ščiḥniḏ, ščiḥnil, yiščaḥ, yiščaḥyenne, yiščḥenna, yiščḥəẓẓ, yiščḥunna 
+iščaḳ yiščaḳ	->	iščaḳ, ščaḳinnaḥ, ščōḳiṯ 
+isčfel yisčfel	->	isčfel, sčaflon 
+isčfet yisčfet	->	yisčfet 
+iščġel yiščġel	->	čmiščġel, iščġel, miščaġla, miščaġlin, miščaġlōḥ, miščġel, miščġelle, niščġel, nmiščaġlin, nmiščġel, nmiščġell, nmiščġelle, šaġġōl, ščaġlaṯ, sčaġlič, ščaġlušš, ščġellax, yiščaġlun, yiščġel, ʕammiščaġlin, ʕammiščġel, ʕanmiščġel 
+iščhi yiščhi	->	miščhēl, nmiščhillxun 
+isčiḳbōla	->	isčiḳbōla 
+isčilōḥa	->	isčilōḥa 
+iščki yiščki	->	iščki 
+isčlaḥ yisčlaḥ	->	isčlaḥ 
+isčlaḳ yisčlaḳ	->	sčliḳne, sčliḳnis 
+iščlaḳ yiščlaḳ	->	išəčlaḳ, ščalḳaṯ 
+isčlem yisčlem	->	misčalmill, misčalmin, misčlem, misčleməl, misčlemle, sčiləmnis 
+iščrak yiščrak	->	miščarkin 
+iščwi yiščwi	->	miščawyan, yiščawyan, yiščawyun 
+iṣəh/iṣhi yiṣəh/yiṣhi	->	iṣəh, iṣhaṯ, iṣhiṯ 
+iṣəl yiṣəl	->	ṣalēle, ṣilne, ṣilnē 
+isfaḳ yisfuḳ	->	safeḳla, safeḳle 
+iṣfur	->	iṣfur, ṣfōra, ṣfūrin 
+išġel	->	išġel 
+išhaḳ yišhuḳ	->	išhaḳ 
+isḥar yisḥur	->	saḥril, sōḥar 
+iṣḥar yiṣḥur	->	čiṣḥur, niṣḥur, nṣōḥar, yiṣḥur, ʕamṣōḥar, ʕamṣōḥra, ʕamṣōḥran 
+išḥaṭ yišḥuṭ	->	čšuḥṭell, šaḥeṭəl, šaḥəṭlaḥəl, šaḥṭa, šaḥṭille, šaḥṭis, šōḥeṭ, šōḥṭan 
+išḥen yišḥan	->	čišḥan, išḥan, išḥen, šiḥnaṯ, šiḥnič, šiḥniṯ, šōḥna 
+išher yišhur	->	išher, nišhīrin, šhīran, šhīrin, šihrinnaḥ, šōhrin 
+iskab yiskub	->	iskab 
+išḳal yišḳul	->	čišḳīlle, čišḳul, čšaḳell, čšaḳella, čšaḳelle, čšaḳlill, čšuḳlell, əšḳōl, əšḳolle, išḳal, išḳel, išḳol, išḳul, nišḳīla, nišḳīll, nišḳīlla, nišḳollaḥ, nišḳul, nšaḳell, nšaḳelle, nšaḳəllēl, nšaḳellon, nšaḳlilla, nšaḳlillen, nšaḳlōl, nšaḳlōle, nšōḳel, nšuḳəllēle, nšuḳlell, nšuḳlenn, nšuḳlenna, nšuḳlennax, nšuḳlenne, šaḳəl, šaḳəlčunne, šaḳell, šaḳəll, šaḳella, šaḳəllaḥəl, šaḳəllaḥlēle, šaḳəllallaḥ, šaḳellax, šaḳelle, šaḳellə, šaḳəllə, šaḳəllēḥ, šaḳəllēl, šaḳəllēla, šaḳəllēle, šaḳəllīčl, šaḳəllille, šaḳəllīš, šaḳellon, šaḳəllull, šaḳerr, šaḳət, šaḳəṯ, šaḳeṯṯ, šaḳla, šaḳlačča, šaḳlaččil, šaḳlann, šaḳlannaḥ, šaḳle, šaḳličča, šaḳliččil, šaḳliččis, šaḳlīčəṯ, šaḳlīčna, šaḳlīčnun, šaklil, šaḳlil, šaḳlill, šaḳlille, šaḳlir, šaḳlis, šaḳliš, šaḳliṯ, šaḳlōl, šaḳlōle, šaḳlull, šaḳlunn, šaḳlunna, šaḳlunne, šaḳlunni, šḳall, šḳīla, šḳilill, šḳīll, šḳilōl, šḳilōle, šḳīš, šḳōl, šḳollaḥ, šḳollāx, šḳūl, šōḳel, šōḳla, šōḳlan, šōḳlin, ššōḳel, ššuḳlenne, šuḳəllēle, šuḳəllīl, šuḳlā, šuḳle, šuḳlunnā, šuḳlunnē, yšuḳlell, yšuḳlenna, yšuḳlenne, yšuḳlunna, yšuḳlunne, ʕamšōḳel, ʕamšōḳlin 
+iskan yiskun	->	skinill 
+isḳaṭ yisḳaṭ	->	čsōḳeṭ, isḳaṭ, saḳḳeṭ, saḳḳīṭa, saḳṭaṯ, saḳṭič, sōḳeṭ, sōḳṭa, yisḳaṭ 
+iškek	->	škīka 
+isḳel yisḳel	->	čisḳel, isḳel, misḳel, misḳilla, misḳillin, nisḳel, nmisḳel, nmisḳillin, sḳillaṯ, sḳillinnaḥ, sḳilliṯ, yisḳel 
+iṣlab yiṣlub	->	ṣalpil, ṣalpunne 
+islač yislač	->	čislač, islač, salčaṯ, salčl, sōleč 
+išlaf yišluf	->	čišluf, čšalefla, nšalfille, šalefəl, šalefle, šaleflon, šalfalla, šalfann, šalfanna, šalfe, šlafla, šōlfa, yšulfenne 
+išlaḥ yišluḥ	->	šaleḥəž, šalḥaččil, šalḥaččl, šalḥil, šalḥōl, šlīḥlə, šlūḥ, šōlḥa, yšulḥull 
+išlaḳ yišluḳ	->	šlīḳin, šōlḳin 
+išlaʕ yišluʕ	->	šaləʕlēle 
+išleḳ	->	išleḳ, šlīḳan 
+isleḳ yislaḳ	->	čislaḳ, čsalleḳ, čsōlḳin, əčsalleḳ, ənsōleḳ, isleḳ, nislaḳ, nsalleḳ, nsallīḳin, nsōleḳ, nsōlḳin, salleḳ, sallīḳa, sallīḳin, silḳaṯ, silḳinnaḥ, silḳiṯ, slāḳ, sōleḳ, sōlḳa, sōlḳin, ssalleḳ, sulḳōn, yislaḳ, ysulḳun 
+ismal yismal	->	smīllen 
+ismat yismut	->	samtille, sumte 
+išmaṭ yišmuṭ	->	čšammeṭ, išmaṭ, šammeṭ, šammīṭa, šamṭaṯ, šamṭič, šamṭiṯ, šōmeṭ, šōmṭa, šōmṭin, yišmuṭ 
+iṣmeč yiṣmuč	->	iṣmeč, ṣimčaṯ, ṣmūč, ṣṣammīča 
+ismet	->	smīta 
+išmeʕ yišmaʕ	->	čišmaʕ, čšamaʕle, čšammīʕle, čšamʕille, čšōmaʕ, čšumʕennaḥ, išmeʕ, nšōmaʕ, nšōmʕa, nšōmʕin, šamaʕla, šamaʕle, šammeʕ, šammīʕin, šamʕillun, šiməʕne, šiməʕnil, šimʕaččl, šimʕaṯ, šimʕičča, šimʕinnaḥ, šimʕiṯ, šimʕull, šmāʕ, šōmʕa, šōmʕin, šumʕōn, yišmaʕ, ʕamšamaʕle, ʕamšamaʕlun 
+išnaḳ yišnuḳ	->	šanəḳlīčle, šanḳīčne, šanḳunne 
+išneḳ	->	išneḳ 
+išōrča/ašōrča	->	ašaryōṯa, išōrča, išōrčəṣ 
+israḏ yisruḏ	->	sarḏill 
+išraḥ yišruḥ	->	išraḥ, šōraḥ, yišruḥ 
+iṣraḳ yiṣruḳ	->	nṣareḳle, nṣarḳille, ṣarəḳlōḥ 
+išram yišrum	->	šarəmlēle 
+išṭaf yišṭuf	->	ʕamšōṭfa 
+išṭaʕ yišṭaʕ	->	mišṭaʕ, mišṭaʕyin, nmišṭaʕyin, yišṭaʕ, ʕačmišṭaʕ, ʕammišṭaʕ 
+išw/išwi yišw/yišwi	->	čišw, čišwēḥ, čišwell, čišwenn, čišwenna, čišwenne, čišwīl, čišwinn, čišwlīl, čišwun, čmišw, čmišwēḥ, čmišwēle, čšaww, čšawwīlla, čšawwīlle, čšawwiyya, ənmišwa, išw, išwaṯ, išway, išwič, išwiš, išwiṯ, mišw, mišwa, mišwēl, mišwēla, mišwēle, mišwēlen, mišwēlon, mišwi, mišwill, mišwilla, mišwille, mišwillə, mišwillun, mišwin, mišwiš, mišwizz, mišwlalla, mišwlēla, mišwlēle, mišwlēlon, mišwlilla, mišwlille, mišwlōḥ, mišwōl, mišwōla, mišwōle, mišwōlun, mišwōš, mišwōx, nišw, nišwēle, nišwell, nišwēlon, nišwenna, nišwenne, nišweṭ, nišwēx, nišwi, nišwlēle, nišwlēx, nmišw, nmišwa, nmišwēl, nmišwēla, nmišwēle, nmišwēlxon, nmišwill, nmišwilla, nmišwille, nmišwillen, nmišwillun, nmišwin, nmišwiss, nmišwiṭṭ, nmišwižž, nmišwōle, nšawwīlle, nšawwiyill, nšawwiyya, nšawwiyyin, šaww, šawwi, šawwīḏ, šawwīl, šawwīla, šawwīll, šawwīlla, šawwīlle, šawwilōla, šawwiyill, šawwiyille, šawwiyillun, šawwiyōl, šawwiyōla, šawwiyōlun, šawwiyōš, šawwiyya, šawwiyyin, šūl, šulaḥəl, šulaḥəṭ, šulaḥla, šulaḥle, šulaḥlun, šulall, šulalla, šulalle, šulalliš, šulēla, šulēle, šulēx, šulīl, šulilla, šunā, šūna, šūne, šūnəl, šūnəṭ, šunī, šūnu, šwā, šwačča, šwačče, šwaččen, šwaččil, šwaččis, šwaččl, šwaččlə, šwall, šwalla, šwalle, šwann, šwāy, šwēḥ, šwēla, šwēlon, šwēn, šwičča, šwičče, swiččen, šwiččil, šwiččl, šwiččun, šwīčna, šwilā, šwillun, šwinnaḥ, šwōn, šwull, šwulla, šwullaḥ, šwulle, šwullun, šwunn, šwunna, šwunnā, šwunne, yišw, yišwēle, yišwenne, yišwull, yišwulle, yišwullun, yišwun, yišwunn, yišwunna, yišwunne, yišwunnun, ʕačmišw, ʕačmišwa, ʕačmišwin, ʕammišw, ʕammišwa, ʕammišwan, ʕammišwēl, ʕammišwin, ʕammišwōl, ʕammišwōle, ʕammišwōt, ʕanmišwēlon, ʕanmišwēx, ʕanmišwillen 
+iṣxar yiṣxur	->	čṣuxrull, ṣaxrille, ṣxīrl 
+isžat yisžut	->	isžat, sōžet 
+iṣʕeb	->	iṣʕeb, ṣaʕba 
+īṯ	->	īṯ 
+itbak yitbuk	->	tapkillun, tōpkan, tōpkin, ytupkun, ʕamtōpkin 
+iṭbaḳ yiṭbuḳ	->	iṭbaḳ, ṭabəḳlille, ṭapḳil, ṭōpḳa 
+iṭbaʕ yiṭbuʕ	->	ṭabʕill, ṭōbaʕ 
+iṭəf yiṭəf	->	čiṭəf, iṭfaṯ 
+iṭər	->	iṭər 
+iṯər/iṯri	->	iṯər, iṯr, iṯrə, iṯri, Ɂiṯər 
+iṭfal yiṭful	->	iṭfal, ṭafəllaḥle, ṭafle, ṭaflunna 
+itfan yitfun	->	tafnille, tafnunne 
+iṭfar yiṭfur	->	ṭaffriṯ 
+itfaš yitfuš	->	ntafšill, ntufšell, tafəšlaḥəl, taffšunnax, tafšičče 
+itfaʕ yitfuʕ	->	čitfīʕəl, čtafaʕəl, čtōfaʕ, itfaʕ, nitfīʕlun, nitfoʕle, ntafʕille, tafəʕlaḥlun, tōfaʕ, yitfuʕ, ytufʕulle, ytufʕun 
+iṭḥan yiṭḥun	->	iṭḥan, nṭaḥəllēxi, nṭuḥnenn, nṭuḥnenna, ṭaḥəllillax, ṭaḥnan, ṭaḥniččil, ṭaḥnill, ṭaḥnilla, ṭōḥna, ṭuḥna, yiṭḥun, ʕamṭōḥna, ʕamtōḳeḳ 
+iṭḥaš yiṭḥaš	->	iṭḥaš 
+itḥaš yitḥuš	->	taḥəšlēla, tḥīšle 
+iṯḳen yiṯḳan	->	čiṯḳan, iṯḳen, nṯōḳnin, ṯaḳḳen, ṯaḳḳīlle, ṯaḳḳīna, ṯaḳḳīnin, ṯiḳnallaḥ, ṯiḳnaṯ, ṯiḳnič, ṯiḳninnaḥ, ṯiḳniš, ṯiḳniṯ, ṯḳella, ṯḳellax, ṯḳelle, ṯḳellon, ṯḳill, ṯḳilli, ṯḳilliš, ṯōḳen, ṯōḳna, ṯōḳnan, ṯōḳnin, yiṯḳan, yṯuḳnan, yṯuḳnun 
+iṭlab yiṭlub	->	čiṭlub, iṭlab, iṭleb, ṭaleblaḥ, ṭaleble, ṭalibəl, ṭalpaččil, ṭalpaṯ, ṭalpill, ṭalpilla, ṭalpille, ṭalpiṯ, ṭalplə, ṭalpōle, ṭalpunne, ṭlība, ṭlībin, ṭōleb, ṭōlpa, ṭōlpin, yṭulpenn, yṭulplulle, ʕamṭōleb 
+itlaḳ yitlaḳ	->	tōleḳ 
+itlaḳ yitluḳ	->	itlaḳ, taləḳlaḥle, taləḳlille, talḳannen, talḳille, talḳōl, tlīḳan, tōlḳin 
+iṭmar yiṭmur	->	ənṭamarlun, iṭmar, iṭmer, niṭmer, nṭamrille, nṭōmar, nṭumrell, nṭumrenxon, ṭamraččil, ṭamre, ṭamriččun, ṭamriṯ, ṭamrōlun, ṭmīrle, ṭmirlēla, ṭmirlīl, ṭōmar, yiṭmur 
+iṭraḳ yiṭruḳ	->	ṭarḳa, ṭarḳe, ṭarḳil, ṭōrḳin, ṭrōḳ, yṭurḳenne 
+itras yitrus	->	trīsin, ʕamtōres 
+iṭraš yiṭruš	->	ṭaršaṯ 
+itraž yitruž 	->	taržull 
+itrež	->	itrež, trīžan 
+iṭruš	->	čiṭrōši 
+itxal yitxul	->	čitxul, itxal, nitxul, tōxel, tōxla, txīləḏ, yitxul 
+iṭʕan yiṭʕun	->	čiṭʕen, čiṭʕun, čṭuʕnenne, iṭʕan, iṭʕen, niṭʕīll, nṭaʕell, nṭaʕnilla, nṭōʕen, ṭaʕel, ṭaʕəl, ṭaʕell, ṭaʕella, ṭaʕəllaḥəl, ṭaʕəllaḥle, ṭaʕelle, ṭaʕəllə, ṭaʕellon, ṭaʕenəl, ṭaʕenle, ṭaʕənṯa, ṭaʕnaččil, ṭaʕnalle, ṭaʕne, ṭaʕnəl, ṭaʕnič, ṭaʕničče, ṭaʕniččil, ṭaʕniččl, ṭaʕnil, ṭaʕnill, ṭaʕnilla, ṭaʕnille, ṭaʕnillun, ṭaʕninn, ṭaʕnis, ṭaʕniṯ, ṭaʕnōl, ṭaʕnōla, ṭaʕnōle, ṭaʕnull, ṭaʕnunna, ṭaʕnunne, ṭōʕen, ṭōʕna, ṭōʕnin, ṭṭaʕell, ṭuʕnā, ṭʕīlle, ṭʕīna, ṭʕinill, ṭʕinillə, ṭʕīnin, yiṭʕun, yṭuʕnenne, ʕamṭōʕen, ʕamṭōʕna, ʕaṭṭōʕen 
+itʕas yitʕus	->	nitʕes, taʕəslaḥəl, taʕəslaḥəz, taʕse, tʕīsin, tʕisōle, yitʕus, ytuʕsenne 
+iwəṭ	->	iwəṭ, waṭya 
+ixčam yixčum	->	xačmil, xačmille, xačmiṯ 
+ixčar yixčar	->	mixčar, nixčer, nixčīrle 
+ixčer yixčar	->	ixčer 
+ixčlaf yixčlaf	->	ixčlaf, ixəčlaf, mixčlaf, xčlīfin 
+ixčli yixčli	->	ixčli 
+ixčur	->	əxčōrča, ixčur, nixčur, xčōr, xčōrča, xčūrin, xčurō 
+ixfen	->	ixfen, nixfen 
+ixfen yixfan	->	xifniṯ 
+ixḥal yixḥul	->	nxaḥlille 
+ixlaḳ yixluḳ	->	xalḳe, xalḳiš 
+ixlaṭ yixluṭ	->	xalṭe 
+ixlaʕ yixluʕ	->	nxōlʕin, xalaʕəl 
+ixleḳ yixlaḳ	->	ixleḳ, xilḳič, xilḳiṯ 
+ixnaš yixnuš	->	xanšōle, xnišall, xōneš, xōnša 
+ixneš	->	ixneš 
+ixrus	->	čixrōṣi 
+ixšen	->	ixšen, xešənṯa, xešna 
+ixṭab yixṭub	->	čixṭība, čixṭub, čxuṭbennax, čxuṭbenne, čxuṭbinn, čxuṭbinnu, əxṭīban, ixṭab, ixṭeb, nixṭoblax, nixṭub, nxaṭbōx, nxaṭebla, nxuṭbenna, nxuṭbenne, xaṭba, xaṭbīčən, xaṭbilla, xaṭbinnaḥ, xaṭbiṯ, xaṭbōle, xōṭban, xṭība, xṭibōl, yixṭub, yxuṭbanne, yxuṭbenna, yxuṭbunna 
+ixṯab yixṯub	->	čixṯub, čxuṯpell, ixṯab, ixṯeb, nxaṯeblax, nxaṯpill, nxōṯpin, xaṯebla, xaṯeble, xaṯeblə, xaṯəp, xaṯəplēl, xaṯəplille, xaṯəplullun, xaṯpann, xaṯpill, xaṯpillə, xaṯpinnaḥ, xaṯpull, xōṯeb, xōṯpa, xōṯpin, xṯība, xṯōb, xuṯəp, yxuṯpull, yxuṯpun 
+ixteš	->	xtīša 
+ixyer	->	ixyer 
+iyyar	->	iyyar 
+iza	->	iza 
+ižbaḏ yižbuḏ	->	ižbaḏ, nžōbeḏ, yžubḏess, žabḏaččaḥ, žabḏačče, žabḏan, žabḏann, žabḏiṯ, žabḏull, žabḏunne, žabeḏəl, žabəḏlaḥəl, žabəḏlaḥle, žabəḏlulle, žbīḏəl, žōbeḏ 
+ižbal yižbul	->	žablōle 
+izban yizbun	->	čizbullə, čizbunil, čzabnill, čzubnenne, ənzōbnin, izban, nizben, nizbollax, nizbun, nizbunil, nzabelle, nzabellon, nzabnille, nzōben, nzubəllēl, nzubnell, nzubnenna, yizbun, yzubnenna, zabəḏ, zabell, zabəllaḥəl, zabəllaḥle, zabəllaḥlə, zabelle, zabničča, zabničče, zabniččil, zabniččl, zabnill, zabnillax, zabnille, zabninnaḥ, zabniṯ, zballe, zbīs, zōben, zōbnin 
+iẓbar yiẓbur	->	ẓarəblaḥle 
+ižbāri	->	ižbāri 
+ižber	->	nižber 
+ižčimōʕa	->	ižčimōʕa 
+ižčmaʕ yižčmaʕ	->	əžčmīʕin, ižčmaʕ, mižčamʕan, mižčamʕin, mižčmaʕ, žčamʕinnaḥ, žmīʕan, žmīʕin 
+izək	->	izək, zakya 
+iẓəx yiẓəx	->	čiẓxinn, iẓxaṯ, yiẓxell, ẓaxēle, ẓaxēlon, ẓaxīl, ẓaxyōl, ẓixəllə, ẓixne, ẓixniḓ, ẓixnil, ẓxiččax, ẓxiččiš, ẓxīčən 
+ižfal yižful	->	ižfal, žōfel 
+izḥal yizḥul	->	zaḥlille, zaḥliṯ, zḥūl 
+iẓḥaṭ yiẓḥuṭ	->	ẓōḥeṭ 
+ižḳer	->	ižḳer 
+ižlat yižlut	->	žulətlēle 
+ižmaʕ yižmuʕ	->	nžammʕilla 
+izmīla	->	Ɂizmīla 
+ižōra	->	ižōrlə 
+ižōzča	->	ižōzča 
+iẓrab yiẓrub	->	ẓarpiččil, ẓarpunne 
+ižraf yižruf	->	žarəflalle 
+ižrat yižrut	->	nžōret 
+iẓraʕ yiẓruʕ	->	iẓraʕ, nẓōraʕ, nẓurʕenna, yiẓruʕ, ẓaraʕla, ẓaraʕle, ẓarʕičča, ẓarʕiččil, ẓarʕillun, ẓōraʕ, ẓōrʕin, ʕamẓaraʕəl, ʕamẓaraʕle, ʕamẓōraʕ, ʕanẓaraʕəl, ʕanẓōraʕ 
+ižreʕ	->	ižreʕ, žerʕa 
+iẓreʕ	->	iẓreʕ, ẓrīʕa 
+izruḳ	->	izruḳ, zrōḳan, zrūḳin 
+ižtal yižtul	->	nžattlillen 
+izʕaḳ yizʕuḳ	->	izʕaḳ, yizʕuḳ, zaʕeḳla, zaʕḳall, zaʕḳalla, zaʕḳalle, zaʕḳaṯ, zaʕḳill, zaʕḳinnaḥ, zaʕḳiṯ, zaʕḳōle, zaʕḳulle, zōʕeḳ, zōʕḳa, zōʕḳan, zōʕḳin, zuʕḳōn, zuʕḳullē, zʕaḳlun, zʕūḳ, zʕuḳla, ʕamzaʕḳillax, ʕamzōʕeḳ, ʕanzōʕeḳ 
+ižʕar yižʕur	->	ʕamžōʕar 
+iẓʕer yiẓʕar	->	iẓʕer 
+iẓʕur	->	aẓʕar, čiẓʕur, əẓʕōra, iẓʕur, niẓʕūrin, ẓuʕrō, ẓʕōr, ẓʕōra, ẓʕōran, ẓʕōrča, ẓʕōrl, ẓʕūrin 
+izʕut	->	izʕut, nizʕōt, nizʕut, nizʕūtin, zuʕtō, zʕōt, zʕūtin 
+iʕbaḳ yiʕbuḳ	->	ʕōbeḳ 
+iʕbar yiʕbur	->	čiʕbur 
+iʕber yiʕbar	->	čiʕbarle, iʕber, niʕbar, nʕapper, nʕōbar, yiʕbar, yʕubrun, ʕapper, ʕappīra, ʕappīrin, ʕbār, ʕibraṯ, ʕibriṯ, ʕōbar, ʕōbra, ʕōbrin 
+iʕčaz yiʕčaz	->	čmiʕčazlun, niʕčaz, ʕayyez, ʕyīzla 
+iʕčbar yiʕčbar	->	miʕčabrilla, miʕčabrillun, nmiʕčabrill, ʕčabrunna 
+iʕčem yiʕčam	->	čiʕčam, ʕičmaṯ 
+iʕčibōra	->	iʕčibōra 
+iʕčžab yiʕčžab	->	iʕčžab 
+iʕdām	->	iʕdām 
+iʕəčḳat yiʕəčḳat	->	miʕčaḳtin, miʕčḳat, nmiʕčḳat 
+iʕəčraf yiʕəčraf	->	miʕčarfan, miʕčarfin, niʕčraf, ʕčarfaṯ, ʕčarfiš 
+iʕəl	->	iʕəl, iʕli, ʕillō 
+iʕḳuf	->	iʕḳuf 
+iʕlak yiʕluk	->	laʕekla 
+iʕlōna	->	iʕlōna 
+iʕōlča	->	iʕōlča, Ɂiʕōlča 
+iʕrak yiʕruk	->	ʕarkunna 
+iʕreb yiʕrab	->	čiʕrab, ʕirpaṯ, ʕrība 
+iʕṣar yiʕṣur	->	nʕaṣrilla, ʕaṣərlēle, ʕaṣrille 
+iʕṭaš yiʕṭuš	->	iʕṭaš, ʕōṭeš 
+iʕwar yiʕwar	->	ʕawwīra, ʕawwīrin 
+iʕwur	->	iʕwur, ʕwōr, ʕwōra 
+iʕžeḳ	->	ʕžīḳa, ʕžīḳan 
+iʕzem	->	čiʕzem, ʕzīmin 
+ka	->	ka 
+kabōsča	->	kabōsča 
+ḳabra	->	ḳabra, ḳabrl, ḳabrō 
+kabša	->	kabša 
+ḳabwa	->	ḳabwa 
+kaččef ykaččef	->	mkaččfilla 
+ḳaḓa	->	ḳaḓa 
+ḳaḓīṯa	->	ḳaḓīṯa, ḳaḓīṯax, ḳaḓīṯe, ḳaḓīṯəl 
+kaff ykaff	->	čimkaffyill, mkaffēl, nkaffenne, ykaffell 
+kaffa	->	kaff, kaffa, kaffe, kaffi, kaffil 
+ḳaffel yḳaffel	->	ḳafle 
+kaffen ykaffen	->	mkaffan, mkaffnille, mkaffnōle, ykaffenne 
+ḳafla	->	ḳafla 
+kafna	->	kafna, kafne, kafnō 
+ḳafṣa	->	ḳafṣa 
+ḳahra	->	ḳahra, ḳahre 
+káhraba	->	kahraba, káhraba 
+ḳahwe	->	ḳahwe, ḳahwōṯa 
+ḳalamōna	->	ḳalamōna 
+ḳalča	->	ḳalča 
+kalfa	->	kalf 
+kalkeš ykalkeš	->	kalkšiččil 
+ḳall	->	ḳarr 
+ḳall yḳall	->	ḳall, ḳallaḥəl, ḳallaḥlen, ḳallēḥ, mḳallēla, mḳallyillun, nḳalliyya 
+ḳallaʕ yḳallaʕ	->	ḳallʕa, ḳallʕačč, ḳallʕačči, ḳallʕiččil, ḳallʕīčnen, mḳallaʕl, mḳallaʕla, mḳallaʕle, mḳallʕillaḥ, mḳallʕōle, nimḳallaʕle, nḳallʕenne, yḳallʕenne 
+kallef ykallef	->	čkallfenne, kallef, kallfull, mkallfa 
+ḳallel	->	ḳallel, ḳallīla, ḳallīlin 
+kallel ykallel	->	kallel, kallilinnaḥ, kallinnaḥ, mkallellon, nkallel 
+ḳallel yḳallel	->	mḳallell 
+ḳalles	->	ḳalles 
+ḳallōba	->	ḳallōba 
+ḳallūme	->	ḳallūme 
+kalōma	->	kalōma 
+kalōnya	->	kalōnya 
+ḳalpṯa	->	ḳalpṯa 
+ḳalšinō	->	ḳalšinōya 
+kalsōn	->	kalsōn, kalsōna 
+ḳamar	->	ḳamar 
+ḳamesča	->	ḳamesča, ḳaməsyōṯa, ḳamisčiš 
+kaməšṯa	->	kaməšṯil 
+ḳamḥa	->	ḳamḥa 
+kámira	->	kámira 
+kammel ykammel	->	kaməllaḥəl, kammel, kammlil, mkammel, mkammell 
+ḳamṣa	->	ḳamṣa 
+kān	->	kān 
+kān/kōn/(i)nkōn	->	kōn 
+kanabōyṯa	->	kanabōyṯa 
+ḳandalafət	->	ḳandalafət 
+ḳannīnča	->	ḳanīnča, ḳannīnča, ḳannīnčax, ḳannīnče, ḳannīnči, ḳannīnčil, ḳannīnəč, ḳannīnyan, ḳanninyōṯa 
+ḳanōna	->	ḳanōna, ḳanōnəl, ḳanunō 
+kanōra	->	kanōra 
+ḳanṭarča	->	ḳanṭarča 
+ḳanūnay	->	ḳanunōyṯa 
+kapkōba	->	kapkubō 
+kappar ykappar	->	mkappar, mkapprin 
+ḳappaʕ yḳappaʕ	->	mḳappaʕ 
+kappes ykappes	->	kappsilla 
+ḳappōna	->	ḳappōna 
+kappūta	->	kappūta 
+karam	->	karam 
+ḳaraway	->	ḳarawōy 
+karaz	->	karaz 
+karəkṯa	->	karəkṯa 
+ḳarīḥča	->	ḳarīḥče 
+ḳarḳeṭ yḳarḳeṭ	->	nimḳarəḳṭill, nḳarəḳṭenne 
+ḳarna	->	ḳarən 
+karōmča	->	karōmča, karōmčax 
+karr/karri ykarr/ykarri	->	karr, karrinnaḥ, karriṯ, mkarr, mkarrya, nimkarr 
+ḳarrāde	->	ḳarrāde 
+ḳarrar yḳarrar	->	ḳáririṯ, ḳarrar 
+ḳarreb	->	ḳarreb, ḳarrība, ḳarrīban, ḳarribayhun, ḳarribaynaḥ, ḳarribayy, ḳarrībe, ḳarrībin, ḳarribō, ḳarribōya, ḳarribōye, ḳarribyōṯa, ḳarrīpča 
+ḳarreb yḳarreb	->	čḳarreb, mḳarrbin 
+karrem ykarrem	->	mkarrmille 
+karrer ykarrer	->	mkarririlla 
+ḳarreṣ	->	ḳarreṣ 
+ḳarreṣ yḳarreṣ	->	mḳarrṣille, nimḳarreṣ 
+karrez ykarrez	->	ʕamkarrzin 
+karrōza	->	karrōza 
+karsaḥča	->	karsaḥča 
+karseḥ	->	karsīḥa 
+kart	->	kartō 
+ḳarweš yḳarweš	->	mḳarwšin, nimḳarwšin 
+ḳaṣba	->	ḳaṣba 
+ḳašīša	->	ḳašīša, ḳašīšəḏ, ḳašišō 
+ḳasḳel yḳasḳel	->	mḳasəḳla, mḳasəḳlin 
+ḳašḳeš yḳašḳeš	->	nimḳašḳeš 
+kasma/kesma	->	kasəmlə, kasmil, kesmon 
+kasra	->	kasra 
+ḳaṣra	->	ḳaṣr, ḳaṣra, ḳaṣril 
+ḳass	->	ḳass 
+ḳaṣṣar yḳaṣṣar	->	ḳaṣṣer 
+kaššef ykaššef	->	mkaššefle, mkaššfa, mkaššfille, mkaššfōl 
+ḳassem yḳassem	->	ḳassimillun, mḳassemla, nimḳassmill 
+ḳaššōṭča	->	ḳaššōṭča 
+ḳaṣṭal	->	ḳaṣṭal 
+ḳaṣṭla	->	ḳaṣṭla 
+ḳaṭəlṯa	->	ḳaṭəlṯa 
+ḳatem	->	ḳatem 
+katēsa	->	katēsəl 
+ḳatīmay	->	ḳatīmay, ḳatimōy, ḳatimōyan 
+ḳaṭma	->	ḳaṭma 
+ḳaṭōyef	->	ḳaṭōyef 
+ḳaṭramīza	->	ḳaṭramīza, ḳaṭramizō 
+ḳatrība	->	ḳatrība 
+ḳatt/ḳattil/ḳattlə	->	ḳatt, ḳattil, ḳattl, ḳattlə 
+ḳatta	->	ḳatta, ḳattax, ḳattayy 
+kaṯṯar ykaṯṯar	->	kaṯṯār, mkaṯṯarlə, mkaṯṯra, ykaṯṯrell 
+ḳattar yḳattar	->	mḳattarəl, yḳattrennax, yḳattrenne 
+ḳaṭṭar yḳaṭṭar	->	ḳaṭṭar, mḳaṭṭar, mḳaṭṭrin, nimḳaṭṭar, yḳaṭṭrun, ʕamḳaṭṭar, ʕamḳaṭṭran, ʕamḳaṭṭrin 
+ḳaṭṭaʕ yḳaṭṭaʕ	->	ḳaṭṭaʕ, ḳaṭṭeʕ, ḳaṭṭʕann, ḳaṭṭʕaṯ, ḳaṭṭʕil, ḳaṭṭʕušš, ḳaṭʕinnaḥ, mḳaṭṭaʕla, mḳaṭṭaʕlun, nimḳaṭṭʕilla 
+ḳaṭṭeb yḳaṭṭeb	->	mḳaṭṭebla 
+ḳattem yḳattem	->	čimḳattem, čimḳattma, čḳattem, čḳattimlēl, ḳattem, ḳattīmla, ḳattīmlun, ḳattmiṯ, mḳattemla, mḳattemlon, mḳattmilla, mḳattmillen, mḳattmōlun, nimḳattem, nimḳattmin, nḳattem 
+ḳatter	->	ḳatter, ḳattīra, nḳatter 
+ḳatteš yḳatteš	->	mḳattešlon, mḳattšilla, mḳattšin, nimḳattšilla, yḳatteš 
+ḳattēša	->	ḳattēša 
+ḳattēšča	->	ḳattēšča 
+ḳaṭṭūfa	->	ḳaṭṭūfa, ḳaṭṭūfe, ḳaṭṭūfəl 
+ḳattūma	->	ḳattūma, ḳattūme 
+ḳaṭʕiyyan	->	ḳaṭʕiyyan 
+ḳawarma	->	ḳawarma 
+kawəmṯa	->	kawəmṯa, kawmṯiḏ, kawmṯiž 
+ḳawla	->	ḳawla 
+kawna	->	kawna 
+kawšūk	->	kawšūk 
+ḳaww yḳaww	->	ḳawwullə 
+ḳawwar yḳawwar	->	ḳawwīrəl 
+kawwek ykawwek	->	čkawwīka, kawwīka 
+ḳawwem	->	nḳawwīma 
+ḳawwem yḳawwem	->	čḳawwminn, ḳawwmī, nḳawimenne, nḳawwminniš, yḳawwminniš 
+ḳawwes yḳawwes	->	ḳawwes, ḳawwsir, mḳawwes, mḳawweslə, mḳawwsin, yḳawwes, yḳawwsenna 
+ḳawwō(m)	->	ḳawwō, ḳawwōm 
+ḳawwōla	->	ḳawwalō, ḳawwōl, ḳawwōla 
+kayəlṯa	->	kayəlṯa 
+kayfa	->	kayfa, kayfax 
+ḳayya(m)	->	čḳayya, čḳayyam, čḳayyōm, ḳayya, ḳayyam, ḳayyaməl, ḳayyamle, ḳayyō, ḳayyōm, ḳayyōman, ḳayyōmi, ḳayyōmin, nḳayya, nḳayyam 
+ḳayyeḏ yḳayyeḏ	->	mḳayyeḏlə 
+kayyef ykayyef	->	kayyīfin, mkayyfin 
+ḳayyel	->	ḳayyīla, ḳayyīlle, ḳayyilōle 
+kayyes	->	čkayyes, čkayyīsa, kayyes, kayyīsa, kayyīsan, kayyīsin 
+kaza/kiza	->	kaza, kiza 
+ḳazəmṯa	->	ḳazəmṯa, ḳazəmṯe 
+ḳazḳūza	->	ḳazḳūz, ḳazḳūza, ḳazḳūzəz, ḳazḳuzō 
+ḳazōz	->	ḳazōz 
+kaɁinno	->	kaɁinno 
+ḳaʕḳaʕ yḳaʕḳaʕ	->	mḳaʕḳaʕ, yḳaʕḳʕun 
+ḳaʕḳūʕa	->	ḳaʕḳūʕa 
+ḳaʕpra	->	ḳaʕpra, ḳaʕpri, ḳaʕprō 
+ḳaʕtṯa/ḳaʕəṯṯa	->	ḳaʕəṯṯa, ḳaʕṯṯa 
+ḳbīra	->	ḳbīra, ḳbīrin 
+ḳḏōḥa	->	ḳḏōḥən 
+ḳḏōla	->	ḳḏōl, ḳḏōla, ḳḏōlax, ḳḏōle, ḳḏōləl 
+ḳebəlṯa	->	ḳebəlṯa 
+ḳeḏḥa	->	ḳiḏḥō 
+ḳeləfṯa	->	ḳeləfṯa 
+keləmṯa	->	keləmṯa, keləmṯe, keləmṯil, kilman, kilmōṯa 
+ḳelfa	->	ḳilfō, ḳilfōyəl 
+ḳellṯa	->	ḳell 
+kenwṯa	->	kenwṯun 
+kenza	->	kenza 
+ḳerša	->	ḳerša, ḳirəš, ḳirš, ḳiršaynaḥ, ḳiršō, ḳiršōx, ḳiršōy, ḳiršōya, ḳiršōye, ḳiršōyəl 
+keršṯa	->	keršṯa 
+ḳesəmṯa	->	ḳesəmṯa 
+ḳešərṯa	->	ḳešərṯa 
+ḳesma	->	ḳesma, ḳismō 
+ḳeṣṣṯa	->	ḳeṣṣṯa, ḳeṣṣṯax, ḳeṣṣṯe, ḳeṣṣṯiḏ, ḳeṣṣṯil, ḳeṣṣṯl, ḳeṣṣṯon, ḳiṣəṯ, ḳiṣṣṯi, ḳiṣṣṯiš 
+ḳesṭa	->	ḳesṭa, ḳesṭil 
+keṯərṯa	->	keṯərṯa, keṯərṯil 
+ḳetra	->	ḳitər 
+ḳeṭṭa	->	ḳeṭṭa, ḳiṭṭō 
+ḳfō	->	ḳfōya, ḳfōye, ḳfōyəl 
+kfōyṯa	->	kfōyṯil 
+kīki šamma	->	kīki 
+kīlo	->	kilo, kīlo, kilometər 
+kilōnya	->	kilōnya 
+kilōt	->	kilōt 
+ḳīmča	->	ḳīmč, ḳīmča, ḳīmčil, ḳīmčiṯ, ḳīmčun 
+ḳintul	->	ḳintul 
+ḳinyōna	->	ḳinyōna 
+ḳirfe	->	ḳirfe 
+ḳirōṭa	->	ḳirōṭ 
+ḳīsa	->	ḳīsa, ḳīsəṯ, ḳisō, ḳisōyəl, ḳisōyəṯ 
+kiṯər	->	keṯər, kiṯər 
+klēsya	->	əklēsya, klēsya, klēsyil 
+klīla	->	klīla, klīlaḥ, klilō 
+ḳlīma	->	ḳlīmaḥ 
+ḳlōba	->	ḳlōba 
+kmōlča	->	kmōlča 
+ḳmōša	->	əḳmōša, ḳmōša 
+ḳmōza	->	ḳmōza 
+ḳočra	->	ḳočra 
+ḳōḓya	->	ḳōḓya 
+kōfa	->	kōfa 
+ḳoffṯa	->	ḳoffṯa, ḳuffō 
+ḳōla	->	ḳōla 
+ḳōlba	->	ḳalbō, ḳōlba, ḳōlbil 
+kōmel	->	kōmel, kōmla 
+ḳomm-	->	ḳommax, ḳomme, ḳommil, ḳommiš, ḳommiṣ, ḳommit, ḳommiṭ, ḳommiṯ, ḳomml, ḳommlə, ḳumm, ḳummayhun, ḳummayn, ḳummaynaḥ, ḳummayxun, ḳummayy, ḳummayyun, ḳummi 
+ḳomma	->	ḳomma 
+ḳonna	->	ḳonna 
+koppṯa	->	kippō, kuppō, kuppōyəl, kuppōyəš 
+ḳoppṯa	->	ḳoppṯa, ḳoppṯiḏ 
+kōpsa	->	kōpsa 
+kōra	->	kōra 
+ḳorba	->	ḳorba 
+kōrča	->	kōrča 
+ḳoreṣča	->	ḳorəṣčlə, ḳurreṣčlə, ḳurṣōṯa, ḳurṣyōṯəl 
+korəʕṯa	->	kurʕan 
+ḳōrma	->	ḳōrma, ḳūrəm, ḳurmō 
+korsa	->	korsa, kurəs, kursō 
+ḳorṣa	->	ḳurəṣ, ḳurṣil, ḳurṣō, ḳurṣōyəl 
+ḳorṣa/ḳorsa	->	ḳorṣa, ḳorṣil, ḳorṣit 
+korse	->	korse 
+ḳorʕa	->	ḳorʕa, ḳorʕil, ḳurəʕ 
+ḳorʕṯa	->	ḳorəʕṯa 
+ḳōṣ	->	ḳōṣyan, ḳōṣyin 
+kōsa	->	kasōyəl 
+kōsča	->	kōsčil, kōsyan 
+ḳōṭar yḳōṭar	->	əmḳōṭar 
+ḳotərṯa	->	ḳotərṯa, ḳotərṯax, ḳotərṯe, ḳotərṯil, ḳotərṯun 
+ḳoṭəʕṯa	->	ḳoṭəʕṯiḏ 
+ḳotša	->	ḳotša 
+ḳōyta	->	ḳōyta, ḳōyte, ḳōytil 
+kōza	->	kōza 
+ḳoʕša	->	ḳoʕša 
+krēk	->	krēke 
+ḳrōṯa	->	ḳrōṯa 
+krunbe	->	krunbe 
+ḳrunful	->	ḳrunful 
+ḳsīta	->	ḳsīta, ḳsītl, ḳsitō 
+ḳṣōṣa	->	ḳṣōṣəl 
+ḳsōta	->	ḳsatō 
+ktīša	->	ktīša 
+ktīšča	->	ktīšča, ktīšče, ktīščil 
+ḳṭōfa	->	ḳṭōfəl 
+ḳṭōla	->	ḳṭōla 
+ḳtōra	->	ḳtōra 
+ḳṭōʕa	->	ḳṭōʕər 
+ḳuḓōme	->	ḳuḓōme 
+ḳufōla	->	ḳufōla, ḳufōle 
+kuḥkull	->	kuḥkull, kuḥkulla, kuḥkulle, kuḥkullə, kuḥkulli, kuḥkulliš 
+kuḥlay/xuḥlay	->	kuḥlay 
+kūkṯa	->	kūkṯa 
+ḳulḳās	->	ḳulḳās 
+ḳummanō	->	ḳummanō 
+ḳūnča	->	ḳunyōṯa 
+kuppōyṯa	->	kuppayōṯa, kuppōyṯa, kuppōyṯil, kuppōyṯiš 
+ḳūr-	->	ḳūr, ḳūra, ḳurayn, ḳuraynaḥ, ḳurayy, ḳūre, ḳūrəl, ḳūrər, ḳūrəṭ, ḳūrl, ḳūrlə 
+ḳura	->	ḳura 
+ḳurmyōṯa	->	ḳurmyōṯa 
+ḳurpanīṯa	->	ḳurpanīṯa 
+ḳurpōna	->	ḳurpōna 
+ḳurreṣ	->	ḳurreṣ 
+ḳurrōṣa	->	ḳurrōṣa 
+ḳuryay	->	ḳuryay, ḳuryōy 
+ḳurɁān	->	ḳurɁān 
+kūsa	->	kūsa 
+ḳušbarča	->	ḳušbarča 
+kusōyṯa	->	kusōyṯa 
+ḳuṣṣur	->	čḳuṣṣōr, ḳuṣṣōr, ḳuṣṣur, nḳuṣṣōr 
+ḳūṯa	->	ḳūṯa, ḳūṯax, ḳūṯe, ḳūṯl 
+ḳuṭayfe	->	ḳuṭayfe 
+ḳuṭayfnay	->	ḳuṭayfnōy 
+ḳutōra	->	ḳutarō, ḳutōrəl 
+ḳuṭṭarīṯa	->	ḳuṭṭarīṯa 
+ḳuṭṭōra	->	ḳuṭṭōra 
+ḳuwwōsa	->	ḳuwwōsa 
+kūxa	->	kūxa 
+kuzlok	->	kuzlok 
+kūʕa	->	kūʕa, kuʕō 
+ḳuʕḳʕīṯa	->	ḳuʕḳaʕiyyan 
+ḳwōsa	->	əḳwasō, ḳwasō, ḳwōsax, ḳwōse, ḳwōsəl 
+ḳyōmča	->	ḳyōmča 
+ḳyūma	->	ḳyūma 
+ḳzōza	->	ḳzōz, ḳzōza 
+ḳzōzča	->	ḳzōzča 
+ḳʕōle yiḳʕēle	->	čiḳəʕ, čiḳʕēla, čiḳʕēx, čḳaʕēx, čḳaʕya, čḳaʕyin, əḳʕōlen, əḳʕōlun, əḳʕōx, iḳəʕ, iḳʕ, ḳaʕēle, ḳaʕya, ḳaʕyallen, ḳaʕyan, ḳaʕyillun, ḳaʕyin, ḳaʕyōla, ḳʕalla, ḳʕāš, ḳʕāx, ḳʕīčlax, ḳʕill, ḳʕin, ḳʕinn, ḳʕinnaḥ, ḳʕōle, ḳʕōlen, ḳʕōlun, ḳʕōr, ḳʕōš, ḳʕōx, niḳəʕ, niḳʕēḥ, niḳʕīl, nḳaʕīl, nḳaʕya, nḳaʕyillaḥ, nḳaʕyin, yiḳʕullun 
+l	->	əl, l, lə, r, d, š, s, ḏ, ṣ, t, ṭ, ṯ, z, ž
+l-	->	lēḥ, lēla, lēle, lēlon, lēlxon, lēx, līl, līš 
+l(a)-ḥetta	->	laḥetta 
+la	->	la 
+la budd	->	budd 
+la ṣōb	->	laṣōb 
+la/lā	->	lā 
+labaniyye	->	labaniyye 
+lableb ylableb	->	mlablebəl 
+lafəḥṯa	->	lafəḥṯilə 
+laffṯa	->	lafəṯ, laffan, laffōṯa, laffṯa, laffṯe 
+lagan	->	lagan 
+lah	->	lah 
+lahəžṯa	->	lahəžṯa 
+laḥḥeḳ ylaḥḥeḳ	->	nlaḥḥḳinniš, nlaḥḳitt 
+laḥḥōma	->	laḥḥōma 
+laḥmes ylaḥmes	->	mlaḥmesəl, mlaḥmesla 
+laḥwes ylaḥwes	->	člaḥwsell, ʕamlaḥwsōl 
+lakin	->	lakin 
+lakinni	->	lakinni 
+laḳḳaḥ ylaḳḳaḥ	->	laḳḳḥa, laḳḳḥe, laḳḳḥičča, laḳḳḥunna, laḳḳiḥlilla, mlaḳḳaḥ, mlaḳḳaḥəḏ, mlaḳḳaḥəl, mlaḳḳḥa, mlaḳḳḥilla, mlaḳḳḥin, nimlaḳḳaḥlax, ylaḳḳḥannaḥ, ʕamlaḳḳḥa 
+laḳḳeṭ ylaḳḳeṭ	->	laḳḳeṭ, laḳḳeṭle, laḳḳīṭ, laḳḳṭall, laḳḳṭaṯ, mlaḳḳṭille, nimlaḳḳṭillen, ylaḳḳeṭ, ylaḳḳṭell 
+lakōn	->	lakōn 
+lakōni	->	lakōni 
+laḳša	->	laḳša 
+lamlem ylamlem	->	laməlmiččun, lamlem, lamlīm, lammil, lammill, lamminnaḥ, lammōle, lammull, mlaməlman, mlaməlmin, mlaməlmōl 
+lamma	->	lamma 
+lampṯa	->	lambōṯa, lambōṯlə 
+lann	->	lann 
+lanna	->	lanna 
+lapp ylapp	->	lapplēḥ, lapplēl, lapplēlon 
+lappeḏ ylappeḏ	->	mlabbḏilla 
+lappes ylappes	->	lappsunna 
+laṣleṣ ylaṣleṣ	->	ʕamlaṣleṣ 
+laṭṭeš ylaṭṭeš	->	mlaṭṭšōl 
+law	->	law 
+lawandyos/lawandiyyos	->	lawandiyyos, lawandyos 
+lawḥa	->	lawḥiṣ 
+lawinno	->	lawinn 
+lawna	->	lawna, lawne, lawnil 
+laxṯa	->	laxəṯ, laxṯa, laxṯe, laxṯəl, laxṯiš 
+laymūnča	->	laymunyōṯa 
+lazzaḳ ylazzaḳ	->	lazzaḳ 
+lazzeḳ ylazzeḳ	->	lazzəḳlaḥle, nimlazzḳilla 
+laɁ	->	laɁ 
+laʕ	->	laḥ, laʕ, laʕl 
+laʕlēx/laʕlīš	->	laʕlēx, laʕlīš 
+laʕʕōba	->	laʕʕabō, laʕʕōbəs 
+lečra	->	ličər 
+leḥma	->	leḥma, leḥməṣ, leḥmil, leḥmiṣ, liḥəm 
+lēlya	->	lēlya, lēlyil, lēlyit, lilwyōṯa, līlyi 
+leppa	->	leppa, leppax, leppe, leppil, leppis, leppit, leppl, leppon, lipp, lippi, lippiš 
+leṭra	->	līṭər 
+leʕl-	->	leʕla, leʕlax, leʕle, liʕəl, liʕlayhun, liʕlayn, liʕlaynaḥ, liʕlayxun, liʕlayy, liʕli, liʕliš 
+l-ḥamdillōh/l-ḥamdillāh/l-ḥamdulillāh	->	ḥamdillāh, ḥamdulillāh 
+l-ḥatt(i)	->	ḥatti 
+lḥōfa	->	lḥōfa 
+lī/li	->	li 
+lina	->	lina 
+liššōna	->	liššōn, liššōna, liššōni 
+lizzīṯa/lazzīṯa	->	lazzīṯa, lizzīṯa 
+liɁanno	->	laɁanno, laɁenno, laɁinne, laɁinno, liɁann, liɁanna, liɁanni, liɁanno 
+lō	->	lō 
+lōb	->	lōb 
+loġṯa	->	loġṯa, loġṯaḥ, lōġṯil, luġōṯa 
+loḳəmṯa	->	loḳəmṯa, loḳəmṯil 
+lōla	->	lōla 
+lōma	->	lōma 
+lōmar	->	lōmar 
+lopsa	->	lopsa, lopsil 
+lorkaʕ	->	lorkaʕ 
+lōzem	->	lōzem 
+lōzim/lōzem	->	lāzem 
+loʕpṯa	->	loʕəpṯa, loʕpṯa, luʕbōṯa 
+lṭarča	->	lṭarča 
+lubnān	->	lubnān 
+lubnōnay	->	lubnanō, lubnōnay 
+l-uḳbil	->	uḳbalče, uḳbalčiš, uḳbil 
+l-uḳbōlča	->	luḳbōlča 
+lukkil	->	lukkil, lukkiṯ, lukkl 
+lzūma	->	lzūma 
+m/mn	->	menna, mennaḥ, mennax, menne 
+m-/mn-	->	əm, əmn, m, min, minn, minnayhen, minnayhun, minnayn, minnaynaḥ, minnayxun, minnayy, minni, minniš, mn, mnə 
+ma	->	ma 
+mā	->	mā 
+mabətya	->	mabətyaynaḥ 
+maḓḓ ymaḓḓ	->	maḓḓi, maḓḓlaḥəl, maḓḓnil, maḓnil, ymaḓḓell 
+maḏəbḥa	->	maḏəbḥa 
+maḏenča	->	maḏenča 
+maḓyuf	->	maḓyuf 
+mafərḳa	->	mafərḳa, mafərḳil, mafərḳit 
+mafhum	->	mafhum 
+mafruḓ	->	mafruḓ 
+maġəfra	->	maġəfra 
+mahbōža/mehbōža	->	mehbōža 
+maḥbub	->	maḥbub 
+maḥəšra	->	maḥəšra 
+maḥḥ(i)	->	maḥḥiyya 
+maḥkamṯa	->	maḥkamṯa 
+mahla	->	mahəl, mahla, mahlaynaḥ, mahle, mahlinnaḥ 
+maḥla	->	maḥla 
+mahma	->	mahma 
+maḥmaṣṯa	->	maḥmaṣṯa 
+maḥmīṯa	->	maḥmiyyōṯa 
+maḥōlča	->	maḥōlča 
+maḥramṯa	->	maḥərmōṯa 
+maḥzaḳḳa	->	maḥzaḳḳa 
+mákana	->	mákana, makinyōṯa 
+maḳbarča	->	maḳbarča 
+makčūba	->	makčūba 
+makəčba	->	makəčba 
+maḳəḏḥa	->	maḳəḏḥa 
+maḳerf	->	maḳərfa 
+maḳəʕta	->	maḳəʕtō 
+makkar	->	makkar, makkōr 
+makla	->	makla 
+maḳles ymaḳles	->	mmaḳəlsin 
+maḳōma	->	maḳōma, maḳōmax, maḳōməl 
+maḳref	->	maḳref 
+maləkṯa	->	maləkṯa, malkṯa 
+maləḳṭa	->	maləḳṭa 
+malka	->	malka, malkaḥ, malkiz, malkō 
+malleḥ	->	malleḥ, mallīḥin 
+malleḥ ymalleḥ	->	mmallḥilla, mmallḥōle, ymallḥull 
+malleṯ	->	mallīṯa 
+malzamṯa	->	maləzmōṯa 
+malʕaḳṯa	->	maləʕḳan, malʕaḳṯa 
+malʕun	->	malʕun, malʕūn, malʕūna 
+mamlakṯa	->	maməlkan, mamlakṯa, mamlakṯax, mamlakṯe, mamlakṯil, mamlakṯit 
+mamnunōyṯa	->	mamnunōyṯa 
+mamnuʕ	->	mamnuʕ 
+manəḳla	->	manəḳla 
+manəxra	->	manəxre, manəxril, manəxrōye 
+manḥa	->	manḥa 
+manḥay	->	manḥōy, manḥōyṯa 
+manīṯa	->	manīṯa 
+manḳarča	->	manḳarča 
+mannu	->	mannu 
+manōma	->	manōma, manōme 
+manšarča	->	manšarča 
+manṭaḳṯa	->	manṭaḳṯa, manṭaḳṯil 
+manṭarča	->	manṭarča 
+manyūk	->	čmanyūk, manyūk, nmanyūk 
+manẓra	->	manẓra, manẓre 
+manẓum	->	čmanẓum, manẓum, manẓūm, manẓūmin 
+mapṣuṭ	->	čmapṣuṭ, čmapṣūṭ, əčmapṣuṭ, mapṣuṭ, mapṣūṭ, mapṣūṭin, nmapṣuṭ, nmapṣūṭ 
+mapxarča	->	mapxarča 
+marč	->	marč 
+marəḳṯa	->	marəḳṯil, marḳṯa, marḳṯil 
+marəkza	->	marəkzax 
+marəžṯa	->	marəžṯa 
+marfaḳṯa	->	marfaḳṯa, marfḳōṯa 
+marfʕa	->	marfʕa 
+márḥaba	->	marḥaba, márḥaba 
+marḥūma	->	marḥūma, marḥūmča 
+māri	->	māri 
+markba	->	markba 
+marra	->	marra 
+marreḳ ymarreḳ	->	nmarrīḳla, nmarrḳennen, ymarrḳull 
+marrer	->	marrīra, nmarrer 
+martadella	->	martadella 
+marya	->	marya 
+maržalča	->	maržalča 
+maržlōṯa	->	maržlōṯa 
+maržūḥča	->	maržūḥča, maržuḥyōṯa 
+marzuḳ	->	marzuḳ 
+maržūʕa	->	maržūʕaḥ 
+másalan	->	masalan, másalan 
+maṣāxer	->	maṣāxer 
+maščūṯa	->	maščūṯa, maščūṯe, maščuyōṯa 
+masəḥṯa	->	masəḥṯa 
+masəkṯa	->	masəkṯe 
+maṣəmra	->	maṣəmrō 
+maṣər	->	maṣər 
+masərta	->	masərta 
+mašəʕla	->	mašəʕla, mašəʕlō 
+maṣfarča	->	maṣfarča, maṣfarče 
+mašhur	->	mašhūrin 
+maṣlaḥṯa	->	maṣlaḥṯa 
+mašmuʕō	->	mašmuʕōy 
+mašnaḳṯa	->	mašnaḳṯa 
+masōfča	->	masōfča, masōfčəl 
+maṣōrča	->	maṣōrča 
+mašrōba/mašrūba	->	mašrōba, mašrūba, mašrubō 
+maṣrūfa	->	maṣrūfa 
+mašrūʕa	->	mašrūʕa, mašruʕō 
+mass ymass	->	massaṯ, nimmassēx, nimmassīš, nimmassyōx, ymassunnax 
+maṣṣīṣ	->	maṣṣīṣ 
+maššōna	->	maššōna 
+maṣṣōṣča	->	maṣṣōṣča 
+maššōyṯa	->	maššōyṯa, maššōyṯil 
+maṣṣṯa	->	maṣṣṯa 
+maṣtra	->	maṣtra 
+maṣxar ymaṣxar	->	mmaṣəxrin 
+maṣyfa	->	maṣyfa 
+masɁalča	->	masɁalča 
+masʕat	->	masʕat 
+masɁul	->	masɁūlin 
+máṯalan	->	máṯalan 
+matəfʕa	->	matəfʕa 
+maṭəpxa	->	maṭəpxa 
+maṭəʕma	->	maṭəʕma 
+maṯla	->	maṯla 
+maṯmen	->	maṯəmnin 
+matmet ymatmet	->	matəmtičče 
+maṭmūrča	->	maṭmūrča 
+matōra	->	matōra 
+matrasṯa	->	matrasṯa, matrasṯlə 
+matte	->	matte 
+maṭṭeṭ	->	maṭṭeṭ 
+maṭwṯa	->	maṭwṯe, maṭwṯi, maṭwṯil 
+matʕasṯa	->	matʕasṯa 
+mawčṯa	->	mawčṯe 
+mawḓūʕa	->	mawḓūʕa 
+mawhub	->	mawhub, mawhūbin 
+mawsma	->	mawsmil 
+mawṣūla	->	mawṣulayhun 
+mawṯa	->	mawṯa, mawṯe 
+mawwah ymawwah	->	nmawwah 
+mawwen ymawwen	->	nmawwīnin 
+mawzṯa	->	mawzōṯa 
+mawžut	->	mawžut, mawžūt, mawžūtin 
+maxəbra	->	maxəbra, maxəbri 
+maxōyel	->	maxōyel 
+maxramča	->	maxramča 
+maxrōmča	->	maxrōmča 
+maxxul	->	maxxul 
+mayla	->	mayla, maylil 
+mayyel ymayyel	->	mmayelle 
+mayyez ymayyez	->	ymayyez 
+māza/māẓa	->	māza, māẓa 
+mazal	->	mazal, mazall 
+mazāl	->	mazāl 
+mažbanča	->	mažbanča 
+maẓbuṭ	->	maẓbuṭ, maẓbūṭ 
+mazḥa	->	mazḥa 
+mažmuʕyōṯa	->	mažmuʕyōṯa 
+mažnun	->	čmažnun, čmažnūn, čmažnūni, čmažnūnin, mažnun, mažnūna, mažnunō, nmažnun 
+mazōt	->	mazōt 
+mazraʕṯa	->	mazraʕṯa 
+mažūs	->	mažūs 
+mažžet ymažžet	->	mmažžtin 
+maʕ	->	maḥ, maʕ, maʕa, maʕə 
+maʕ/maʕl-/miʕl-	->	maʕl, meʕla, meʕlax, meʕle, miʕəl, miʕlayhun, miʕlayn, miʕlaynaḥ, miʕlayxun, miʕlayy, miʕli, miʕliš 
+maʕəlfa	->	maʕəlfil 
+maʕəmla	->	maʕəmle, maʕəmlil, maʕmləl, maʕmlō 
+maʕkṯa	->	maʕkṯa 
+maʕḳul	->	maʕḳul 
+maʕlūla	->	maʕlūla 
+maʕlūm	->	maʕlūm 
+maʕmuḏō	->	maʕmuḏō 
+maʕnōyṯa	->	maʕnōyṯa 
+maʕrba	->	maʕrba 
+maʕrbay	->	maʕrbōy 
+maʕrefṯa/meʕrefṯa	->	maʕrefṯa, meʕrefṯa 
+maʕruf	->	maʕruf, maʕrūf 
+maʕrūfa	->	maʕrūfa 
+maʕṣarča	->	maʕṣarča 
+maɁwō	->	maɁwōye 
+maʕžen ymaʕžen	->	nimmaʕəžnilla 
+maʕžna	->	maʕəžna, maʕžna 
+mbartxōna	->	mbartxōna 
+mčažarča	->	mčažarča 
+mḓayafča	->	mḓayafča 
+mḏīnča	->	mḏīnča 
+mḓō	->	mḓōye 
+mečra	->	mečra, mečriṯ, mičər 
+mēḥeč	->	mēḥeč 
+meḥənṯa	->	meḥənṯa 
+meḥli	->	meḥli 
+meḥya/miḥya	->	meḥyil 
+mekro	->	mekro 
+mēkro	->	mēkro 
+melḥa	->	melḥa 
+melka	->	melka 
+mermar yharhar	->	mmarəmrōši 
+mēseḳ	->	mēseḳ, mēsḳiš, mēsseḳ 
+mešḥa	->	mešḥa 
+metra	->	metər 
+mett	->	mett, mette, mettl, mettlə 
+meṯṯa	->	meṯṯa 
+metti	->	metti, mettil 
+mettūṯa	->	mettūṯa 
+mēṯya	->	mēṯya 
+mēzya	->	mēzya 
+meʕnōyṯa/miʕnōyṯa	->	meʕnōyṯa, miʕnōyṯa 
+mfakka	->	mfakka 
+mfalfal	->	mfalfal 
+mḥalla	->	mḥall, mḥalla, mḥallōye 
+mḥammad	->	mḥammad 
+mhappar	->	mhappar 
+mḥaṭṭa	->	əmḥaṭṭa, mḥaṭṭa, mḥaṭṭe, mḥaṭṭō 
+miččxōla	->	miččxōl 
+miḥya	->	miḥya 
+mil	->	mi, mič, mil, miṣ, mit, miṭ, miṯ, miy, miz 
+milli	->	milli 
+milōta	->	milōte 
+milōxa	->	milaxō, milōxa 
+min dūn	->	dūn 
+mina	->	mina, minallax, minalliš 
+minšōra	->	minšōre 
+minžat	->	minžat 
+miṣfōyṯa/muṣfōyṯa	->	muṣfōyṯa 
+miskīna	->	miskīna, miskinō 
+mišmešṯa	->	mišmešṯa 
+miṣrōyṯa	->	miṣrōyan, miṣrōyṯa 
+miṣrōʕa	->	miṣrōʕ, miṣrōʕa, miṣrōʕəl 
+misti	->	misti 
+mistīḏa	->	mistīḏa, mistīḏlə 
+mḳabalč-	->	mḳabalčil, mḳabalčinnaḥ, mḳabalčiš, mḳabalčlə 
+mkarsaḥ	->	mkarsḥa, mkarsḥin 
+mḳawwmōna	->	mḳawwmōna 
+mlabbas	->	mlabbas 
+mlabbasīṯa	->	mlabbasīṯa 
+mlaffṯa	->	mlaffṯa 
+mlawwan	->	mlawwnin 
+mlaʕʕab	->	mlaʕʕab 
+mlōḥa	->	mlōḥa 
+mlūkay	->	mlūkay, mlukōy, mlukōyan 
+mluṯṯ-	->	mluṯṯl, mluṯṯa 
+mnasapča	->	mnasabyōṯa, mnasapča 
+mō	->	mō, mōl, mōš, mōx, mōxi 
+mofčḥa/mofəčḥa	->	mofčḥa, mofəčḥa, mufčḥi 
+mohra	->	mohra 
+moḳətma	->	moḳətma 
+mōla	->	mōla, mōlax, mōləl, mōlen, mōli, mōlxun 
+molka	->	molka, molke 
+mōra	->	marayhen, marayn, marō, marōya, marōye, marōyəḏ, marōyəl, marōyən, marōyəš, marōyət, marōyəṯ, marōylə, mōra, mōraḥ, mōre, mōrəḓ, mōrəḏ, mōrəl, mōrəṭ, mōrl, mōrlə 
+mōrča	->	mōrčil, mōrčiṯ, mōrčl 
+mōrta	->	mōrta 
+mōṣeṭ	->	mōṣṭin 
+motta	->	motta, mottil, mottlə, mutt, muttəl, muttəṭ, mutti 
+mōya	->	mōya, mōye, mōyel, mōyəl, mōyər 
+mōyṯṯa	->	mōyṯṯa 
+mōz	->	mōz 
+mpala	->	mpala 
+mraččab	->	mraččab, mraččbin 
+mrawwab	->	mrawwab 
+mrōyṯa	->	mrōyṯa 
+mrūṯa	->	mrūṯa, mrūṯe 
+msabaḳča	->	msabaḳča 
+msaddasča	->	msaddasča 
+mṣafṣaf	->	mṣafṣaf 
+msakkar	->	msakkar, msakkra, msakkrin 
+mṣallaynīṯa	->	mṣallaynīṯa 
+mṣappa	->	mṣappa 
+mṣaraʕča	->	mṣaraʕča 
+mṣaraʕžay	->	mṣaraʕžay 
+mṣarḳa	->	mṣarḳa 
+mšawarča	->	mšawarča 
+msažžalča	->	msažžalča 
+mšīḥa	->	əmšīḥa, mšīḥa 
+mṣīpča	->	mṣīpča, mṣīpčil, mṣīpčiš 
+msō	->	msō 
+mšōḥa	->	mšōḥəṭ 
+mtaḳḳa	->	mtaḳḳa 
+mtallal	->	čimtallal 
+mṯallaṯ	->	mṯallaṯ 
+mṯann	->	mṯann 
+mtappas	->	mtappas 
+mtapprōna	->	mtapprōna 
+mtawtfa	->	mtawtfa 
+mtawwar	->	mtawwra 
+mtaʕpla	->	mtaʕpla 
+mtīḥča	->	mtīḥča, mtiḥyōṯa 
+mtō	->	mtōya 
+mubāšáratan	->	mubāšáratan 
+mučrasō	->	mučrasō 
+mučwōlay	->	mučwōlay 
+muġərfīṯa	->	muġərfīṯa, muġərfīṯe 
+muḥamaynūṯa	->	muḥamaynūṯa 
+muḥāmi	->	muḥāmi 
+muḥḥōča	->	muḥḥōčis 
+muhimm	->	muhimm 
+muhimmay	->	mhimmay 
+muḳtōra	->	muḳtōra 
+munšōra	->	munšōra 
+muržān	->	muržān 
+mūsa	->	mūsəl 
+muščwīnya/miščwīnya	->	miščwīnya, muščwīnya 
+mūše	->	mūš, mūše 
+muškelṯa/miškelṯa	->	mišəklō, miškelṯa, mušəklō 
+mušḳīṯa	->	mušḳīṯa, mušḳīṯəl 
+mušmešṯa	->	mušəmšōṯa 
+mustašfa	->	mustašfa 
+mušṭʕīnya/mišṭʕīnya(?)	->	mušṭʕīnya 
+mušwōra/mišwōra	->	mišwōr, mišwōra, mišwōrax, mišwōre, mušwōra 
+muṯallaṯ	->	muṯallaṯ 
+mutōr	->	mutōr 
+muṭrōna	->	muṭrōna 
+muwġīṯa	->	muwġīṯe 
+muxayyam	->	muxayyam 
+muxramča	->	muxramča 
+muxrōmča	->	muxrōmča 
+mužbalīṯa	->	mužbalīṯəṭ 
+mužlīṯa	->	mužlīṯa 
+mužrawōyṯa	->	mužrawōyṯa 
+mužrem/mežrem	->	mežrem 
+muẓẓuṭ	->	muẓẓuṭ 
+muʕmḏīṯa	->	muʕəmḏīṯlə, muʕmḏīṯa 
+muʕžazīṯa	->	muʕžazīṯa, muʕžazyōṯa 
+mwaṣalyōṯa	->	mwaṣalyōṯa 
+mxaddedīṯa	->	mxaddedīṯa 
+mxaramča	->	mxaramča 
+mžáddara	->	mžáddara 
+mzaffač	->	mzaffač 
+mẓaharča	->	mẓaharča 
+mẓanṭarča	->	mẓanṭarča 
+mžarra	->	mžarra 
+mzaxraf	->	mzaxərfan 
+mžōla	->	mžōla 
+mʔ	->	man 
+mʕaḓḓamiyye	->	mʕaḓḓamiyye 
+mʕallay	->	mʕallay, mʕallō, mʕallōy 
+mʕallmanīṯa	->	mʕallmanīṯ, mʕallmanīṯa, mʕallmanīṯi 
+mʕallmōna	->	mʕallmanayyun, mʕallmōn, mʕallmōnaḥ, mʕallmōne 
+mʕalmōna	->	mʕalmōna 
+mʕamalča	->	mʕamalča 
+mʕarrṯa	->	mʕarrō, mʕarrṯa 
+mʕawfarča	->	mʕawfarča 
+mʕawwta	->	mʕawwta 
+mʕayyan	->	mʕayyan, mʕayyna, mʕayynan, mʕayynin 
+naččež ynaččež	->	naččīža 
+naḓḓef	->	naḓḓīfa, naḓḓīfan, naḓḓīfin 
+naḓḓef ynaḓḓef	->	əmnaḓḓef, mnaḓḓefla, mnaḓḓfille, mnaḓḓfillun, mnaḓḓfin, mnaḓḓiflille, naḓḓef, naḓḓfunnē, nimnaḓḓefle, nimnaḓḓfilla 
+naḓra	->	naḓra 
+naffaḏ ynaffaḏ	->	naffaḏ 
+naffeḏ ynaffeḏ	->	mnaffeḏ, nimnaffḏill 
+naffeḳ ynaffeḳ	->	naffḳiṯ 
+naffes ynaffes	->	nimnassfilla 
+naffeṣ ynaffeṣ	->	mnaffeṣla 
+nafōra	->	nafōr 
+naġəpṯa	->	naġəpṯiš 
+naġəzṯa	->	naġəzṯa 
+naḥḥīṯa	->	naḥḥīṯa, naḥḥīṯəl, naḥḥiyōṯa 
+nahra	->	nahra, nahril 
+naḥsa	->	naḥsa 
+naḳəlṯa	->	naḳəlṯa 
+naḳḳ ynaḳḳ	->	naḳḳ 
+nakkeb	->	nakkība 
+nakkeb ynakkeb	->	nimnakkbilla 
+naḳḳel ynaḳḳel	->	naḳḳəllēle 
+nakkeš ynakkeš	->	mnakšin, nimnakkšin 
+nakket ynakket	->	mnakktin 
+naḳḳeṭ ynaḳḳeṭ	->	mnaḳḳaṭ, mnaḳḳeṭla, mnaḳḳeṭlon, mnaḳḳṭa, mnaḳḳṭille, mnaḳḳṭin, mnaḳḳṭōla, ynaḳḳeṭ, ynaḳḳṭun 
+naḳōsa	->	naḳōsa, naḳōsəl, naḳusō 
+naḳrašča	->	naḳrašča 
+nakrez ynakrez	->	nakərzax 
+nakweš ynakweš	->	mnakweš 
+napka	->	nabka, napka 
+napkōnay	->	napkanōy 
+nappah ynappah	->	nappah 
+nappeš ynappeš	->	nappšunne 
+napṭa	->	napṭa, napṭiž 
+narbīš/narbīša	->	narbīš, narbīša 
+naṣra	->	naṣra 
+naṣriyye	->	naṣriyye 
+naššef	->	naššef, naššīfa 
+naṣūḥ	->	naṣūḥ 
+natīma	->	natīma 
+natma	->	natma 
+naṭōra	->	naṭōra, naṭurō 
+náwaray	->	nawarōy 
+nawella	->	nawella 
+nawlōn	->	nawlōn 
+nawwaḥ ynawwaḥ	->	mnawwḥan 
+nawwar ynawwar	->	nawwril 
+nawʕa	->	nawəʕ, nawʕa, nawʕō 
+naxla	->	naxla 
+naxle	->	naxle 
+nāylo	->	nāylo 
+nayya	->	nayya 
+naẓərṯa	->	naẓərṯa 
+nažīb	->	nažīb 
+nažž(i) ynažž(i)	->	nažžannaḥ, nažžne, nažžull, nnažženne 
+nažžar ynažžar	->	mnažžar, mnažžrillun, nažərl, nažžar, nimnažžar, nimnažžrille, nnažžar 
+naẓẓem ynaẓẓem	->	ynaẓẓmull 
+nažžet ynažžet	->	mnažžtill 
+nažžōra	->	nažžōra 
+naʕša	->	naʕša 
+naʕweṣ ynaʕweṣ	->	naʕweṣ 
+naʕʕem	->	naʕʕīma, naʕʕīman, naʕʕīmča 
+naʕʕem ynaʕʕem	->	ənnaʕʕmenne, mnaʕʕmille, naʕʕem, naʕʕme 
+nčīžča	->	nčīžča 
+nebʕa	->	nebʕa, nebʕil 
+nefša	->	nefše, nefšiḏ, nefšil, nefšis, nifəš, nifšō 
+neḳra	->	neḳra 
+nepṭa	->	nepṭa, nepṭe, nepṭil 
+nesəpṯa	->	nesəpṯa, nesəpṯil, nespṯa 
+nesra/neṣra	->	neṣra 
+neʕmṯa	->	neʕəmṯa 
+nḥōša	->	nḥōša 
+nība	->	nibōye 
+nihōyṯa/nhōyṯa	->	nihōyṯil 
+nīra	->	nīra, nīrax 
+nīrča	->	nīrča 
+nīṣa	->	nīṣa, niṣō 
+nīsan	->	nīsan 
+nišōna	->	nišōne 
+niṣpō	->	niṣpō 
+nišṭūṯa	->	nišṭūṯa 
+nīṯa	->	nīṯ, nīṯa, nīṯəl 
+nḳōla	->	ənḳōla, nḳōla 
+nḳūṭa	->	nḳūṭa 
+nočfa	->	nočfil 
+nofəšṯa	->	nofəšṯa, nofəšṯil 
+nohra	->	nohra, nohris, nohriṣ, nuhrō 
+nokətṯa/nokəṯṯa	->	nuktōṯa 
+noḳəṭṯa/noḳəṯṯa	->	noḳəṯṯa 
+noḳla	->	noḳla 
+nōṣaḥ	->	nōṣaḥ 
+nōseb ynōseb	->	nōseb, ynasibell 
+nōska	->	nōska, nōskil 
+nōt ynōt	->	nōt 
+nōwel ynōwel	->	mnawilill, mnawilille, nawīll 
+nṣība	->	nṣība, nṣībax 
+nšīfa	->	nšīfa, nšīfəl 
+nšītča	->	nšityōṯa 
+nšōḳa	->	nšōḳa 
+nšōra	->	nšōra 
+nšōrča	->	nšōrča 
+nuḓḓōfa	->	nuḓḓōfa 
+nuhhur	->	nuhhur 
+nuḳḳō	->	nuḳḳō 
+nuḳḳōṭa	->	nuḳḳōṭa 
+nūra	->	nūra 
+nžōsča	->	nžōsče, nžōsčlə 
+nʕīma	->	nʕīma 
+ōb/ōbi	->	ayba, ayban, aybin, čōb, čōbi, nōb, ōb, ōbi 
+ōbu	->	abūhen, abūhun, abūna, abūnaḥ, abūxun, eppay, ōbay, ōbəl, ōbl, ōblə, ōbu, ōbuš, ōbux, Ɂōbəl, Ɂōbu 
+ōčem yōčem	->	ačiminnaḥ, ačimmaṯ, ačimminnaḥ, ačimmiṯ, čmačimma, čōče, čōčim, mačimma, mačimmin, mōče, mōčem, nmačimmin, nōče, nōčem, ōče, ōčem, očimmiṯ 
+ōḓef yōḓef	->	aḓifinnaḥ, naḓifenne, yōḓef 
+ōḓel yōḓel	->	aḓilliṯ, maḓillin, nmaḓḓiyill, nmōḓel, ōḓel 
+ōḓer yōḓer	->	maḓirəl 
+ōfel yōfel	->	mafillin 
+ōfez yōfez	->	mafizza, ōfez, ʕammafizza, ʕammafizzin 
+ōfṯa	->	ōfṯa 
+ōġa	->	ōġa, Ɂōġa 
+ōġeb yōġeb	->	čġayyība, čōġeb, ġayyeb, ġayyībin, mōġeb, yaġībun 
+ōġer yōġer	->	ōġer 
+ōḥeḳ yōḥeḳ	->	maḥeḳḳla, maḥeḳḳle 
+ōhem yōhem	->	mahemmlax, mahemmle, yahimmennax 
+ōhen yōhen	->	čahinenne, mahinilla 
+ōḥen yōḥen	->	čōḥin, mōḥen 
+ōḥes yōḥes	->	aḥissaṯ, aḥissiṯ, čmaḥissin, ḥasses, mōḥes, ōḥes 
+ōḥez yōḥez	->	maḥizza, mōḥez 
+ōḥež yōḥež	->	maḥižža, nōḥež, yaḥižžun, yōḥež 
+ōḳem yōḳem	->	aḳīma, aḳimaččlə, aḳīme, aḳīməl, aḳīməṣ, aḳimī, aḳimičče, aḳimiččil, aḳimīčəl, aḳīmiṯ, aḳīml, aḳimlaḥle, aḳimull, aḳimunn, čaḳimell, čaḳiminni, čmaḳeməl, čmaḳiməl, čōḳem, ḳēm, ḳimlaḥəl, ḳimōn, maḳeml, maḳeməl, maḳemle, maḳimall, maḳimill, maḳimilla, maḳīmin, maḳiminn, maḳimiss, maḳimōl, maḳimōla, mōḳe, mōḳem, naḳimell, naḳimenne, naḳimett, nmaḳimill, nmaḳimilla, nmaḳimille, nmaḳimillen, yaḳəmlēla, yaḳimell, yaḳimenne, ḳayyīməl 
+oḳra	->	oḳra, Ɂoḳre 
+ōlef	->	ōlef, Ɂōlef 
+ōmar yɁōmar	->	čimɁamarəl 
+ōmen yɁōmen	->	mɁamīnin, mɁomīnin, ōmen 
+ōmeṯ yōmeṯ	->	amīṯe, amiṯičče, čamiṯinn, mamīṯa, namiṯennax 
+ommṯa	->	ommṯa, Ɂommṯa 
+ōneḳ yōneḳ	->	aniḳḳaṯ, maniḳḳa 
+ōneṭ yōneṭ	->	aniṭṭaṯ, aniṭṭinnaḥ, aniṭṭiṯ, maniṭṭa, maniṭṭin, mōneṭ, ōneṭ, ʕammōneṭ 
+orba	->	orba 
+orḥa	->	orḥa, urəḥ, urḥō, Ɂorḥa, Ɂurḥō 
+oroppa	->	oroppa 
+ōṣeb yōṣeb	->	aṣībe, maṣeblax, yaṣībun 
+ōšeġ yōšeġ	->	čōšeġ, mašiġille, mašiġlille, nmašiġillen, yašiġunne 
+ōṣeḥ yōṣeḥ	->	aṣeḥḥlaḥ, aṣiḥəl, maṣīḥa, maṣīḥin, ʕammaṣīḥin 
+ōšek yōšek	->	nšakkīkin, ōšek 
+ōšeb yōšeb	->	mašippa 
+ōšer yōšer	->	čmōšer, ōšer 
+ōṯ(i)	->	ōṯ, ōṯi 
+ōtam	->	ōtam 
+ōtamay	->	atamōy, atamōyin 
+ōṭel yōṭel	->	mōṭel 
+ōter yōter	->	atīrəl, materl, matirill, matirille, matirōl, nmatirill, tayyīrəl, tayyīril, tayyirill, tayyirōl, tēr 
+otombīl	->	otombilō 
+ōw yɁōw	->	awilulle 
+ōx	->	ox, ōx 
+ōxeb yōxeb	->	mōxeb 
+ōxef yōxef	->	ōxef 
+ōxel yōxel	->	mōxel 
+ōxer	->	ōxer 
+ōxeṣ yōxeṣ	->	maxiṣṣill 
+ōyṯa	->	ayōṯa 
+ōžar yɁōžar	->	ažirōn, mɁažīrin, ōžar 
+ōzet yōzet	->	mazetla, mōzet, ōzet, yazitennax 
+ōʕen yōʕen	->	aʕinannaḥ, čaʕinill, ōʕen 
+ōʕet yōʕet	->	aʕitlēḥ 
+ōʕez yōʕez	->	mōʕez 
+palpeš ypalpeš	->	mpaləpšin 
+payṯa	->	payṯ, payṯa, payṯaḥ, payṯax, payṯe, payṯəl, payṯil, payṯiš, payṯit, payṯl, payṯlə, payṯun, payṯxun, payṯyōṯa, payṯyōṯen, payṯyōṯun 
+ppōfča	->	əppōban, ppōban, ppōfča, ppōfčil, ppōfčlə 
+psōna	->	bisinō, psōna, psūn 
+pulpel	->	pulpel 
+rabb/rabbi	->	rabb, rabbi, rappa, rappin, rappō 
+rabūb	->	rabūb 
+rabʕa	->	rabəʕlə 
+raččeb yraččeb	->	mraččiblēle, raččəblaḥlun 
+rādyo	->	rādyo 
+raḥəlṯa	->	raḥəlṯa 
+raḥəmṯa	->	raḥəmṯa, raḥəmṯe 
+raḥme	->	raḥme 
+rahna	->	rahna 
+rahṭa	->	rahṭa 
+raḳḳaʕ yraḳḳaʕ	->	ʕamraḳḳʕan 
+rakkeb yrakkeb	->	nimrakkbille, ʕanimrakkbille 
+raḳḳeḏ yraḳḳeḏ	->	ənraḳḳḏell, raḳḳḏax, raḳḳḏunni 
+rakkōba	->	rakkabō 
+rámaḓan	->	rámaḓan 
+ramla	->	ramla 
+ramza	->	ramza 
+ramzay	->	ramzay 
+rapp yrapp	->	mrapp, nimrappyille, nrappīlla, rappaččl, rappan, rappi, rappīllun, rappōylə 
+rappaʕ yrappaʕ	->	mrappʕilla 
+rasmay	->	rasmay, rasmōy, rasmōyan 
+rasna	->	rasna, rasne 
+rasōyel	->	rasōyel 
+raṭṭeb yraṭṭeb	->	čraṭṭbell 
+rattel yrattel	->	mrattlan, mrattlillun 
+rattṯa	->	rattṯa 
+rawwaḥ yrawwaḥ	->	mrawwaḥle, rawwḥačče, yrawwḥell, yrawwḥerr 
+rawweb yrawweb	->	mrawwbill, nimrawwbille 
+rax	->	rax 
+raxša	->	raxša 
+rayḥōna	->	rayḥōna 
+rayša	->	rayš, rayša, rayšax, rayšayhun, rayšayn, rayšayy, rayše, rayšiḏ, rayšil, rayšir, rayšiš, rayšiṣ, rayšit, rayšiṭ, rayšl, rayšlə, rayšō, rayšōyəš, rayšun 
+rayya	->	rayya, rayyō 
+rayyes	->	rayyes 
+rayysṯa	->	rayisṯil 
+ražəʕṯa	->	ražəʕṯa 
+ražžaʕ yražžaʕ	->	nražžiʕlēle 
+raɁīsa	->	raɁīsəl, raɁīsəš, raɁīsəž, raɁisō 
+raɁīsča	->	raɁīsčiḏ 
+raɁya	->	raɁya, raɁyax, raɁyiš, raɁyxun 
+rbīʕa	->	rbīʕa 
+rēbeʕ	->	rēbeʕ 
+rebḥa	->	rebḥa 
+reffa	->	reffa 
+reġra	->	reġər, reġra, reġre, reġrič, riġər, riġriš, riġrō, riġrōye, ruġrayhen, ruġrōx, ruġrōy, ruġrōya, ruġrōye 
+reḳḏa	->	reḳḏa 
+reḳḳa	->	reḳḳa 
+rezəḳṯa	->	rezəḳṯa 
+rezḳa	->	rezḳa, rezḳe 
+rfīḳa	->	ərfīḳe, ərfiḳō, rfīḳ, rfīḳa, rfīḳax, rfiḳaynaḥ, rfīḳe, rfiḳō, rfiḳōy, rfiḳōye 
+rfīḳča	->	ərfīḳča, rfīḳča, rfiḳōṯa, rfiḳyōṯa, rfiḳyōṯaḥ 
+rīḥa	->	rīḥa 
+riḥmūṯa	->	riḥmūṯ, riḥmūṯa, riḥmūṯiš 
+rīḥṯa	->	rīḥṯa 
+riḥya	->	riḥwyōṯa, riḥya, riḥyil, riḥyiž 
+rīḳa	->	rīḳe 
+rīša	->	rīša, rīšəṯ 
+rīšča	->	rīšča 
+rḳōḳa	->	rḳōḳa 
+rmōyṯa	->	rmōyṯe 
+robʕa	->	robəʕ, robʕ, robʕa, robʕe, robʕil, robʕiš, robʕiṯ, rubʕōya 
+rōfeḳ yrōfeḳ	->	nrafiḳennax, rōfeḳ, yrafiḳunn 
+rofəḳṯa	->	rofəḳṯe 
+rōhba	->	rōhba 
+roḥəl	->	roḥəl, roḥəš, roḥət, roḥəṯ, roḥle, ruḥlayhun, ruḥlaynaḥ, ruḥli 
+rohəpṯa	->	rahbōṯa 
+roḥla	->	roḥla 
+rōḥṯa	->	rōḥṯax 
+rōḳeb yrōḳeb	->	mraḳibill, mraḳibillun, mraḳībin, ʕamraḳībin 
+rōken	->	rōkna 
+romḥa	->	romḥa, romḥax, romḥe, ruməḥ 
+rōyṯa	->	rayōṯa, rōyṯa 
+rōžaʕ yrōžaʕ	->	čimražaʕle, čimražīʕin, čražiʕell, čražiʕenna, čražiʕenne, mražīʕa, mražīʕan, mražīʕin, mražiʕiṭṭ, mrōžaʕ, mrožīʕin, mrožiʕlēle, nimražīʕin, nimrōžaʕ, nražiʕenne, nrōžaʕ, ražīʕaṯ, ražiʕinnaḥ, ražīʕiṯ, ražiʕunna, ražiʕuṭṭ, rožāʕ, rōžaʕ, rožīʕaṯ, yražīʕun, yražiʕunna, yrōžaʕ, yrožīʕun, mražaʕla  
+rōʕya	->	raʕwōṯa, rōʕya, rōʕyil 
+ršōša	->	ršōšəl 
+rṣōṣa	->	rṣōṣa 
+rṣōṣča	->	rṣōṣča 
+rṭūpča	->	rṭūpča 
+rūḥa	->	rūḥ, rūḥa, rūḥe, ruḥəl, rūḥlə 
+ruḥaybe	->	ruḥaybe 
+ruḥəlnō	->	ruḥəlnō 
+rumiš	->	rumiš 
+ruzya	->	ruzya 
+rxōmča	->	rxōmča 
+rxoppṯa	->	rxoppṯa 
+ržō	->	ržō 
+rzōlča	->	rzōlč 
+rʕō	->	rʕō 
+šabəkṯa	->	šabəkṯa, šabəkṯe 
+sabīl	->	sabīl 
+ṣabōna	->	ṣabōna 
+sabseb ysabseb	->	msabseb, ʕamsapseb 
+sabʕa	->	sabʕa, sabʕo 
+ṣaḏanōy	->	ṣaḏanōy 
+safar barlek	->	barlek, safar 
+ṣafəḥṯa	->	ṣafəḥṯiš 
+safərṯa	->	safərṯa, safərṯe 
+šafərṯa	->	šafərṯa 
+šafəṭṯa	->	šafəṭṯa 
+ṣaff yṣaff	->	mṣaffyill, mṣaffyille, mṣaffyin, nimṣaffyillen, yṣaffull, yṣaffun 
+saffar ysaffar	->	msaffrille 
+ṣaffar yṣaffar	->	mṣaffra 
+ṣaffeṭ yṣaffeṭ	->	nimṣaffṭilla 
+šaffōṭča	->	šaffōṭča 
+šaffṯa	->	šaffṯa 
+ṣafōyṯa	->	ṣafōyṯa, ṣafōyṯe 
+safra	->	safra, safre 
+ṣafran yṣafran	->	ṣafərnaṯ 
+ṣafrōna	->	ṣafərnō 
+ṣafṣafīṯa	->	ṣafṣafīṯa 
+ṣafwṯa	->	ṣafwṯa 
+ṣāġ	->	ṣāġ 
+šaġəlṯa	->	šaġəlṯa, šaġəlṯaḥ, šaġəlṯax, šaġəlṯe, šaġəlṯi, šaġəlṯič, šaġəlṯil, šaġəlṯiš, šaġlōṯa, šaġlōṯəl 
+šaġġal	->	šaġġal 
+šaġġel yšaġġel	->	šaġəllaḥəl, šaġġīlin 
+šaġġōla	->	šaġġalō 
+sahəlṯa	->	sahəlṯa, sahəlṯil 
+šahərṯa	->	šahərṯa 
+ṣaḥḥ yṣaḥḥ	->	mṣaḥḥyilla, yṣaḥḥenna 
+saḥḥar	->	saḥḥar, saḥḥōra 
+saḥḥar ysaḥḥar	->	nimsaḥḥrin 
+šaḥḥen	->	šaḥḥīnin 
+saḥḥōrča	->	saḥḥaryōṯa, saḥḥaryōṯəl, saḥḥōrča 
+šahītča/šhītča	->	šahətyōṯa 
+sahla	->	sahla 
+šaḥna	->	šaḥna 
+ṣaḥna	->	ṣaḥəl, ṣaḥən, ṣaḥna, ṣaḥnil, ṣaḥnō, ṣaḥnōyət, ṣaḥnōylə 
+ṣaḥōra	->	ṣaḥōra 
+ṣahra	->	ṣahra 
+sahsel ysahsel	->	msahəslin 
+šaḳabōna	->	šaḳabōna 
+šaḳəfṯa	->	šaḳəflə, šaḳəfṯa, šaḳəfṯəl, šaḳəfṯil, šaḳəfṯilə, šaḳəfṯill, šaḳəfṯiž, šaḳəfṯlə, šaḳfan, šaḳfōṯa, šaḳfōṯəṭ, šaḳfōṯlə 
+šakəl	->	šakəl, šakəllə, šakəz 
+sakərṯa	->	sakərṯa 
+saḳəʕṯa	->	saḳəʕṯa 
+saḳfa	->	saḳfa, saḳfe 
+šakk	->	šakk 
+sakkar/sakker ysakkar/ysakker	->	msakkriṯṯ, nimsakkrill, sakkra, sakkračča, sakkriṯ, ysakkrun, ysakkrunne 
+šaḳḳef yšaḳḳef	->	yšaḳḳfenne 
+šakkel yšakkel	->	mšakklille 
+saḳḳeṭ ysaḳḳeṭ	->	msaḳḳiṭlillaḥ, msaḳṭillaḥ, nsaḳḳṭennax, ysaḳḳṭenn 
+šakliyyōṯa	->	šakliyyōṯa 
+šakōša	->	šakōša 
+sakran	->	nsakran, sakran, sakrōnin 
+šakriyye	->	šakriyye 
+šaḳwṯa	->	šaḳwṯa 
+saḳʕan	->	nsaḳʕan, saḳʕan, saḳʕōn 
+šaləfṯa	->	šalfōṯəl 
+šaləʕṯa	->	šaləʕṯil, šaləʕṯiṭ 
+ṣaləʕṯa	->	ṣaləʕṯe 
+salḥab ysalḥab	->	ysaləḥbun 
+ṣalḥiyye	->	ṣalḥiyye 
+salīm	->	salīm 
+salīmay	->	salimōy 
+ṣall yṣall	->	ṣall, ṣalla, ṣallaṯ, ṣallay, ṣallāy, ṣalliṯ 
+ṣall/ṣalli yṣall/yṣalli	->	čimṣallya, əmṣall, əmṣallya, mṣall, mṣallēla, mṣallēle, mṣalli, mṣallya, mṣallyille, mṣallyin, mṣallyōle, nimṣalli, nimṣallyin, nṣall, nṣalli, tṣall, yṣall, yṣallun, ʕamṣall, ʕamṣalli, ʕamṣallya, ʕamṣallyin, ʕamṣalyill, ʕamṣalyille, ʕanimṣallya, ʕanimṣallyin 
+salla	->	salla 
+šallaḥ yšallaḥ	->	mšaləḥlille, mšallḥille, mšalliḥlille, šalḥunne, šalləḥlille, šallḥunne, yšallḥenn, ʕačimšallḥillaḥ 
+ṣallaḥ yṣallaḥ	->	mṣallḥill 
+ṣalleb yṣalleb	->	mṣallbin, ṣalleb, ʕačimṣalleb 
+salleč ysalleč	->	msallčōle, msalləčlēl, salleč 
+salleḥ ysalleḥ	->	msallḥin 
+šalleḳ	->	šallīḳa 
+sallem ysallem	->	msallem, msallemle, msalləmlēle, msallma, sallem, sallimlēle, sallmaṯ, sallme, sallminnaḥ, ysallem, ysallmeḏḏ, ysallmell 
+salleṭ ysalleṭ	->	msallṭa 
+sallum	->	sallum 
+ṣallūʕa	->	ṣallūʕe 
+salma	->	salma 
+salōme	->	salōme, ssalōme 
+samalōna	->	samalōna 
+saməkṯa	->	saməkṯa, samkōṯa 
+samətṯa/saməṯṯa	->	saməṯṯa, samtōṯa 
+šaməʕṯa	->	šaməʕṯa, šamʕan, šamʕōṯa 
+šamm yšamm	->	čšamminn, əmšammyille, mšamm, mšammyill, mšammyilla, mšammyille, mšammyillun, nimšammyilla, nimšammyille, nšamminniš, šamin, šamma, šammaṯ, šammlaḥlə, šammlīš, šammunne 
+samma	->	samma 
+šammaʕ yšammaʕ	->	mšammaʕ 
+ṣammeč yṣammeč	->	nimṣammčōle 
+sammek ysammek	->	msammkille, ʕanimsammek 
+šammen	->	šammen 
+šammes yšammes	->	nšammsenne 
+sammet ysammet	->	nsammet, nsammītle, sammet, sammtič, sammtiṯ 
+sammōka	->	sammōka 
+sammōna	->	sammanō, sammōna 
+ṣamṣarča	->	ṣamṣarča 
+šamʕa	->	šamʕa 
+sannet ysannet	->	sannītəl, sannte 
+ṣanneʕ yṣanneʕ	->	nimṣannʕille 
+ṣanpaʕ yṣanpaʕ	->	ṣanpīʕin 
+santem ysantem	->	msantmill 
+ṣānṭi	->	ṣānṭi 
+šantōyṯa	->	šantōyṯa, šantōyṯe 
+santūḳa	->	əssantūḳa, santūḳ, santūḳa, santūḳəl, santūḳiṯ, santuḳō 
+santūḳča	->	santūḳča 
+sappa	->	sappa, sappe, sappil, sappiš 
+šappa	->	šapp, šappa, šappō, šappōye, šappōylə 
+sappaḥ ysappaḥ	->	msappaḥl 
+ṣappaḥ yṣappaḥ	->	nimṣappaḥliš, nimṣappḥōš, nimṣappḥōx, ṣappaḥ, ṣappḥaṯ 
+sappōḥa	->	sappōḥa 
+šappṯa	->	šappōṯa, šappṯa 
+šappūṯa	->	šappūṯa 
+šarāb	->	šarāb 
+šarbō	->	šarbō, šarbōye 
+šarfa	->	šarfa 
+šarīfay	->	čšarifōy, nšarifōy, šarifōy 
+sarīʕay	->	sariʕōy 
+šarḳa	->	šarḳa, šarḳlə 
+šarḳay	->	šarḳay, šarḳō, šarḳōy 
+ṣarḳay	->	ṣarḳay, ṣarḳōy 
+sarkes	->	sarkes 
+šarḳōyṯa	->	šarḳōyṯa, šarḳōyṯil 
+šarpṯa	->	šarpṯa 
+šarra	->	šarra, šarriš 
+sarreb ysarreb	->	msarrba 
+šarreb yšarreb	->	nimšarrbilla 
+ṣarref yṣarref	->	čṣarrfun, mṣarrfa, yṣarref, yṣarrfenne 
+šarrōba	->	šarrōbəl, šarrōbət 
+sarseb	->	sarseb 
+šaršfa	->	šarəšfa, šarəšfō, šaršfa, šaršfō 
+šarṭa	->	šarəṭ, šarṭa, šarṭō, šarṭōš, šarṭōx, šarṭōye 
+šarṭūṭa	->	šarṭuṭō 
+šāš	->	šāš 
+šašōyṯa	->	šašōyṯa 
+saṭla	->	saṭla, saṭlil, saṭliš 
+satra	->	satra, satre, satril, satrō 
+šaṭranž	->	šaṭranž 
+šaṭṭa	->	šaṭṭa, šaṭṭil 
+šattar yšattar	->	əmšattar, mšattar, mšattarəl, mšattarət, mšattarla, mšattarle, mšattarlun, mšattərlēl, mšattra, mšattrille, mšattrin, mšattrōl, mšattrōt, nimšattarlax, nimšattərlēx, nšattar, nšattarle, nšattrenn, šattar, šattār, šattarla, šattərčunn, šattərlēḥ, šattərlēla, šattərlīčəl, šattir, šattīrəl, šattirilla, šattirillaḥ, šattirillun, šattīrlun, šattrannaḥ, šattre, šattri, šattril, šattrinnaḥ, yšattar, yšattarla 
+satteḳ ysatteḳ	->	msattḳa, nimsatteḳ, satteḳ, sattīḳin, sattḳič, sattḳil, ysatteḳ 
+sawa	->	sawa, ssawa 
+šawba	->	šawba 
+šawbar yšawbar	->	ʕamšawbar 
+šawbeš yšawbeš	->	mšawpšin, yšawpšun 
+šawfṯa	->	šawfṯa, šawfṯil 
+sawlef ysawlef	->	msawəlfin, msawlefla, sawəlfič, ʕamsawəlfin, ʕamsawlef, ʕanimsawəlfin 
+ṣawma	->	ṣawma, ṣawmaḥ, ṣawmir 
+sawōye	->	sawōye 
+šawra	->	šawra, šawre, šawrlə 
+ṣawṭa	->	ṣawṭa 
+ṣawwar yṣawwar	->	mṣawwrill, ṣawwirōle 
+ṣawwaṭ yṣawwaṭ	->	ṣawwaṭ 
+ṣawwel yṣawwel	->	nimṣawwlill, nimṣawwlillen 
+ṣawwen yṣawwen	->	mṣawwnōle 
+šaxṣa	->	šaxəṣ, šaxṣa, šaxṣil, šaxṣō 
+šāy	->	šāy 
+šayərṯa	->	šayərṯa, šayrō 
+sayfa	->	sayf, sayfa, sayfe 
+ṣayfay	->	ṣayfay 
+ṣayfōyṯa	->	ṣayfōyṯa 
+sayfṯa	->	sayfṯa 
+sayla	->	sayla, sayll, saylō 
+sayra	->	sayra 
+šayšar yšayšar	->	mšayšar, šayšar, yšayšar 
+šayšūra	->	šayšūre 
+sayṭar ysayṭar	->	missayṭar 
+šayṭōnay	->	šayṭanōyan 
+saytṯa	->	saytōṯa, sayṯṯil 
+šayxa	->	šayxa, šayxō 
+ṣayyeġ yṣayyeġ	->	ṣayyġinnaḥ 
+sayyet ysayyet	->	msayyet, ʕamsayyet 
+šayyība	->	šayyība 
+sayyōrča	->	sayyaryōṯa, sayyōrča, sayyōrče 
+sayyōta	->	sayyatō, sayyōta, sayyōtəs 
+sažərṯa	->	sažərṯa, sažərṯil 
+sažra	->	sažra 
+šaʕba	->	šaʕba 
+šaʕban	->	šaʕban 
+šaʕnīna	->	šaʕnīna 
+ṣaʕra	->	ṣaʕra, ṣaʕraynaḥ, ṣaʕre 
+ṣaʕrō	->	ṣaʕrō 
+šaʕšeʕ	->	šaʕšeʕ, šaʕšīʕa 
+saʕta	->	saʕte 
+šaʕṯa	->	šaʕō, šaʕṯa, šaʕṯil, šaʕṯiz, šōʕ 
+ṣaʕṯa	->	ṣaʕṯa, ṣaʕṯen 
+šaʕʕel yšaʕʕel	->	čimšaʕʕlin, əmšaʕʕel, əmšaʕʕlin, mšaʕʕel, mšaʕʕell, mšaʕʕella, mšaʕʕelle, mšaʕʕla, mšaʕʕlilla, mšaʕʕlille, mšaʕʕlillun, mšaʕʕlin, mšaʕʕlinn, mšaʕʕlōl, mšaʕʕlōla, nimšaʕʕel, nimšaʕʕellon, nimšaʕʕlin, nšaʕʕel, nšaʕʕlennax, šaʕəll, šaʕʕel, šaʕʕīla, šaʕʕilinn, šaʕʕle, šaʕʕličča, šaʕʕliččil, šaʕʕliččir, šaʕʕlinnaḥ, šaʕʕliš, šaʕʕlit, šaʕʕliṯ, šaʕʕlull, šaʕʕlunn, yšaʕʕel, yšaʕʕlenna, ʕamšaʕʕel, ʕamšaʕʕelle 
+ṣbawṯa	->	ṣbawṯa 
+šbičča	->	šbičča 
+šbīna	->	šbīn, šbīna, šbīne 
+šbīnča	->	šbīnča 
+šbōba	->	əšbōbax, šbabayhun, šbabaynaḥ, šbabō, šbabōy, šbōba, šbōbaḥ, šbōbe 
+sbōḥa	->	sbōḥa 
+ṣbōḥa	->	əṣbōḥa, ṣbōḥəl 
+šbōpča	->	šbōpča, šbōpčaḥ 
+sčafḳet yisčafḳet	->	sčafəḳte, sčafḳītlaḥ 
+sčaġreb yisčaġreb	->	misčaġreb, sčaġreb 
+sčahət/sčahti yisčahət/yisčahti	->	čisčahət, nisčahti, sčahət, sčaht, sčahtaṯ, sčahti, sčahtinnaḥ, sčahtiṯ 
+sčaḳbel yisčaḳbel	->	čisčaḳbil, misčaḳbellon, misčaḳəblill, misčaḳəblille, misčaḳəblillun, misčaḳəblōle, nimsčaḳəblin 
+sčakṯar yisčakṯar	->	sčakəṯraṯ 
+sčanəž yisčanəž	->	misčanəž 
+sčarzeḳ yisčarzeḳ	->	nisčarəzḳell, nmisčarəzḳill 
+sčašhet yisčašhet	->	sčašhet 
+sčaṣʕeb yisčaṣʕeb	->	misčaṣəʕbill 
+sčaxbar yisčaxbar	->	sčaxbar 
+sčaxraʕ yisčaxraʕ	->	čisčaxraʕəl 
+sčaxtem yisčaxtem	->	misčaxtemle 
+sčaʕəṣ yisčaʕəṣ	->	sčaʕəṣ, sčaʕṣiṯ 
+sčaʕmel yisčaʕmel	->	misčaʕmlidd, misčaʕmlill, nmisčaʕmlilla, sčaʕmlull, ʕammisčaʕmlille 
+sčaʕreḓ yisčaʕreḓ	->	nisčaʕrḓenne 
+sčaɁžar yisčaɁžar	->	misčaɁžar, misčaɁžarəl 
+sčōhal yisčōhel	->	misčōhal, misčōhla 
+ščū	->	ščū, ščūy, ščūye, ščūyəl 
+sčuḏkōra	->	sčuḏkōra 
+sēbeʕ	->	sēbeʕ 
+šēḏa	->	šēḏa, šiḏanō 
+ṣeffa	->	ṣeffa 
+ṣeḥḥṯa	->	ṣeḥḥṯax, ṣiḥḥṯiš 
+ṣehra	->	ṣehra, ṣehre 
+sekkṯa	->	sekkṯa, sikk 
+šekla/šakla	->	šakla, šakliž, šekəl, šekəllə, šekla, šikəl, šiklō, šiklōyəl 
+seləfṯa	->	silfṯi 
+sella	->	sella, selle, sill, sillō 
+semla	->	semla 
+ṣenəʕṯa	->	ṣenəʕṯa, ṣenəʕṯaḥ 
+šenna	->	šenna, šennax, šennil, šinnayhun, šinnōy, šinnōye 
+senta	->	senta, sintō 
+šerəkṯa	->	šerəkṯa 
+serra	->	serra 
+šeṯṯ	->	šečča, šeṯṯ, šeṯṯə 
+šeʕpṯa	->	šeʕpṯa 
+seʕra	->	seʕrlə 
+šeʕra	->	šeʕra 
+ṣfīḥča	->	ṣfīḥča 
+ṣfōfa	->	ṣfōfa 
+šhōtča	->	šhatyōṯa, šhōtča 
+sḥūra	->	sḥūra 
+šičč/šičči	->	šičč 
+sičča	->	sičča 
+šiččōḏ	->	šiččōḏ 
+šičwōyṯa	->	šičwōyṯa 
+šiḏōnay	->	šiḏanōyan 
+ṣīġča	->	ṣīġča 
+ṣīġṯa	->	ṣīġṯa 
+sīḥa	->	sīḥa, siḥō 
+sikkīna	->	sikkīna 
+sikōrča	->	sikōrča 
+šiḳya	->	šiḳya, šiḳyil 
+šimēnto	->	šimēnto 
+šimša	->	šimša 
+sínama	->	sínama 
+sīpča	->	sīpča 
+šīra	->	šīra, širō 
+sīrča	->	sīrča 
+šīrča	->	šīrča 
+ṣīrča	->	ṣīrča 
+sirray	->	sirray 
+širwōla	->	širwōla 
+siryōn	->	siryōn 
+sīta	->	sīt 
+ṣīṭa	->	ṣīṭa, ṣīṭe 
+ṣīxa	->	ṣīxa, ṣixō 
+skarbīnča	->	skarbīnča 
+sḳīfča	->	sḳīfča 
+ṣlība	->	əṣlība, əṣlibō, ṣlība, ṣlībaḥ, ṣlibō, ṣlibōyəl 
+šlīfa	->	šlīfa, šlīflə 
+šlōfa	->	šlōfəl 
+slōka	->	əslōka 
+šlōḳa	->	šlōḳa 
+slōmča	->	slōmča, slōmčaḥ, slōməčl 
+ṣlōṯa	->	ṣlōṯa, ṣlōṯəl, ṣlōṯl, ṣlōṯlə 
+ṣlōṯəl hažəmṯa	->	hažəmṯa 
+ṣlōxa	->	ṣlōxa 
+šmō	->	šmō 
+smōḥa	->	smōḥa 
+smōkča	->	smōkčil 
+šmošča	->	šmuščō 
+šnōḳa	->	šnōḳa 
+sōba	->	sōba, sōbaḥ, sōblə 
+šobaʕčaʕṣar	->	šobaʕčaʕṣar 
+šōdra	->	šadrō 
+sōfar ysōfar	->	msafīrin, msōfar, nimsōfar, nsōfar, sōfar, ysafīrun, ysōfar 
+ṣofərṯa	->	ṣofərṯa 
+šōġeb yšōġeb	->	nimšaġībin 
+šōġel yšōġel	->	šaġīll 
+šoġla	->	šoġəl, šoġla, šoġlaḥ, šoġlax, šoġle, šoġlun, šuġəl, šuġliš 
+ṣōġṯa	->	ṣōġṯa 
+šōhar yšōhar	->	mšahirille, yšahirunne 
+ṣoḥəpṯa	->	ṣoḥəpṯa 
+šohərṯa	->	šohərṯa 
+šōhet yšōhet	->	šahitull 
+sōḥra	->	sōḥra 
+sōḥṯa	->	sōḥəṯlə, sōḥṯa, sōḥṯil, sōḥṯlə 
+šōhta	->	šahtō, šahtōx, šahtōye, šōhət 
+šōhya	->	šōhya 
+sōḳa	->	siḳanōya 
+sokra	->	sokra 
+ṣōlaḥ yṣōlaḥ	->	nṣaliḥenxon, ṣōlaḥ 
+ṣōlaḥ/ṣōleḥ	->	ṣōlḥin 
+soləfṯa	->	salfōṯa, soləfṯa, soləfṯaḥ, soləfṯax, soləfṯe, soləfṯen, soləfṯi, soləfṯil 
+sōlem	->	čsōlmin, sōlma 
+sōmaḥ/sōmeḥ ysōmaḥ/ysōmeḥ	->	nimsamaḥlax, ysamiḥanni, ysamiḥennax, ysamiḥenne 
+šomna	->	šomna 
+šōmṯa	->	šōmṯa 
+šoppṯa	->	šoppṯa, šoppṯiz, šupp 
+ṣōraʕ yṣōraʕ	->	nimṣōraʕ, nṣōraʕ, yṣōraʕ, ʕamṣarīʕin, ʕamṣōraʕ 
+ṣōreḥ yṣōreḥ	->	nṣariḥinniš, ṣṣariḥell 
+šōrek yšōrek	->	nšarikennax, šarikiččax 
+šōreṭ yšōreṭ	->	mšariṭōle, šariṭunne, yšariṭenne 
+sorəʕṯa	->	sorəʕṯa, sorʕəṯlə, sorʕṯa 
+ṣorrṯa	->	ṣorrṯa, ṣorrṯe, ṣurr 
+šōrʕa	->	šarʕō, šōrʕa 
+šōṭar	->	əššōṭar, šōṭar, šōṭra 
+šōṭaʕ yšōṭaʕ	->	čšaṭiʕenne, mšaṭiʕōle, šaṭīʕax, ʕamšaṭiʕōle 
+ṣoṭəfṯa	->	ṣoṭəfṯa 
+sōw ysōw	->	msawiyōle, msawwyille, nimsawwyille, nsawwell, sawilalla, sawwunna 
+šōwar yšōwar	->	mšawirəš 
+sōyar ysōyar	->	nimsayarle 
+sōyḥa	->	sōyḥa 
+ṣōža	->	ṣōža 
+šōʕba	->	šōʕba 
+sōʕet ysōʕet	->	msaʕitōz, nsaʕitennax, nsaʕitenne, saʕīt, saʕitlaḥle, ssaʕitinn, ysaʕitenne, ysaʕitunnaḥ 
+šōʕra	->	šaʕrō, šōʕra 
+spaʕṯa	->	spaʕōṯ, spaʕṯa, spaʕṯe, uṣpʕan 
+šrīka	->	šrīk 
+srīra	->	srīre 
+šrīṭa	->	šrīṭa, šrīṭəl 
+šrīṭča	->	šrīṭča, šriṭyōṯa 
+šrōġa	->	šrōġa 
+ṣrōḳa	->	ṣrōḳa 
+stīḳa	->	əstīḳa, əstiḳō, stīḳ, stīḳa, stīḳaḥ, stiḳayhun, stiḳayy, stīḳe, stiḳō, stiḳōye 
+šṭōḥa	->	šṭōḥa 
+studʕa	->	studʕa, Ɂəstudʕa, Ɂustudʕa 
+šubəʕ	->	šubəʕ 
+šubōša	->	šubōša 
+šufēr	->	šufēr 
+šuḥḥōra	->	šuḥḥōra 
+šūḳa	->	šūḳa, šuḳō 
+šukalāta	->	šukalāta 
+sukkar	->	sukkar 
+sūkṯa	->	sūkṯa, sūkṯiš 
+ṣummar	->	ṣummar, ṣummōr, ṣummūrin 
+summōka	->	summōka 
+summuḳ	->	summōḳ, summōḳa, summōḳan, summuḳ, summūḳin 
+sumʕan	->	sumʕan 
+šunīṯa	->	šunīṯa, šunīṯe 
+ṣunnōra	->	ṣunnōra 
+ṣunōyṯa	->	ṣunōyṯa, ṣunōyṯiḏ, ṣunōyṯil, ṣunyōṯa 
+šuppōka	->	šuppōk, šuppōka 
+šuppōpča	->	šuppōpča 
+ṣūrča	->	ṣūrča, ṣūrčax, ṣūrče, ṣūrčil, ṣuryōṯa 
+suriyya	->	suriyya 
+ṣurmōyṯa	->	ṣurmōyṯa, ṣurmōyṯe 
+šurṭa	->	šurṭa 
+šurṭay	->	šurṭay, šurṭō 
+surtōba	->	sartōbiš, surtōba 
+šúšbarak	->	šúšbarak 
+sūsča	->	sūsča 
+ṣuxōma	->	ṣuxōma 
+ṣuxōža	->	ṣuxōži 
+sužžōtča	->	sužžād, sužžōtča 
+suɁōla	->	suɁōla, suɁōləl 
+swīḳa	->	swīḳa 
+syōġa	->	syōġa 
+syōġča	->	syōġča 
+ṣyōḥa	->	ṣyōḥa 
+šyūġa	->	šyūġa 
+ṣyūḥa	->	əṣyūḥa, ṣyūḥa 
+sʕōtča	->	sʕōtčil 
+šʕōʕa	->	šʕōʕa 
+ta	->	ta 
+ṭabb/ṭabbi	->	əṭṭabb, nṭōba, nṭōbin, ṭabb, ṭabbi, ṭōba, ṭōbin 
+tabbūle	->	tabbūle 
+tabəkṯa	->	tabəkṯa 
+ṭabəšṯa	->	ṭabəšṯa 
+ṭabīʕay	->	ṭabīʕay, ṭabiʕōyin 
+ṭabla	->	ṭabla 
+ṭabōra	->	ṭabōra 
+ṭabṭeb yṭabṭeb	->	ṭabṭeble 
+ṭabʕan	->	ṭabʕan 
+ṭaff yṭaff	->	mṭaffyill, ṭaffiččit 
+taffa	->	taffa 
+taffar ytaffar	->	ttaffrenna 
+taffeš ytaffeš	->	mtaffešle 
+ṭafran	->	ṭafrōnin 
+ṭaḥənṯa	->	ṭaḥənṯa, ṭaḥnōṯa 
+ṭahhar yṭahhar	->	mṭahhrille 
+ṭaḥḥōna	->	ṭaḥḥōna 
+taḥkal ytaḥkal	->	ʕamtaḥkal 
+taḥkel ytaḥkel	->	mtaḥəklin, nimtaḥkel, ntaḥəklell, taḥəklil 
+taḥpal/taḥpel ytaḥpal/ytaḥpel	->	mtaḥpal, taḥpal, ʕamtaḥḥpell 
+tahra	->	tahra 
+taḥsandār	->	taḥsandār 
+ṭaḳḳ	->	ṭaḳḳ 
+taḳḳṯa	->	taḳḳan, taḳḳṯil 
+ṭaḳma	->	ṭaḳma, ṭaḳmlə, ṭaḳmō 
+ṭaḳōyṯa	->	ṭaḳōyṯ, ṭaḳōyṯa, ṭaḳōyṯax, ṭaḳōyṯe, ṭaḳōyṯi 
+ṭaḳsa	->	ṭaḳsa 
+taksi	->	taksi 
+ṭálama	->	ṭálama 
+ṭaləʕṯa	->	ṭaləʕṯa, ṭaləʕṯun 
+ṭalleḳ yṭalleḳ	->	əṭṭalleḳ, əṭṭallḳinnu, nṭallḳenna, nṭallḳenne, ṭalḳil, ṭṭalleḳ, ṭṭallḳell, ṭṭallḳenna, yṭalleḳ, yṭallḳell 
+tallel/tallal ytallel/ytallal	->	ttallal 
+ṭalpa	->	ṭalpa, ṭalpaḥ, ṭalpax, ṭalpe, ṭalpil, ṭalpiš, ṭalpō, ṭalpun 
+ṯalžṯa	->	ṯalžōṯa 
+ṯamīnay	->	ṯaminōyin 
+ṭammen yṭammen	->	mṭammell 
+ṯammen yṯammen	->	ṯammne 
+ṭammeṣ yṭammeṣ	->	mṭamməṣlille, əṭṭammṣill 
+ṯamna	->	ṯamna 
+ṯamra	->	ṯamra 
+ṭamʕa	->	ṭamʕa, ṭamʕaḥ 
+tanəkṯa	->	tanəkṯa, tanəkṯillə, tankōṯa 
+ṯannūrča	->	ṯannūrča, ṯannuryōṯa 
+tantel ytantel	->	tantel 
+tantūlča	->	tantūlče 
+ṯanwṯa	->	ṯanwṯa 
+ṭanžar	->	ṭanžar 
+ṭanžarča	->	ṭanžarča, ṭanžarčil 
+tappar ytappar	->	mtappar, nimtapparlax, nimtapparlun, tappar, tappār, tappərlull, tapprannen, tapprōn, ttapprenna, ttapprinn, ytapprell 
+ṭappeḳ yṭappeḳ	->	nimṭappeḳəl 
+ṭappeš yṭappeš	->	ṭappīšin 
+tappūsa	->	tappusō 
+tara	->	tara 
+tarba	->	tarba, tarbaḥ, tarbax, tarbayhun, tarbe, tarbəl, tarbi, tarbil, tarbiṯ, tarbiž, tarbō, tarəb 
+ṭarbūša	->	ṭarbūša 
+ṯarč-	->	ṯarčinn, ṯarčinnaḥ, ṯarčinnen 
+ṯarč/ṯarči	->	ṯarč, ṯarči, ṯarəč 
+ṯarčʕasər	->	ṯarčʕasər, ṯarčʕasrə 
+tarəžṯa	->	taržan, taržōṯa 
+ṭarfa	->	ṭarfa, ṭarfil, ṭarfis, ṭarfiš, ṭarflə 
+ṭarḥa	->	ṭarḥe 
+ṯāri	->	ṯari, ṯāri, ṯarīx 
+tarkal ytarkal	->	mtarkal, tarkal, ʕamtarkal, ʕamtarklin 
+ṭarr yṭarr	->	mṭarryill, mṭarryille 
+tarra	->	tarra 
+tarreb ytarreb	->	mtarrbill, mtarrbillun 
+ṭarreẓ yṭarreẓ	->	mṭarrẓa 
+tarrōba	->	tarrōba 
+ṭarrōša	->	ṭarrašō 
+ṭarša	->	ṭarša, ṭarše 
+tartōra	->	tartōra 
+tarwīša	->	tarwīša, tarwišō 
+ṯarʕa	->	ṯarəʕlə, ṯarʕa, ṯarʕil, ṯarʕiš, ṯarʕit, ṯarʕlə, ṯarʕō, ṯarʕun 
+ṭaššar yṭaššar	->	mṭaššarəl, mṭaššarla, mṭaššarle, mṭaššarlun, mṭašširlille, mṭaššrill, mṭaššrillaḥ, mṭaššrōla, nimṭaššrill, nṭaššīrle, nṭaššrell, nṭaššrenna, nṭaššrinniš, ṭašir, ṭaššar, ṭaššār, ṭašširlull, ṭaššra, ṭaššrann, ṭaššrannun, ṭaššre, ṭaššrē, ṭaššričča, ṭaššričče, ṭaššriččl, ṭaššriččun, ṭaššrīčəl, ṭaššrīčnaḥ, ṭaššril, ṭaššrīšən, ṭaššrunna, ṭaššrunne, ṭaššrunnē, ṭaššrunnī, ṭṭaššrenne, yṭaššrell, yṭaššrenne 
+tastūra	->	tastūra, tastūrəl 
+ṭaṭli	->	ṭaṭli 
+tawb-	->	tawbaynaḥ 
+ṯawba	->	ṯawba, ṯawbil, ṯawbir, ṯawblə, ṯawbō 
+ṭawbez/ṭawpez	->	ṭawpīẓa 
+tawəlṯa	->	tawlōṯa, tawlōṯəl 
+ṭawəlṯa	->	ṭawəlṯa, ṭawəlṯiz, ṭawlōṯa 
+tawərṯa	->	tawərṯa, tawran 
+ṯawərṯa	->	ṯawərṯa 
+ṭawḳa	->	ṭawḳa 
+tawōma	->	tawōmaḥ 
+tawra	->	tawra, tawris 
+tawrōyṯa	->	tawrōyṯa 
+tawwar ytawwar	->	čtawwar, mtawwar, mtawwarle, mtawwrill, mtawwrin, nimtawwar, nimtawwarle, nimtawwra, ntawwar, tawwar, tawwrannaḥ, tawwrōn, tawwrull, ttawwar, ytawwar, ytawwrun, ytawwrunne, ʕačimtawwar, ʕamtawwar, ʕamtawwra, ʕamtawwrin 
+ṭawwel yṭawwel	->	mṭawwlin, ṭawwel, ṭawwēl, ṭawwīl, ṭawwīlla, ṭawwlaṯ, ṭawwliš, ṭawwlon, yṭawwlell 
+taxəlṯa	->	taxəlṯa 
+taxənṯa	->	taxənṯa, taxənṯil 
+taxīl- taxīlč-	->	taxīl, taxīlax, taxīlčax, taxīliš, taxīlxun 
+taxl-	->	taxlax, taxlayxun, taxxer 
+taxxel ytaxxel	->	mtaxxelle, mtaxxla, ttaxxlennaḥ, ytaxxlenne 
+ṭayba	->	ṭaybe 
+tayna	->	tayna 
+ṭayra	->	ṭayər, ṭayra 
+ṭayyanō	->	ṭayyanō 
+ṭayyeb	->	ṭayyeb 
+tayyen ytayyen	->	nimtayyillēx 
+ṭayyen yṭayyen	->	ṭayyinōl, ṭayynaččil, ṭayynull 
+ṭaʕəmṯa	->	ṭaʕəmṯa, ṭaʕəmṯil 
+ṯaʕla	->	ṯaʕla, ṯaʕlō 
+ṭaʕna	->	ṭaʕən, ṭaʕna 
+taʕwṯa	->	taʕwṯa 
+ṭbīʕča	->	ṭbīʕča, ṭbīʕče 
+tbōka	->	tbōka 
+ṭbōḳča	->	ṭbōḳyan 
+ṭēbeḳ	->	ṭēbeḳ 
+ṯebna	->	ṯebna, ṯebnax 
+ṯēčča	->	ṯēčča 
+ṭefəlṯa	->	ṭefəlṯa 
+ṯeffṯa	->	ṯeffṯa 
+tefla	->	teflen 
+ṭefla	->	ṭefla, ṭiflō, ṭiflōyəl 
+ṯēleṯ	->	ṯēleṯ 
+ṯelka	->	ṯelka, ṯilkō 
+ṯēmen	->	ṯēmen 
+ṯemma	->	ṯemma, ṯemmax, ṯemme, ṯemmil, ṯimmiš 
+ṯēn/ṯēni	->	ṯēn, ṯēni 
+ṯēnča	->	ṯinō 
+tepsa	->	tepsa 
+ṭḥōna	->	ṭḥōna 
+ti	->	ətti, ti 
+ṯiččay	->	ṯiččay, ṯiččō 
+tīḏ-	->	tīḏ, tīḏa, tīḏaḥ, tīḏe, tīḏun 
+tiḏō	->	tiḏayhun, tiḏaynaḥ, tiḏōx, tiḏōy, tiḏōya, tiḏōye, tiḏōyəl 
+tikkōna	->	tikkanō, tikkōna, tikkōnəl 
+tikkōnča	->	tikkōnča 
+ṭīma	->	ṭīma, ṭīme, ṭīməḏ, ṭīməl, ṭīml 
+ṭīna	->	ṭīna 
+ṯinaġelča	->	ṯinaġelča, ṯinaġelčiḏ, ṯinaġlan, ṯinaġlōṯa 
+tīrča	->	tīrča, tīrəčlə 
+titōna	->	titōna 
+tiyhūṯa	->	tiyhūṯe 
+ṭīẓa	->	ṭīẓ, ṭīẓa, ṭīẓe 
+tḳīḳča	->	ətḳīḳyan, tḳīḳča, tḳīḳyan 
+tḳōḳa	->	tḳōḳa 
+ṯlaṯ-	->	ṯlaṯinnaḥ, ṯlaṯinnun 
+ṯleččaʕṣar	->	ṯleččaʕṣar 
+ṯlēṯ	->	ṯlēṯ 
+ṯleʕṣar	->	ṯleʕṣar 
+ṭlobəḥṯa	->	ṭlubḥō 
+ṭlōḳa	->	ṭlōḳa 
+ṯmēn	->	ṯmēn 
+ṯmōn	->	ṯmōn, ṯmōnya 
+ṯnīṯa	->	ṯnīṯa 
+ṭōb	->	ṭōb 
+tōfaʕ ytōfaʕ	->	ytōfaʕ, ʕamtafīʕa 
+ṭōhar	->	ṭōhar 
+ṭōḳa	->	ṭōḳa, ṭōḳəl 
+ṯoḳla	->	ṯoḳla 
+ṭōlba	->	ṭullabō 
+ṯōle yṯēle	->	čiṯyillxun, čiṯyullxun, čōṯ, čōṯyin, čṯēla, čṯēx, ənṯīl, əṯyillun, niṯyillaḥ, niṯyōli, nōṯ, nōṯya, nōṯyin, nṯēḥ, nṯīl, ōṯya, ōṯyan, ōṯyin, ṯā, ṯalla, ṯallxon, ṯallxōn, ṯāš, ṯāx, ṯēḥ, ṯēla, ṯēle, ṯīčlax, ṯill, ṯinnaḥ, ṯīšliš, ṯōḥ, ṯōle, ṯōlen, ṯōlun, ṯōn, ṯōš, ṯōx, ṯṯēla, ṯṯēx, ṯyallen, ṯyillun, ṯyōla, yiṯyillun, yiṯyullun, yṯēle, yṯēx, ʕammiṯyōla, ʕamṯēle 
+tōm/tōma	->	tōm, tōma 
+ṭōmaʕ yṭōmaʕ	->	ṭamiʕačče 
+toppa	->	toppa 
+ṭōpṯa	->	ṭōpṯa 
+tōr	->	tōr 
+tōr ytōr	->	nimtarryille, ttarilīs 
+tōret ytōret	->	mtarīta 
+ṭōšar	->	ṭōšra 
+tōwwut	->	tōwwut 
+tōyərṯa	->	tōyərṯin 
+ṭōyfṯa	->	ṭōyfṯa 
+tōyṯa	->	tōyṯa 
+ṯr-	->	əṯrinn, ṯrinn, ṯrinnaḥ, ṯrinnun, ṯrinxun 
+traktōr/taraktōr	->	taraktōr, traktōr 
+ṭrīḳča	->	ṭrīḳča 
+trīsa	->	trisō 
+ṯrō	->	ṯrō 
+ṭrōfa	->	ṭrōfa 
+ṭrōḳa	->	ṭrōḳa 
+trolla	->	trolla 
+ṭṭamman yiṭṭamman (čṭamman yičṭamman)	->	niṭṭamman 
+ttaxxal yittaxxal	->	mittaxxlin 
+ṭubuḳ	->	ṭubuḳ 
+ṭuffōla	->	ṭṭuffōla 
+tuġōra	->	tuġarō, tuġōra 
+tuġray	->	tuġray 
+tuḥkōla	->	tuḥkōl 
+ṭuḥōla	->	ṭuḥōla 
+ṭūl	->	ṭūl 
+ṭūla	->	ṭūla, ṭūle 
+ṭūlča	->	ṭūlčil 
+tulōba	->	tulabō, tulōb, tulōba 
+ṯulṯōyṯa	->	ṯulṯōyṯa 
+ṭulyōnay	->	ṭulyōnay 
+tumbāk	->	tumbāk 
+ṯumnōyṯa	->	ṯumnōyṯa, ṯumnōyṯlə 
+tunya	->	tunya 
+tūr	->	tūr 
+tūr/tūrč-	->	mantūrče, mantūrəl, tūrčil 
+ṭūra	->	ṭūra 
+turkiyya	->	turkiyya 
+ṭurrōḥča	->	ṭurraḥyōṯa, ṭurrōḥča 
+ṯūṯa	->	ṯūṯa 
+tutun	->	tutun 
+tuwwōra	->	tuwwōra 
+tuxxōna	->	tuxxōna 
+ṭuzz	->	ṭuzz 
+twālēt	->	twālēt 
+twō	->	twayōṯa, twō 
+tyātro	->	tyātro 
+ṭʕōna	->	ṭʕōna, ṭʕōnis 
+uf(f)/of	->	of, uf, uff 
+ukkil	->	ukkil, ukkiš, ukkl 
+ukkmil	->	ukkmil, ukkmin, ukkmiz 
+unṯa	->	unṯa 
+urdon	->	urdon 
+urṯuḏuksay	->	urṯuḏuksay 
+ustāz	->	ustāz, ustazō, Ɂəstāz 
+uṣūl/iṣūl	->	iṣūləl, uṣūl 
+uṣūlay	->	uṣūlay 
+utēl	->	utēl 
+ux	->	ux 
+uxmil	->	uxmič, uxmil, uxmin, uxxmin 
+uxxul/uxxil	->	luxxl, uxxil, uxxl, uxxul, uxxull, uxxuš 
+w	->	w, wə, wəl 
+waḓḓ ywaḓḓ	->	ʕamwaḓḓ 
+wadīʕ	->	wadīʕ 
+waffar ywaffar	->	čimwaffarəl, mwaffar 
+waffeḳ ywaffeḳ	->	mwafiḳill, waffīḳin, waffḳaččun 
+wafta	->	wafta 
+waḥḥet ywaḥḥet	->	mwaḥḥetəl 
+waḥša	->	waḥša 
+waḥtōnay	->	nwaḥtōnay, waḥtanō, waḥtōnay 
+waḳča	->	waḳč, waḳča, waḳčaḥ, waḳčax, waḳče, waḳčəl, waḳčələ, waḳčiḥ, waḳčil, waḳčin, waḳčiš, waḳčiṯ, waḳčlə, waḳəč, waḳəčlə, waḳiṯ 
+waḳəʕṯa	->	waḳəʕṯa 
+waḳfa	->	waḳfa 
+waḳḳaʕ ywaḳḳaʕ	->	waḳḳʕunna 
+waḳḳef ywaḳḳef	->	čimwaḳḳfille, čwaḳḳfell, mwaḳḳefla, mwaḳḳefle, mwaḳḳfill, mwaḳḳfin, waḳḳef, waḳḳfa, waḳḳfull 
+wakkel ywakkel	->	wakklil, wakklunne, ʕamwakklōl 
+wakra	->	wakra, wakre 
+wal-	->	wal, walax 
+wala	->	wala, walā 
+wall ywall	->	mwall 
+walla/waḷḷa	->	waḷḷa 
+walō	->	walō 
+warəḳṯa	->	warḳan, warḳōṯa, warḳṯa, warḳṯe, warḳṯil 
+warəšṯa	->	waršōṯa 
+warətṯa/warəṯṯa	->	warəṯṯa, warṯṯa, warṯṯi 
+warreḳ ywarreḳ	->	mwarrḳille 
+warta	->	warta, wartō 
+waš	->	waš 
+waṣəfṯa	->	waṣəfṯa 
+waṣla	->	waṣla, waṣlō 
+waṣṣ ywaṣṣ	->	čwaṣṣett, mwaṣṣēle, mwaṣṣēll, mwaṣṣyille, waṣṣačč 
+wasseʕ	->	wassīʕa, wassīʕin 
+waṣṭōnay	->	wasṭanō 
+waswas ywaswas	->	mwaswas, waswas, waswsaṯ 
+waswōsa	->	waswōsa 
+waṯanay	->	waṯanōyin 
+waṭṭ ywaṭṭ	->	waṭṭ, waṭṭā, waṭṭiṯ, ywaṭṭerr, ʕamwaṭṭya 
+wattaʕ ywattaʕ	->	mwattaʕle, mwattʕill, mwattʕille, wattʕit, wattʕunnun, ywattʕell, ywattʕunne, ywattʕunnun 
+waxma	->	waxma 
+wayla	->	waylaynaḥ 
+wazərṯa	->	wazərṯa 
+wazna	->	wazne 
+wažžah ywažžah	->	mwažžahər, mwažžhill, wažžeh 
+wažžeb ywažžeb	->	mwažžbillun, wažžbannaḥ, wažžība 
+waẓẓef ywaẓẓef	->	nwaẓẓfell, nwaẓẓfenne 
+wazzeʕ ywazzeʕ	->	mwazzeʕlon, mwazzʕillun 
+wažʕa	->	wažʕa 
+waʕya	->	waʕyaḥ 
+wḓōyṯa	->	wḓōyṯa, wḓōyṯe, wḓōyṯlə, wḓuyōṯəl 
+wehbe	->	wehbe 
+weḥtṯa	->	weḥṯṯa 
+wēn	->	wēn 
+werṯṯa	->	werṯṯa 
+wēš	->	weš, wēš 
+wīle	->	wīḥ, wīl, wīle 
+willa/walla	->	walla, willa 
+wkīla	->	wkīlxun 
+wḳīṯa	->	wḳīṯa 
+wlī	->	wlī 
+wliyya	->	wliyya 
+wōb	->	wayba, wayban, waybin, wčībin, wčōb, wnōb, wōb, wōbi 
+wōfeḳ ywōfeḳ	->	čimwafīḳa, mwafīḳin, nimwafīḳa, nwafīḳa, wōfeḳ 
+wōṯ/wōṯi	->	wōṯ 
+wōx	->	wox 
+wōxeḏ ywōxeḏ	->	čwaxiḏinn, ywaxiḏell 
+wōžah ywōžah	->	ywōžah 
+wōžba	->	wažbōṯa 
+wrāx	->	lax, wax, wāx, wrāx 
+wrēš	->	wreš, wrēš 
+wṣīṯa	->	wṣīṯa 
+wtōʕa	->	wtōʕa 
+wtōʕča	->	wtōʕča, wtōʕče 
+wuš	->	wuš 
+wẓīfča	->	wẓīfče, wẓifyōṯaḥ 
+wzīra	->	əwzīra, wzīr, wzīra, wzīre, wzīrəl, wzirō, wzirōye 
+wʕō	->	waʕyōṯ, waʕyōṯa, waʕyōṯaḥ, waʕyōṯe, waʕyōṯəl, waʕyōṯər, waʕyōṯiš, wʕō 
+xabarōyṯa	->	xabarōyṯa 
+xabīra	->	xabīra 
+xabīṯay	->	xabīṯay 
+xaḓīr	->	xaḓīr 
+xaḓrūṯa	->	xaḓrūṯa 
+xaffa	->	xaffa 
+xaffef	->	xaffef, xaffīfan, xaffīfin 
+xaffef yxaffef	->	xaffifiččil, xafifann 
+xaffes yxaffes	->	mxaffsin 
+xaffṯa	->	xaffōṯe, xaffōṯəl, xaffōṯxun, xaffṯa, xaffṯe 
+xafna	->	xafna 
+xalal	->	xalal 
+xalaṣ	->	xalaṣ 
+xalefča	->	xalefča, xalifəč 
+xalḳīna	->	xalḳīnəl, xalḳinō 
+xallef yxallef	->	mxallfa, nxallfenne, xallef, xalleflaḥ, xalləflaḥla, xalleflon, xallfaṯ, xallfiš, xallīfa, xallifəl, ʕamxallfa, ʕamxallfōle 
+xalleṣ yxalleṣ	->	čxallṣell, ənxallṣenxon, nxalləṣlīš, nxallṣell, xalliṣlēla, xallṣiččil, yxalləṣlēle, yxallṣenne 
+xalleṭ yxalleṭ	->	mxallṭillun, nimxallṭille, nimxallṭin, ʕanimxallṭilla, ʕanimxallṭille 
+xalli	->	xall, xalli 
+xallṯa	->	xaləṯ, xallōṯe, xallṯa 
+xalpa	->	xalpa, xalpō 
+xammar yxammar	->	čxammar 
+xammen yxammen	->	mxammella, mxammelle, mxammen, mxammnilla, mxammnillax, mxammnin, nimxammen, xammen, xammīnin, xammniṯ, yxammnell 
+xammes yxammes	->	mxammsilla 
+xann/xanni	->	xann, xanni 
+xanūnay	->	xanūnay 
+xanunō	->	xanunō 
+xanžra	->	xanžra 
+xarfen yxarfen	->	xarfen 
+xarma	->	xarma, xarme, xarmiš, xarmō, xarmōyəl 
+xarōfa	->	xarōfa, xarufō, xarūfyan, xarufyōṯa, xarufyōṯe 
+xarōfča	->	xarōfča 
+xarraḥ yxarraḥ	->	mxarəḥlēla, mxarraḥər, mxarrḥa, mxarrḥillun, nxarrḥell, nxarrḥett, yxarrḥell, yxarrḥenne 
+xarž	->	xarž, xaržl
+xaržōyṯa	->	xaržōyṯa 
+xašīṯa	->	xašīṯa, xašīṯəl, xašīṯəṯ 
+xass/xassi yxass/yxassi	->	čxassinn, čxassiyya, mxassēla, mxasslēla, mxasslill, mxasslilla, mxasslille, mxasslōḥ, mxassya, mxassyill, mxassyilla, mxassyille, mxassyillun, mxassyin, mxassyōl, nimxassīš, nimxasslille, nxassēla, xass, xassā, xassaččəl, xassaččl, xassallun, xassaṯ, xassi, xassiččil, xassīlla, xassīlle, xassīllen, xassiyōl, xassiyōle, xassiyya, xassiyyin, xassīẓ, xasslaḥlēle, xasslall, xasslēl, xasslēla, xasslulla, xasslullā, xassne, xassnil, xassulla, xassulle, yxassi, yxassull, yxassun, yxassuṣṣ 
+xassa	->	xassa 
+xaṣṣan	->	xaṣṣan 
+xāṣṣatan	->	xāṣṣatan 
+xassṯa	->	xassṯa 
+xaṭərṯa	->	xaṭərṯa, xaṭran, xaṭrōṯa 
+xaṭirkun	->	xaṭirkon 
+xaṭṭeb yxaṭṭeb	->	čxaṭṭbinnu, mxaṭṭəblōl, nxaṭṭəblēx, nxaṭṭiblēx, xaṭṭbunna, yxaṭṭbunna 
+xaṯṯeb yxaṯṯeb	->	xaṯṯpiṯ 
+xattōma	->	xattamōylə 
+xawkapṯa	->	xawkapṯa 
+xawōṣa	->	xawōṣa 
+xawwṯa	->	xawwṯa 
+xayəmṯa	->	xayəmṯa, xayəmṯe, xaymōṯa, xaymōṯe, xaymṯil 
+xayra	->	xayr, xayra, xayrax, xayril 
+xayray	->	xayrōyan 
+xayyeb yxayyeb	->	čxayybinni 
+xayyem yxayyem	->	xayyem 
+xayyōṭa	->	xayyōṭa 
+xayyōṭča	->	xayyōṭča 
+xazənṯa	->	xazənṯil 
+xazzen yxazzen	->	mxazzenlon 
+xbōṣa	->	xbōṣa 
+xebra	->	xebra, xebril 
+xēfa	->	xēfa, xēfax, xēfe, xēfəl, xīf, xifō 
+xelḳṯa	->	xelḳṯe, xiləḳṯi 
+xēmes	->	xēmes 
+xenša	->	xenša 
+xēr	->	xēr 
+xeška	->	xeška 
+xetəmṯa	->	xetəmṯa 
+xeṭəpṯaḥ	->	xeṭəpṯaḥ 
+xett/xetti	->	xet, xett, xette, xetti 
+xfōḳa	->	xfōḳa 
+xiyōlay	->	xiyyalōy 
+xōčma	->	xačmayhun, xōčəmlə, xōčma, xōčme, xōčmil, xōčmiš, xučəm, xučmō 
+xoḓərṯa	->	xoḓərṯa 
+xoḥla	->	xoḥla 
+xōla	->	xalō, xōla, xōle, xōlət 
+xōlef yxōlef	->	čxalifenn, xalifaččun, xalīfe, yxalifenn, yxalifenne 
+xōleṣ	->	xōleṣ 
+xolḳa	->	xolḳaḥ, xolḳe 
+xomərṯa	->	xomərṯa 
+xonṣra	->	xonṣra, xonṣre 
+xoppa	->	xuppō 
+xorža	->	xorža, xorže, xoržil, xuržō 
+xošna	->	xušnō 
+xoṯla	->	xoṯla, xuṯlō, xuṯlōye 
+xōtma	->	xōtmil 
+xōṭra	->	xōṭərlə, xōṭra, xōṭrax, xōṭre, xōṭril, xōṭriš, xōṭrun 
+xrēra	->	xrēron 
+xrunṯa	->	xrunṯa 
+xṣīma	->	xṣīme 
+xšūra	->	xšūra, xšurō 
+xšurīṯa	->	xšurīṯa, xšuriyyan 
+xṣūṣ-	->	xṣūṣəl 
+xṣūṣan	->	xṣūṣan 
+xṣūṣay	->	xṣūṣay, xṣuṣōy 
+xṭīṯa	->	xṭiyōṯa 
+xṯōba	->	əxṯabō, əxṯōba, xṯabō, xṯōba, xṯōbax, xṯōbe, xṯōbi, xṯōblə, xṯōbun 
+xull	->	xull, xulla, xullaḥ, xulle, xullə, xullen, xulli, xullun, xullxun, xunn, xurr, xuss, xušš, xutt, xuṭṭ 
+xulxōlča	->	xulxōlča, xulxōlčiḏ 
+xuppez	->	xuppez 
+xurō	->	xurō 
+xurrōḥa	->	xurrōḥa 
+xussō/xussū	->	xussō, xussūy 
+xūza	->	xūz, xūza, xūzəl, xūzəš, xuzō 
+xwōra	->	xwōrl 
+xwōṯ-	->	xwaṯinnun, xwaṯinxun, xwōṯ, xwōṯa, xwōṯe, xwōṯiš, xwōṯlə 
+xyōrča	->	xyarōṯa 
+yā rēt	->	rēt 
+ya/yā	->	ya, yā 
+yabraḳ	->	yabraḳ 
+yabruḓ/yabruḏ	->	yabruḓ 
+yabrūḓay/yabrūḏay	->	yabrūḓay, yabruḓō, yabruḓōy, yabruḓōyṯa 
+yalla	->	yalla 
+yarḥa	->	yarəḥ, yarḥa, yarḥel, yarḥič, yarḥil, yarḥir, yarḥiš, yarḥiz 
+yarka	->	yarka, yarke, yarkil, yarkis 
+yasser yyasser	->	yassra, yyassrenna 
+yaṯma	->	yaṯma 
+yatta	->	yatta 
+yawna	->	yawən, yawna 
+yawse	->	yaws, yawse 
+yaxni/yaxne	->	yaxni 
+yīb	->	čīb, čība, čībin, nīb, nība, nībin, yīb, yībun 
+yimken	->	yimken 
+yittaʕ	->	čittaʕ 
+yiɁ/yīī/yī/yih	->	yi, yī, yih 
+yōma	->	yōma, yōme, yōməč, yōməl, yōmən, yōmət, yōməṯ, yōməz, yōməẓ, yōmil, yōmlə, yōmun, yūm, yūməllə, yumō, yumōye, yumōyəl, yumōyəs, yumōyəṯ 
+yōnsun/yōnson	->	yōnson, yōnsun 
+yumma	->	yumma 
+yummen/yimmen	->	yummen 
+žabalō	->	žabalō 
+ẓabərṯa	->	ẓabərṯe 
+zabōḳa	->	zabōḳa 
+žabra	->	žabra 
+ẓafərṯa	->	ẓafərṯa, ẓafərṯe 
+ẓaffer	->	ẓaffer 
+zaḥəmṯa	->	zaḥəmṯa 
+zahər	->	zahər 
+žahhez yžahhez	->	mžahhezəl, mžahhzill, mžahhzin, mžahhziṣṣ, nimžahhezle, nimžahhzilla, žahhəzlēle, žahhīzin, žahhzaččil, žahhzinnaḥ, ʕamžahhza 
+zahītay	->	zahītay 
+zaḥlaḳ yzaḥleḳ	->	zaḥlaḳ 
+zaḥle	->	zaḥle 
+zahra	->	zahra 
+žahtaḥ	->	žahtaḥ 
+zahwe	->	zahwe 
+žakēt	->	žakēte 
+zaḳḳef yzaḳḳef	->	mzaḳḳef, zaḳḳfōn, zaḳḳfulle 
+zaḳzūḳa	->	zaḳzūḳa 
+zaləmṯa	->	zaləmṯa, zalman, zalmōṯa, zalmōṯlə, zalmṯa 
+žaləsṯa	->	žaləsṯa, žalsōṯa 
+ẓalġeṭ yẓalġeṭ	->	čimẓaləġṭa, əmẓaləġṭin, mẓaləġṭa, mẓaləġṭan, mẓaləġṭin, ʕamẓaləġṭin 
+ẓalġūṭa	->	ẓalġuṭō 
+žalīl	->	žalīl 
+žallas yžallas	->	mžallas 
+zalle yzelle	->	čažō, čizlillxun, čizlōš, čōz, čōza, čzella, čzellax, čzēx, əzlillun, izel, nizel, nizlillaḥ, nizlōl, nizlōli, nōz, nōza, nōzi, nōzin, nzēḥ, nzellaḥ, nzill, nzilli, nzinn, ōz, ōza, ōzan, ōzi, ōzin, yizlallen, yizlillun, yizlullun, yzelle, zalle, zallun, zellax, zelle, zēx, zīla, zīlan, zilliš, zīš, zlalla, zlallen, zlallxon, zlallxōn, zlīčlax, zlill, zlilli, zlillun, zlinnaḥ, zlīšliš, zlōla, zlōn, zzella, zzellax, zzilliš, ʕamzelle, ʕanizlillaḥ 
+žalles yžalles	->	žallsull 
+žallōta	->	žallōta 
+žaməʕṯa	->	žaməʕṯa, žaməʕṯəllə, žamʕəṯlə 
+žammeʕ/žammaʕ yžammeʕ/yžammaʕ	->	əmžammʕin, mžammʕill, mžammʕille, mžammʕillun, yžammʕull, žammaʕ, žammeʕ, žamməʕlaḥəl, žammiʕill, žammīʕin, žammʕinnaḥ, žammʕull 
+žammōla	->	žammōla 
+zamōna	->	əzzamōn, zamanayhun, zamanōyəl, zamanōyəž, zamōl, zamōn, zamōna, zamōne, zamōnəl, zamōnət 
+zamra	->	zamra 
+žamra	->	žamra 
+žamʕa	->	žamʕa 
+žamʕōyṯa	->	žaməʕyōṯa, žamʕōyṯa, žamʕōyṯlə 
+žandurma/žanderma	->	žanderma 
+zangīlay	->	zangīlay, zangilōyin 
+ẓannar yẓannar	->	ẓannīra 
+žanne	->	žanne 
+žannen/žannan yžannen/yžannan	->	mžánnina, žannan, žannaṯ 
+žannez yžannez	->	yžannzunne 
+ẓanṭer yẓanṭer	->	ẓẓanəṭraṯ 
+zanzabīla	->	zanzabīla 
+žanzīra	->	žanzīra 
+zappen yzappen	->	čimzappell, čzappnenne, čzappnill, əmzappnilla, mzappell, mzappella, mzappen, mzappenlon, mzappnin, nimzappella, nimzappen, nimzappnilla, nimzappnille, nzappīlle, nzappillēle, nzappnell, nzappnenn, nzappnenna, nzappnenne, yzappen, yzappnenna, yzappnenne, yzappnunna, yzappnunne, zappēn, zappill, zappillaḥəl, zappillaḥlə, zappna, zappnā, zappnē, zappnələ, zappničča, zappnunn, zzappen, ʕamzappen 
+žappen yžappen	->	mžappnille, yžappnull 
+žappōnča	->	žappōnča 
+ẓarfa	->	ẓarfa 
+žarraʕ yžarraʕ	->	žarʕil 
+žarreṣ yžarreṣ	->	mžarrṣōš, yžarrṣunnaḥ, žžarrṣinni 
+žarṣa	->	žarṣa, žarṣō 
+žarut	->	žarut 
+žaržūra	->	žaržūra 
+ẓarʕa	->	ẓarʕa 
+žasta	->	žasta 
+žaṭō	->	žaṭō 
+žattet yžattet	->	mžattitill 
+žawəlṯa	->	žawəlṯa 
+zawəṯṯa	->	zawəṯṯa 
+zawġa	->	zawġ 
+žawharča	->	žawəhrōṯa, žawharča, žawharče 
+zawta	->	zawta 
+žawwa	->	žawwa 
+zawwaʕ yzawwaʕ	->	zawwʕa, zawwʕīčən 
+zawweḏ yzawweḏ	->	zawwiḏilla 
+zawwōra	->	zawwarō 
+zawʕa	->	zawʕa, zawʕe, zawʕi 
+zaxma	->	zaxma 
+zaxxem/zaxxam yzaxxem/yzaxxam	->	nzaxxem, zaxxēm 
+žayša	->	žayša 
+zayṯa	->	zayṯa, zayṯō, zayṯōye 
+zayya	->	zayyil 
+zayyen yzayyen	->	mzayyell, mzayyna, mzayynill, mzayynilla, mzayynille, zayyinill, zayyinillun 
+zaʕčar	->	zaʕčar 
+zaʕīma	->	zaʕīma, zaʕimōyəl 
+zaʕla	->	zaʕle 
+zaʕlan	->	zaʕlōn, zzaʕlōn 
+zaʕweḳ yzaʕweḳ	->	mzaʕweḳ 
+ẓaʕweṭ yẓaʕweṭ	->	mẓaʕwṭin 
+zbōlča	->	zbōlča 
+zbūna	->	zbūniš 
+žefča	->	žefča 
+žehṯa	->	žehṯa 
+zeḳḳa	->	zeḳḳa 
+zekra	->	zekra, zzikra 
+želatīn	->	želatīn 
+žēmeʕ	->	žēmeʕ 
+zēniddār	->	zēniddār 
+zenta	->	zente 
+ẓerpa	->	ẓerpa 
+žesma	->	žesma, žesme, žesmit, žesmiṭ 
+žezɁa	->	žizəɁ 
+žhannab	->	žhannab 
+žhōza	->	žhōza, žhōzəl 
+zibnō	->	zibnō 
+žičča	->	žičči 
+ziḥlawnay	->	ziḥlawnōyin 
+žīrča	->	žīrča 
+žitta	->	žittawōṯaḥ, žittawōṯun, žittun 
+zīza	->	zīza 
+žiztōna	->	žiztōn 
+zkawṯa	->	zkawṯa 
+zkōn	->	əzkōn, zkōn 
+žlōlča	->	žlōlčax, žlōlče 
+žmīʕča	->	žmīʕčil, žmīʕčit, žmīʕčlə 
+žmōʕa	->	žmōʕa 
+žnōḥa	->	žnaḥō 
+žnōzča	->	žnōzča 
+žōhez	->	žōhez, žōhza, žōhzan 
+žoḳərṯa	->	žoḳərṯa 
+žoḳra	->	žuḳər 
+ẓolma	->	ẓolma 
+zōma	->	zōma 
+žōmaʕ yžōmaʕ	->	mžamaʕəš 
+žoməlṯa	->	žoməlṯa, žoməlṯil, žoməlṯon 
+zōr	->	zōr 
+žorəzṯa	->	žorəzṯil 
+žorma	->	žorma 
+žorta	->	žorta 
+zōt	->	zōta, zōte 
+žōweb yžōweb	->	mžawebəl, mžaweble, mžawiblēle, mžawibōle, nžawibenne, yžawibenne, žawibann, žawībe, žawiblēle 
+žōyez	->	žōyez, žōyza, žžōyez 
+žrītča	->	žrityōṯa 
+zrīʕča	->	zrīʕča 
+ẓrōʕa	->	ẓrōʕa 
+žubaylīṯa	->	žubaylīṯa 
+žubaylō	->	žubaylō 
+ẓulṭa/ẓelṭa	->	ẓulṭe 
+žumhurōyṯa	->	žumhurōyṯa 
+žumžomṯa	->	žumžomṯa 
+ẓunnarōyṯa	->	ẓunnarōyṯa, ẓunnarōyṯe 
+ẓunnōra	->	ẓunnōra, ẓunnōrax, ẓunnōrəs 
+žunnōza	->	žunnōza, žunnōzlə 
+zuppōna	->	zuppōna, zuppōnəl 
+zuptōyṯa	->	zuptōyṯa 
+žuryes	->	žuryes 
+žuržaffa	->	žuržaffa 
+žurži	->	žurži 
+žūxa	->	žūxa 
+zuyyōḥa	->	zuyyōḥa 
+žuzēf	->	žuzēf 
+žwōba	->	žwōba, žwōbe 
+zwōḏa	->	zwaḏō, zwōḏa, zwōḏe 
+žʕēra	->	žʕēra 
+žʕīlča	->	žʕīlča 
+žʕilō	->	žʕillayxun 
+zʕōḳa	->	zʕōḳe 
+ʕa ṣummeč	->	ṣummeč 
+ʕa/ʕal	->	aʕəl, aʕlax, aʕle, aʕli, aʕliš, əʕ, ʕ, ʕa, ʕal, ʕl, ʕlayhun, ʕlayn, ʕlaynaḥ, ʕlayxun, ʕlayy, ḥ
+ʕabdo	->	ʕabdo 
+ʕabərṯa	->	ʕabərṯi 
+ʕaččeḳ	->	ʕaččeḳ, ʕaččīḳa, ʕaččīḳin 
+ʕačəpṯa	->	ʕačəpṯa 
+ʕaḏḏab yʕaḏḏab	->	nʕaḏḏab 
+ʕaḏḏeb yʕaḏḏeb	->	čimʕaḏḏbilli, mʕaḏḏbilla, mʕaḏḏbōl, mʕaḏḏbōš, mʕaḏḏbōši, yʕaḏḏbenne, ʕaḏḏəblaḥəl, ʕaḏḏəpčunne 
+ʕāde	->	ʕāde 
+ʕafīṯa	->	ʕafīṯa 
+ʕafra	->	ʕafra, ʕafre 
+ʕafye	->	ʕafye, ʕāfye 
+Ɂaḥḥaḏ	->	čɁaḥḥaḏ 
+ʕahta	->	ʕahta, ʕahtil 
+ʕaḳərba	->	ʕaḳərba, ʕaḳərbō 
+ʕaḳīta	->	ʕaḳīta 
+ʕakkez yʕakkez	->	ʕamʕakkez 
+ʕakkōra	->	ʕakkarō, ʕakkarōyəl, ʕakkōra, ʕakkōrəl, ʕakkōrəš, ʕakkōrlə 
+ʕakkūša	->	ʕakkūša 
+ʕaḳla	->	ʕaḳəl, ʕaḳla, ʕaḳlayhun, ʕaḳle 
+ʕaḳōna	->	ʕaḳōna, ʕaḳunō 
+ʕaḳta	->	ʕaḳta 
+ʕala bina	->	bina 
+ʕali	->	ʕali 
+ʕall yʕall	->	yʕall, ʕall, ʕallna 
+ʕallaḳ yʕallaḳ	->	mʕallaḳ 
+ʕalleḳ yʕalleḳ	->	mʕalleḳ, mʕallḳa, mʕallḳilla, mʕallḳillaḥ, mʕallḳille, mʕallḳillun, mʕallḳin, nimʕallḳille, nʕalleḳ, ʕalleḳ, ʕalləḳlaḥlun, ʕallīḳa, ʕallḳannen, ʕallḳunna, ʕallḳunne, ʕallḳunnē 
+ʕallem	->	ʕallīma 
+ʕallem yʕallem	->	ʕallem 
+Ɂalmānya	->	Ɂalmānya 
+ʕalōḳča/ʕlōḳča/ʕilōḳča	->	ʕilōḳča 
+ʕalōmča	->	ʕalōmča 
+ʕalōmča/ʕulōmča	->	ʕalamyōṯa, ʕulōmča 
+ʕalya	->	ʕalya, ʕalyil 
+ʕalyṯa	->	ʕalyan, ʕalyṯa 
+ʕama	->	ʕama 
+ʕamalōyṯa	->	ʕamalōyṯa 
+ʕaməlṯa	->	ʕaməlṯe 
+ʕamlay	->	ʕamlay 
+ʕamma	->	ʕamma 
+ʕammal	->	ʕammal 
+ʕammar yʕammar	->	mʕammrilla, mʕammrille, mʕammrin, mʕammrōla, nʕammarlaḥ, nʕammīrin, ʕammar, ʕammirill, ʕammrulla 
+ʕammeḏ yʕammeḏ	->	mʕammḏin, yʕammḏull, yʕammḏunne, ʕammḏe 
+ʕammeṣ yʕammeṣ	->	mʕammiṣlille 
+ʕammṯa	->	ʕaməṯ, ʕammṯa 
+ʕamra	->	ʕamra, ʕamre 
+ʕamūḏa/ʕammūḏa	->	ʕammuḏō 
+ʕann/ʕanni yʕann/yʕanni	->	čimʕann, əmʕann, əmʕannyin, mʕann, mʕannēḥ, mʕanni, mʕannyan, mʕannyilla, mʕannyille, mʕannyin, nimʕann, nʕannēḥ, nʕanni, yʕann, yʕannun, ʕačimʕannyin, ʕamʕann, ʕamʕannēl, ʕamʕannyin, ʕanimʕanni, ʕannēḥ, ʕanneḥī, ʕannelē 
+ʕanṣarča	->	ʕanṣarča 
+ʕanṭaẓ/ʕanṭeẓ yʕanṭaẓ/yʕanṭeẓ	->	mʕanṭaẓ 
+ʕantuḳ	->	ʕantuḳ 
+ʕapp yʕapp	->	čimʕapplill, čimʕappya, čʕapplīl, əmʕapplōle, mʕapp, mʕappēl, mʕappēla, mʕappyill, mʕappyilla, mʕappyille, mʕappyillen, mʕappyillun, nimʕappēṭ, nimʕapplōx, nimʕappyille, nimʕappyillen, nimʕappyin, nʕapp, nʕappenn, nʕappēṭ, nʕappīlla, nʕappiyiḏḏ, nʕappiyill, yʕappess, ʕamʕappēl, ʕappā, ʕappaččil, ʕappalle, ʕappannūn, ʕappēle, ʕappīl, ʕappiyill, ʕapplaḥəl, ʕapplalle, ʕapplillax, ʕappull 
+ʕappar yʕappar	->	mʕappar, mʕapparlə, mʕapparlun, mʕapprille, nimʕapparəl, nimʕapparla, ʕappirill, ʕappraččun, ʕapprunna 
+ʕapta	->	ʕapta, ʕaptō, ʕaptōya 
+ʕárabay	->	ʕarabōy 
+ʕárabeṯ	->	ʕárabeṯ 
+ʕarabōyṯa	->	ʕarabōyṯa 
+ʕaraḳ	->	ʕaraḳ 
+ʕarbaš yʕarbaš	->	ʕarpšinnaḥ 
+ʕarḓa	->	ʕarḓa, ʕarḓe, ʕarḓil 
+ʕarīḓa	->	ʕarīḓa 
+ʕarkel yʕarkel	->	yʕarklell, ʕarkīll, ʕarklil 
+ʕarḳūba	->	ʕarḳūba, ʕarḳubō 
+ʕarraḓ yʕarraḓ	->	mʕarrḓōl 
+ʕarref yʕarref	->	mʕarrefle, yʕarrfenna 
+ʕarreṭ yʕarreṭ	->	mʕarrṭa, mʕarrṭōle 
+ʕarruṭō	->	ʕarruṭō 
+ʕarša	->	ʕarša 
+ʕaṣba	->	ʕaṣbe 
+ʕaṣər	->	ʕaṣər, ʕaṣr 
+ʕāṣi	->	ʕāṣi 
+ʕáskaray	->	nʕáskaray, ʕáskaray 
+ʕaskarōyṯa	->	ʕaskarōyṯa 
+ʕaskra	->	ʕaskra, ʕaskre 
+ʕaṣra	->	ʕaṣra, ʕaṣre 
+ʕaṣṣ yʕaṣṣ	->	ʕaṣṣ 
+ʕaššeb yʕaššeb	->	nʕaššeb 
+ʕaššeš yʕaššeš	->	mʕašiša 
+ʕašši	->	ʕašši 
+ʕašwaš yʕašwaš	->	mʕašwaš 
+ʕatāba	->	ʕatāba 
+ʕaṭalla	->	ʕaṭa, ʕaṭalla 
+ʕatinne	->	ʕatinne 
+ʕatla	->	ʕatle 
+ʕatman	->	ʕatman, ʕatmōn 
+ʕatt yʕatt	->	mʕatt 
+ʕaṭṭel	->	ʕaṭṭīla, ʕaṭṭīlin 
+ʕattel yʕattel	->	čimʕattellə, mʕattella 
+ʕawna	->	ʕawnl 
+ʕaww yʕaww	->	mʕawwyin 
+ʕawweḓ yʕawweḓ	->	mʕawwiḓliš, nʕawwəḓlēx 
+ʕaya	->	ʕaya 
+ʕayatt-/ʕyatt-	->	ʕayattax, ʕayattil, ʕayattl, ʕyatt, ʕyatte, ʕyattil 
+ʕayba	->	ʕayba 
+ʕaylṯa/ʕayəlṯa	->	ʕayəlṯa, ʕaylan, ʕaylōṯa, ʕaylṯa 
+ʕaymṯa	->	ʕaymṯa 
+ʕayn(i) yʕayn(i)	->	mʕayn, mʕaynya, mʕaynyin, nimʕayn, nimʕaynyin, ʕamʕayn, ʕamʕaynīl, ʕanimʕaynyin, ʕayn, ʕaynalle, ʕaynaṯ, ʕaynēl, ʕaynēla, ʕaynēle, ʕayninnaḥ, ʕayniš, ʕayniṯ 
+ʕayna	->	ʕayna, ʕaynax, ʕaynay, ʕayne, ʕaynēṭ, ʕayni, ʕaynil, ʕaynōš, ʕaynōx, ʕaynōy, ʕaynōya, ʕaynōye, ʕaynōyəl 
+ʕayy(i) yʕayy(i)	->	mʕayy, mʕayyēx, mʕayyīl, mʕayyillun, mʕayyin, ʕamʕayyill, ʕamʕayyōlun, ʕayyullax 
+ʕayyeḏ yʕayyeḏ	->	mʕayyḏin, nʕayyeḏ, ʕayyḏiččil 
+ʕayyen yʕayyen	->	nʕayyelle 
+ʕaža	->	ʕaža 
+ʕažəḳṯa	->	ʕažəḳṯa 
+ʕažəlṯa	->	ʕažəlṯa 
+ʕažīne	->	ʕažīne 
+ʕazīz	->	ʕazīz 
+ʕazma	->	ʕazma, ʕazmaḥ, ʕazme 
+ʕažrafča	->	ʕažrafča 
+ʕazz yʕazz	->	mʕazzēl 
+ʕazzam yʕazzam	->	ʕazzam, ʕazzām 
+ʕaẓẓar yʕaẓẓar	->	mʕaẓẓarla, nʕaẓẓrennxon, yʕaẓẓrunnaḥ 
+ʕazzel yʕazzel	->	mʕazzlill, mʕazzlin 
+ʕazzōbay	->	ʕazzabō, ʕazzabōyan, ʕazzōbay 
+ʕažžōnča	->	ʕažžōnča 
+ʕbōyṯa	->	ʕbayōṯa, ʕbōyṯa, ʕbōyṯlə 
+ʕēḏa	->	ʕē, ʕēḏ, ʕēḏa, ʕēḏəḓ, ʕēḏəl, ʕēḏlə, ʕiḏō 
+ʕelma	->	ʕelma, ʕelmaḥ, ʕelme, ʕilmi 
+ʕemm-	->	ʕemma, ʕemme, ʕemməllə, ʕemmil, ʕemmilə, ʕemmin, ʕemmir, ʕemmis, ʕemmiš, ʕemmit, ʕemmiṭ, ʕemmiz, ʕemml, ʕemmlə, ʕimm, ʕimmayhun, ʕimmayn, ʕimmaynaḥ, ʕimmayy, ʕimmayyun, ʕimmi, ʕimmiš 
+ʕenəpṯa	->	ʕinbō, ʕinbōya 
+ʕerḳa	->	ʕerḳa, ʕirḳōye 
+ʕēṣmalō	->	ḥilō, ʕēṣmalō 
+ʕetla	->	ʕetla, ʕitəl, ʕitlō 
+ʕezza	->	ʕezza, ʕezzax, ʕezziš, ʕezzlə, ʕizzi, ʕizzō, ʕizzōye 
+ʕgōla/ʕugōla	->	ʕugōlax, ʕugōle 
+ʕibāra	->	ʕibāra 
+ʕibōčča	->	ʕibōčča 
+ʕida	->	ʕida 
+ʕiḏōyṯa	->	ʕiḏōyṯa 
+ʕīla	->	ʕīla 
+ʕīlča	->	ʕīlča 
+ʕillaṯ	->	čʕōlla, yʕullun, ʕillaṯ, ʕillinnaḥ, ʕilliṯ, ʕōllin 
+ʕillīṯa	->	ʕillīṯa 
+ʕinwōna	->	ʕinwōne, ʕinwōnət 
+ʕīšča	->	ʕīšča 
+ʕisər/ʕisri	->	ʕisər 
+ʕisren	->	ʕisren 
+ʕittōna	->	ʕittōna 
+ʕizzīṯa	->	ʕizzīṯəs 
+ʕmīrča	->	ʕmīrča, ʕmiryōṯa 
+ʕnēna	->	ʕnēna 
+ʕočma	->	ʕočma 
+ʕōhet yʕōhet	->	nimʕahitōši 
+ʕōkar yʕōkar	->	ʕanimʕakīrin 
+ʕōḳeb yʕōḳeb	->	ʕaḳībəl 
+ʕōḳel	->	ʕōḳel 
+ʕōlma	->	ʕōlma 
+ʕolpṯa	->	ʕoləpṯa, ʕoləpṯil, ʕoləpṯit, ʕolpṯa, ʕolpṯil, ʕolpṯis, ʕulpōṯa, ʕulpōṯəl 
+ʕoməlṯa	->	ʕoməlṯa 
+ʕōmla	->	ʕōmla 
+ʕomra	->	ʕomərl, ʕomra, ʕomrax, ʕomre, ʕomril, ʕomrit, ʕomrl, ʕomrun, ʕumər, ʕumraynaḥ, ʕumri, ʕumriš 
+ʕōna	->	ʕōna 
+ʕonta	->	ʕonta 
+ʕoppa	->	ʕoppe, ʕuppaynaḥ, ʕuppi, ʕuppō 
+ʕorəʕra	->	ʕorəʕra, ʕorʕra, ʕurəʕri, ʕurəʕrō 
+ʕorfa	->	ʕorfil 
+ʕošba	->	ʕošba 
+ʕošəpṯa	->	ʕošəpṯa 
+ʕošša	->	ʕoššil 
+ʕoṭra	->	ʕoṭra 
+ʕōṯṯa/ʕōtṯa	->	ʕatōṯa, ʕōṯṯa 
+ʕottṯa/ʕoṯṯa	->	ʕoṯṯa 
+ʕōwet yʕōwet	->	čimʕawīta, mʕawətlōl, mʕawīta, mʕawītin, mʕōwet, mʕowītin, nimʕawītin, nʕawətlēx, nʕawitenna, nʕōwet, yʕawītun, yʕōwet, ʕawīta, ʕawītaṯ, ʕawītič, ʕawitinnaḥ, ʕawītiṯ, ʕowēt, ʕōwet, ʕowītaṯ 
+ʕowwet yʕowwet	->	mʕowwet, nimʕowwet, nʕowwet, ʕawwet, ʕowwet 
+ʕōyeḏ yʕōyeḏ	->	mʕayeḏəl, mʕayiḏill, mʕayiḏilla, mʕayiḏillun, mʕayīḏin, mʕayiḏōla, nimʕayiḏill 
+ʕōyen yʕōyen	->	ʕayīniṯ 
+ʕōẓar	->	ʕōẓar 
+ʕōžez	->	ʕōžez 
+ʕōžza	->	ʕōžza 
+ʕrēba	->	ʕrēbəš 
+ʕrōba	->	əʕrōba, ʕrōba 
+ʕrōḓča	->	əʕrōḓča, ʕrōčča, ʕrōḓča, ʕrōḓčər, ʕrōḓyan 
+ʕrōḓča/ʕarōḓča	->	ʕaraḓyōṯa 
+ʕrūfča	->	ʕrūfča 
+ʕṣofra	->	ʕṣofra, ʕṣufrō 
+ʕṭūsa	->	ʕṭūsa 
+ʕtuwwa	->	ʕtuwwa, ʕtuwwōy 
+ʕubya	->	ʕubya 
+ʕuḏōba	->	ʕuḏōba 
+ʕukkōzča	->	ʕukkōzča 
+ʕuḳūpča	->	ʕuḳūpča 
+ʕumar	->	ʕumar 
+Ɂummay	->	nɁummay 
+ʕummōra	->	ʕummōra 
+ʕunnīṯa/ʕunīṯa	->	ʕunīṯa, ʕunnīṯa 
+ʕunnū/ʕunnō	->	ʕunnō, ʕunnū 
+ʕurnīṯa	->	ʕurnīṯa 
+ʕurpōla	->	ʕurpalō, ʕurpōl, ʕurpōla 
+ʕurrōbay	->	ʕurrabō, ʕurrabōy, ʕurrōbay 
+Ɂustrād	->	Ɂustrād 
+ʕwaynōt	->	ʕwaynōt 
+ʕwurya	->	ʕwurya 
+ʕyōla	->	ʕyōla, ʕyōle 
+ʕyōnča	->	ʕyōnčiṯ 
+ʕyōra	->	ʕyōra, ʕyōre 
+ʕžēža	->	ʕžēža 
+ʕzīmča	->	ʕzīmča 
+ʕžīpča	->	ʕažibōṯa, ʕažīpče, ʕžibōṯa, ʕžībyan, ʕžīpča 
+ʕzīza	->	ʕzīza 	 
