@@ -1,0 +1,4454 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-07-26T06:59:22.352Z",
+  "baseUrl": "https://evb0110.github.io/static/MASC_v1.0/",
+  "totalSize": 919127219,
+  "totalFiles": 889,
+  "files": {
+    "01_MASC_transcriptions/III.01.txt": {
+      "size": 2972,
+      "hash": "bacda422e437ad31cfad859990e75584bd709dce",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.02.txt": {
+      "size": 1582,
+      "hash": "b005f293f240a7585379781ff94f2385e74891f8",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.03.txt": {
+      "size": 2004,
+      "hash": "66a8b020cfc513bf191d16563089d32aad3a0850",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.04.txt": {
+      "size": 3476,
+      "hash": "10536e97dbd42df18a5ac40f9141d790c2645b1b",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.05.txt": {
+      "size": 2174,
+      "hash": "4e2efc8d88c60dfa74f76615e0e43111820ecf95",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.06.txt": {
+      "size": 2564,
+      "hash": "41ce020191c3d7d3f09ccac8ad8549adcd7d0667",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.07.txt": {
+      "size": 1082,
+      "hash": "f51d2fe0940716aeb3fc46f5b0a1252a9d682aac",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.08.txt": {
+      "size": 3550,
+      "hash": "c880c9c27289fae784bf564f00e7e0de163d4a86",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.09.txt": {
+      "size": 2293,
+      "hash": "92695d8f169c12d6c8e98fcd0fd769c91912d079",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.10.txt": {
+      "size": 1067,
+      "hash": "e84b3385b8e0c79c2ee962ae21931022198d8950",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.11.txt": {
+      "size": 2812,
+      "hash": "91c462d2313f38631c73540c367b9aa32ec34c4e",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.12.txt": {
+      "size": 2995,
+      "hash": "0cec73a800ba3855c65c922f4b3ea5425678685b",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.13.txt": {
+      "size": 945,
+      "hash": "6d93acd33ebcf3af522185ea0b1a7607cd3efee9",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.14.txt": {
+      "size": 4474,
+      "hash": "52cc8e65638291d0f7a66e5ac6df41217d63baa5",
+      "lastModified": "2025-07-26T06:59:22.352Z"
+    },
+    "01_MASC_transcriptions/III.15.txt": {
+      "size": 3999,
+      "hash": "69926fb163ebcaf71d28a11d41b1b2670ff9259b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.16.txt": {
+      "size": 4178,
+      "hash": "4d3bf29a8071c5134b0fd452b383e899d1d92324",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.17.txt": {
+      "size": 2321,
+      "hash": "7e7e4c863f9635abf52ec6d65c449f76283ff5d3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.18.txt": {
+      "size": 724,
+      "hash": "ecacd16957e3e9176c21b4c72960f1ad180a2dff",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.19.txt": {
+      "size": 4983,
+      "hash": "8e38b3f0a5621ec1e5253916352f97aba81480e6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.20.txt": {
+      "size": 1685,
+      "hash": "d979a011d99861f874626834f03208d8fc88598d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.21.txt": {
+      "size": 684,
+      "hash": "1d0d69429b665581862f6aa525e7e8dabb3fb668",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.22.txt": {
+      "size": 878,
+      "hash": "aaa7579fdd974cbffcffd0e109f95c99b84fbe6d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.23.txt": {
+      "size": 1576,
+      "hash": "97c81967a5f859cc674a33a7f167e72aebbb85a8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.24.txt": {
+      "size": 832,
+      "hash": "c0e81626ea94f1b5f2e20fe1d18ef3d4c041951a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.25.txt": {
+      "size": 1833,
+      "hash": "794615d631f49047723e07e3e098dee794ff209b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.26.txt": {
+      "size": 1702,
+      "hash": "544a98829a2a5ac084aab5cc865715e05897ce69",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.27.txt": {
+      "size": 765,
+      "hash": "8a83b96c045bb320a7c184e5b4af4d46e73965a9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.28.txt": {
+      "size": 3214,
+      "hash": "de02fab65fdad4e036ea520e67f3eea9911501de",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.29.txt": {
+      "size": 2411,
+      "hash": "a1a649b3edf9905f65846b725731509901ac6325",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.30.txt": {
+      "size": 7957,
+      "hash": "9774d3f04ca76df352dde22dd759a68353f6da1b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.31.txt": {
+      "size": 3866,
+      "hash": "b3f176472e88019d2fcc10b5a12976885d0fdc1c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.32.txt": {
+      "size": 4595,
+      "hash": "a88ae9532a534bd9679c253ce2f8e730bf929009",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.33.txt": {
+      "size": 4372,
+      "hash": "627de4454423ae2609eaed8f5eb59d06146236ce",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.34.txt": {
+      "size": 347,
+      "hash": "945f6fb0065c85976c9a9a86f7c560cbbf7ee37a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.35.txt": {
+      "size": 811,
+      "hash": "7cb8199f4c8fe0f970b18e3918258cba0d650b2f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.36.txt": {
+      "size": 1019,
+      "hash": "3ccdb446193c3717b2206086213dd20fe1a70e5a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.37.txt": {
+      "size": 1435,
+      "hash": "e14a35f208086800dd8a2cb9bb9c578fe17a4e3a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.38.txt": {
+      "size": 6381,
+      "hash": "441471b083ce4ed77ea780727858a371c633ec6f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.39.txt": {
+      "size": 1120,
+      "hash": "d100528aa24a146ab1df8be5a5916ac7a65e6ae0",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.40.txt": {
+      "size": 702,
+      "hash": "b257dcebbf2e79788e2a6a632c6555d3987bff44",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.41.txt": {
+      "size": 1304,
+      "hash": "19333b706995b363adceb9916165fc2e434e4061",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.42.txt": {
+      "size": 2925,
+      "hash": "c3f83d280f0f7bbc118ce458e2b8e5926eeb3ab9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.43.txt": {
+      "size": 1241,
+      "hash": "bc6d327096364ff99ac79ad4f7ce8d3eae91b5b1",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.44.txt": {
+      "size": 11203,
+      "hash": "73ca585e25a5cda0e1b62a734e7bb08b6236b97e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.45.txt": {
+      "size": 8014,
+      "hash": "a6cd1e51b297a79ee8cb1345bf7f68fcf0c65c45",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.46.txt": {
+      "size": 3475,
+      "hash": "158e8e301d7a8b286daff41454ed103b218d6123",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.47.txt": {
+      "size": 5850,
+      "hash": "9b0552354eff2cf1abee3b1d3cba9d5e8c81dcc6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.48.txt": {
+      "size": 2525,
+      "hash": "6cbc438fbff360265e58740cd375cc32e6d5920a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.49.txt": {
+      "size": 6781,
+      "hash": "831b5fa8f8a4e6c1b7cf0f52d80c044ed1567360",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.50.txt": {
+      "size": 5688,
+      "hash": "ceff0454733e14bf0997d204f784eb05c923b1e0",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.51.txt": {
+      "size": 1395,
+      "hash": "0e95a0c5035ce7c90beb2ba0111b7d9fa1bf5c7f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.52.txt": {
+      "size": 6799,
+      "hash": "40676cae0bfed77e0aeda11655a0c3234d53cdaa",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.53.txt": {
+      "size": 6188,
+      "hash": "07dc75614bb5a8907995f63577719c14d569120c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.54.txt": {
+      "size": 10069,
+      "hash": "56bee0630ebb2a5e9e4e5e740dfdaec072a3b159",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.55.txt": {
+      "size": 1813,
+      "hash": "a6b3e618ce7d5141f04872fe458352c20bdb671a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.56.txt": {
+      "size": 9296,
+      "hash": "bba48e018d975e924129107225e8608381857296",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.57.txt": {
+      "size": 2430,
+      "hash": "e136ad44c1fc36252ec250d39781fe216d7f4734",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.58.txt": {
+      "size": 1382,
+      "hash": "cf699306160e0f323d422ddcc46dac661f3ca38c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.59.txt": {
+      "size": 2428,
+      "hash": "83deb43b7f3bc623ffa752ebf23ccbca9f6f500e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.60.txt": {
+      "size": 2876,
+      "hash": "a49272bc0e06d7c0422ee8044fba4e914dadf1bc",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.61.txt": {
+      "size": 1193,
+      "hash": "a84374bc25425dd79f4e58ebcfd4cc3637f66de9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.62.txt": {
+      "size": 3052,
+      "hash": "c3b756e3895d7ef24972d23f74120957a33c2afe",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.63.txt": {
+      "size": 1513,
+      "hash": "9631698fa0a152f4192d5cdfaa6dad2d564bb30a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.64.txt": {
+      "size": 1903,
+      "hash": "dc80c2caee693531b5f518e59d3e15128622d3cf",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.65.txt": {
+      "size": 1860,
+      "hash": "1a2cee553e12f854b81f924610de9c33fce6af26",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.66.txt": {
+      "size": 1503,
+      "hash": "dd6aeb3e974f5f1016ca000703a32c7cbb1851ca",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.67.txt": {
+      "size": 421,
+      "hash": "1e1593e7fdab0da65e59f0b61f0a8ac4fab73862",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.68.txt": {
+      "size": 519,
+      "hash": "cd642485f0bb3c2daef03f91f3b8db5489d33df2",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.69.txt": {
+      "size": 525,
+      "hash": "870697e6f0a95c6443bbce3b6365945749f46bcb",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.70.txt": {
+      "size": 1016,
+      "hash": "c2fa7dd2e5a696926563f05dbe77e87ed3e6a1b6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.71.txt": {
+      "size": 1605,
+      "hash": "bab12a70d86c580dd65327a6aaec9810b0bd6750",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.72.txt": {
+      "size": 831,
+      "hash": "2d93ef85a2a0bad05e0a39b57ec45a0faf7b8b67",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.73.txt": {
+      "size": 1422,
+      "hash": "75f4af08070de7c3ba0166946f31bc322a2ba41e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.74.txt": {
+      "size": 1505,
+      "hash": "63d437accd6fd55e42f9920b347351dedbecf9c9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.75.txt": {
+      "size": 1244,
+      "hash": "726ddd6189d46f8c10c68a152c2706a724527aac",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.76.txt": {
+      "size": 1352,
+      "hash": "5ac86272012b9aed0603d2fc90c603235a38a105",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.77.txt": {
+      "size": 1953,
+      "hash": "4d94bab360f2234b26882353cec5965f0a998695",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.78.txt": {
+      "size": 1437,
+      "hash": "76e70798d759e41a66c956f8352ff189d20d0ab3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.79.txt": {
+      "size": 1265,
+      "hash": "e712f0c8046915e629f7b5501da05641a1a5623e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.80.txt": {
+      "size": 2095,
+      "hash": "dd7c88e75aad1960e6e5999818be7697d9f0b184",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.81.txt": {
+      "size": 1351,
+      "hash": "3cde800909d1d6a723c27d821c59e4cedf122fd7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.82.txt": {
+      "size": 1359,
+      "hash": "9b1e8e6adacd0dd942c26b3b365b9db6873877dd",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.83.txt": {
+      "size": 2187,
+      "hash": "b1eb279f8d4532d7b2f6097ee419d4727ead5f73",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.84.txt": {
+      "size": 1107,
+      "hash": "7cb198a595346ca316c28aceb5c984e20e921e03",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.85.txt": {
+      "size": 1396,
+      "hash": "b9d74e86c99b61b95fc9b853425340fbbae4ddc9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.86.txt": {
+      "size": 1501,
+      "hash": "2b9175c8e6af45d88b03f7c905eec006d2f7a375",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.87.txt": {
+      "size": 900,
+      "hash": "020d8a569c88ec0ef6120eb9d7eef132200c3d0f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.88.txt": {
+      "size": 1230,
+      "hash": "e70dd78349a677dde702158eb9d336b3eea65e5a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.89.txt": {
+      "size": 1117,
+      "hash": "c26c9b48d5543a437ba5ab6cfae52fb51c9ed4ef",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.90.txt": {
+      "size": 1360,
+      "hash": "827f3117552e797d0c8507585eb2707336655d4e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.91.txt": {
+      "size": 2203,
+      "hash": "82d5264cc2727d8ea501cf654ef69118a87ad616",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.92.txt": {
+      "size": 1163,
+      "hash": "6edb29bdfbd1fd2eb700e27d83ef6d366cb8df49",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.93.txt": {
+      "size": 633,
+      "hash": "b543901365cdf792b32c01e64c7011cf2bbde98e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.94.txt": {
+      "size": 421,
+      "hash": "bbb60b3697660a7195375b939372374ae9accfe0",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.95.txt": {
+      "size": 2026,
+      "hash": "10ffec49be1417cf72f85bfa5c57305f46ac3a06",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.96.txt": {
+      "size": 2952,
+      "hash": "be090e2d10d0d4590468064af4d66679030e888d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.97.txt": {
+      "size": 5112,
+      "hash": "1cc19900118ea8fe30470af24db3be50966c37a7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.98.txt": {
+      "size": 4084,
+      "hash": "b22dcb886f9f4cc8b0cd55c6624c2fa53aeee217",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/III.99.txt": {
+      "size": 15898,
+      "hash": "04b785b1f755de4e2fd2292e48ef6c4ef2c0ba07",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.01.txt": {
+      "size": 4070,
+      "hash": "7c79e01be73470c05e8b38d63a6b422cbff4aadf",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.02.txt": {
+      "size": 3927,
+      "hash": "0716bd65b85f8f6eb6b3dd6a947d9c170793802a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.03.txt": {
+      "size": 3014,
+      "hash": "306148f437eba11576153a5f5fa4fd8aafb15727",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.04a.txt": {
+      "size": 5220,
+      "hash": "a7c76aee26fdf4507442e2c0439e22546e8c6073",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.04b.txt": {
+      "size": 9351,
+      "hash": "2bda6140e379e0b612ffc80f0eedb5555215a04e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.04c.txt": {
+      "size": 12289,
+      "hash": "0503ef19372dd45ef9da21ca2cff4ba6e7428449",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.04d.txt": {
+      "size": 9495,
+      "hash": "5de26c0a4532b064f9e31c5add71ae731445f66c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.05.txt": {
+      "size": 8254,
+      "hash": "a6622a75a0f8c93ef25e382fde419282bce75758",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.06.txt": {
+      "size": 6238,
+      "hash": "184098dd4f7f002f93d768bf4bae242140e3f967",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.07.txt": {
+      "size": 9305,
+      "hash": "b9c46ddf86ce1569bd7fba8e4be2cda3b6162cb9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.08.txt": {
+      "size": 3412,
+      "hash": "10e9f96b2847bb0a978bcdf70081f733c3c11221",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.09.txt": {
+      "size": 4047,
+      "hash": "d58565330c79851c418f9ab6e85cca3a988d5f4f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.10.txt": {
+      "size": 21559,
+      "hash": "706f94ad7f377df624f4735c8d50dae4b5cbb1f0",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.11.txt": {
+      "size": 7453,
+      "hash": "4598ce70be88ed72b57905e36ad6c1631b0ba01e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.12.txt": {
+      "size": 5193,
+      "hash": "40bfb05ebdbb52efce8ca3d1df542167ab81beb7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.13.txt": {
+      "size": 6525,
+      "hash": "803b74ec9699fcbbead464200a5bb2c9293bc234",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.14.txt": {
+      "size": 4300,
+      "hash": "a4d5aad904fc421d237471b8283df90f3f2ff2f8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.15.txt": {
+      "size": 3961,
+      "hash": "f5a8a8351be71eddda3cfa5ce262c086ffbd1742",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.16.txt": {
+      "size": 3337,
+      "hash": "1995d8a36bda893cde2f55f490a09902a1940e50",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.17.txt": {
+      "size": 3445,
+      "hash": "6f3cb4beef50058a6369099c990657cd078704f5",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.18.txt": {
+      "size": 7875,
+      "hash": "67cffdd651ac0c8881a75c45ba48e2b336dd50be",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.19.txt": {
+      "size": 3585,
+      "hash": "873c73082e3cc126d141e6215eb38922a827d4a8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.20.txt": {
+      "size": 8359,
+      "hash": "b3d9deaa81cccf4a72b31d3535ee7381fa805fb2",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.21.txt": {
+      "size": 11305,
+      "hash": "f62c98afc818ec660232f91dd2d694938752fe77",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.22.txt": {
+      "size": 6630,
+      "hash": "0119a53ebad87597bdcfccaf606b2fb645cb7399",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.23.txt": {
+      "size": 4403,
+      "hash": "f9ba77b64f47239d492a1016a88f4560bec4d166",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.24.txt": {
+      "size": 3613,
+      "hash": "0740da14f8dae843fdec83451658e587869e1a94",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.25.txt": {
+      "size": 4622,
+      "hash": "7f7d185e724389a1d50e74087a4ad4060ea45fde",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.26.txt": {
+      "size": 2617,
+      "hash": "84e43b1c7d898e0ae1541f7ff9ce142b0a927a15",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.27.txt": {
+      "size": 2315,
+      "hash": "2c64566ef3504403c913bd3a035af0591f75f63e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.28.txt": {
+      "size": 1329,
+      "hash": "0dc84f070acc2afb00d38ea004e598861f379664",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.29.txt": {
+      "size": 881,
+      "hash": "07cf1b227cf13f56b06a34dee9442a9132356d39",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.30.txt": {
+      "size": 947,
+      "hash": "d7847b4b43fd37265d867b4f68756c90b0b5b05a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.31.txt": {
+      "size": 1940,
+      "hash": "c9cf06e89feee73dbaa16717a4e0e68864b4e3eb",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.32.txt": {
+      "size": 2770,
+      "hash": "d1b7235856465e4ce710cc19f6970fcc92201375",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.33.txt": {
+      "size": 4626,
+      "hash": "c4e5bd16e8514a8288a690d52b0088e1cf2cc0b6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.34.txt": {
+      "size": 9450,
+      "hash": "919c54768e7bd8dbb22b54e66d775989d2a6b254",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.35.txt": {
+      "size": 2175,
+      "hash": "c2df95f6c53eeb9d0ce137f964c45e9a000fe121",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.36.txt": {
+      "size": 1272,
+      "hash": "aa654d5e67d3f6f80bd4a6e572213321b64d831d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.37.txt": {
+      "size": 318,
+      "hash": "d9b54168274c1978cfa265c8180c5036d058b3e6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.38.txt": {
+      "size": 660,
+      "hash": "5033ec8aace796ebb635cc86bd14d50ff7894bd5",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.39.txt": {
+      "size": 623,
+      "hash": "ebe8ba73dd283b1e6330b9dd7a769fc78dfa2d97",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.40.txt": {
+      "size": 3777,
+      "hash": "09fea3ea5249f090a80c559a9e8e6ba9ec33a312",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.41.txt": {
+      "size": 667,
+      "hash": "338b60891f24389e0fe36bf72ce6d41a41901eac",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.42.txt": {
+      "size": 590,
+      "hash": "daf004c23528428bade1cdd01d829e9978ab1cde",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.43.txt": {
+      "size": 1127,
+      "hash": "b90d2be94e5f28626802992d74923ebca209b5bd",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.44.txt": {
+      "size": 857,
+      "hash": "f60db2c1a64a6c897e699245e81f034316801a9f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.45.txt": {
+      "size": 480,
+      "hash": "3a363dd5def03296766bf640f06cfd0eef4d8b0a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.46.txt": {
+      "size": 773,
+      "hash": "9ccb24a63a87aad80f35b5d99f6949f845101719",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.47.txt": {
+      "size": 746,
+      "hash": "ac79ec91dc699a4f49c0f58f2361dd35efb4c588",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.48.txt": {
+      "size": 5362,
+      "hash": "ba06c0e9b3f2d05899d99f6c5904173f57b3a796",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.49.txt": {
+      "size": 473,
+      "hash": "8e939ce9bd81778bebe6cea7c262d934eafda370",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.50.txt": {
+      "size": 1481,
+      "hash": "5539875a274c167017f5327c479a9bcf94ced2ef",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.51.txt": {
+      "size": 1661,
+      "hash": "a09d6b2a8a63b42865950705fe905cb9c07b9382",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.52.txt": {
+      "size": 1307,
+      "hash": "73265b7ceaece077658f8f5121a51965f3b49c11",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.53.txt": {
+      "size": 632,
+      "hash": "09a29c73670bd4f213f0978dd76ba92cf70708e3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.54.txt": {
+      "size": 670,
+      "hash": "6911d208c8a4e852e896598a7264d58bcde08183",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.55.txt": {
+      "size": 776,
+      "hash": "12766d4a5bf36c1741e034bb377f7d3c19819a96",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.56.txt": {
+      "size": 987,
+      "hash": "2eba93c87129a9cf8fcf9dfe17bc9155680b703b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.57.txt": {
+      "size": 770,
+      "hash": "cee9bb074c994adce853944fcc22754b0c414d7d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.58.txt": {
+      "size": 406,
+      "hash": "8e22eb7b3f8ba0d3e4383a2f674ec5d77e5dcdea",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.59.txt": {
+      "size": 915,
+      "hash": "03c42543e089b3be8ab20dbaf910031cd01c1599",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.60.txt": {
+      "size": 295,
+      "hash": "37134d2655695d372d38a67c4e20da0d10fbdf5d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.61.txt": {
+      "size": 1415,
+      "hash": "d7b558e762b31b43c5daa5928975e13f64b435f4",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.62.txt": {
+      "size": 5050,
+      "hash": "b773e98c0f31114f84d224260eaf9d10d58cf148",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.63.txt": {
+      "size": 3565,
+      "hash": "5851f4288b6dc8c198c5ee7afd952dead5b91169",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.64.txt": {
+      "size": 5497,
+      "hash": "607eb81f0a2717ab76de2c4f08be1194d53762ef",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.65.txt": {
+      "size": 6383,
+      "hash": "3cb2663ba2b0386e725d53e3a3a2110b7baafa6c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.66.txt": {
+      "size": 1226,
+      "hash": "f9fd8f9c3bfbac1433353505dc6be78e163d08e5",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.67.txt": {
+      "size": 1394,
+      "hash": "340901d2e1e90b47482c9e33cacf479f0f4ddc8d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.68.txt": {
+      "size": 910,
+      "hash": "e9ab7885c1330e1970b76322af2827e086250486",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.69.txt": {
+      "size": 1059,
+      "hash": "6fbf39164128f6731989aa001c9b6ce3f02997f4",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.70.txt": {
+      "size": 137,
+      "hash": "5345a9520496f6efce8c77c571b4d08d3546b2ad",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.71.txt": {
+      "size": 460,
+      "hash": "45859bac7de08a4eeee119ac6652e472cd05252d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.72.txt": {
+      "size": 1191,
+      "hash": "dc6ae492ccf3deee07c8cb11b7d89acc996cb90d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.73.txt": {
+      "size": 1655,
+      "hash": "1c3a7cfbe40fdfefae99f4d4d4a8fb054dd7178c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "01_MASC_transcriptions/IV.74.txt": {
+      "size": 2220,
+      "hash": "5e54688472c9f64e04d96bcb0457c6a0db54ae9a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.01.txt": {
+      "size": 7168,
+      "hash": "5c70be5f4455a8482973f8a6a78ccc957cdf47f3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.02.txt": {
+      "size": 3720,
+      "hash": "03eaa65924c72cc17b52d7087bb8f7cac568ff94",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.03.txt": {
+      "size": 4651,
+      "hash": "b6f21633f383c1ac772268120488c6241e2beb87",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.04.txt": {
+      "size": 8148,
+      "hash": "65531d8991ec577a1dc944b13b5ceda013b2c020",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.05.txt": {
+      "size": 4967,
+      "hash": "2429a64002935fd04c4c46eb2409fd1d592150d4",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.06.txt": {
+      "size": 6037,
+      "hash": "31124f9cb5f174180f461d613e38a1f17e6b342e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.07.txt": {
+      "size": 2595,
+      "hash": "3e67d34906923f0d3923a931bc88781f9ccc1d6c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.08.txt": {
+      "size": 8374,
+      "hash": "5248afc38438650d0bd8039331082e603d1a3c1b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.09.txt": {
+      "size": 5657,
+      "hash": "b08dd27d4b1756a5f7d0a870fa1b16f47e26833f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.10.txt": {
+      "size": 2570,
+      "hash": "f868824764c330b5b42b463feb821b0748215ede",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.11.txt": {
+      "size": 6516,
+      "hash": "18bb29634567e774fcc3c476365253b7086ff984",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.12.txt": {
+      "size": 6992,
+      "hash": "305c47e962c9bd40e1c7752b32872e6d1d98048c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.13.txt": {
+      "size": 2218,
+      "hash": "1550463d428c584ce419f2b699a45187f7d6bf9a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.14.txt": {
+      "size": 10660,
+      "hash": "abab3afa809820ddbba4ddd46b31d75b643df8fd",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.15.txt": {
+      "size": 9379,
+      "hash": "9e2428109629d1bcbb7603699d490d6789bb2eb7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.16.txt": {
+      "size": 9683,
+      "hash": "fa864f9a9118552511bc1d76ae85b62368309e3c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.17.txt": {
+      "size": 5324,
+      "hash": "a264cfeb9641dca6c8a1087d4c826305266d0259",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.18.txt": {
+      "size": 1752,
+      "hash": "729ed5b3433f0fe602a8b9e1b67c82fe171c2a03",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.19.txt": {
+      "size": 11737,
+      "hash": "25523ec45e050a87cb07a1b1cae7c456a995a4cc",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.20.txt": {
+      "size": 3972,
+      "hash": "30ddbedeed2f1a66be2d0e4f1a814d50bcb3dd97",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.21.txt": {
+      "size": 1675,
+      "hash": "f94eb09f6f8f874c237ecdd59df17c35447cdcc8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.22.txt": {
+      "size": 2002,
+      "hash": "2c15bdd1642e4192012cad62fa233961f954b974",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.23.txt": {
+      "size": 3684,
+      "hash": "30af450a1b5bcb19442601ac0f66fe31f1d08688",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.24.txt": {
+      "size": 1909,
+      "hash": "ee5e67c2e18e222c510fa7d2c3062c0ed8db3c4d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.25.txt": {
+      "size": 4301,
+      "hash": "689f86a2cbfb9c5dd8b82fa9066152cedea807ef",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.26.txt": {
+      "size": 4021,
+      "hash": "98ce9702bcf2fd3cecda8cc872eeed83f29626a9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.27.txt": {
+      "size": 1791,
+      "hash": "b054ab4abe7604b6bff2d2e5e659e1ad99e791a6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.28.txt": {
+      "size": 7696,
+      "hash": "4540166c5cea89a0825b24588d048d26ed155e5a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.29.txt": {
+      "size": 5582,
+      "hash": "5df05c17aadf49aa1455c4a8a8f4bc50bc5116ba",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.30.txt": {
+      "size": 18868,
+      "hash": "06a6444749f184619d2acc1eef9d73a7658b2323",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.31.txt": {
+      "size": 9006,
+      "hash": "2f0f1be340d3be32eb37733f391bf1283f7bf052",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.32.txt": {
+      "size": 10818,
+      "hash": "14cf7ddddc8f9c312d3be3ce01f6a5c91be7c6d3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.33.txt": {
+      "size": 10301,
+      "hash": "a582e420bcbf8a7fb5b3dd19663249d074000163",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.34.txt": {
+      "size": 786,
+      "hash": "8367ede38deaa53fbd40501c5e29f8c9cad478ab",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.35.txt": {
+      "size": 1925,
+      "hash": "fee2f188235add5a454188abc0417f527ccfcb63",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.36.txt": {
+      "size": 2356,
+      "hash": "82dd51f37b9e89ae43c97b0ff62881599191ecd8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.37.txt": {
+      "size": 3344,
+      "hash": "e5b05727546d5eae4c9ecde01948ee57b96f5582",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.38.txt": {
+      "size": 14750,
+      "hash": "302960c2d35eb52426a22264a729baf05dd46f92",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.39.txt": {
+      "size": 2607,
+      "hash": "b3adb16bda9cc548be43577607a72e76d8188011",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.40.txt": {
+      "size": 1680,
+      "hash": "9182cd642ef33eb2649314fd97613e5897b690c6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.41.txt": {
+      "size": 3207,
+      "hash": "d2e11ffeed91ac54cb8ad871f9881bed90e268cb",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.42.txt": {
+      "size": 7234,
+      "hash": "c93816443114d8b6505cc31b85981cfa7799f6cf",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.43.txt": {
+      "size": 2948,
+      "hash": "2a13ecf2d39320c2b2e52318f416d94f93c176b4",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.44.txt": {
+      "size": 26891,
+      "hash": "f771658186c044bef9f81709e9a97398ff57d283",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.45.txt": {
+      "size": 18846,
+      "hash": "18c80ef134d54d810cc24d5805daaaf16d6b4fe5",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.46.txt": {
+      "size": 8262,
+      "hash": "ed61a35cea810f38a24a174bbbbb8c8bfd24de63",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.47.txt": {
+      "size": 13518,
+      "hash": "3254055fe4ba1b53836fba2395a6d916ea864b42",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.48.txt": {
+      "size": 6055,
+      "hash": "7cabd792ec20dee838b5934ff76a5423d718001f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.49.txt": {
+      "size": 16354,
+      "hash": "ba1257c02b5f033694208e7383698dbd4189201c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.50.txt": {
+      "size": 13316,
+      "hash": "d6c48e6193c46b52e3c26c9f5c7bf0a9c0948aed",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.51.txt": {
+      "size": 3469,
+      "hash": "7bfe041b3bb903d525dcc9278b30f2c82f5fc172",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.52.txt": {
+      "size": 16337,
+      "hash": "afaed2a5a2d85137a5e9be08278c4dae8ebcc1a8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.53.txt": {
+      "size": 14668,
+      "hash": "d25e957666459b9249c9324a1bcaa8f3b1e186e9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.54.txt": {
+      "size": 23506,
+      "hash": "f090ca0bb035f5e33ffe364673a29b253b8b8dca",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.55.txt": {
+      "size": 4534,
+      "hash": "a71adc9050d6487c0899f8759f19a6581b374613",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.56.txt": {
+      "size": 22268,
+      "hash": "824d0383763135db66631f68ce4145cebeec5aba",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.57.txt": {
+      "size": 5971,
+      "hash": "bdbef15449265f97b97e2f015eb4648cd8258a40",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.58.txt": {
+      "size": 3272,
+      "hash": "fba5e09a635638921da7a8687a296cdb7b276e92",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.59.txt": {
+      "size": 5783,
+      "hash": "3492f7c473ae865aa820a6efba53734188efdd12",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.60.txt": {
+      "size": 6866,
+      "hash": "2372a2f128b049816d313203ae1dbce7fd3a5740",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.61.txt": {
+      "size": 2849,
+      "hash": "621babf3cc285b843f8f5327ece6e72f08be20ea",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.62.txt": {
+      "size": 6930,
+      "hash": "4c3c4e5009aad190dcf9b7a2ceb787928d962aa4",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.63.txt": {
+      "size": 3613,
+      "hash": "7b02cbd914006b21d0b239ee49a8f98860a07b04",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.64.txt": {
+      "size": 4778,
+      "hash": "d8958a9517525e11672ab05cad88304333da3777",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.65.txt": {
+      "size": 4500,
+      "hash": "5c5134673a47f20f275fd8a32918fa8f8aa58e1e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.66.txt": {
+      "size": 3800,
+      "hash": "5147f3398c09ba6bc7a2495cc093538e1da0b62e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.67.txt": {
+      "size": 1025,
+      "hash": "b25ff58d7cdccb8241ec35d7312bec8207f477d8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.68.txt": {
+      "size": 1332,
+      "hash": "bdab80f39ad5f708e52ac54f92e6c311ce96bfad",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.69.txt": {
+      "size": 1236,
+      "hash": "808d8280f3394581bcc2d038ebebcc26c5519dc7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.70.txt": {
+      "size": 2376,
+      "hash": "f57948ece524cf1537037682e657be4226ad71c5",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.71.txt": {
+      "size": 3865,
+      "hash": "e8c94eab84219a97e2e44c1148398e6c2429b797",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.72.txt": {
+      "size": 2008,
+      "hash": "4f07ab0e88fa4f7a785258a9172283e505748b34",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.73.txt": {
+      "size": 3393,
+      "hash": "4967b6f3fe63d5fd1a5352aff77d9b660f550bed",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.74.txt": {
+      "size": 3550,
+      "hash": "82437eb5091cf3580040c559748dcd1ad1b97bd2",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.75.txt": {
+      "size": 3049,
+      "hash": "cd68058b2ef888281f122fd38eb633bbb3eb3598",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.76.txt": {
+      "size": 3103,
+      "hash": "9af8cb424dbd83f6257f9fd4ab7985c22c802c9e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.77.txt": {
+      "size": 4582,
+      "hash": "5c4d475ce3887959d8cd2312613ceb9d0066fe3f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.78.txt": {
+      "size": 3444,
+      "hash": "f1ef4a0b00490708fdba868c8b636c37f1ea049d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.79.txt": {
+      "size": 2984,
+      "hash": "015edd3f665b21202ed44d3263dcf0b44dcaa3e3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.80.txt": {
+      "size": 4922,
+      "hash": "1e7fc4cba2e8dbf6a106af65dd8e75ccb063a0db",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.81.txt": {
+      "size": 3243,
+      "hash": "6a97567bc97c34f04b829647861e5169a2f35105",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.82.txt": {
+      "size": 3102,
+      "hash": "71b151c86ec5c8115d981b62f9b4b37e622bc13b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.83.txt": {
+      "size": 5232,
+      "hash": "09d77cd7af2eddc3749483078e2284edc4d6641a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.84.txt": {
+      "size": 2650,
+      "hash": "e4ef6ce96ce5793824eb034be91fe7144f0040b2",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.85.txt": {
+      "size": 3480,
+      "hash": "e06e6c5e234105e4a717126f07da54cf1e7fe17d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.86.txt": {
+      "size": 3728,
+      "hash": "bb47e80c8ea5badade913f92594dfaee36c08d1e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.87.txt": {
+      "size": 2264,
+      "hash": "bba0c504402a66acfb962da1ad734ff909fe6146",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.88.txt": {
+      "size": 2791,
+      "hash": "e81bb2d676a41285b9a77c274b7c6a238d7ce8d7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.89.txt": {
+      "size": 2725,
+      "hash": "d455f84b8275f2dd0deb8d677038dcdfcc1f3903",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.90.txt": {
+      "size": 3226,
+      "hash": "eac85acbfcd7bbccded33ff07e2ff4d8eaf13c33",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.91.txt": {
+      "size": 5275,
+      "hash": "5baacb92f1e327634dc27b062f76bba2ea33d7b3",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.92.txt": {
+      "size": 2749,
+      "hash": "52dc40f1ff4abf532e1ac3535777f985a0d01b5e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.93.txt": {
+      "size": 1607,
+      "hash": "91d5ee8d2e14f20b7d53d01428edcdec431b13fe",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.94.txt": {
+      "size": 1032,
+      "hash": "a39364bea75a9122061c48bcbaa12fd7b304ed5c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.95.txt": {
+      "size": 4817,
+      "hash": "58efbd24f5d0b521387f45bd09194f7929339191",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.96.txt": {
+      "size": 7127,
+      "hash": "be5da8386f6185fe1bfd5cae4da8c6d364b1979a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.97.txt": {
+      "size": 12589,
+      "hash": "a0c3cb733b8a0014a8c73651cdd8741158c16499",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.98.txt": {
+      "size": 10083,
+      "hash": "f914255b2a1a006fcd75c04397c0fff2ca1375df",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/III.99.txt": {
+      "size": 38463,
+      "hash": "ca387034137605b352b2943b10f7e38087f16499",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.01.txt": {
+      "size": 9802,
+      "hash": "d07929881c92df85b7ccc8dedf311822ea2065e7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.02.txt": {
+      "size": 9169,
+      "hash": "d080af06d35ec5d8963d7cdf095766c94763bbd2",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.03.txt": {
+      "size": 7140,
+      "hash": "3919fc8f9457dbe4bc33a2eb650bf1d37fdb0d76",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.04a.txt": {
+      "size": 12505,
+      "hash": "ff231f742bdd649bc44ee765d62dd700cd49fed2",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.04b.txt": {
+      "size": 22299,
+      "hash": "599ba4638f94be27c3fe434a68b98bf57b2aa92a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.04c.txt": {
+      "size": 28589,
+      "hash": "5a7b6aa8d55070020b68f601068cc94dbc4b5c96",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.04d.txt": {
+      "size": 22370,
+      "hash": "75af688e850a95cca6d8b59a752e493998434e35",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.05.txt": {
+      "size": 19961,
+      "hash": "77c021f0fe7cd2f3adba2e4526dc37229296feb0",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.06.txt": {
+      "size": 14839,
+      "hash": "34ab73bded8b3f51db3e44928a6613d36a176589",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.07.txt": {
+      "size": 22450,
+      "hash": "2eb8728aee056c9dca0ed1204820f5f893adc320",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.08.txt": {
+      "size": 8116,
+      "hash": "0528ae7db426364c8755e6b9203de067fa4cd965",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.09.txt": {
+      "size": 9602,
+      "hash": "e6f585e1cd45d6d6ea5d5c06eb579e3c2b82dc95",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.10.txt": {
+      "size": 52097,
+      "hash": "5e80737861b293745f9a9139f9cbccd4da9b8202",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.11.txt": {
+      "size": 17728,
+      "hash": "3583b10af182705839212b6c7d0a1ce48ed5556a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.12.txt": {
+      "size": 12528,
+      "hash": "1e4c245064786fad165a57962cdecb32306fbf7e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.13.txt": {
+      "size": 15469,
+      "hash": "dfa13a7addd351079858a1d822f3487e3084e068",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.14.txt": {
+      "size": 10106,
+      "hash": "0558cb863e1db3e272f831a68fc0ef46d6b631ba",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.15.txt": {
+      "size": 9163,
+      "hash": "48284bce29b5a1162eb518ae6bb8a37b8705cbcf",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.16.txt": {
+      "size": 7798,
+      "hash": "f684f8b7412da119b9bf281f142fc0f5ff797b33",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.17.txt": {
+      "size": 7930,
+      "hash": "ebe01cad1c76b21b33a8d3accd96650d469eb2c7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.18.txt": {
+      "size": 18880,
+      "hash": "7da68d6647b85e3e98a7271b73bcf0ae71fb1594",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.19.txt": {
+      "size": 8486,
+      "hash": "5c86817350cb3958fe825818dc63954012aef26c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.20.txt": {
+      "size": 20348,
+      "hash": "b628bf3edb4c1700251a7aa638c09a5b2173d90e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.21.txt": {
+      "size": 26804,
+      "hash": "c9b47bee99387bf14ce040a227099df7d69779df",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.22.txt": {
+      "size": 16014,
+      "hash": "30e76f4bcd8abf252b4a89db5c3f8eb02dcc4b4e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.23.txt": {
+      "size": 10613,
+      "hash": "23ceddd2ed090f3895604b12b322f8bdce5cdd8d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.24.txt": {
+      "size": 8608,
+      "hash": "e2d49d11add8acefe6e3985c89d7e82beee43348",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.25.txt": {
+      "size": 11271,
+      "hash": "e4226a8f9dc1b9c31f390d9dbdc9c3df46e09bd8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.26.txt": {
+      "size": 6348,
+      "hash": "49dfc149f108ee255421af3088f11dba1bcc4750",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.27.txt": {
+      "size": 5547,
+      "hash": "57460270b73b9f98ad3835ebae3f318617b41d76",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.28.txt": {
+      "size": 3088,
+      "hash": "701f8c2d335a9ffde881cef420fac35d8219573c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.29.txt": {
+      "size": 2267,
+      "hash": "d37087efc7e50a18af000e8a437daa6fef601c03",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.30.txt": {
+      "size": 2210,
+      "hash": "0a8fc2b2a235682344de0576895f0ef721f43013",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.31.txt": {
+      "size": 4669,
+      "hash": "8378ee2a4907a7b81d0591b6b19c37855db92eae",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.32.txt": {
+      "size": 6744,
+      "hash": "0d00c542129b7f7d90a3d76d6666194f473d7ace",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.33.txt": {
+      "size": 11320,
+      "hash": "fd21d1d38e03504eae61de941543830358cedbc4",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.34.txt": {
+      "size": 22661,
+      "hash": "353b1c2f196bfe43849a1d786921d496fb8bb552",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.35.txt": {
+      "size": 5267,
+      "hash": "fbe3db015d76ac2c57472a62c296d36c895bae21",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.36.txt": {
+      "size": 3137,
+      "hash": "17336f7081ccc659eb128d150e8e447156e083a6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.37.txt": {
+      "size": 779,
+      "hash": "7820f84bfdb7effa7b08c324089aebf82d2825f7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.38.txt": {
+      "size": 1576,
+      "hash": "a3c1b88845b07826695857a9fc44bdbf0018d92b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.39.txt": {
+      "size": 1562,
+      "hash": "f817a290df514ab5265a0e816d60efc52047d529",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.40.txt": {
+      "size": 9040,
+      "hash": "ff161e26c9ce62854680197b250487db8444546d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.41.txt": {
+      "size": 1686,
+      "hash": "3afa48fb52aa91b1f7621697bca322b25a95a369",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.42.txt": {
+      "size": 1409,
+      "hash": "e783eeae6fafbd61bbaa4e879e07d23e0049694c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.43.txt": {
+      "size": 2551,
+      "hash": "277a5a880ec2e89a6a8177c88892685da41f4e11",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.44.txt": {
+      "size": 2217,
+      "hash": "f785b2216553e4efbc9db3f91c2ba8255714a868",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.45.txt": {
+      "size": 1260,
+      "hash": "732fb46b0cbe0b5f9e9e5cb39e5eac5447de1d28",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.46.txt": {
+      "size": 1807,
+      "hash": "422403636a38668abe6f8aad4737620ef8d9f952",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.47.txt": {
+      "size": 1792,
+      "hash": "d7391b1566c089e33cfed0a97590b379a20d7235",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.48.txt": {
+      "size": 12482,
+      "hash": "8127ea5137947b43ef90a6b0b20ff73881c25f36",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.49.txt": {
+      "size": 1183,
+      "hash": "054a42e72e039f40d9827f44b55de6ca9282d310",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.50.txt": {
+      "size": 3605,
+      "hash": "47d4ceabbbd6039f581b9c0a62e0ecc808ca5f54",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.51.txt": {
+      "size": 3789,
+      "hash": "c83592b17257aa9f84d2fed58a3e0ad56f7b2065",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.52.txt": {
+      "size": 3206,
+      "hash": "76212455b5e909ad668d8f0148d4cc2972eb94bc",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.53.txt": {
+      "size": 1583,
+      "hash": "70054c24b3718ea59643da7fde498e691d4bd2d8",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.54.txt": {
+      "size": 1601,
+      "hash": "6f7c068d0d501fed522bcc9d579a13bff69dfde5",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.55.txt": {
+      "size": 1923,
+      "hash": "4deb8951235141e101604b2f208fd3e2b33f39c1",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.56.txt": {
+      "size": 2302,
+      "hash": "0f8a239be20adf68a26fd7008e4e4145d0669fef",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.57.txt": {
+      "size": 1827,
+      "hash": "b6f02eb2a96a42947ab0a75370a95940c33b3f5b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.58.txt": {
+      "size": 942,
+      "hash": "fa0b5671a99b74b60cba1c6d1066deaa520b76e7",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.59.txt": {
+      "size": 2128,
+      "hash": "b1fd1b0dd5e604c286b55cceb6d2108501290086",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.60.txt": {
+      "size": 679,
+      "hash": "7240dc80dc6c879dab5cba3230d72f84c2d1ca9a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.61.txt": {
+      "size": 3158,
+      "hash": "831faadace3099f0cab816bdc45dc98bbb21bf2d",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.62.txt": {
+      "size": 11881,
+      "hash": "a52b8315f1ee72e485e5d9bd7509ea84e8eb55ea",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.63.txt": {
+      "size": 8217,
+      "hash": "2dfe436d10a229256bc78bd5b72626edf614b090",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.64.txt": {
+      "size": 12912,
+      "hash": "0fdfc764eb27196cb6ffe4e757555b5a57c782d9",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.65.txt": {
+      "size": 14711,
+      "hash": "6a5cfb368a629d9c8f281d61742be69e3080fb15",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.66.txt": {
+      "size": 2986,
+      "hash": "6f42c3f35303e64d544fbbebf1ab686b74adb523",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.67.txt": {
+      "size": 3169,
+      "hash": "376e9e7adb51d1e6fa5e5ec752335a03155a601e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.68.txt": {
+      "size": 2217,
+      "hash": "9249ee17af611a79e8ad2c6264b0b7135acc2010",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.69.txt": {
+      "size": 2620,
+      "hash": "122972f16c204b5c1e49dbf240fafc293ee2f13a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.70.txt": {
+      "size": 352,
+      "hash": "546d8f0f5d2378bfe0eaca72fc3f75bbad7c843a",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.71.txt": {
+      "size": 916,
+      "hash": "e4d9c6c6841f10d5273cc1803c8141ad0d769a43",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.72.txt": {
+      "size": 2825,
+      "hash": "8000ce6ef102355d43b9e7d9513b63ca5f726b1c",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.73.txt": {
+      "size": 3945,
+      "hash": "da19c0c19e5e82ee6250bd9bc0019a8b55607e5e",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "02_MASC_lemmatized_transcriptions/IV.74.txt": {
+      "size": 5153,
+      "hash": "7b1c5145c2df5a6511add9e4ff4559948f3b71c1",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "03a_MASC_audio_files/denoised/III.01.mp3": {
+      "size": 3038562,
+      "hash": "94e8f63011f6fb636ac42006a43ca9eb38559a7f",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "03a_MASC_audio_files/denoised/III.02.mp3": {
+      "size": 1672671,
+      "hash": "57a8385faed592c2fbae1a24c6926578a25faaa6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "03a_MASC_audio_files/denoised/III.03.mp3": {
+      "size": 1607052,
+      "hash": "c2f5906194d888a2107b9eeb3fc137dbdbcb4bf6",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "03a_MASC_audio_files/denoised/III.04.mp3": {
+      "size": 4017840,
+      "hash": "699c34f358297db19e93f866c95c75a70816544b",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "03a_MASC_audio_files/denoised/III.05.mp3": {
+      "size": 1859499,
+      "hash": "79787cc6f53476ac17cc282671088ebf20f42f71",
+      "lastModified": "2025-07-26T06:59:22.353Z"
+    },
+    "03a_MASC_audio_files/denoised/III.06.mp3": {
+      "size": 2538683,
+      "hash": "b0f5c560a2ca6ffbfe22e17cf127b43712955775",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.07.mp3": {
+      "size": 1008534,
+      "hash": "ff35f1cb1b4879981948eb7e21067833acf8ef1b",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.08.mp3": {
+      "size": 3994852,
+      "hash": "4d22d0068f8114eda0cd3ff5b59115b6b4648dff",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.09.mp3": {
+      "size": 2578807,
+      "hash": "0f61d627799effdc28df8f0655da2bcb1e9cb3cf",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.10.mp3": {
+      "size": 1078751,
+      "hash": "1c5863ebe83f9f11bc1e1134e729047bb022679b",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.11.mp3": {
+      "size": 2641919,
+      "hash": "118f179562863fb70f53406c57e483227cd2065a",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.12.mp3": {
+      "size": 3285576,
+      "hash": "ccdc3a71e67d433ec173a74678cd98a88ef9a919",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.13.mp3": {
+      "size": 1080841,
+      "hash": "3659193bdc9152e832a93f192ca578b54b4738dd",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.14.mp3": {
+      "size": 5443499,
+      "hash": "f63e50f5a68d7d4d59d053cfb3896cb93d59e1d2",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.15.mp3": {
+      "size": 4160782,
+      "hash": "cda29618b8b749a3a58ae58583ff2d0f536cb945",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.16.mp3": {
+      "size": 4595042,
+      "hash": "3ebf41375f1e68304a19e27baae441aed2df8ab6",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.17.mp3": {
+      "size": 2040893,
+      "hash": "2f294ddc24e6939d613df8179f9d6ae3264cf477",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.18.mp3": {
+      "size": 759012,
+      "hash": "b53aae09a29203e2ac817569bb98718bfc132d6a",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.19.mp3": {
+      "size": 4311248,
+      "hash": "d2f131119a08d4f2f6b2d3c5d7dff297d1e6a60c",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.20.mp3": {
+      "size": 2027937,
+      "hash": "581204122a17a0f91335ed14dfadb82bf5c08ff3",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.21.mp3": {
+      "size": 815855,
+      "hash": "9c78b9f9b21e6966b590cb6f60e005f0fd81e4b1",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.22.mp3": {
+      "size": 1286059,
+      "hash": "5c24bcfda4c5f50efb6a476a378e36447d8c903e",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.23.mp3": {
+      "size": 1797223,
+      "hash": "e94aa73dda188f5cf8ae8414d95a0f6804344327",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.24.mp3": {
+      "size": 1241755,
+      "hash": "6c0690495c56e805bfcb1b60243531a08462f594",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.25.mp3": {
+      "size": 1767548,
+      "hash": "f9e9a1ac9bd8b7deb646706cfc64db2121ed30db",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.26.mp3": {
+      "size": 2190523,
+      "hash": "3f8c50af09ffea6a4070702ea79fc1b1f8ba8d1f",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.27.mp3": {
+      "size": 822960,
+      "hash": "5215595f8620dcb85e4fcf3415afdf39b0dc1f18",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.28.mp3": {
+      "size": 3591104,
+      "hash": "69ecf4f470dbde39f7f773e4271c484d5997ff11",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.29.mp3": {
+      "size": 2757693,
+      "hash": "895953753e6a21d4b7a561fb0dda9ae8fcdedddd",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.30.mp3": {
+      "size": 8288965,
+      "hash": "79d326c8b88cde18ccc66bd4142e77fd7a5958fe",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.31.mp3": {
+      "size": 4017004,
+      "hash": "867fe83acf9df85b1d0c372e76b3f2f43277d448",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.32.mp3": {
+      "size": 4354715,
+      "hash": "61eadd3c380282f22b67a84687e01667cd66aabe",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.33.mp3": {
+      "size": 4872567,
+      "hash": "b16dd9c1e52f216e5aa10e402e39331ec060f17f",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.34.mp3": {
+      "size": 454738,
+      "hash": "88090b40b8549af916a8f59e252d908beeb79b5e",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.35.mp3": {
+      "size": 1192854,
+      "hash": "3833a9e7636a84443e3ece8cc0b1db7888a45ab3",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.36.mp3": {
+      "size": 1117203,
+      "hash": "cb885238edb71472b9df4a0f4026f81d4863e5a6",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.37.mp3": {
+      "size": 1601200,
+      "hash": "cc8b2c5b30908af1e248b5fbeb47bd44561b07a2",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.38.mp3": {
+      "size": 7203943,
+      "hash": "91d239588d75489d20b46525b23fcecec64b3b81",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.39.mp3": {
+      "size": 1109262,
+      "hash": "871b311aaf88eb14288c6e7c17fa7eab077a4dc5",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.40.mp3": {
+      "size": 799554,
+      "hash": "38184a94a7ed2b528e17022eb0e5edf43ee542d6",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.41.mp3": {
+      "size": 1281879,
+      "hash": "4261ef003b08ccb9764004c5ea96518b2ccf8ce0",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.42.mp3": {
+      "size": 2980048,
+      "hash": "30d26790b64ed9d5086d1225f26eef79a2c91a14",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.43.mp3": {
+      "size": 1257638,
+      "hash": "cc14b6843fbd598de1b76068c70138d7d2a864fd",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.44.mp3": {
+      "size": 13457030,
+      "hash": "16db973aa92367ff31834f6aedec4ad7ee952d2d",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.45.mp3": {
+      "size": 7902771,
+      "hash": "1169df187e6ecefb198f9f216d5702c928200fae",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.46.mp3": {
+      "size": 3716492,
+      "hash": "fbc8576752a55994d2c154689108c54556723f5f",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.47.mp3": {
+      "size": 7113246,
+      "hash": "7d08a64e48f6008211fca47b26a7126297b0258c",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.48.mp3": {
+      "size": 2768560,
+      "hash": "67d9c904d7dd2112111e27b14bf087c63115c0fe",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.49.mp3": {
+      "size": 7331003,
+      "hash": "21c6b6b66cac82a2391a1c09578a4ea68a500ba9",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.50.mp3": {
+      "size": 6154866,
+      "hash": "4e964f42fa4fd74b649408ebb14db39e2d56dbbd",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.51.mp3": {
+      "size": 1442376,
+      "hash": "84991bf03aa0464844f8b4a714f1bacf02b629db",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.52.mp3": {
+      "size": 7692955,
+      "hash": "0d965fc4ded57fef7da121bf56b69959802af385",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.53.mp3": {
+      "size": 5998131,
+      "hash": "a5e064dcc71ccb2c30b78073c5112d73b8743916",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.54.mp3": {
+      "size": 11317915,
+      "hash": "6790b4341958d5e05d4ccb0223bb6632bfc208f3",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.55.mp3": {
+      "size": 1905474,
+      "hash": "93511ecfdda6338b1fab89e9d459825dd9835562",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.56.mp3": {
+      "size": 8937638,
+      "hash": "f40a4fd078fdf9dd6c3427f321fa8cc1e4db2d89",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.57.mp3": {
+      "size": 2700015,
+      "hash": "d57ffd6010e74eb566db5b37bb430b4af4a71fe1",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.58.mp3": {
+      "size": 1247607,
+      "hash": "e76744bfa0d371f0aa12dca19c198ae272907688",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.59.mp3": {
+      "size": 1956466,
+      "hash": "b7798914be256ee4dc7a6bd9544b0c68d6ba22f6",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.60.mp3": {
+      "size": 3112123,
+      "hash": "6a1e4ac0a121a610d6e89efb79be6293d49eb0f4",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.61.mp3": {
+      "size": 1039881,
+      "hash": "9855c341bb9c5fea8965bd800ad35a90c18bfea2",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.62.mp3": {
+      "size": 3890363,
+      "hash": "6a0f2e653b1dd7cffd9b4dcb5dbfce9b82cbffd5",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.63.mp3": {
+      "size": 1562330,
+      "hash": "292ca6d5ce09cd78b0f228923a1e06756d813ade",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.64.mp3": {
+      "size": 2099408,
+      "hash": "880930c257689d59ad3f1e130dda20dbd1954728",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.65.mp3": {
+      "size": 2040475,
+      "hash": "66aa088d8569a0689791def3df64d89f8fb0e49a",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.66.mp3": {
+      "size": 1436942,
+      "hash": "d5b16160fbac53fb378445942a8d9794e803aa3b",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.67.mp3": {
+      "size": 381177,
+      "hash": "94feeca2f5d8c8d4e6655ff2d53b144b8a19e6bb",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.68.mp3": {
+      "size": 397896,
+      "hash": "ee953c6c7bfe015125b66e934f415b32541135b2",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.69.mp3": {
+      "size": 399986,
+      "hash": "88b52e554c45eaf9234c135dd45ec87fafc5f90f",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.70.mp3": {
+      "size": 729337,
+      "hash": "ed030d6e0f19189411a68c2d0b3d45904ef3840b",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.71.mp3": {
+      "size": 1896697,
+      "hash": "e80d980759ef40a5df4455d9a1a7085764692292",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.72.mp3": {
+      "size": 695901,
+      "hash": "1419aeccadc4c0c1723ce78cccbe4d6599b3f4cd",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.73.mp3": {
+      "size": 1271012,
+      "hash": "58874c5518ab0fbb91adb509b60db8d795d9e3c7",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.74.mp3": {
+      "size": 1444048,
+      "hash": "0d35aed94a1d7b582a306f4ff6080f79a81fb025",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.75.mp3": {
+      "size": 1131414,
+      "hash": "24b05496b5ef2fee02c236bce9a56a3a711adb74",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.76.mp3": {
+      "size": 1690643,
+      "hash": "c59470b2d1f8739d5dbcb55bcf478d24e4ef554b",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.77.mp3": {
+      "size": 2274950,
+      "hash": "18c1a22e0c2802c33a8e5fc158efa771b924a84a",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.78.mp3": {
+      "size": 1728678,
+      "hash": "32b55a48fcf45f61b13e4fcafab705d14eb3436d",
+      "lastModified": "2025-07-26T06:59:22.354Z"
+    },
+    "03a_MASC_audio_files/denoised/III.79.mp3": {
+      "size": 1350843,
+      "hash": "c7219c4f312841d563093f6ef5a47800d56186c4",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.80.mp3": {
+      "size": 2479332,
+      "hash": "c17c7c7ce4e5e770344fb8c993ff49a5c09d0fbc",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.81.mp3": {
+      "size": 1695241,
+      "hash": "14c78cc2d7133ae347226c8928a26f10c64cb159",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.82.mp3": {
+      "size": 1497964,
+      "hash": "44effc305a00765561fc3d6ed444235a997da7ad",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.83.mp3": {
+      "size": 2609736,
+      "hash": "069076d1bc1c05f0402f2ac7cec47dad06ffb433",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.84.mp3": {
+      "size": 993488,
+      "hash": "66626962e4a1bc1d462f14be7dcae349c3d72539",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.85.mp3": {
+      "size": 1326183,
+      "hash": "9e079394248eb038cbf5eb8d198d8a6d24e9b78f",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.86.mp3": {
+      "size": 1234232,
+      "hash": "764e51b2f8841d193db21c4f4534637685118bbd",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.87.mp3": {
+      "size": 898193,
+      "hash": "a3e95a7817785870f24b7c35d10c6d66777bd362",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.88.mp3": {
+      "size": 1188674,
+      "hash": "e589dfad0a8a8a0a16fb91c32891f90df381e3c2",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.89.mp3": {
+      "size": 1099649,
+      "hash": "634432991ed05d72094d19207d3b003cde79d915",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.90.mp3": {
+      "size": 1615411,
+      "hash": "120716f0edf6c01eff1060e819babec2a80fc929",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.91.mp3": {
+      "size": 2388217,
+      "hash": "e29eea2abbf3d9b30dd251c805a00a11e806649b",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.92.mp3": {
+      "size": 1198288,
+      "hash": "58cdf06ac738427166d6ea6220869362279b43a2",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.93.mp3": {
+      "size": 641566,
+      "hash": "cdf7f2d5e5db1b6b296b9d070e0fe74d65d09e9f",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.94.mp3": {
+      "size": 414614,
+      "hash": "52132ec49fbd15374cf3ed718c2a6d4c07eaa0d8",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.95.mp3": {
+      "size": 2576717,
+      "hash": "57b9555e9b7b10cc841ba3e930af41ca414fce7a",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.96.mp3": {
+      "size": 3018918,
+      "hash": "128742540f9fd5c01a556282e087f52a6a00ce55",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.97.mp3": {
+      "size": 5269210,
+      "hash": "c889d4b343f0d0582439daa1da0a6ff94812f69e",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.98.mp3": {
+      "size": 4273213,
+      "hash": "2e3a17353bffecc87cae075931be2eba00897871",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/III.99.mp3": {
+      "size": 16332590,
+      "hash": "4314f9f91548756c8691e3ecbe676bf170d2acfe",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.01.mp3": {
+      "size": 4774346,
+      "hash": "3fd22cd871f330b0fc03c4f1a4fdcac6d5de1d51",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.02.mp3": {
+      "size": 3348688,
+      "hash": "9a0da4b6340985b4cdee4b6b85b0bab8095e87b5",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.03.mp3": {
+      "size": 2840449,
+      "hash": "46b411832cd35639fe6e9d37605cc31f86406c49",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.04a.mp3": {
+      "size": 7346885,
+      "hash": "90f1b723dae67908e19d2774989eb36f3c257d4b",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.04b.mp3": {
+      "size": 11681540,
+      "hash": "4a761f9e381579371ea649b0653f38102c30822d",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.04c.mp3": {
+      "size": 13005217,
+      "hash": "eeecc105a4b61c1a4a3e76e56a49037755f09f25",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.04d.mp3": {
+      "size": 10784599,
+      "hash": "74b2775482ef3733da3684e3325905ed70b03cb1",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.05.mp3": {
+      "size": 9579623,
+      "hash": "a23aad407b2cb88ba7b92703166df4f105f38413",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.06.mp3": {
+      "size": 5251656,
+      "hash": "b35afde4113b48541230bb86cc2b3ef957796308",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.07.mp3": {
+      "size": 10153899,
+      "hash": "3ca0235c19005ccf73208e6a1610655c4b63f43e",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.08.mp3": {
+      "size": 3686817,
+      "hash": "5a6b17a116142d7cfb82ad53be78caec9d4703ac",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.09.mp3": {
+      "size": 4272377,
+      "hash": "bc994a9b03238a5ae4892c95e25eb1c0fe03f379",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.10.mp3": {
+      "size": 24799189,
+      "hash": "533cb8f683149433f5dd1f05478600399809cdbd",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.11.mp3": {
+      "size": 6761324,
+      "hash": "3e050e8c73baaec3a7aac802275318f6b64c5de5",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.12.mp3": {
+      "size": 5998549,
+      "hash": "c77376215faa659a15500c0fd2044a91153f2aef",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.13.mp3": {
+      "size": 5649971,
+      "hash": "66f3f8eef9e8e7c77364453328a029e789d637d6",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.14.mp3": {
+      "size": 4537363,
+      "hash": "801b5601b1663b181094f8260ad5a677852d4b80",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.15.mp3": {
+      "size": 4679052,
+      "hash": "701e842632279bf7265d35b260e8242249f468a8",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.16.mp3": {
+      "size": 2993840,
+      "hash": "5f249352791243d62c54f06eb3edac9578936760",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.17.mp3": {
+      "size": 3171473,
+      "hash": "875caf824030b925ad3dc30bb8593e3115adc7c1",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.18.mp3": {
+      "size": 8980688,
+      "hash": "9bd93edc53c570f603cbb11f62e61ab87e3b516c",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.19.mp3": {
+      "size": 3738226,
+      "hash": "c63cf1b2d853c98bad7acd8326ce377f8728c263",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.20.mp3": {
+      "size": 7815835,
+      "hash": "3aee70d2cd355c18f273bbf0e8e8eaeaf5323d4b",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.21.mp3": {
+      "size": 9463430,
+      "hash": "e5039bdf1f851c75e5316689fbdfe61ad2cfee03",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.22.mp3": {
+      "size": 7117843,
+      "hash": "d2bc8e36cadab0724a495642da4d73e388ca0166",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.23.mp3": {
+      "size": 5060230,
+      "hash": "bbdd033760a3c91c05a5f427619ded636dd2196e",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.24.mp3": {
+      "size": 4405288,
+      "hash": "0025242fb6491c9cd361a6931422cd94271184bc",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.25.mp3": {
+      "size": 5510372,
+      "hash": "49664ac800ff81f8b02ea24e5f9c01d26851fe7f",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.26.mp3": {
+      "size": 3045249,
+      "hash": "d2e6ac08d59dd8cda961ac7553b250b2aa94c932",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.27.mp3": {
+      "size": 2529906,
+      "hash": "76658880b7f38bef8cd5120391dd81b500639100",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.28.mp3": {
+      "size": 1598274,
+      "hash": "2ed50b7485ac85c81cdeb71847e48e32b671ccb7",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.29.mp3": {
+      "size": 1348753,
+      "hash": "99c1ec4eb1b46c49cfa32ae5e2c23fad0e8d3321",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.30.mp3": {
+      "size": 1095470,
+      "hash": "a0d133177689548fbbcdea934b0490ea0837bf00",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.31.mp3": {
+      "size": 2269517,
+      "hash": "2d08d14dd301cf7f4e25a08a959b8edb66b55eba",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.32.mp3": {
+      "size": 2385292,
+      "hash": "396484cd6e76b3128fc404b7ab50893a4a0960e8",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.33.mp3": {
+      "size": 5348204,
+      "hash": "1cdb8617dc63eb57f3d259ca03bcf888cf79a287",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.34.mp3": {
+      "size": 9721311,
+      "hash": "bec2b28b2b2c097d55d043120cdb79a8aab30ba2",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.35.mp3": {
+      "size": 2153742,
+      "hash": "6cf029f7248d55f79f872f14b1aebb58e74bdc19",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.36.mp3": {
+      "size": 1321586,
+      "hash": "af5a64d889a10f65ef97347187933eda30b0bf4b",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.37.mp3": {
+      "size": 507401,
+      "hash": "e8c72e73f386096fae015e8d906110760ba4d302",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.38.mp3": {
+      "size": 768208,
+      "hash": "6b04e406b66324039634c062ddf15a1c0b106fd3",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.39.mp3": {
+      "size": 853053,
+      "hash": "70d864ea3aed49853ba00ff3b3d2805518d3dd8d",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.40.mp3": {
+      "size": 4605073,
+      "hash": "c3b4d3bae8059a64440da7715be48198f4462191",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.41.mp3": {
+      "size": 728083,
+      "hash": "d4fd701cca6fc2202c6ee0f5aee91b7c1a6b1a89",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.42.mp3": {
+      "size": 685452,
+      "hash": "f35ca6ce1a7784ce39719602afd7cae3bbde2416",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.43.mp3": {
+      "size": 1309883,
+      "hash": "b3dab25bbc3778974af530cbdc864d6180a7ba71",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.44.mp3": {
+      "size": 795793,
+      "hash": "a68973492f277313f3eb22e32719dd70bc866ddd",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.45.mp3": {
+      "size": 505729,
+      "hash": "eeb7db21e706055458029b383ece755e723537c2",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.46.mp3": {
+      "size": 696737,
+      "hash": "e7dc4c03074c31e331566199276a2c796d35a59d",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.47.mp3": {
+      "size": 617324,
+      "hash": "c60e0c97876a6ea1221af326d3dd59b309956809",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.48.mp3": {
+      "size": 4977057,
+      "hash": "c3a804a239e912590534b68b53ef12cfffe55ed0",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.49.mp3": {
+      "size": 578454,
+      "hash": "0c93977316ee48cd5d27b21ddd4a37656b5abfe3",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.50.mp3": {
+      "size": 1609977,
+      "hash": "06e1e9cce88c54cb7f94399506f8baae21124a68",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.51.mp3": {
+      "size": 1772146,
+      "hash": "5911dacc605b1fa5a0d10128960a6b42794b36d4",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.52.mp3": {
+      "size": 1612067,
+      "hash": "f97926c095803f00a89fde8c3742462377254cd4",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.53.mp3": {
+      "size": 608547,
+      "hash": "52b1696375b3ecba50741a03f99acc91d0408688",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.54.mp3": {
+      "size": 558392,
+      "hash": "2a781026746245bfc347369b495b5584c376e4e5",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.55.mp3": {
+      "size": 773223,
+      "hash": "2f52106c37e99669785103a59e9de5855036a9eb",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.56.mp3": {
+      "size": 971754,
+      "hash": "5b4b80999c37f46ad3d9d5eaa91372ca208ac92a",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.57.mp3": {
+      "size": 894849,
+      "hash": "2d7dc4bf3c99480e2ff09ebf778e934d00683049",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.58.mp3": {
+      "size": 337710,
+      "hash": "463595cf8cb0d615423653c72e31f1058123bbaa",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.59.mp3": {
+      "size": 987218,
+      "hash": "eabc69a492d7f493995e53625458ecde570d0db2",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.60.mp3": {
+      "size": 312214,
+      "hash": "c40527983c54e07e311a3683aca82960725f3bd4",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.61.mp3": {
+      "size": 1589915,
+      "hash": "24c0f6ad82dfd879019f3068f5a0f174ffd035e9",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.62.mp3": {
+      "size": 5642030,
+      "hash": "16542c6f54b4251e73bb5f66fc6b09b24915263f",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.63.mp3": {
+      "size": 3278470,
+      "hash": "2e07884281c600baf895b6546f1ab4b1eee655ec",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.64.mp3": {
+      "size": 5463561,
+      "hash": "5e3746096b1d595aea31aa108d8532eb9a6830ad",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.65.mp3": {
+      "size": 5940452,
+      "hash": "22a77eb3c9ed396327bd91e14b6ba029442a9879",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.66.mp3": {
+      "size": 1398908,
+      "hash": "6e0544df34bd3bdb8dbd6c1b424764ff87d302ad",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.67.mp3": {
+      "size": 1610813,
+      "hash": "d280ea2caae187b654ff69a73722191bfa5ffea8",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.68.mp3": {
+      "size": 1123473,
+      "hash": "82744329b6f507f7b2f90bef87878278bf14d083",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.69.mp3": {
+      "size": 1465363,
+      "hash": "e102b2b299c5e1bb781d35fc0bd14989eb1fa8d6",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.70.mp3": {
+      "size": 129984,
+      "hash": "1758d83533225a6b156c7f288088a0e50eebf7ad",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.71.mp3": {
+      "size": 420883,
+      "hash": "c7875a327203ebcfa04bc68fd5ad4591705b5201",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.72.mp3": {
+      "size": 2323434,
+      "hash": "e02df36fc8e89d9206faa3834441a52c0f1a26f0",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.73.mp3": {
+      "size": 2103587,
+      "hash": "be9ec7dcf98dcb679fe52aa629cea43597e48146",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/denoised/IV.74.mp3": {
+      "size": 2793638,
+      "hash": "4ef7db42318da2b333903bf0e330f472bb18524a",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.01.mp3": {
+      "size": 1513031,
+      "hash": "5c0a73769454ed668cf070ba485e486607062f65",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.02.mp3": {
+      "size": 838027,
+      "hash": "4b151b8d2253ad84e6fdd3b25be1680b5ead4b18",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.03.mp3": {
+      "size": 805217,
+      "hash": "9e45ea73f062cf5972d0af42b79c17f8a1ddb15e",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.04.mp3": {
+      "size": 2010611,
+      "hash": "cf7c802875d513a33349832bc853736508fb379a",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.05.mp3": {
+      "size": 931441,
+      "hash": "5c5b8750e0ef59065eed6582302c2428f1c24d53",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.06.mp3": {
+      "size": 1271033,
+      "hash": "5956a6ae49378fadc19ed0ca346eba229f4f9a30",
+      "lastModified": "2025-07-26T06:59:22.355Z"
+    },
+    "03a_MASC_audio_files/original/III.07.mp3": {
+      "size": 505958,
+      "hash": "3b74c526412891d0870bdad1cb24b972f19c1010",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.08.mp3": {
+      "size": 1999117,
+      "hash": "91e44abace25e0674a96626cfd9fabaedf5fa524",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.09.mp3": {
+      "size": 1291095,
+      "hash": "f382e1571f1b369ee3c44698fb87400a8188fce2",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.10.mp3": {
+      "size": 541067,
+      "hash": "584b6eb1d7813c6985b8b7017239cdff638917d1",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.11.mp3": {
+      "size": 1322650,
+      "hash": "359c3b475230a0af38f1d87320d7e3898ee7dba9",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.12.mp3": {
+      "size": 1644479,
+      "hash": "149fe1e03337bdb382fc24fbabc7b46f9a3c1551",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.13.mp3": {
+      "size": 542112,
+      "hash": "9b335acf0c773c6b7b100fe5b660cd54aec2b7f4",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.14.mp3": {
+      "size": 2723441,
+      "hash": "ccbd213c56e2b170ff8271b60374c0eaaed8c63d",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.15.mp3": {
+      "size": 2082082,
+      "hash": "97417ab621e3dc0a82a750b3b19e1717537b4357",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.16.mp3": {
+      "size": 2299212,
+      "hash": "d0f328b109c5137be5995d9348d13fb7291e1795",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.17.mp3": {
+      "size": 1022138,
+      "hash": "576d9a9da5346233ae121e6e87f8ba5c2e6e0c85",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.18.mp3": {
+      "size": 381197,
+      "hash": "353347c0f2a99cea7ae3168ac47504e55a304c82",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.19.mp3": {
+      "size": 2157315,
+      "hash": "70f22357ba919ec87b19c45b00897305ffbfb00d",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.20.mp3": {
+      "size": 1015659,
+      "hash": "5dfd7ddbc14f586ffe7416ad437b03ad6cc6b552",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.21.mp3": {
+      "size": 409619,
+      "hash": "8bd2e7e49a98e272d21728543d38ca3dcda3934f",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.22.mp3": {
+      "size": 644721,
+      "hash": "0a645ddf2365540f71ba5fa229633d34b68ef99b",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.23.mp3": {
+      "size": 900303,
+      "hash": "c1151fa3d89bb054fd486f77343d248fe5812165",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.24.mp3": {
+      "size": 622569,
+      "hash": "94007194c4cf2dc665ff0daf26c47a5877f485ca",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.25.mp3": {
+      "size": 885465,
+      "hash": "cf2305892aac7fce4d4b6f1be532aa0b06941188",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.26.mp3": {
+      "size": 1096953,
+      "hash": "be29691238df08a032418d13e37b3c90854bf022",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.27.mp3": {
+      "size": 413171,
+      "hash": "b78d2a45b062e4f4f228461b2dcb0fd456d29281",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.28.mp3": {
+      "size": 1797243,
+      "hash": "712f8acb6dfae5d857efb25e1e2773e67cf69e68",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.29.mp3": {
+      "size": 1380538,
+      "hash": "897c38f94cffbd16b0c1d66f8d8c21322d98d93b",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.30.mp3": {
+      "size": 4146174,
+      "hash": "f97c121dc62e359c376ccc0602e0011f33190fcd",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.31.mp3": {
+      "size": 2010193,
+      "hash": "5d849dc8a1718c49b4935438b8616ec0e2fc9c9e",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.32.mp3": {
+      "size": 2179049,
+      "hash": "4a2f542dcba33a7386a64c78b9865669a14a2586",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.33.mp3": {
+      "size": 2437975,
+      "hash": "87a39a744fce8cb821b683a06d9c7d8693cd53e2",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.34.mp3": {
+      "size": 229060,
+      "hash": "960fcc3d1f98b1ca3e65fc8e5aa32519964b9129",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.35.mp3": {
+      "size": 598118,
+      "hash": "6f4ecfd0cfa023f54cb3c3baa829fd88acb2b21f",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.36.mp3": {
+      "size": 560293,
+      "hash": "09f0a82c21b9848e8723ebbdc089df1105ccb714",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.37.mp3": {
+      "size": 802291,
+      "hash": "ca0a73ddbff46232461e81c652a9c5e699e752e8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.38.mp3": {
+      "size": 3603663,
+      "hash": "db3dfd3859c708d3f0b3de3e0ffa9df4121132c7",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.39.mp3": {
+      "size": 556322,
+      "hash": "ea175a0eb96f1b674a081c3e26bd5204e5bd9cf3",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.40.mp3": {
+      "size": 401468,
+      "hash": "ecbb6d4043ff497ba8190b43dd85564b8db2b2a3",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.41.mp3": {
+      "size": 642631,
+      "hash": "5e480a59718d3310b43a11208e53833530106b90",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.42.mp3": {
+      "size": 1491715,
+      "hash": "76871069a18e99f96a3d25cd99b175fcf52b31c6",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.43.mp3": {
+      "size": 630510,
+      "hash": "b6563961e65a2ed5442bace65cde0bd22bce6bba",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.44.mp3": {
+      "size": 6730206,
+      "hash": "b5dbed7f82096bfa9dc95b3bd36c8a6730048c39",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.45.mp3": {
+      "size": 3953076,
+      "hash": "affe0fdc13fa6e66b0216fbe0cd182e0fad55fd8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.46.mp3": {
+      "size": 1859937,
+      "hash": "7c2f1cfd9008a0630120d5c20931806ed9d97d18",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.47.mp3": {
+      "size": 3558314,
+      "hash": "da7067d5088202189131286944cc2d4008db3020",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.48.mp3": {
+      "size": 1385971,
+      "hash": "e0110ecc13aab1222109341737bbb6dcc3660709",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.49.mp3": {
+      "size": 3667192,
+      "hash": "1cad1581428834df108565fe3d15eb3f7db251b8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.50.mp3": {
+      "size": 3079124,
+      "hash": "754347581a7b7b68a8e2fd610a3937689f6c7bb3",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.51.mp3": {
+      "size": 722879,
+      "hash": "fd2b99b8e2e7acb8d954e53528b7261f260f880e",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.52.mp3": {
+      "size": 3848169,
+      "hash": "54fdea34fe346e887378ebf88238bbac354c141d",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.53.mp3": {
+      "size": 3000757,
+      "hash": "b6021827f79f99828848e566b02583183ee49b1b",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.54.mp3": {
+      "size": 5660649,
+      "hash": "b6ac9b443c1455e1a463c8d2f6d1460ef6c48792",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.55.mp3": {
+      "size": 954428,
+      "hash": "4d805c13617a67f348bf3029ec44b4986902bcd5",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.56.mp3": {
+      "size": 4470510,
+      "hash": "efc7a0c7a03618582807969ec28f283a86f99d00",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.57.mp3": {
+      "size": 1351699,
+      "hash": "902f422f8671f46162c754431193c314a5528b31",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.58.mp3": {
+      "size": 625495,
+      "hash": "152ba08e87a3edc75e3a121d146e97dcda688dd4",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.59.mp3": {
+      "size": 979924,
+      "hash": "a3645ba354adc4186bcbab537c509099af34f1df",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.60.mp3": {
+      "size": 1557753,
+      "hash": "d7ff3bb0503fcfbbed6aaec16e1dda4c457fb1c8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.61.mp3": {
+      "size": 521632,
+      "hash": "800c2bd7a7aecbfd04d65b9e1611c2f90d714246",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.62.mp3": {
+      "size": 1946872,
+      "hash": "ccc2183f2843e7928f16f6a0214a33011442dcd0",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.63.mp3": {
+      "size": 782856,
+      "hash": "34c6d7d07ddba311b2430ad4d41327e3d514f725",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.64.mp3": {
+      "size": 1051395,
+      "hash": "4e4b46245149679961fd2cf885592244e97e2091",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.65.mp3": {
+      "size": 1021929,
+      "hash": "5610cc289193c84646b18eca6c96be06a36ec5a5",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.66.mp3": {
+      "size": 720162,
+      "hash": "c3f41e6664a7547fb8f7439d45be8f289c57d0ed",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.67.mp3": {
+      "size": 192280,
+      "hash": "91542d77344e7e38a37b3ce878d0a975a14cb7d8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.68.mp3": {
+      "size": 200639,
+      "hash": "8ca526e3d5ea659d7c445fc04a1a3eefb5a53ccb",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.69.mp3": {
+      "size": 201684,
+      "hash": "4be4ab1b8d7404447d3ec597aa486cf5db7bc611",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.70.mp3": {
+      "size": 366360,
+      "hash": "0c673267b73064563be2c10c8eb977e93b4a29de",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.71.mp3": {
+      "size": 950040,
+      "hash": "f9350b4347db70d4e801945a2cc8a1d35a8b8e97",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.72.mp3": {
+      "size": 349642,
+      "hash": "6e7ad28d046c38e95292eedeef56c344e14907b7",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.73.mp3": {
+      "size": 637197,
+      "hash": "de17ce500b382d0a3ae7d651e1c0d02f4fc0549b",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.74.mp3": {
+      "size": 723715,
+      "hash": "b3d38ae7f900dd38f3d78b217eeb482bc0b37f06",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.75.mp3": {
+      "size": 567398,
+      "hash": "e2ca2d10e16adee1525eff7276bd55cf9cdf53a6",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.76.mp3": {
+      "size": 847013,
+      "hash": "e1c68be46dd374c8a601eef8c9fd12e608681858",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.77.mp3": {
+      "size": 1139166,
+      "hash": "e601bae4336181527303830557544853552e0697",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.78.mp3": {
+      "size": 866030,
+      "hash": "45e8b94b6fc29d387f7917341898bbaeb8cfd22c",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.79.mp3": {
+      "size": 677113,
+      "hash": "3baf449c3105f5dac5fbd372c66fcda6f1866362",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.80.mp3": {
+      "size": 1241357,
+      "hash": "f051994a19d3f465d294e54ad8df805a0bf6b281",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.81.mp3": {
+      "size": 849312,
+      "hash": "83d0eeeabbf2a3fd1c76ffc6d26149102eaedac9",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.82.mp3": {
+      "size": 750673,
+      "hash": "2aabc7b70a4c61e3c5d70288a3771477eee189c3",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.83.mp3": {
+      "size": 1306559,
+      "hash": "401fdc94a6ead7e93f35c29f78289d994634a193",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.84.mp3": {
+      "size": 498435,
+      "hash": "368202927c1c303e160a0c71453abbb8de9337fb",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.85.mp3": {
+      "size": 664783,
+      "hash": "95b945106195dfd97c478b3c3010ba6eea080a43",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.86.mp3": {
+      "size": 618807,
+      "hash": "33a4b13a22000225fae8fb3f40215f5c5bc72ec5",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.87.mp3": {
+      "size": 450788,
+      "hash": "24a7260fdd1a2bc965005b6507e48f4b109884ca",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.88.mp3": {
+      "size": 596028,
+      "hash": "c5f46face0db1a49ab0c464913dbb42a4914d360",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.89.mp3": {
+      "size": 551516,
+      "hash": "6aa186c5a8c6410ff806488b394270b90851e228",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.90.mp3": {
+      "size": 809397,
+      "hash": "1f33302ce9ac6f22d5bf5e034960b3a08cfb95f2",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.91.mp3": {
+      "size": 1195800,
+      "hash": "493e9fb721e0e93a3709e73d60a5ab8405064e47",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.92.mp3": {
+      "size": 600835,
+      "hash": "d542751827b83f7f6972b402226005039582f4bc",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.93.mp3": {
+      "size": 322474,
+      "hash": "ea201f2a95aa037571983018b9d1a8453a1386dc",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.94.mp3": {
+      "size": 208998,
+      "hash": "02272cc1a7b1999104eb31d5261ecd6dc75fc1ba",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.95.mp3": {
+      "size": 1290050,
+      "hash": "59c5ee639c3eedb2b8a72404c4c552e7a55bc185",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.96.mp3": {
+      "size": 1511150,
+      "hash": "b70a4a5ea3e92f1b0a9c4d9c8787ab7f7b788ab9",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.97.mp3": {
+      "size": 2636296,
+      "hash": "3d1cfa69e05074dd2fcad2b46f103b092b17ed95",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.98.mp3": {
+      "size": 2138298,
+      "hash": "5a107ec498b2a3efdf4011e3d07cb02a6387f158",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/III.99.mp3": {
+      "size": 8167986,
+      "hash": "ef20ae3efc29c70edfe41113e5aa26edfa38e230",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.01.mp3": {
+      "size": 2388863,
+      "hash": "b83b2f68338d960b6e32b5fb483705602055b464",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.02.mp3": {
+      "size": 1676162,
+      "hash": "ce1a2a13791eae859f4523918196eb1b1c518016",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.03.mp3": {
+      "size": 1422043,
+      "hash": "ba4c87ac94bdc1f511fb4f03e6f207c8df4aafc1",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.04a.mp3": {
+      "size": 5080188,
+      "hash": "bd2a17cfa96ae6ae6aac7dd1feec0d5cd66f267c",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.04b.mp3": {
+      "size": 8139561,
+      "hash": "be62c4f08afc498f5df733877924129c245cbd06",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.04c.mp3": {
+      "size": 9202544,
+      "hash": "73494d589c9bde1e9173fcedc66b3c99a8780b0b",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.04d.mp3": {
+      "size": 7584789,
+      "hash": "02bc13bbdf65743797ab084fd7019c30600fbb73",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.05.mp3": {
+      "size": 4791502,
+      "hash": "da167eaf11c30352157b338f84e7f8a2d8967248",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.06.mp3": {
+      "size": 2627518,
+      "hash": "63e054345705249dbb8cb9004ccae66d464174fb",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.07.mp3": {
+      "size": 5078640,
+      "hash": "5406961b5f1875a2ffcb3e40f1f95f550ce6e584",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.08.mp3": {
+      "size": 1845098,
+      "hash": "207f52bf43f1a9d66263f0fa99b769423598332a",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.09.mp3": {
+      "size": 2137879,
+      "hash": "9f02baaddef640925fb91abc451b8608e144debb",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.10.mp3": {
+      "size": 12401284,
+      "hash": "ed482fc3e19d61a04108d349827785c319927166",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.11.mp3": {
+      "size": 3382352,
+      "hash": "d48acc1c86609c29e97e610ac0f9222a92370a33",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.12.mp3": {
+      "size": 3000965,
+      "hash": "c7572580f9714750f58d37d615565c2d32bdb945",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.13.mp3": {
+      "size": 2826676,
+      "hash": "e0beadf1962978eca2aa7ea509e77eb148b37f5f",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.14.mp3": {
+      "size": 2270372,
+      "hash": "12ca3f7e132c59d893ec5f874599f232562717fd",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.15.mp3": {
+      "size": 2341216,
+      "hash": "7657f485009f2b444252b51f046ad7b6b1da537e",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.16.mp3": {
+      "size": 1498610,
+      "hash": "884af6eafd7d72a320bd39f5c735c8dae3b0ee14",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.17.mp3": {
+      "size": 1587427,
+      "hash": "9beb48887810a9f71798aa18d2298c82baf472c2",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.18.mp3": {
+      "size": 4492034,
+      "hash": "36baedaa06bd13d92e97371c8c9c7d8ec8664df8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.19.mp3": {
+      "size": 1870803,
+      "hash": "cb486d4736997c046162050db59ef5fcf2dd50b2",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.20.mp3": {
+      "size": 3909608,
+      "hash": "4741004a8387eb251a78a90ab786719b17a4e42a",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.21.mp3": {
+      "size": 4733405,
+      "hash": "255e7549256ee94e9586e86018c25b8ac1191a38",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.22.mp3": {
+      "size": 3560612,
+      "hash": "4ae48fc83c3c4736990c202ea558a75926167d50",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.23.mp3": {
+      "size": 2531805,
+      "hash": "eef1402b9c000bb28e565dd89ca9370ea5b9d403",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.24.mp3": {
+      "size": 2204334,
+      "hash": "3e70d932259967cc9de88ed4cad504b5eafebfc6",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.25.mp3": {
+      "size": 2757004,
+      "hash": "a743d7158d3e58f7caddd97077a2b4363a92dc35",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.26.mp3": {
+      "size": 1524443,
+      "hash": "ae3bb833e650c77e93fd478085fa61e8abbcb3ae",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.27.mp3": {
+      "size": 1266643,
+      "hash": "3f2a7ee38eab9ce3bd1b607ce3ad8fa3428e451e",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.28.mp3": {
+      "size": 800827,
+      "hash": "e32e39e133cae12db6ec91f7cf8ccaab31b05c55",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.29.mp3": {
+      "size": 676067,
+      "hash": "bd155df049ab11cfeca39fffa07f7afcfe517493",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.30.mp3": {
+      "size": 549425,
+      "hash": "451d58fb366ba61cebfab632b433ff40af2e0e32",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.31.mp3": {
+      "size": 1136449,
+      "hash": "9207c489ad1db56a0627cd54ef0c880e2907fb07",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.32.mp3": {
+      "size": 1194336,
+      "hash": "f169a498c0930e55df8859bc10c06781c8125d27",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.33.mp3": {
+      "size": 2675792,
+      "hash": "0ef13ca332667167a8783a142f7ea04c6cd7dc00",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.34.mp3": {
+      "size": 4862346,
+      "hash": "605f34b91d2d21d783364d207b1946cf399a3c19",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.35.mp3": {
+      "size": 1078561,
+      "hash": "6a13aaa57edd4a3f17dea44af538468c7e508b50",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.36.mp3": {
+      "size": 662483,
+      "hash": "d3a27bb61e2050d37063380ec611b4033eb0ce98",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.37.mp3": {
+      "size": 255391,
+      "hash": "d54da60980f5752d94a51979f493b8d5b1c99b63",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.38.mp3": {
+      "size": 385794,
+      "hash": "a89ebbe8efdde22c3f2c8d4f0f6778636269921c",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.39.mp3": {
+      "size": 428217,
+      "hash": "5815ae95d6459c133ac0f5406446a346d5358803",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.40.mp3": {
+      "size": 2304227,
+      "hash": "2ff7ed08d931423d339946860826d945b3fde2fd",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.41.mp3": {
+      "size": 365732,
+      "hash": "d084ffc833a48be6900f5f2d22465f75ed46da16",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.42.mp3": {
+      "size": 344416,
+      "hash": "5ebc4f074cec478d22713a96884ac0f7237b034c",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.43.mp3": {
+      "size": 656632,
+      "hash": "a5b248119409a17913fe391d81c89e60d8a0850e",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.44.mp3": {
+      "size": 399587,
+      "hash": "c72304232304895d5cde49d3925ac116b32046bc",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.45.mp3": {
+      "size": 254555,
+      "hash": "51d338ccc40c4e7140ccdf231bfc0cac4b27875f",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.46.mp3": {
+      "size": 350058,
+      "hash": "3133fa451706a91e0cab9f5951cfd2721498ebd9",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.47.mp3": {
+      "size": 310352,
+      "hash": "4669893ceb5f632a88df73015b17fafd8c368376",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.48.mp3": {
+      "size": 2490218,
+      "hash": "a9ab130a0c6f3769b1e0a8d50718088c2ce2b950",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.49.mp3": {
+      "size": 290917,
+      "hash": "15b0058cb3447f40ea096f9f451e2d81e34c6602",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.50.mp3": {
+      "size": 806679,
+      "hash": "e30aceaf874a8a2850d3b419d333e8f72026bcad",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.51.mp3": {
+      "size": 887763,
+      "hash": "8c03044c01974fac6a2ac9985eaeaf9487d41b4d",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.52.mp3": {
+      "size": 807724,
+      "hash": "448e5027acdc5e19ade7e70c6ebdc0ce5ea1b587",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.53.mp3": {
+      "size": 305964,
+      "hash": "fab647e57afe3dbfce4e6060b392861c9809b251",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.54.mp3": {
+      "size": 280886,
+      "hash": "b1becbdde72e4d0d514ff74d96f10800ebc13142",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.55.mp3": {
+      "size": 388302,
+      "hash": "1f32fba7310e92c36892dec36632e673f35bc574",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.56.mp3": {
+      "size": 487567,
+      "hash": "8fd9fc02daa455e3358ce97a7512d524c22cde2f",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.57.mp3": {
+      "size": 449115,
+      "hash": "a1c26aabe61a87dc4470040272f2db4aeeae9243",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.58.mp3": {
+      "size": 170545,
+      "hash": "744ff7a003a5f596ef46dd7ccec639c0150aec4f",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.59.mp3": {
+      "size": 495299,
+      "hash": "48534c7d6f43d2905939be1c89e025ed9839f7c2",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.60.mp3": {
+      "size": 157797,
+      "hash": "bcd03c280694bea694c7343ae75dd57668e484e8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.61.mp3": {
+      "size": 796648,
+      "hash": "f36d6fad2a91765fb00d5a421a5f88c740725708",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.62.mp3": {
+      "size": 2822705,
+      "hash": "350d945ec9984123583b4621fc162fe2c8af129b",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.63.mp3": {
+      "size": 1640925,
+      "hash": "612d316f00358d598ee2094656576b65a5e4122c",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.64.mp3": {
+      "size": 2733471,
+      "hash": "59334c01fe6b322b903c0cbe3605502256c6fd85",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.65.mp3": {
+      "size": 2971916,
+      "hash": "7ef03571e15828c1ef7d6a7502cfc7726888a616",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.66.mp3": {
+      "size": 701144,
+      "hash": "0416a95bf909e468a2c3cb48be929087e24fa87e",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.67.Sang.mp3": {
+      "size": 1122454,
+      "hash": "a19e40734e11b3517cde1b82dac91640d2ddb2d8",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.67.mp3": {
+      "size": 807097,
+      "hash": "e49e5143093fe52ecc1782c5e4b6a8cfa9dbb716",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.68.mp3": {
+      "size": 563427,
+      "hash": "7eed187c1b014789fe23197f65f6851d38ff9553",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.69.mp3": {
+      "size": 734372,
+      "hash": "856485c48ab762f9a4d549f15aedb639e5e5c502",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.70.mp3": {
+      "size": 66682,
+      "hash": "12be4c455af9d74ed66320d8bd1d19c81ed64239",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.71.mp3": {
+      "size": 212132,
+      "hash": "9960894392a070a9e506b49a09059c3049cafe12",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.72.mp3": {
+      "size": 1163407,
+      "hash": "bfaf376a2d34e492ab941965eb156a8907fd95be",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.73.mp3": {
+      "size": 1053484,
+      "hash": "39da41c58d126b4136b2d1f0d49ecd37db80b360",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03a_MASC_audio_files/original/IV.74.mp3": {
+      "size": 1398509,
+      "hash": "b0b9c230ff37194d28fd042ea401b48acaf0a8f7",
+      "lastModified": "2025-07-26T06:59:22.356Z"
+    },
+    "03b_MASC_textgrid_files/III.01.TextGrid": {
+      "size": 198498,
+      "hash": "8121bd5a6b14a8c7ddf852d6bb0d0a0509615388",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.02.TextGrid": {
+      "size": 104163,
+      "hash": "cd75e42c6f649bea1a595cbde2750f0906e55869",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.03.TextGrid": {
+      "size": 125159,
+      "hash": "e4e101716df21ba3a7f768918b96fd9b7a1cccec",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.04.TextGrid": {
+      "size": 232870,
+      "hash": "9c962c94fdc815f3ebfb9907a9a533a15d81ca8a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.05.TextGrid": {
+      "size": 129539,
+      "hash": "f72b578fa900aee09bc03603ab687df432a2f7ca",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.06.TextGrid": {
+      "size": 164452,
+      "hash": "d921995783c825577c2c7bca9d4b3ddae471ced5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.07.TextGrid": {
+      "size": 67034,
+      "hash": "a5541f5b1a3a093d61d3ddcd98b8e138ff13e11c",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.08.TextGrid": {
+      "size": 220809,
+      "hash": "d27db1fdb348ec0137bd404087472ddc294b3c01",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.09.TextGrid": {
+      "size": 149264,
+      "hash": "e27d9ea3e794ba5e4ed7314f25379dead73ad96b",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.10.TextGrid": {
+      "size": 66497,
+      "hash": "c93489dcce60e59c1afa16ef3171c4f60b8ebff5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.11.TextGrid": {
+      "size": 166720,
+      "hash": "3fc89f9971ce9b1ec1af887e0de4acaa04247541",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.12.TextGrid": {
+      "size": 188910,
+      "hash": "e1394cd2c1ff5f01120408a6d0cd66652acf78e1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.13.TextGrid": {
+      "size": 56010,
+      "hash": "0b1af7c8bd72ba796f77df609d3225d397cce661",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.14.TextGrid": {
+      "size": 292052,
+      "hash": "ca9ea405c5ff08147c03ce3c5f3b2ca21f3dad40",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.15.TextGrid": {
+      "size": 260281,
+      "hash": "5e1a2459788c2bfdbe4510dc8104713b5c58b47a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.16.TextGrid": {
+      "size": 267197,
+      "hash": "78426c0331c2e7e6fcd593f6bae33f0353f303f0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.17.TextGrid": {
+      "size": 139968,
+      "hash": "39c70cdf6190af7bc59e0be34dbf3b7beb250066",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.18.TextGrid": {
+      "size": 43596,
+      "hash": "2242ac1a5bf52b0a2659deffcfe4fa730d6203b7",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.19.TextGrid": {
+      "size": 305562,
+      "hash": "48d667ddc8dc5c1dee7dda3e3aceb89d6b8849b6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.20.TextGrid": {
+      "size": 111290,
+      "hash": "00bf67b678c6d9a317c78b0344e4fbf0f239d922",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.21.TextGrid": {
+      "size": 46234,
+      "hash": "fcb721bb06fe27408f475f53aabe56b3b3281f62",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.22.TextGrid": {
+      "size": 58757,
+      "hash": "27be6d586670df25eb059dc60a1103943feb7072",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.23.TextGrid": {
+      "size": 99613,
+      "hash": "98250a9cf52b174dc59c3570aafdd0cede3d5ec1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.24.TextGrid": {
+      "size": 57946,
+      "hash": "faab670a268d491192a218a4d59fedd5896b2b12",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.25.TextGrid": {
+      "size": 119101,
+      "hash": "16a24fb450a11618379fecd0731a772599cef7e0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.26.TextGrid": {
+      "size": 108149,
+      "hash": "973251f99b2b58dba2dbccdb6a140f1634d10eba",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.27.TextGrid": {
+      "size": 48406,
+      "hash": "b795d399532c7b06f56e4b5448d960e223f8df8b",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.28.TextGrid": {
+      "size": 214057,
+      "hash": "e127aa7907567ca80698b33f3cde131a19d287b9",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.29.TextGrid": {
+      "size": 156151,
+      "hash": "ded7a4c67cbf3d877832f94afd2eca1f9939e73a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.30.TextGrid": {
+      "size": 484120,
+      "hash": "10ce532681caf4bc6e1d2dd08034a862e11eb901",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.31.TextGrid": {
+      "size": 232644,
+      "hash": "ea74eb68b207c1a8fa1901a1ebd71103f7fb6978",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.32.TextGrid": {
+      "size": 274480,
+      "hash": "13d752b53d4691e5ab351dfa0bf3f54615981b23",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.33.TextGrid": {
+      "size": 292204,
+      "hash": "21e7caf3404b2e1180340f5d0ddbce5cbd19a38d",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.34.TextGrid": {
+      "size": 23061,
+      "hash": "578d45a2d6f78db6b4bc67f06f775b72bab73383",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.35.TextGrid": {
+      "size": 55231,
+      "hash": "8b6d74f3c442f30709870779d8d4b2fd653dbd43",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.36.TextGrid": {
+      "size": 68310,
+      "hash": "cd960a8f1da8668e20503ba7d33007c42f28a472",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.37.TextGrid": {
+      "size": 96651,
+      "hash": "600b5ae2318636494a1e24b71e2fb67dba6218d0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.38.TextGrid": {
+      "size": 449406,
+      "hash": "9a1513798f3d2d3c42a773e7306d4c63e2fb8662",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.39.TextGrid": {
+      "size": 73400,
+      "hash": "0938da410f8de4784648dd307ee01a9bfcc51c5c",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.40.TextGrid": {
+      "size": 48299,
+      "hash": "4a4071c89b5aa72e9d917e6c36b6796e66921964",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.41.TextGrid": {
+      "size": 83441,
+      "hash": "3c16294069cd63c8cb32e7006c831c0d7d58355a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.42.TextGrid": {
+      "size": 196393,
+      "hash": "5d775b50a1560b7db172f4d13f1f0841bf28f732",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.43.TextGrid": {
+      "size": 80304,
+      "hash": "f3fc5b42a5529a24a68b71e228e12cd1a49ad303",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.44.TextGrid": {
+      "size": 781024,
+      "hash": "8fc1383f89cad8ea27e541046a77f0516141a981",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.45.TextGrid": {
+      "size": 516223,
+      "hash": "bf60f2b21d96e4e89c02e44d0e6ef01264b4e9f3",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.46.TextGrid": {
+      "size": 235289,
+      "hash": "89daabdb8cd074da22b92cb0efb83e0d941b4028",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.47.TextGrid": {
+      "size": 412601,
+      "hash": "e737cfc6855f4882ac3ae6b81c39ec8f74b46c3e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.48.TextGrid": {
+      "size": 164974,
+      "hash": "2fcf40a9ecace7dfc1b2d8e4aa34243f86584097",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.49.TextGrid": {
+      "size": 435931,
+      "hash": "806bb99ba7009bf0a3891b84f72b84dc61987434",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.50.TextGrid": {
+      "size": 398891,
+      "hash": "a6ae9cba698cfd6bfe0183d1317802c11f9f3184",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.51.TextGrid": {
+      "size": 90958,
+      "hash": "8f8a068e39d45e30bf75abf57f9537be15ba278a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.52.TextGrid": {
+      "size": 440947,
+      "hash": "808a843df519d7a87c6e0a9bb7ba9a0d5763cae0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.53.TextGrid": {
+      "size": 393914,
+      "hash": "468c4b61d925fa1053d5e211922b127ee31c42f0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.54.TextGrid": {
+      "size": 642368,
+      "hash": "be9115aaff45d470e7de7ef40b252c6350c49098",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.55.TextGrid": {
+      "size": 123381,
+      "hash": "3d2a3a5d79b314297ab8912d6f77f52e95e036b5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.56.TextGrid": {
+      "size": 596747,
+      "hash": "0949fd9970597b856ed6423162dec04b16530f2f",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.57.TextGrid": {
+      "size": 160181,
+      "hash": "c2cd6df8510cf802bb1fafdc3d5528fe8fdad615",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.58.TextGrid": {
+      "size": 84642,
+      "hash": "7ca257d46958668b99f2e836e2c1b9fd04324393",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.59.TextGrid": {
+      "size": 145691,
+      "hash": "3b82642c64aefb6a3bdc0ea858968e2ce8c5220a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.60.TextGrid": {
+      "size": 183651,
+      "hash": "ebfbbf5b2c2f140c97cd5c37cdd3dbb3ac3e360e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.61.TextGrid": {
+      "size": 71542,
+      "hash": "00b8e61c54a332464d63fb5a0d4f749ff25068e5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.62.TextGrid": {
+      "size": 221086,
+      "hash": "45c33cc3cf12991da91f4ffaae224c253a7163fe",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.63.TextGrid": {
+      "size": 91423,
+      "hash": "00eba144b101e42a0bcd9a9c3b14339c54e961f6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.64.TextGrid": {
+      "size": 119707,
+      "hash": "0d98b0d5b5c29215fc6985dddac6f72518e1e026",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.65.TextGrid": {
+      "size": 116004,
+      "hash": "205f89dc398963988c2ac82194af6075852ce7d1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.66.TextGrid": {
+      "size": 91412,
+      "hash": "16373a361761e7ac79d847ca6e1ec0343f17e74e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.67.TextGrid": {
+      "size": 25200,
+      "hash": "a61b890921ecc38f3453bcbe33719bcf0979e2a9",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.68.TextGrid": {
+      "size": 30036,
+      "hash": "d4d90b67a97388b932a383a08f10f50daee32e80",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.69.TextGrid": {
+      "size": 30441,
+      "hash": "2e72f7df8041b4d8b95ddc31146faa0cacb353e8",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.70.TextGrid": {
+      "size": 58052,
+      "hash": "17656e2d1b5721e5eaae5fd81ae6ebe2cb4f50e6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.71.TextGrid": {
+      "size": 100216,
+      "hash": "ead2194179e29b64cb92eb815f4c1d75a01981c6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.72.TextGrid": {
+      "size": 51177,
+      "hash": "f53133a974678b1ab11523ff020a6876f0301235",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.73.TextGrid": {
+      "size": 84447,
+      "hash": "c5722275a38b6ee6648e2709510e432881d82325",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.74.TextGrid": {
+      "size": 91986,
+      "hash": "6c7209a3271da69a8d90c604088d44327b7e16de",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.75.TextGrid": {
+      "size": 74628,
+      "hash": "e3943e39868d6007b331a62e578854588734e98e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.76.TextGrid": {
+      "size": 82694,
+      "hash": "c04a4feba628f0afe07b5e08ebaa96d24a1cdb4c",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.77.TextGrid": {
+      "size": 120554,
+      "hash": "9b7d333b4bb864bb5973125445eabd5d70f1a5e8",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.78.TextGrid": {
+      "size": 88543,
+      "hash": "d89d48dd7fb26998dfde478ffdc51cb96c94d832",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.79.TextGrid": {
+      "size": 75148,
+      "hash": "dda6809653a9340c7c011ffe97430d914c5d66bc",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.80.TextGrid": {
+      "size": 128912,
+      "hash": "28b8e1262d0193b8254304de8cc6d3003a4c8fb6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.81.TextGrid": {
+      "size": 84768,
+      "hash": "8ef4882f3cdfe2729faf5427f19967fef51689b6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.82.TextGrid": {
+      "size": 81055,
+      "hash": "a48a036bfc2bb305d949f5b16b7a84989c6945c5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.83.TextGrid": {
+      "size": 134985,
+      "hash": "1e4485ef413d7141b27521d54313d1090145bb97",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.84.TextGrid": {
+      "size": 68006,
+      "hash": "e60984e003500b57121cff4b6cd66ead5fdda69a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.85.TextGrid": {
+      "size": 90967,
+      "hash": "2e2cbfa823f200adfd48acbd9f1e4b535efa1a68",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.86.TextGrid": {
+      "size": 87082,
+      "hash": "cead514198c684b36afe08fc31132837589493a1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.87.TextGrid": {
+      "size": 54388,
+      "hash": "de99779f3f8e15928d1e5128b46fc23c3628c3e5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.88.TextGrid": {
+      "size": 73568,
+      "hash": "61e458f1dd4d36a08118004d2019d3a51e97f98d",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.89.TextGrid": {
+      "size": 66765,
+      "hash": "1ee3cb3a80086f5ee0f4d83a4eeecf2ef5b1aacc",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.90.TextGrid": {
+      "size": 88077,
+      "hash": "3c2a8d661984792fa7af64ed34b62e658281cf6e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.91.TextGrid": {
+      "size": 135874,
+      "hash": "f4c2604cd89ab502799d0358cc4d762efe6c25d6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.92.TextGrid": {
+      "size": 71700,
+      "hash": "8a6445b57e798f395287dbc13d2f30c1fec99c07",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.93.TextGrid": {
+      "size": 38686,
+      "hash": "74e3182e9d766d3cc1d11e2f95c4c749aa6765a7",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.94.TextGrid": {
+      "size": 27263,
+      "hash": "bb06fb6f16f1d18153ad3d03ed59b762e8817ad3",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.95.TextGrid": {
+      "size": 131494,
+      "hash": "30b5631b171b9e6ad7aff2bf60a55b1389194130",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.96.TextGrid": {
+      "size": 188381,
+      "hash": "5a19fcc02f87a78ea6a38764e6cd378b59405814",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.97.TextGrid": {
+      "size": 322563,
+      "hash": "039a457b64a841c346d095a72407b3831cf8cdcf",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.98.TextGrid": {
+      "size": 263429,
+      "hash": "2635cc3edd12a296a48ea334bbf98cf9e95eb10e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/III.99.TextGrid": {
+      "size": 1035460,
+      "hash": "403c7052b7559accb8a4a06393d4e143d40e25eb",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.01.TextGrid": {
+      "size": 287784,
+      "hash": "fb88adac4e319a88398a6ad134065b374959fd91",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.02.TextGrid": {
+      "size": 234933,
+      "hash": "afaccb90433363829821c5173e68ead285b6a66a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.03.TextGrid": {
+      "size": 200319,
+      "hash": "410304793ab3e063fb1f64f3c8b46c83e3abe9cf",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.04a.TextGrid": {
+      "size": 365964,
+      "hash": "582a622980140e448bac8e1304f4772a80cbea22",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.04b.TextGrid": {
+      "size": 637712,
+      "hash": "f68920ab2ce755cf0564e379f83edfdb9b301a23",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.04c.TextGrid": {
+      "size": 782783,
+      "hash": "587f41994c3be1155f849e324f0ad4ab2af1abc0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.04d.TextGrid": {
+      "size": 644756,
+      "hash": "158ce419425abcb0887a6d52b5eeeb4c1c137cb1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.05.TextGrid": {
+      "size": 549942,
+      "hash": "edd1ff0b6c6633f5dc3b7ba39b8a9be9a25db132",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.06.TextGrid": {
+      "size": 385506,
+      "hash": "c12e5eaf6e050738f9e26035cf162bef3998bf94",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.07.TextGrid": {
+      "size": 620243,
+      "hash": "1a6d56ae0cae9e93ee23d34f3aa2384f481a65da",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.08.TextGrid": {
+      "size": 216009,
+      "hash": "8a4aa3d4992d35c358f07c263bb3d60bbbfa0d90",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.09.TextGrid": {
+      "size": 270036,
+      "hash": "127b63a2bf672e7b6324933f747da0646f9cd3a9",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.10.TextGrid": {
+      "size": 1451830,
+      "hash": "9546b5567886b8350067522fdf710692f40c4ca3",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.11.TextGrid": {
+      "size": 458764,
+      "hash": "6105d23444a81106a5d007cb6bfa79bbf5e95ff5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.12.TextGrid": {
+      "size": 360094,
+      "hash": "2dcf219cc828a1ac2042c79962699819d48ae80c",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.13.TextGrid": {
+      "size": 394765,
+      "hash": "59873ec06e7fded0c4fd4e4bacc338117a5dd1bd",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.14.TextGrid": {
+      "size": 260712,
+      "hash": "33a3b08f1a72a67883d6a28581724fef8abbd85a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.15.TextGrid": {
+      "size": 255938,
+      "hash": "c524635f8c504f90a226cd8845d27c31d530dbb1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.16.TextGrid": {
+      "size": 195813,
+      "hash": "7a32f0d848cd101848d21cd7bf033f00bb181b5e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.17.TextGrid": {
+      "size": 200676,
+      "hash": "fbb17daf11b52e221f0e228da709e1fd427ef1c5",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.18.TextGrid": {
+      "size": 485440,
+      "hash": "8041d9cda5d122292ceb28f683cb461b257ba5b9",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.19.TextGrid": {
+      "size": 222595,
+      "hash": "2f8390913b62874d03f74892b3554474dd2ffa25",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.20.TextGrid": {
+      "size": 530642,
+      "hash": "1bf5d1a8d91d1d9f6b2d9d2a1bf1ca9a12d92002",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.21.TextGrid": {
+      "size": 705298,
+      "hash": "d81d9319e6b52fc595ae6849e6b09be44b6fd29f",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.22.TextGrid": {
+      "size": 401595,
+      "hash": "64430e078853ab2e7f15e21794cdf3e019c3d599",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.23.TextGrid": {
+      "size": 287644,
+      "hash": "a7d971f2943352c9c6ddce9774425416285a5f82",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.24.TextGrid": {
+      "size": 262860,
+      "hash": "c1f12447c63a5c278eb1a2d0d7ffd56698108d68",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.25.TextGrid": {
+      "size": 310086,
+      "hash": "df4e834ab9745d27de0d517c6b451cbe584a1c78",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.26.TextGrid": {
+      "size": 176838,
+      "hash": "63f39430d73837c934cb911882086f06c5e12fb8",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.27.TextGrid": {
+      "size": 152656,
+      "hash": "1b462c9e20120e691fa859992f75b4d2266ae858",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.28.TextGrid": {
+      "size": 82061,
+      "hash": "0a5eedfcc0385b8efebf531b58dfb3b05d7b5058",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.29.TextGrid": {
+      "size": 61470,
+      "hash": "c7aa90426857950492a55da132f4ffcb5e1e081d",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.30.TextGrid": {
+      "size": 58679,
+      "hash": "3ee018ea161c49fc571eec2cf90c7ebaa6359339",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.31.TextGrid": {
+      "size": 123159,
+      "hash": "22f429fba5f77a7912c1d05dcc74647622bdf299",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.32.TextGrid": {
+      "size": 166649,
+      "hash": "530598d36686d23c32c2abf015ba539c1021a69d",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.33.TextGrid": {
+      "size": 303328,
+      "hash": "4741280e422d80241596e7184f56525399f47ca1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.34.TextGrid": {
+      "size": 597169,
+      "hash": "5ee72939e77e5d7e2e429e768ec571267a938c7c",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.35.TextGrid": {
+      "size": 140541,
+      "hash": "ff0b261f50ca89a3bcd26b5c952df558db1c0fb2",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.36.TextGrid": {
+      "size": 77203,
+      "hash": "627555e5545a2215d58b9696839fff44c364ab27",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.37.TextGrid": {
+      "size": 20567,
+      "hash": "21f27ed934e0d741103cd7957941756467f807da",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.38.TextGrid": {
+      "size": 39876,
+      "hash": "072843244560aa02c1a92b69229dea5154e3bc41",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.39.TextGrid": {
+      "size": 40290,
+      "hash": "9be806fde598403660a266be97693053671e61e1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.40.TextGrid": {
+      "size": 236616,
+      "hash": "2b961fd15c4263c123a003e215b4165d6c1f5301",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.41.TextGrid": {
+      "size": 40502,
+      "hash": "01d1fda5b85f1d95bfa7b21fd4700faff76c3df1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.42.TextGrid": {
+      "size": 36120,
+      "hash": "6b7cefefaf01c25b72785e8a9cc0f9a82db7bbdd",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.43.TextGrid": {
+      "size": 67840,
+      "hash": "48ecd3f26584aee4790304c6eaf8fe0209938b1e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.44.TextGrid": {
+      "size": 53900,
+      "hash": "a2dd692256c2e16d8e0d8db01a54e244bf87e39d",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.45.TextGrid": {
+      "size": 31191,
+      "hash": "3ad0d7f7b3e386eb9621d0513425be67e1746620",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.46.TextGrid": {
+      "size": 46145,
+      "hash": "d01a18a3e796090ac8b93df30a1c97773b11d3ae",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.47.TextGrid": {
+      "size": 44198,
+      "hash": "246902487bf3006fa2a4c59c105271e66052ef26",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.48.TextGrid": {
+      "size": 321978,
+      "hash": "89112e5b5274062a4856e46cfdfc13a26116e295",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.49.TextGrid": {
+      "size": 28422,
+      "hash": "b0425bdf47dcc2a5cf2063ff90ce6b40f5738e41",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.50.TextGrid": {
+      "size": 92297,
+      "hash": "531fc5995107869bc333cf4ec0c391fbe8fc8460",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.51.TextGrid": {
+      "size": 99406,
+      "hash": "27ab8c40d9d2a91eb4d4641f74b62dcca16dc720",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.52.TextGrid": {
+      "size": 82037,
+      "hash": "239756411d3e7ca1ff632f3181c80608011f7b53",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.53.TextGrid": {
+      "size": 37298,
+      "hash": "cc52d27320f64cc49e60ee35e2fb1d364895f1f1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.54.TextGrid": {
+      "size": 38701,
+      "hash": "72ee0a4a51e97469d8957c35f9e63c2b5292bda1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.55.TextGrid": {
+      "size": 45311,
+      "hash": "931642cc8729384f969f0257fca24d02016c4695",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.56.TextGrid": {
+      "size": 54697,
+      "hash": "dce8e19af5bf29701aa090ab77bc35519d927d6c",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.57.TextGrid": {
+      "size": 46322,
+      "hash": "8520178b92a86e21006f4b07dadce531e8ac50a1",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.58.TextGrid": {
+      "size": 23606,
+      "hash": "7038b9b5e4429062239861a3ad207e7eb878340a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.59.TextGrid": {
+      "size": 60447,
+      "hash": "732882540dd34d205634feb301d387b113b2f41b",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.60.TextGrid": {
+      "size": 18609,
+      "hash": "7c0ed41e709932fdd4716a2d17cccbf1eac85139",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.61.TextGrid": {
+      "size": 86098,
+      "hash": "91bf95f0efac0f9d5fb5be653e614416ee4bef43",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.62.TextGrid": {
+      "size": 303611,
+      "hash": "85a27b7eb4cf439220884c272bcb3df810100af3",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.63.TextGrid": {
+      "size": 208223,
+      "hash": "7f8157c19e181da7c10372719f5a03bb905079f4",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.64.TextGrid": {
+      "size": 342972,
+      "hash": "b71016536a84175c785aac056b586a7abeb5fbe4",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.65.TextGrid": {
+      "size": 376484,
+      "hash": "df7d732de06fdca2ed183680fef425ce8391e13e",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.66.TextGrid": {
+      "size": 72050,
+      "hash": "398b64c86652c523e8e05c441035dec308df09a6",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.67.TextGrid": {
+      "size": 90841,
+      "hash": "b9c8caefe02767d96ae70b343dff38d7970c667a",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.68.TextGrid": {
+      "size": 63023,
+      "hash": "c18266c0df9b836b6f2b3335a0228844c0a7a5a3",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.69.TextGrid": {
+      "size": 72356,
+      "hash": "770bc056a7823b08252bd905b19f19e9c6c40f25",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.70.TextGrid": {
+      "size": 8950,
+      "hash": "c14584c325fdf3f539a8338679b61637aa2b3cff",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.71.TextGrid": {
+      "size": 26163,
+      "hash": "070c280a4412892436c99dd6e1588ca5a8e54a84",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.72.TextGrid": {
+      "size": 76275,
+      "hash": "3b73ff712cb239adb116f3e354dc278ea8a94c11",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.73.TextGrid": {
+      "size": 101895,
+      "hash": "5eda201ed15beba57eec63f841cbac05b2b90b48",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "03b_MASC_textgrid_files/IV.74.TextGrid": {
+      "size": 145280,
+      "hash": "68a89d9f9799d0cb82e7d6cf7776b582af7fe91f",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "04_MASC_database/aramaic_corpus.db": {
+      "size": 3203072,
+      "hash": "5140d452782196e388074f883ed9911c089f8e0f",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "LICENSE.txt": {
+      "size": 13318,
+      "hash": "db6d5530ba5f69c90e4a48ad42aee24b6d9772c9",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "MASC_dataframe.csv": {
+      "size": 436207,
+      "hash": "98776033721304304d0987cab05898dbfc330573",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "MASC_ipa2sampa_mapping.txt": {
+      "size": 465,
+      "hash": "3365147984c4c04dadb92e8b737a6a8537cfcdd0",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "MASC_lemma_form_mapping.txt": {
+      "size": 198230,
+      "hash": "ea6a30c6e56c6e6b7d7fd3fd2fd459d03c38b547",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "MASC_metadata.csv": {
+      "size": 19799,
+      "hash": "39fa954c479a088bc6393260181f37034d69a604",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "db_layout.png": {
+      "size": 22720,
+      "hash": "6fc8bf7d21ebe6bff70ccaaf43754f746c86982f",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    },
+    "readme.md": {
+      "size": 1322,
+      "hash": "f41fe709d7d7e911e08e03b0e7bf69c567bacd34",
+      "lastModified": "2025-07-26T06:59:22.357Z"
+    }
+  }
+}
