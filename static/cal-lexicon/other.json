@@ -1,0 +1,894 @@
+[
+  {
+    "id": "+xwb_A",
+    "lemmas": [
+      {
+        "cal": "Tḥwb"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "moist(?), drippy(?)",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "moist(?), drippy(?)",
+        "dialects": [
+          {
+            "code": "Man",
+            "dnumber": 74,
+            "fullName": "Mandaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Of eyes; compare late Hebrew טחב."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%2Bxwb+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%2Bxwb+A"
+  },
+  {
+    "id": "PPs_N",
+    "lemmas": [
+      {
+        "cal": "PPs"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "patriarch",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "patriarch",
+        "dialects": [
+          {
+            "code": "CPA",
+            "dnumber": 55,
+            "fullName": "Christian Palestinian Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Greek πάππας."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=PPs+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=PPs+N"
+  },
+  {
+    "id": "[$hl]_N",
+    "lemmas": [
+      {
+        "cal": "jhl"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "ignorant",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "ignorant",
+        "dialects": [
+          {
+            "code": "Man",
+            "dnumber": 74,
+            "fullName": "Mandaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Arabic"
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%24hl%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%24hl%5D+N"
+  },
+  {
+    "id": ")pysydy_A",
+    "lemmas": [
+      {
+        "cal": ")pysydy"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "of Pisidia",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "of Pisidia",
+        "dialects": [
+          {
+            "code": "Syr",
+            "dnumber": 60,
+            "fullName": "Syriac"
+          }
+        ],
+        "citations": [
+          {
+            "source": "WZKM 2:203:1",
+            "sourceExpanded": "Wiener Zeitschrift für die Kunde des Morgenlandes",
+            "text": {
+              "script": "syr",
+              "text": "ܦܛܪܝܪܟܐ ܕܐܢܛܝܟܝܐ ܐܦܝܣܝܕܝܐ"
+            },
+            "translation": "patriarch of Pisidian Antioch"
+          }
+        ],
+        "number": "1"
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "PS Supplement",
+        "fullName": "J.P. Margoliouth, Supplement to the Syriac Thesaurus of Robert Payne Smith, (Oxford: Clarendon, 1927)",
+        "page": "31",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=31&l=3"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%29pysydy+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%29pysydy+A"
+  },
+  {
+    "id": "(ydwn_N",
+    "lemmas": [
+      {
+        "cal": "(ʕydwn)"
+      },
+      {
+        "cal": "ʕydwny_"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "time period",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "pl. const. : time period",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          },
+          {
+            "code": "PTA",
+            "dnumber": 54,
+            "fullName": "Palestinian Targumic Aramaic"
+          },
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TN Gen24:11",
+            "sourceExpanded": "Targum Neofiti",
+            "coordinate": "5400112411",
+            "url": "showachapter.php?fullcoord=5400112411",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "וארבע גמליא לבר מן קרת<<א>> על בארא דמיא לעדוני רמשא"
+            },
+            "translation": "he rested the camels outside of town next to the well at evening time"
+          },
+          {
+            "source": "FTP Ex14:24",
+            "sourceExpanded": "Fragment Targum manuscripts as per the edition of M. L. Klein, The Fragment-Targums of the Pentateuch According to Their Extant Sources, 2 vols.",
+            "coordinate": "540021021424",
+            "url": "showachapter.php?fullcoord=540021021424",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "והוה בעידוני צפרא"
+            }
+          },
+          {
+            "source": "PJ Lev15:33",
+            "sourceExpanded": "Targum Pseudo-Jonathan to the Pentateuch",
+            "coordinate": "8100131533",
+            "url": "showachapter.php?fullcoord=8100131533",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "לידסיאיבתא בעידוני ריחוקא"
+            },
+            "translation": "for a woman who is impure during the time of her ritual separation"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "402b",
+        "url": "/djpa.php?lemma=%28ydwn+N",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      },
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "1067",
+        "url": "/showjastrow.php?page=1067"
+      },
+      {
+        "abbreviation": "Levy Ch-W",
+        "fullName": "J. Levy, Chaldäisches Wörterbuch über die Targumim und einen grossen Theil des rabbinischen Schriftthums(London, 1867)",
+        "page": "2:205",
+        "url": "/showlevy.php?page=2:205"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "(dn+N",
+        "url": "oneentry.php?lemma=%28dn+N&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%28ydwn+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%28ydwn+N"
+  },
+  {
+    "id": "+nz_N",
+    "lemmas": [
+      {
+        "cal": "Tnz"
+      },
+      {
+        "cal": "TnzɁ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "binding (??)",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "binding (??)",
+        "dialects": [
+          {
+            "code": "Man",
+            "dnumber": 74,
+            "fullName": "Mandaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "DRaza 118",
+            "sourceExpanded": "Diuan uTafsir DRaza DAbahata",
+            "coordinate": "74429118",
+            "url": "showachapter.php?fullcoord=74429118",
+            "isVariant": false,
+            "text": {
+              "script": "mand",
+              "text": "ʕtlẖ ṭnaza lhalṣẖ badmu himiana hu"
+            },
+            "translation": "he has a T’ for his loins; it is like a belt",
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "See note s.v. ṭnyz adj. and the discussion of Burtea in Die Geheimnisse der Vorväter (Wiesbaden, 2015) p. 98. But compare also s.v.ṭyndys n.m. for a possible etymology."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%2Bnz+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%2Bnz+N"
+  },
+  {
+    "id": "_m_c",
+    "lemmas": [
+      {
+        "cal": "_m"
+      }
+    ],
+    "pos": "conj.",
+    "primaryGloss": "enclitic particle of emphasis",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "enclitic particle of emphasis",
+        "dialects": [
+          {
+            "code": "OAMesop",
+            "dnumber": 11,
+            "fullName": "Old Aramaic-Old Mesopotamian"
+          }
+        ],
+        "citations": [
+          {
+            "source": "Fakh.11",
+            "sourceExpanded": "Bilingual statue from Tell Fakhariyeh = An Aramaic Bibiliography B.2.2",
+            "coordinate": "11200211",
+            "url": "showachapter.php?fullcoord=11200211",
+            "isVariant": false,
+            "text": {
+              "script": "uni",
+              "text": "wšmym | lšm | bh"
+            },
+            "translation": "he must place my name on it"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "This is the \"enclitic mem\" of all other north Semitic dialects, lost from later Aramaic."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=_m+c",
+    "sourceUrl": "oneentry.php?cits=no&lemma=_m+c"
+  },
+  {
+    "id": "[Xlc]_V",
+    "lemmas": [
+      {
+        "cal": "Xlṣ"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to release",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5BXlc%5D+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5BXlc%5D+V"
+  },
+  {
+    "id": "[Xm]_N",
+    "lemmas": [
+      {
+        "cal": "Xm"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "cotton-cloth",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5BXm%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5BXm%5D+N"
+  },
+  {
+    "id": "[+bqh]_N",
+    "lemmas": [
+      {
+        "cal": "Tbqh"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "bird snare",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bbqh%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bbqh%5D+N"
+  },
+  {
+    "id": "[+kty)]_N",
+    "lemmas": [
+      {
+        "cal": "TktyɁ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "beds",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bkty%29%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bkty%29%5D+N"
+  },
+  {
+    "id": "[+wm]_X",
+    "lemmas": [
+      {
+        "cal": "Twm"
+      }
+    ],
+    "pos": "adv.",
+    "primaryGloss": "until",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bwm%5D+X",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bwm%5D+X"
+  },
+  {
+    "id": "[+ly]_V",
+    "lemmas": [
+      {
+        "cal": "Tly"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "smear",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bly%5D+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bly%5D+V"
+  },
+  {
+    "id": "[+yy]_N",
+    "lemmas": [
+      {
+        "cal": "Tyy"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "Tae twigs",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Byy%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Byy%5D+N"
+  },
+  {
+    "id": "[+w(]_N",
+    "lemmas": [
+      {
+        "cal": "Twʕ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "allegiance",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bw%28%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bw%28%5D+N"
+  },
+  {
+    "id": "Pksyn)_N",
+    "lemmas": [
+      {
+        "cal": "PksynɁ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "box tree",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "box tree",
+        "dialects": [
+          {
+            "code": "CPA",
+            "dnumber": 55,
+            "fullName": "Christian Palestinian Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "See also s.v. pyksynwn, pyqsynwn n.m."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=Pksyn%29+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=Pksyn%29+N"
+  },
+  {
+    "id": "Pyr_N",
+    "lemmas": [
+      {
+        "cal": "Pyr"
+      },
+      {
+        "cal": "byr"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "bag",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "bag, purse",
+        "dialects": [
+          {
+            "code": "CPA",
+            "dnumber": 55,
+            "fullName": "Christian Palestinian Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "Lag(341) Luke9:3",
+            "sourceExpanded": "Lagarde, Evangeliarium Hierosolymitanum (=MS A(Vatican) with variants from the collation by Agnes Smith Lewis and M. D. Gibson, The Palestinian Syriac Lectionary of the Gospels (London: 1897.)",
+            "coordinate": "55422055009003341",
+            "url": "showachapter.php?fullcoord=55422055009003341",
+            "isVariant": false,
+            "text": {
+              "script": "psyr",
+              "text": "ܟܘܠ ܠܐ ܬܣ̈ܒܘܢ܃ ܠܐܘܪܚܐ ܠܐ ܚܘܛܪ܃ ܘܠܐ ܧ̈ܝܪ܃ ܘܠܐ ܠܚܡ܃ ܘܠܐ ܟܣܦ"
+            },
+            "translation": "take nothing for the road: not a staff, nor a bag, nor food, nor money"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Greek πήρα."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=Pyr+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=Pyr+N"
+  },
+  {
+    "id": "[+)(]_N",
+    "lemmas": [
+      {
+        "cal": "TɁʕ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "submission",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2B%29%28%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2B%29%28%5D+N"
+  },
+  {
+    "id": "Plwn_N",
+    "lemmas": [
+      {
+        "cal": "Plwn"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "gateway",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "gateway",
+        "dialects": [
+          {
+            "code": "CPA",
+            "dnumber": 55,
+            "fullName": "Christian Palestinian Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Greek πυλών."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=Plwn+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=Plwn+N"
+  },
+  {
+    "id": "wpdnxty_d",
+    "lemmas": [
+      {
+        "cal": "..wpdnḥty"
+      }
+    ],
+    "pos": "div.",
+    "primaryGloss": "(??)",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=wpdnxty+d",
+    "sourceUrl": "oneentry.php?cits=no&lemma=wpdnxty+d"
+  },
+  {
+    "id": "[Xt]_c",
+    "lemmas": [
+      {
+        "cal": "Xt"
+      }
+    ],
+    "pos": "conj.",
+    "primaryGloss": "in order that",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "in order that",
+        "dialects": [
+          {
+            "code": "Man",
+            "dnumber": 74,
+            "fullName": "Mandaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Colloquial Arabic."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Drower/Macuch",
+        "fullName": "E. S. Drower and R. Macuch, A Mandaic Dictionary, (Oxford: Clarendon, 1963)",
+        "page": "NA"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5BXt%5D+c",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5BXt%5D+c"
+  },
+  {
+    "id": "[Xsr]_V",
+    "lemmas": [
+      {
+        "cal": "Xsr"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to lose (in commerce)",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5BXsr%5D+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5BXsr%5D+V"
+  },
+  {
+    "id": "[+wx]_V",
+    "lemmas": [
+      {
+        "cal": "Twḥ"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to throw",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bwx%5D+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bwx%5D+V"
+  },
+  {
+    "id": "[+rb]_V",
+    "lemmas": [
+      {
+        "cal": "Trb"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to play a musical instrument",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Brb%5D+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Brb%5D+V"
+  },
+  {
+    "id": "[Xlq]_V",
+    "lemmas": [
+      {
+        "cal": "Xlq"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to create",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5BXlq%5D+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5BXlq%5D+V"
+  },
+  {
+    "id": "[+yrm)]_N",
+    "lemmas": [
+      {
+        "cal": "TyrmɁ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "first summer month",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Byrm%29%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Byrm%29%5D+N"
+  },
+  {
+    "id": "[+lb]_N",
+    "lemmas": [
+      {
+        "cal": "Tlb"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "seeking",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Blb%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Blb%5D+N"
+  },
+  {
+    "id": "[+br]_N",
+    "lemmas": [
+      {
+        "cal": "Tbr"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "axe",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bbr%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bbr%5D+N"
+  },
+  {
+    "id": "[+ly(]_N",
+    "lemmas": [
+      {
+        "cal": "Tlyʕ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "horoscope",
+    "bracketed": true,
+    "senses": [],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%5B%2Bly%28%5D+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%5B%2Bly%28%5D+N"
+  },
+  {
+    "id": "Pn+yqws+y_N",
+    "lemmas": [
+      {
+        "cal": "Pnṭyqwsṭy"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "Pentecost",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "Pentecost",
+        "dialects": [
+          {
+            "code": "CPA",
+            "dnumber": 55,
+            "fullName": "Christian Palestinian Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "CYR(Catech) 17:13",
+            "sourceExpanded": "C. Müller-Kessler and M. Sokoloff, The Catechism of Cyril of Jerusalem in the Christian Palestinian Aramaic Version, vol. V of A Corpus of Christian Palestianian Aramaic (Styx: Groningen, 1999)",
+            "coordinate": "55405117013",
+            "url": "showachapter.php?fullcoord=55405117013",
+            "isVariant": false,
+            "text": {
+              "script": "psyr",
+              "text": "ܘܒܡܐ ܕܐܬܡܠ&zwj;[&zwj;ܝ&zwj;]&zwj;ܘ ܝܘܡ̈ܝܐ ܕܦܢܛܝܩܘܣܛܝ"
+            }
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=Pn%2Byqws%2By+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=Pn%2Byqws%2By+N"
+  }
+]

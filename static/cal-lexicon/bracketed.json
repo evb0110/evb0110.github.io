@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "+nyz_A",
+    "lemmas": [
+      {
+        "cal": "[ṭnyz]"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "bound",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "bound together",
+        "dialects": [
+          {
+            "code": "Syr",
+            "dnumber": 60,
+            "fullName": "Syriac"
+          },
+          {
+            "code": "Man",
+            "dnumber": 74,
+            "fullName": "Mandaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "MandMB 77:114",
+            "sourceExpanded": "mandaic magic bowl number:",
+            "coordinate": "74701077114",
+            "url": "showachapter.php?fullcoord=74701077114",
+            "isVariant": false,
+            "text": {
+              "script": "mand",
+              "text": "ʕsiratin ukbišatin uhqilatin uṭnizatin"
+            },
+            "translation": "you are bound, supressed, surrounded, and bound together"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "cross-reference",
+        "text": "Apparently an Arabic usage in Syriac, but now attested in a Mandaic magic bowl. In the BarB passage, an attempt to explain the Peshitta at Is 46:1, the Syriac looks more like a simple scribal error for the biblical ܛܥܢ̈ܐ. For a Mandaic example of a v.n. from the same root see s.v. ṭnz n."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "LS2",
+        "fullName": "C. Brockelmann, Lexicon syriacum (Halle, 1928)[outer # is Sokoloff A Syriac Lexicon English translation (Winona Lake & Piscataway, 2009)]",
+        "page": "538[281]",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=281&l=0"
+      },
+      {
+        "abbreviation": "Payne-Smith",
+        "fullName": "R. Payne-Smith, Thesaurus Syriacus, (Oxford: Clarendon, 1879)",
+        "page": "~1488",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=1488&l=1"
+      },
+      {
+        "abbreviation": "BarBahlul",
+        "fullName": "BarBahlul lexicon, ed. Duval",
+        "page": "1406:20",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=701&l=6"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%2Bnyz+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%2Bnyz+A"
+  },
+  {
+    "id": "hrhwn_N",
+    "lemmas": [
+      {
+        "cal": "[hrhwn]"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "urination (?)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "urination or vessel for urination",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Known from the Aruch (see Jastrow), probably to be considered a Hebrew loan from Latin; see Aruch Completum (Vienna, 1878-)')\" onmouseout=\"toolTip()\">Aruch"
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "366",
+        "url": "/showjastrow.php?page=366"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=hrhwn+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=hrhwn+N"
+  },
+  {
+    "id": ")wr_V",
+    "lemmas": [
+      {
+        "cal": "[Ɂwr]"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to shine (??)",
+    "bracketed": true,
+    "stems": [
+      {
+        "code": "G",
+        "name": "pəʕal",
+        "kwicUrl": "/dKWIC.php?lemma=%29wr+V01",
+        "senses": [
+          {
+            "definition": "to shine (?)",
+            "dialects": [
+              {
+                "code": "LJLA",
+                "dnumber": 81,
+                "fullName": "Late Jewish Literary Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "TgProv4:25var.",
+                "sourceExpanded": "Targum Proverbs, as per the edition of L. Diez Merino, Targum de Proverbios, Madrid, 1984, with variants from P. Lagarde, Hagiographia Chaldaice. This is a translation from Syriac! In almost all cases the Lagarde variant is closer to the Syriac and is to be preferred.",
+                "coordinate": "810280425var.",
+                "url": "showachapter.php?fullcoord=810280425var.",
+                "isVariant": true,
+                "text": {
+                  "script": "heb",
+                  "text": "עינך בתריצותא נאורן"
+                },
+                "translationUncertain": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Surely but an error for ḥwr \"to look\" as in the Peshitta."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "32",
+        "url": "/showjastrow.php?page=32"
+      },
+      {
+        "abbreviation": "Levy Ch-W",
+        "fullName": "J. Levy, Chaldäisches Wörterbuch über die Targumim und einen grossen Theil des rabbinischen Schriftthums(London, 1867)",
+        "page": "1:15",
+        "url": "/showlevy.php?page=1:15"
+      }
+    ],
+    "derivatives": [
+      {
+        "lemmas": [
+          "Ɂwrh",
+          "ɁwrtɁ"
+        ],
+        "pos": "n.f.",
+        "gloss": "nightfall",
+        "url": "oneentry.php?lemma=%29wrh+N"
+      },
+      {
+        "lemmas": [
+          "Ɂwryn",
+          "ɁwryɁ"
+        ],
+        "vocalization": "Ɂūrīn, Ɂūrayyā",
+        "pos": "n.m.pl.t",
+        "gloss": "Urim (w. Tummim)",
+        "url": "oneentry.php?lemma=%29wryn+N"
+      },
+      {
+        "lemmas": [
+          "mɁwr"
+        ],
+        "pos": "n.m.",
+        "gloss": "light",
+        "url": "oneentry.php?lemma=m%29wr+N"
+      }
+    ],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%29wr+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%29wr+V"
+  },
+  {
+    "id": "mxt_V",
+    "lemmas": [
+      {
+        "cal": "[mḥt]"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "D to anger (!!)",
+    "bracketed": true,
+    "stems": [
+      {
+        "code": "D",
+        "name": "paʕʕel",
+        "kwicUrl": "/dKWIC.php?lemma=mxt+V02",
+        "senses": [
+          {
+            "definition": "to anger",
+            "dialects": [
+              {
+                "code": "LJLA",
+                "dnumber": 81,
+                "fullName": "Late Jewish Literary Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "TgProv20:2",
+                "sourceExpanded": "Targum Proverbs, as per the edition of L. Diez Merino, Targum de Proverbios, Madrid, 1984, with variants from P. Lagarde, Hagiographia Chaldaice. This is a translation from Syriac! In almost all cases the Lagarde variant is closer to the Syriac and is to be preferred.",
+                "coordinate": "810282002",
+                "url": "showachapter.php?fullcoord=810282002",
+                "isVariant": false,
+                "translationUncertain": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Error by metathesis for ḥmt."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "481",
+        "url": "/showjastrow.php?page=481"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "xmt+V",
+        "url": "oneentry.php?lemma=xmt+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=mxt+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=mxt+V"
+  },
+  {
+    "id": ")ykts_X",
+    "lemmas": [
+      {
+        "cal": "[Ɂykts]"
+      }
+    ],
+    "pos": "adv.",
+    "primaryGloss": "yesterday (?)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "yesterday [?]",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Greek ἐχθές, but a dubious emendation, for which see DJPA. The likelihood of the reading is improved, however, with the parallel with the Greek סמירון in the next line."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "49a",
+        "url": "/djpa.php?lemma=%29ykts+X",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%29ykts+X",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%29ykts+X"
+  },
+  {
+    "id": ")pywsywn_A",
+    "lemmas": [
+      {
+        "cal": "[Ɂpywsywn]"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "daily(?), necessary(?)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "daily(?), necessary(?) [Greek]",
+        "dialects": [
+          {
+            "code": "Syr",
+            "dnumber": 60,
+            "fullName": "Syriac"
+          }
+        ],
+        "citations": [
+          {
+            "source": "Cyr2 299:2",
+            "sourceExpanded": "J. B. Chabot, S. Cyrilli Alexandrini Commentarii in Lucam (CSCO, vols. 70, 140), Paris 1912­",
+            "text": {
+              "script": "syr",
+              "text": "ܥܠ ܗܿܝ ܕܠܚܡܐ ܐܦܝܘܣܝܘܢ ܗܒ ܠܢ ܟܘܠ ܝܘܡ"
+            },
+            "translation": "concerning \"give us each day our daily bread\""
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Greek ἐπιούσιον. The meaning of this unique word in Luke 11:3, not clearly understood either in antiquity or today, is simply transcribed by the translator. It is not a Syriac word."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "LS2",
+        "fullName": "C. Brockelmann, Lexicon syriacum (Halle, 1928)[outer # is Sokoloff A Syriac Lexicon English translation (Winona Lake & Piscataway, 2009)]",
+        "page": "86[40]",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=40&l=0"
+      },
+      {
+        "abbreviation": "Payne-Smith",
+        "fullName": "R. Payne-Smith, Thesaurus Syriacus, (Oxford: Clarendon, 1879)",
+        "page": "~327",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=327&l=1"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%29pywsywn+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%29pywsywn+A"
+  },
+  {
+    "id": "tlbw_N",
+    "lemmas": [
+      {
+        "cal": "[tlbw"
+      },
+      {
+        "cal": "tlbwtɁ]"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "colloquy",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "colloquy",
+        "dialects": [
+          {
+            "code": "Syr",
+            "dnumber": 60,
+            "fullName": "Syriac"
+          }
+        ],
+        "citations": [
+          {
+            "source": "Cast 960",
+            "sourceExpanded": "E. Castellus, Lexicon Syriacum, ed. J.D. Michaelis, Göttingen 1788"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Surely an error."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "LS2",
+        "fullName": "C. Brockelmann, Lexicon syriacum (Halle, 1928)[outer # is Sokoloff A Syriac Lexicon English translation (Winona Lake & Piscataway, 2009)]",
+        "page": "1646[825]",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=825&l=0"
+      },
+      {
+        "abbreviation": "Payne-Smith",
+        "fullName": "R. Payne-Smith, Thesaurus Syriacus, (Oxford: Clarendon, 1879)",
+        "page": "~4437",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=4437&l=1"
+      },
+      {
+        "abbreviation": "J. Payne-Smith",
+        "fullName": "J. Payne-Smith, ed.A Compendious Syriac Dictionary(Oxford Un.Pr., 1902)",
+        "page": "613",
+        "url": "/showjps.php?jpspage=613"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=tlbw+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=tlbw+N"
+  },
+  {
+    "id": "rpyp_A",
+    "lemmas": [
+      {
+        "cal": "[rpyp]"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "fluttering",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "fluttering",
+        "dialects": [
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TgProv26:8",
+            "sourceExpanded": "Targum Proverbs, as per the edition of L. Diez Merino, Targum de Proverbios, Madrid, 1984, with variants from P. Lagarde, Hagiographia Chaldaice. This is a translation from Syriac! In almost all cases the Lagarde variant is closer to the Syriac and is to be preferred.",
+            "coordinate": "810282608",
+            "url": "showachapter.php?fullcoord=810282608",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "היך ניסקא רפיפא/דכיפא/ בקילעא"
+            },
+            "translation": "[MT כִּצְרוֹר אֶבֶן בְּמַרְגֵּמָה]",
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Surely simply an error for דכיפא, \"of stone\"."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "rpp+V",
+        "url": "oneentry.php?lemma=rpp+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=rpyp+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=rpyp+A"
+  },
+  {
+    "id": "zbzh_N",
+    "lemmas": [
+      {
+        "cal": "[zbzh]"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "(??)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "(?)",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "SR[1].37:2(27)",
+            "sourceExpanded": "Shir HaShirim Rabbah",
+            "coordinate": "53107137227",
+            "url": "showachapter.php?fullcoord=53107137227",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "נבז זבזתך"
+            },
+            "translation": "I will plunder your ?",
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Surely not a word."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "171a",
+        "url": "/djpa.php?lemma=zbzh+N",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=zbzh+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=zbzh+N"
+  },
+  {
+    "id": "&ry_N",
+    "lemmas": [
+      {
+        "cal": "[śry]"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "master",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "master",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "KohR[1]29:3(28)",
+            "sourceExpanded": "Kohelet Rabba: cited according to the pagination of the Vilna edition of 1878. M. Hirshman provided source #3 from his edition of Kohelet Rabba, Chapters 1-5.",
+            "coordinate": "53110129328",
+            "url": "showachapter.php?fullcoord=53110129328",
+            "isVariant": false
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "Yet another example of a dubious and overly clever Greek-based innovation by S. Lieberman followed by DJPA. Understand simply \"my officer, i.e., sir\" or \"allow\"."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "572b",
+        "url": "/djpa.php?lemma=%26ry+N",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "&r+N",
+        "url": "oneentry.php?lemma=%26r+N&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26ry+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26ry+N"
+  },
+  {
+    "id": ")wqymw_N",
+    "lemmas": [
+      {
+        "cal": "[Ɂwqymw"
+      },
+      {
+        "cal": "ɁwqymwtɁ]"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "rising up",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "rising up",
+        "dialects": [
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TgPs139:2",
+            "sourceExpanded": "Targum Psalms as per the old Lagarde edition with variants from :L. Dez Merino, Targum de Salmos. Tradicin sefard de Alfonso Zamora. Edicin Prncipe del Ms. Villa-Amil no. 5. Bibliotheca Hispana Biblica 6 (Madrid: Consejo Superior de Investigaciones Cientficas: 1982)",
+            "coordinate": "81002139002",
+            "url": "showachapter.php?fullcoord=81002139002",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "אוקימותי למיזל/למיעל/ בקרבא"
+            },
+            "translation": "my rising up to go into battle",
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "The attested form is a scribal error based on the regular JBA afel of qwm: אוקים"
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "32",
+        "url": "/showjastrow.php?page=32"
+      },
+      {
+        "abbreviation": "Levy Ch-W",
+        "fullName": "J. Levy, Chaldäisches Wörterbuch über die Targumim und einen grossen Theil des rabbinischen Schriftthums(London, 1867)",
+        "page": "1:58",
+        "url": "/showlevy.php?page=1:58"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "qwm+V",
+        "url": "oneentry.php?lemma=qwm+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%29wqymw+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%29wqymw+N"
+  },
+  {
+    "id": "lc(m_N",
+    "lemmas": [
+      {
+        "cal": "[lṣʕm]"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "poison",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "poison",
+        "dialects": [
+          {
+            "code": "Sam",
+            "dnumber": 56,
+            "fullName": "Samaritan Palestinian Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "This unique form, absent from Tal, is probably due to a misreading of the Hebrew לענה."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=lc%28m+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=lc%28m+N"
+  },
+  {
+    "id": "$bxq_V",
+    "lemmas": [
+      {
+        "cal": "[šbḥq]"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "Qt to boast (error!)",
+    "bracketed": true,
+    "stems": [
+      {
+        "code": "quad T",
+        "name": "",
+        "kwicUrl": "/dKWIC.php?lemma=%24bxq+V12",
+        "senses": [
+          {
+            "definition": "to boast",
+            "dialects": [
+              {
+                "code": "LJLA",
+                "dnumber": 81,
+                "fullName": "Late Jewish Literary Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "TgProv25:6",
+                "sourceExpanded": "Targum Proverbs, as per the edition of L. Diez Merino, Targum de Proverbios, Madrid, 1984, with variants from P. Lagarde, Hagiographia Chaldaice. This is a translation from Syriac! In almost all cases the Lagarde variant is closer to the Syriac and is to be preferred.",
+                "coordinate": "810282506",
+                "url": "showachapter.php?fullcoord=810282506",
+                "isVariant": false,
+                "text": {
+                  "script": "heb",
+                  "text": "לא תשתבחק/תשתבהר/ קדם מלכא"
+                },
+                "translationUncertain": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "This is clearly an error for שבהר."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "$bhr+V",
+        "url": "oneentry.php?lemma=%24bhr+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%24bxq+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%24bxq+V"
+  },
+  {
+    "id": ")cyl_A",
+    "lemmas": [
+      {
+        "cal": "[Ɂṣyl]"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "noble (??)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "noble (uncertain)",
+        "dialects": [
+          {
+            "code": "OfAGen",
+            "dnumber": 20,
+            "fullName": "Official Aramaic-General"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "A reconstructed reading based on BH. We read otherwise (TAD C.1.1:143): עם זי ח֗צי[ף] ועזיז מנך ."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "98"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%29cyl+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%29cyl+A"
+  },
+  {
+    "id": "$qmyn_A",
+    "lemmas": [
+      {
+        "cal": "[šqmyn]"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "(??)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "(?)",
+        "dialects": [
+          {
+            "code": "Syr",
+            "dnumber": 60,
+            "fullName": "Syriac"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "etymology",
+        "text": "This hapax at P Lam 1:16, without etymon, is not to be interpreted by using the meaning of the Hebrew as does LS2, along with others. It is simply an Aramaizing transliteration of a Hebrew שׁוֹמֵמִים, with inner Syriac corruption of the second consonant."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "LS2",
+        "fullName": "C. Brockelmann, Lexicon syriacum (Halle, 1928)[outer # is Sokoloff A Syriac Lexicon English translation (Winona Lake & Piscataway, 2009)]",
+        "page": "1598[801]",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=801&l=0"
+      },
+      {
+        "abbreviation": "Payne-Smith",
+        "fullName": "R. Payne-Smith, Thesaurus Syriacus, (Oxford: Clarendon, 1879)",
+        "page": "4293",
+        "url": "http://dukhrana.com/lexicon//lookup.php?p=4293&l=1"
+      },
+      {
+        "abbreviation": "J. Payne-Smith",
+        "fullName": "J. Payne-Smith, ed.A Compendious Syriac Dictionary(Oxford Un.Pr., 1902)",
+        "page": "594",
+        "url": "/showjps.php?jpspage=594"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%24qmyn+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%24qmyn+A"
+  },
+  {
+    "id": "bzyz_N",
+    "lemmas": [
+      {
+        "cal": "[bzyz]"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "censer (??)",
+    "bracketed": true,
+    "senses": [
+      {
+        "definition": "censer (?)",
+        "dialects": [
+          {
+            "code": "PTA",
+            "dnumber": 54,
+            "fullName": "Palestinian Targumic Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TN Ex25:29marg",
+            "sourceExpanded": "Targum Neofiti",
+            "coordinate": "5400122529marg",
+            "url": "showachapter.php?fullcoord=5400122529marg",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "ותעבד פילוותה ובזיכוי/ובזיזוי/ וקשותה ומנקותה"
+            },
+            "translation": "[=MT וְעָשִׂיתָ קְּעָרֹתָיו וְכַפֹּתָיו וּקְשׂוֹתָיו וּמְנַקִּיֹּתָיו]"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Surely an error for bzyk."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=bzyz+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=bzyz+N"
+  },
+  {
+    "id": "rwn_V",
+    "lemmas": [
+      {
+        "cal": "[rwn]"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "Gt to take into consideration (doubtful!)",
+    "bracketed": true,
+    "stems": [
+      {
+        "code": "Gt",
+        "name": "Ɂeṯpəʕel",
+        "kwicUrl": "/dKWIC.php?lemma=rwn+V04",
+        "senses": [
+          {
+            "definition": "to take into consideration (??)",
+            "dialects": [
+              {
+                "code": "Gal",
+                "dnumber": 53,
+                "fullName": "Galilean Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "KohR[1]10:1(13)",
+                "sourceExpanded": "Kohelet Rabba: cited according to the pagination of the Vilna edition of 1878. M. Hirshman provided source #3 from his edition of Kohelet Rabba, Chapters 1-5.",
+                "coordinate": "53110110113",
+                "url": "showachapter.php?fullcoord=53110110113",
+                "isVariant": false,
+                "text": {
+                  "script": "heb",
+                  "text": "כל אינש ואינש לא מת{ד}<ר>ין אלא מבעל אומנותיה"
+                },
+                "translation": "rejecting the emendation, simply: no one may be evaluated properly other than by someone of his own profession"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "This reading is an innovation of S. Lieberman (see DJPA) which, like many such suggestions, is of little merit. The text as written (i.e., from dwn) makes perfectly good sense whether one understands it as \"to be judged\" or \"to be evaluated\"."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "520a",
+        "url": "/djpa.php?lemma=rwn+V",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=rwn+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=rwn+V"
+  },
+  {
+    "id": "cwp_num_2_V",
+    "lemmas": [
+      {
+        "cal": "[ṣwp]"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "Ct to look out",
+    "bracketed": true,
+    "homographNumber": 2,
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "This is an erroneous variant. See s.v. ṣpy."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "460b",
+        "url": "/djpa.php?lemma=cwp%232+V",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=cwp%232+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=cwp%232+V"
+  }
+]

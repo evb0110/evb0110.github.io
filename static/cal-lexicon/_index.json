@@ -1,0 +1,136 @@
+{
+  "letters": [
+    {
+      "letter": "r",
+      "file": "r.json",
+      "count": 1194
+    },
+    {
+      "letter": "het",
+      "file": "het.json",
+      "count": 1870
+    },
+    {
+      "letter": "aleph",
+      "file": "aleph.json",
+      "count": 3142
+    },
+    {
+      "letter": "m",
+      "file": "m.json",
+      "count": 5216
+    },
+    {
+      "letter": "l",
+      "file": "l.json",
+      "count": 744
+    },
+    {
+      "letter": "q",
+      "file": "q.json",
+      "count": 1946
+    },
+    {
+      "letter": "d",
+      "file": "d.json",
+      "count": 1160
+    },
+    {
+      "letter": "h",
+      "file": "h.json",
+      "count": 684
+    },
+    {
+      "letter": "ayin",
+      "file": "ayin.json",
+      "count": 1487
+    },
+    {
+      "letter": "k",
+      "file": "k.json",
+      "count": 1350
+    },
+    {
+      "letter": "t",
+      "file": "t.json",
+      "count": 1177
+    },
+    {
+      "letter": "p",
+      "file": "p.json",
+      "count": 2038
+    },
+    {
+      "letter": "s",
+      "file": "s.json",
+      "count": 1656
+    },
+    {
+      "letter": "tet",
+      "file": "tet.json",
+      "count": 848
+    },
+    {
+      "letter": "b",
+      "file": "b.json",
+      "count": 1990
+    },
+    {
+      "letter": "z",
+      "file": "z.json",
+      "count": 744
+    },
+    {
+      "letter": "g",
+      "file": "g.json",
+      "count": 1415
+    },
+    {
+      "letter": "n",
+      "file": "n.json",
+      "count": 1285
+    },
+    {
+      "letter": "shin",
+      "file": "shin.json",
+      "count": 1810
+    },
+    {
+      "letter": "sin",
+      "file": "sin.json",
+      "count": 16
+    },
+    {
+      "letter": "y",
+      "file": "y.json",
+      "count": 560
+    },
+    {
+      "letter": "w",
+      "file": "w.json",
+      "count": 106
+    },
+    {
+      "letter": "tsade",
+      "file": "tsade.json",
+      "count": 696
+    },
+    {
+      "letter": "reconstructed",
+      "file": "reconstructed.json",
+      "count": 97
+    },
+    {
+      "letter": "other",
+      "file": "other.json",
+      "count": 30
+    },
+    {
+      "letter": "bracketed",
+      "file": "bracketed.json",
+      "count": 18
+    }
+  ],
+  "totalEntries": 33279,
+  "generatedAt": "2025-11-30T19:44:41.844Z"
+}

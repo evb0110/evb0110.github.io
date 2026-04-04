@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "&mlh_N",
+    "lemmas": [
+      {
+        "cal": "śmlh"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "garment",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "garment",
+        "dialects": [
+          {
+            "code": "OfAtranslit",
+            "dnumber": 29,
+            "fullName": "OfAtranslit"
+          }
+        ],
+        "citations": [
+          {
+            "source": "UrukInc 20",
+            "sourceExpanded": "Uruk Incantation in cuneiform script: Bibliography B.2.29",
+            "coordinate": "2970020",
+            "url": "showachapter.php?fullcoord=2970020",
+            "isVariant": false,
+            "text": {
+              "script": "uni",
+              "text": "man—nu la—bi—iš šá—am—lat ru—ga—ze—[e] [ ʕהיʾמן לבש שׂמלת רוגזי]"
+            },
+            "translation": "who is clothed with [or: put on] the cloak of my/his anger"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "See BH שַׂלְמָה, שִּׂמְלָה."
+      }
+    ],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26mlh+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26mlh+N"
+  },
+  {
+    "id": "&(yd_A",
+    "lemmas": [
+      {
+        "cal": "śʕyd"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "helpful",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "helpful, i.e. minor helping deity",
+        "dialects": [
+          {
+            "code": "Palmyrene",
+            "dnumber": 41,
+            "fullName": "Palmyrene"
+          }
+        ],
+        "citations": [
+          {
+            "source": "PAT1677:1.4",
+            "sourceExpanded": "Delbert R. Hillers and Eleonora Cussini, Palmyrene Aramaic Texts, Baltimore, 1996",
+            "coordinate": "412040281004",
+            "url": "showachapter.php?fullcoord=412040281004",
+            "isVariant": false,
+            "text": {
+              "script": "uni",
+              "text": "lgnyʾ šʕyd"
+            },
+            "translation": "for the helping genius",
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1179"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "s(d+V",
+        "url": "oneentry.php?lemma=s%28d+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26%28yd+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26%28yd+A"
+  },
+  {
+    "id": "&gb_V",
+    "lemmas": [
+      {
+        "cal": "śgb"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "to lift high, to lift up",
+    "bracketed": false,
+    "stems": [
+      {
+        "code": "G",
+        "name": "pəʕal",
+        "kwicUrl": "/dKWIC.php?lemma=%26gb+V01",
+        "senses": [
+          {
+            "definition": "to lift high, to raise up",
+            "dialects": [
+              {
+                "code": "OA",
+                "dnumber": 13,
+                "fullName": "Old Aramaic-Syria"
+              },
+              {
+                "code": "LJLA",
+                "dnumber": 81,
+                "fullName": "Late Jewish Literary Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "Sf.1.b32",
+                "sourceExpanded": "Sefire Treaty Text 1 (ca. 750 B.C.E.) = An Aramaic Bibliography B.1.11",
+                "coordinate": "13200222b32",
+                "url": "showachapter.php?fullcoord=13200222b32",
+                "isVariant": false,
+                "text": {
+                  "script": "uni",
+                  "text": "lyʾ]twn bḥylhm lšgb b[y]ty"
+                },
+                "translation": "they must come with their army to restore my dynasty",
+                "translationUncertain": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "name": "paʕʕel",
+        "kwicUrl": "/dKWIC.php?lemma=%26gb+V02",
+        "senses": [
+          {
+            "definition": "to lift high",
+            "dialects": [
+              {
+                "code": "LJLA",
+                "dnumber": 81,
+                "fullName": "Late Jewish Literary Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "TgPs20:2",
+                "sourceExpanded": "Targum Psalms as per the old Lagarde edition with variants from :L. Dez Merino, Targum de Salmos. Tradicin sefard de Alfonso Zamora. Edicin Prncipe del Ms. Villa-Amil no. 5. Bibliotheca Hispana Biblica 6 (Madrid: Consejo Superior de Investigaciones Cientficas: 1982)",
+                "coordinate": "81002020002",
+                "url": "showachapter.php?fullcoord=81002020002",
+                "isVariant": false,
+                "text": {
+                  "script": "heb",
+                  "text": "ביומא דעקא ישגבינך"
+                },
+                "translation": "He shall lift you up high on the day of trouble"
+              },
+              {
+                "source": "TgProv4:6var.",
+                "sourceExpanded": "Targum Proverbs, as per the edition of L. Diez Merino, Targum de Proverbios, Madrid, 1984, with variants from P. Lagarde, Hagiographia Chaldaice. This is a translation from Syriac! In almost all cases the Lagarde variant is closer to the Syriac and is to be preferred.",
+                "coordinate": "810280406var.",
+                "url": "showachapter.php?fullcoord=810280406var.",
+                "isVariant": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Also attested in personal names in the Neo-Assyrian period. The absence of this verb in the middle dialects suggests that the LJLA examples are Hebraisms. The true later Aramaic cognate is zqp; q.v."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "1520",
+        "url": "/showjastrow.php?page=1520"
+      },
+      {
+        "abbreviation": "Levy Ch-W",
+        "fullName": "J. Levy, Chaldäisches Wörterbuch über die Targumim und einen grossen Theil des rabbinischen Schriftthums(London, 1867)",
+        "page": "2:454",
+        "url": "/showlevy.php?page=2:454"
+      },
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1109"
+      }
+    ],
+    "derivatives": [
+      {
+        "lemmas": [
+          "śgb"
+        ],
+        "pos": "n.m.",
+        "gloss": "supporter (?), nobleman (?)",
+        "url": "oneentry.php?lemma=%26gb+N"
+      }
+    ],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26gb+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26gb+V"
+  },
+  {
+    "id": "&kyrw_N",
+    "lemmas": [
+      {
+        "cal": "śkyrw"
+      },
+      {
+        "cal": "śkyrwtɁ"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "rental",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "rental",
+        "dialects": [
+          {
+            "code": "JBA",
+            "dnumber": 71,
+            "fullName": "Jewish Babylonian Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "BT BM 35b(37)",
+            "sourceExpanded": "Babylonian Talmud Tractate; for variants consult DJBA and https://bavli.genizah.org",
+            "coordinate": "7102101035237",
+            "url": "showachapter.php?fullcoord=7102101035237",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "יומי שכירותיה"
+            },
+            "translation": "the days of his rental"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJBA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Babylonian Aramaic. Dictionaries of Talmud , Midrash and Targum III/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002",
+        "page": "1188b",
+        "impliedDialects": [
+          "JBA",
+          "JBAg",
+          "JBAmb"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "skr#2+V",
+        "url": "oneentry.php?lemma=skr%232+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26kyrw+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26kyrw+N"
+  },
+  {
+    "id": "&mxh_N",
+    "lemmas": [
+      {
+        "cal": "śmḥh"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "joy",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "joy",
+        "dialects": [
+          {
+            "code": "Qumran",
+            "dnumber": 44,
+            "fullName": "Qumran"
+          },
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "IVQTQah 1,1:11",
+            "sourceExpanded": "Words of Kohath from Qumran Cave 4",
+            "coordinate": "4441054201111",
+            "url": "showachapter.php?fullcoord=4441054201111",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "חדוא ללוי ושמח<א֗> לי[ע]קוב ודיאץ לישחק ותשבוחא לאברהם"
+            },
+            "translation": "happiness for Levi, joy for Jacob, rejoicing for Isaac and praise for Abraham"
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Cook,Qumran",
+        "fullName": "Dictionary of Qumran Aramaic, E. M. Cook (Eisenbrauns, 2015)",
+        "page": "248"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "&mx+V",
+        "url": "oneentry.php?lemma=%26mx+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26mxh+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26mxh+N"
+  },
+  {
+    "id": "&gb_N",
+    "lemmas": [
+      {
+        "cal": "śgb"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "supporter (?), nobleman (?)",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "supporter (?), nobleman (?)",
+        "dialects": [
+          {
+            "code": "OA",
+            "dnumber": 13,
+            "fullName": "Old Aramaic-Syria"
+          }
+        ],
+        "citations": [
+          {
+            "source": "Sf.3 a14",
+            "sourceExpanded": "Sefire Treaty Text 3 (ca. 750 B.C.E.) = An Aramaic Bibliography B.1.11",
+            "coordinate": "13200224a14",
+            "url": "showachapter.php?fullcoord=13200224a14",
+            "isVariant": false,
+            "text": {
+              "script": "uni",
+              "text": "wšg/rbwh wmwddwh"
+            }
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Others read šrb as a term of relationship; cf. s.v.šrbh n.f. \"family\", an interpretation we prefer. But the verb śgb does appear several times in this text; q.v."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1191"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "&gb+V",
+        "url": "oneentry.php?lemma=%26gb+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26gb+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26gb+N"
+  },
+  {
+    "id": "&dq_A",
+    "lemmas": [
+      {
+        "cal": "śdq"
+      }
+    ],
+    "pos": "adj.",
+    "primaryGloss": "sharp, cutting",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "sharp, cutting",
+        "dialects": [
+          {
+            "code": "OfAEg",
+            "dnumber": 23,
+            "fullName": "Official Aramaic-Egypt"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TAD C1.1(Ahiqar) .84",
+            "sourceExpanded": "B. Porten and Ada Yardeni, Textbook of Aramaic Documents from Ancient Egypt (Eisenbrauns, Winona Lake) 1986 ff.",
+            "coordinate": "236000084",
+            "url": "showachapter.php?fullcoord=236000084",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "שדק ועזיז הו מן סכין פמי֗[ן]"
+            },
+            "translation": "[the king's word] is sharper and stronger than a multi-edged knife"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "See also s.v. sdyq."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1112"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "sdq+V",
+        "url": "oneentry.php?lemma=sdq+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26dq+A",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26dq+A"
+  },
+  {
+    "id": "&yx_num_2_N",
+    "lemmas": [
+      {
+        "cal": "śyḥ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "talk (?)",
+    "bracketed": false,
+    "homographNumber": 2,
+    "senses": [
+      {
+        "definition": "talk (?)",
+        "dialects": [
+          {
+            "code": "JPAEpig",
+            "dnumber": 52,
+            "fullName": "Epigraphic Jewish Palestinian Aramaic"
+          }
+        ],
+        "citations": []
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Or possibly šyḥ \"well,\" since the exemplar is preceded by whispering but followed by \"house\"."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1126"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "swx+V",
+        "url": "oneentry.php?lemma=swx+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26yx%232+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26yx%232+N"
+  },
+  {
+    "id": "&r_N",
+    "lemmas": [
+      {
+        "cal": "śr"
+      },
+      {
+        "cal": "śrɁ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "angel, genius",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "angel, genius",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          },
+          {
+            "code": "Syr",
+            "dnumber": 60,
+            "fullName": "Syriac"
+          },
+          {
+            "code": "JBAmb",
+            "dnumber": 70,
+            "fullName": "Jewish Babylonian Magic Bowl Aramaic"
+          },
+          {
+            "code": "JBA",
+            "dnumber": 71,
+            "fullName": "Jewish Babylonian Aramaic"
+          },
+          {
+            "code": "JBAg",
+            "dnumber": 72,
+            "fullName": "Gaonic Babylonian Aramaic"
+          },
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          },
+          {
+            "code": "LJLAmag",
+            "dnumber": 83,
+            "fullName": "Late Jewish Literary magic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "SR[1].20:3(7)",
+            "sourceExpanded": "Shir HaShirim Rabbah",
+            "coordinate": "53107120307",
+            "url": "showachapter.php?fullcoord=53107120307",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "אפך דמיין לשרך"
+            },
+            "translation": "your face is similar to your angel's"
+          },
+          {
+            "source": "PTSan 25.d",
+            "sourceExpanded": "Palestinian Talmud Tractate:",
+            "coordinate": "533003425d2702",
+            "url": "showachapter.php?fullcoord=533003425d2702",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "שרה דימא"
+            },
+            "translation": "the genius of the sea"
+          },
+          {
+            "source": "JBABowl 63.1:5",
+            "sourceExpanded": "Magic Bowls in Jewish Babylonian script treated in DJBA. For the identification and original publications of the individual bowls see DJBA pp. 62ff.",
+            "coordinate": "70700063105",
+            "url": "showachapter.php?fullcoord=70700063105",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "מיטטרון סרא רבא דמיתקרי אסיה רבא"
+            }
+          },
+          {
+            "source": "BT Git 68b(26)",
+            "sourceExpanded": "Babylonian Talmud Tractate; for variants consult DJBA and https://bavli.genizah.org",
+            "coordinate": "7101801068226",
+            "url": "showachapter.php?fullcoord=7101801068226",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "לדידי לא מסר לי לשר׳ דימא מסר ליה"
+            },
+            "translation": "he did not hand it to me; he handed it to the genius of the sea"
+          },
+          {
+            "source": "TgTosPr Ezek.1:1",
+            "sourceExpanded": "Targumic Toseftot to the Prophets according to the edition of Rimon Kasher, Targumic Toseftot to the Prophets (Jerusalem: World Union of Jewish Studies: 1996)",
+            "coordinate": "8105014010112514",
+            "url": "showachapter.php?fullcoord=8105014010112514",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "מ^י^טטרון ^שׂרא^ רבא דישׂראל"
+            }
+          },
+          {
+            "source": "AmGen 2:1:35",
+            "sourceExpanded": "Amulets from the Cairo Genizah",
+            "coordinate": "8370002135",
+            "url": "showachapter.php?fullcoord=8370002135",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "ה֯א֯ אנא סרא עז֯יז֯א"
+            }
+          }
+        ],
+        "number": "1"
+      },
+      {
+        "definition": "lord",
+        "dialects": [
+          {
+            "code": "Palmyrene",
+            "dnumber": 41,
+            "fullName": "Palmyrene"
+          }
+        ],
+        "citations": [
+          {
+            "source": "PAT2302:1.2",
+            "sourceExpanded": "Delbert R. Hillers and Eleonora Cussini, Palmyrene Aramaic Texts, Baltimore, 1996",
+            "coordinate": "412044331002",
+            "url": "showachapter.php?fullcoord=412044331002",
+            "isVariant": false,
+            "text": {
+              "script": "uni",
+              "text": "šmš šrn rbʾ"
+            },
+            "translation": "Shamash our great lord",
+            "translationUncertain": true
+          }
+        ],
+        "number": "2"
+      },
+      {
+        "definition": "chief, master",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          },
+          {
+            "code": "Sam",
+            "dnumber": 56,
+            "fullName": "Samaritan Palestinian Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "SYAP 33:94",
+            "sourceExpanded": "M. Sokoloff and J. Yahalom, Jewish Palestinian Aramaic Poetry from Late Antiquity (Jerusalem: Israel Academy of Sciences and Humanities, 1999)",
+            "coordinate": "534200330094",
+            "url": "showachapter.php?fullcoord=534200330094",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "מה איתעבד לחד שר דסנאוי לי מסר"
+            },
+            "translation": "what is to be done to any officer who delivers his! enemies to me?"
+          }
+        ],
+        "subNumber": "a"
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Hebraism in the sense of \"angel\" in charge of someone or something, i.e., \"genius\"."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "572b",
+        "url": "/djpa.php?lemma=%26r+N",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      },
+      {
+        "abbreviation": "DJBA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Babylonian Aramaic. Dictionaries of Talmud , Midrash and Targum III/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002",
+        "page": "1190a",
+        "impliedDialects": [
+          "JBA",
+          "JBAg",
+          "JBAmb"
+        ]
+      },
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "1627",
+        "url": "/showjastrow.php?page=1627"
+      },
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1190"
+      }
+    ],
+    "derivatives": [
+      {
+        "lemmas": [
+          "srrw"
+        ],
+        "pos": "n.f.",
+        "gloss": "dominion",
+        "url": "oneentry.php?lemma=srrw%232+N"
+      },
+      {
+        "lemmas": [
+          "[[śry]]"
+        ],
+        "pos": "n.m..",
+        "gloss": "master",
+        "url": "oneentry.php?lemma=%26ry+N"
+      }
+    ],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26r+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26r+N"
+  },
+  {
+    "id": "&rp_num_2_N",
+    "lemmas": [
+      {
+        "cal": "śrp"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "resin of balsam bush",
+    "bracketed": false,
+    "homographNumber": 2,
+    "senses": [
+      {
+        "definition": "שׂרף קטף : balsam resin [BH: צרי]",
+        "dialects": [
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "PJ Gen37:25",
+            "sourceExpanded": "Targum Pseudo-Jonathan to the Pentateuch",
+            "coordinate": "8100113725",
+            "url": "showachapter.php?fullcoord=8100113725",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "וגמליהון טעינין שעוה ושרף קטף ולטום"
+            },
+            "translation": "their camels laden with storax, balsam bush resin, balsam resin, and ladanum"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Note that where the other targumim render biblical צְרִי by קטַף PsJon prepends this word to it."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Jastrow",
+        "fullName": "M. Jastrow, Dictionary of the Targumim, Talmud Babli, Yerushalmi and Midrashic Literature, (London and New York: 1903)",
+        "page": "1633",
+        "url": "/showjastrow.php?page=1633"
+      },
+      {
+        "abbreviation": "Levy Ch-W",
+        "fullName": "J. Levy, Chaldäisches Wörterbuch über die Targumim und einen grossen Theil des rabbinischen Schriftthums(London, 1867)",
+        "page": "2:519",
+        "url": "/showlevy.php?page=2:519"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26rp%232+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26rp%232+N"
+  },
+  {
+    "id": "&mx_V",
+    "lemmas": [
+      {
+        "cal": "śmḥ"
+      }
+    ],
+    "pos": "vb.",
+    "primaryGloss": "D to make glad",
+    "bracketed": false,
+    "stems": [
+      {
+        "code": "G",
+        "name": "pəʕal",
+        "kwicUrl": "/dKWIC.php?lemma=%26mx+V01",
+        "senses": [
+          {
+            "definition": "to be glad (?)",
+            "dialects": [
+              {
+                "code": "Qumran",
+                "dnumber": 44,
+                "fullName": "Qumran"
+              }
+            ],
+            "citations": [
+              {
+                "source": "IVQEnc5.1.20",
+                "sourceExpanded": "4Q Enoch",
+                "coordinate": "4440320450120",
+                "url": "showachapter.php?fullcoord=4440320450120",
+                "isVariant": false,
+                "text": {
+                  "script": "heb",
+                  "text": "٠٠٠ ו]ישמחון כ֗[ול"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "name": "paʕʕel",
+        "kwicUrl": "/dKWIC.php?lemma=%26mx+V02",
+        "senses": [
+          {
+            "definition": "to make glad",
+            "dialects": [
+              {
+                "code": "JBA",
+                "dnumber": 71,
+                "fullName": "Jewish Babylonian Aramaic"
+              },
+              {
+                "code": "LJLA",
+                "dnumber": 81,
+                "fullName": "Late Jewish Literary Aramaic"
+              }
+            ],
+            "citations": [
+              {
+                "source": "BT Ber 35b(47)",
+                "sourceExpanded": "Babylonian Talmud Tractate; for variants consult DJBA and https://bavli.genizah.org",
+                "coordinate": "7100101035247",
+                "url": "showachapter.php?fullcoord=7100101035247",
+                "isVariant": false,
+                "text": {
+                  "script": "heb",
+                  "text": "חמרא סעיד ומשמח לחמא סעיד מיסעד שמוחי לא משמח"
+                },
+                "translation": "wine provides sustenance and makes one happy; bread does provide sustenance but does not really make one happy"
+              },
+              {
+                "source": "TgPs90:15",
+                "sourceExpanded": "Targum Psalms as per the old Lagarde edition with variants from :L. Dez Merino, Targum de Salmos. Tradicin sefard de Alfonso Zamora. Edicin Prncipe del Ms. Villa-Amil no. 5. Bibliotheca Hispana Biblica 6 (Madrid: Consejo Superior de Investigaciones Cientficas: 1982)",
+                "coordinate": "81002090015",
+                "url": "showachapter.php?fullcoord=81002090015",
+                "isVariant": false,
+                "text": {
+                  "script": "heb",
+                  "text": "שמח יתנא היך יומין דסגיפתנא"
+                },
+                "translation": "[=MT שַׂמְּחֵנוּ כִּימוֹת עִנִּיתָנוּ]"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "senses": [],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Hebraism."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJBA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Babylonian Aramaic. Dictionaries of Talmud , Midrash and Targum III/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002",
+        "page": "1189a",
+        "impliedDialects": [
+          "JBA",
+          "JBAg",
+          "JBAmb"
+        ]
+      },
+      {
+        "abbreviation": "Cook,Qumran",
+        "fullName": "Dictionary of Qumran Aramaic, E. M. Cook (Eisenbrauns, 2015)",
+        "page": "248"
+      }
+    ],
+    "derivatives": [
+      {
+        "lemmas": [
+          "śmḥh"
+        ],
+        "pos": "n.f.",
+        "gloss": "joy",
+        "url": "oneentry.php?lemma=%26mxh+N"
+      }
+    ],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26mx+V",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26mx+V"
+  },
+  {
+    "id": "&yx_N",
+    "lemmas": [
+      {
+        "cal": "śyḥ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "bush, growth",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "bush, growth",
+        "dialects": [
+          {
+            "code": "Qumran",
+            "dnumber": 44,
+            "fullName": "Qumran"
+          }
+        ],
+        "citations": [
+          {
+            "source": "IVQ588.33:2.4",
+            "sourceExpanded": "Qumran Cave 4 text",
+            "coordinate": "44414033204",
+            "url": "showachapter.php?fullcoord=44414033204",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "שיחוהי מתקצצי֗ן֗"
+            },
+            "translation": "its shrubbery was being pruned",
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "BH שִׂיחַ. See also s.v. syḥ."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "Cook,Qumran",
+        "fullName": "Dictionary of Qumran Aramaic, E. M. Cook (Eisenbrauns, 2015)",
+        "page": "248"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26yx+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26yx+N"
+  },
+  {
+    "id": "&r++_N",
+    "lemmas": [
+      {
+        "cal": "śrṭṭ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "a garment",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "a garment",
+        "dialects": [
+          {
+            "code": "Gal",
+            "dnumber": 53,
+            "fullName": "Galilean Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "PTŠab 8.b",
+            "sourceExpanded": "Palestinian Talmud Tractate:",
+            "coordinate": "533001208b4702",
+            "url": "showachapter.php?fullcoord=533001208b4702",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "שלטוניה/שרטטיא"
+            },
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "572b",
+        "url": "/djpa.php?lemma=%26r%2B%2B+N",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26r%2B%2B+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26r%2B%2B+N"
+  },
+  {
+    "id": "&rxw_N",
+    "lemmas": [
+      {
+        "cal": "śrḥw"
+      },
+      {
+        "cal": "śrḥwtɁ"
+      }
+    ],
+    "pos": "n.f.",
+    "primaryGloss": "rottenness",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "disrespect or the like",
+        "dialects": [
+          {
+            "code": "OfAEg",
+            "dnumber": 23,
+            "fullName": "Official Aramaic-Egypt"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TAD C1.1(Ahiqar) .180",
+            "sourceExpanded": "B. Porten and Ada Yardeni, Textbook of Aramaic Documents from Ancient Egypt (Eisenbrauns, Winona Lake) 1986 ff.",
+            "coordinate": "236000180",
+            "url": "showachapter.php?fullcoord=236000180",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "שם אבוהי וזרעה בשם שרחות[א"
+            }
+          }
+        ],
+        "number": "2"
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DNWSI",
+        "fullName": "J. Hoftijzer and K. Jongeling, Dictionary of the North-West Semitic Inscriptions(E.J. Brill, 1995)",
+        "page": "1192"
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [
+      {
+        "lemma": "srx+V",
+        "url": "oneentry.php?lemma=srx+V&cits=all",
+        "isPrimary": true
+      }
+    ],
+    "kwicUrl": "/dKWIC.php?lemma=%26rxw+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26rxw+N"
+  },
+  {
+    "id": "&(yr_N",
+    "lemmas": [
+      {
+        "cal": "śʕyr"
+      },
+      {
+        "cal": "śʕyrɁ"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "goat",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "goat [Heb.]",
+        "dialects": [
+          {
+            "code": "PTA",
+            "dnumber": 54,
+            "fullName": "Palestinian Targumic Aramaic"
+          },
+          {
+            "code": "Sam",
+            "dnumber": 56,
+            "fullName": "Samaritan Palestinian Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TNM Lev10:16",
+            "sourceExpanded": "Targum Neofiti Marginalia",
+            "coordinate": "54003M31016",
+            "url": "showachapter.php?fullcoord=54003M31016",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "שעירה דחטא׳"
+            },
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "type": "general",
+        "text": "Hebraism."
+      }
+    ],
+    "dictionaryRefs": [
+      {
+        "abbreviation": "DJPA",
+        "fullName": "M. Sokoloff, A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period. 2nd Ed. Dictionaries of Talmud , Midrash and Targum II/ Publications of The Comprehensive Aramaic Lexicon Project. Bar Ilan University Press: Ramat-Gan, Israel/The Johns Hopkins University Press: Baltimore and London, 2002. Pagination of the third, revised edition (2017) may be slightly different.",
+        "page": "571b",
+        "url": "/djpa.php?lemma=%26%28yr+N",
+        "impliedDialects": [
+          "Gal",
+          "PTA",
+          "JLAtg",
+          "Jud",
+          "JPAEpig"
+        ]
+      }
+    ],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26%28yr+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26%28yr+N"
+  },
+  {
+    "id": "&&wn_N",
+    "lemmas": [
+      {
+        "cal": "śśwn"
+      }
+    ],
+    "pos": "n.m.",
+    "primaryGloss": "gladness",
+    "bracketed": false,
+    "senses": [
+      {
+        "definition": "gladness [Heb.]",
+        "dialects": [
+          {
+            "code": "LJLA",
+            "dnumber": 81,
+            "fullName": "Late Jewish Literary Aramaic"
+          }
+        ],
+        "citations": [
+          {
+            "source": "TgEsth2 7:10(24)",
+            "sourceExpanded": "Targum Esther II, as per B. Grossfeld, The Targum Sheni to the Book of Esther: A critical edition based on MS. Sassoon 282 with critical apparatus (New York,Sepher-Hermon: 1994)",
+            "coordinate": "810190710024",
+            "url": "showachapter.php?fullcoord=810190710024",
+            "isVariant": false,
+            "text": {
+              "script": "heb",
+              "text": "ששון ושמחה ^באבדלתא ובהלולא ובמהולתא"
+            },
+            "translationUncertain": true
+          }
+        ]
+      }
+    ],
+    "notes": [],
+    "dictionaryRefs": [],
+    "derivatives": [],
+    "baseLemmas": [],
+    "kwicUrl": "/dKWIC.php?lemma=%26%26wn+N",
+    "sourceUrl": "oneentry.php?cits=no&lemma=%26%26wn+N"
+  }
+]
